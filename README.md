@@ -2,5 +2,5 @@
   <h1>
     bwbl
   </h1> 
-  <a href="https://bwbl.me"><img src="banner.png" title="test"></a>
+  <a href="https://bwbl.me"><img src="banner.png" title="test" height="300"></a>
 </div>
