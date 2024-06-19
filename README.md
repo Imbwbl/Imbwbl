@@ -1,7 +1,5 @@
 <div align="center">
-  <h1>
-    bwbl
-  </h1> 
-  <a href="https://bwbl.me"><img src="banner.png" title="test" height="300"></a>
-  <p>im super interest :3</p>
+  <h1>bwbl</h1> 
+  <img src="bochilisening.gif" title="banner" height="300">
+  <p>listen to <a href="https://last.fm/user/bwbl">music</a>.</p>
 </div>
