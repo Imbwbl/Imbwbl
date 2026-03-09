@@ -1,18 +1,21 @@
-import fs from "fs";
-import type { LastFmResponse } from "./types";
+import { file, write } from "bun";
+import { format_string as f } from "./format.ts";
 
-async function updateReadme() {
-  const data = await fetch("https://t2006api-gaming.theking90000.be/");
+const index = file("index.md");
 
-  const tracks = (await data.json()) as LastFmResponse[];
+let music = async () => {
+  const response = await fetch("https://t2006api-gaming.theking90000.be/");
+  const data: any = await response.json();
 
-  if (tracks.length === 0) return;
+  let tracks = data["recenttracks"]["track"];
 
-  const latest = tracks[0];
+  tracks.map((track: any) => {
+    let name = track["name"];
+    let artist = track["artist"]["#text"];
+    let album = track["album"]["#text"];
+    console.log(f(`-------\n{}\n{}\n{}\n-------`, name, artist, album));
+  });
+};
 
-  const artistName = latest.artist["#text"];
-
-  const songTitle = latest.name;
-
-  const render = "Listening ${songTitle}/n From ${artistName}";
-}
+music();
+await write(index, "");
