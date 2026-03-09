@@ -13,7 +13,16 @@ let music = async () => {
     let name = track["name"];
     let artist = track["artist"]["#text"];
     let album = track["album"]["#text"];
-    console.log(f(`-------\n{}\n{}\n{}\n-------`, name, artist, album));
+    let width = 50;
+    console.log(
+      f(
+        `╭{:─>${width}}╮\n│{: ^${width}}│\n│{: ^${width}}│\n╰{:─>${width}}╯`,
+        "",
+        `${name}: ${artist}`,
+        `Album: ${album}`,
+        "",
+      ),
+    );
   });
 };
 
