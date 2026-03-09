@@ -1,18 +1,21 @@
-import {file, write} from 'bun';
-import get from 'axios'
+import { file, write } from "bun";
+import { format_string as f } from "./format.ts";
 
-const index = file('index.md')
-const writer = index.writer();
-const req = await get('https://t2006api-gaming.theking90000.be/')
+const index = file("index.md");
 
-let tracks = req.data['recenttracks']['track']
+let music = async () => {
+  const response = await fetch("https://t2006api-gaming.theking90000.be/");
+  const data: any = await response.json();
 
-for (let track of tracks) {
-    writer.write('-------------\n')
-    writer.write(`${track['name']}\n`)
-    writer.write(`${track['artist']['#text']}\n`)
-    writer.write(`${track['album']['#text']}\n`)
-    writer.write('-------------\n')
-}
+  let tracks = data["recenttracks"]["track"];
 
-writer.write('test')
+  tracks.map((track: any) => {
+    let name = track["name"];
+    let artist = track["artist"]["#text"];
+    let album = track["album"]["#text"];
+    console.log(f(`-------\n{}\n{}\n{}\n-------`, name, artist, album));
+  });
+};
+
+music();
+await write(index, "");
