@@ -1,18 +1,18 @@
-import {file, write} from 'bun';
-import get from 'axios'
+import fs from "fs";
+import type { LastFmResponse } from "./types";
 
-const index = file('index.md')
-const writer = index.writer();
-const req = await get('https://t2006api-gaming.theking90000.be/')
+async function updateReadme() {
+  const data = await fetch("https://t2006api-gaming.theking90000.be/");
 
-let tracks = req.data['recenttracks']['track']
+  const tracks = (await data.json()) as LastFmResponse[];
 
-for (let track of tracks) {
-    writer.write('-------------\n')
-    writer.write(`${track['name']}\n`)
-    writer.write(`${track['artist']['#text']}\n`)
-    writer.write(`${track['album']['#text']}\n`)
-    writer.write('-------------\n')
+  if (tracks.length === 0) return;
+
+  const latest = tracks[0];
+
+  const artistName = latest.artist["#text"];
+
+  const songTitle = latest.name;
+
+  const render = "Listening ${songTitle}/n From ${artistName}";
 }
-
-writer.write('test')
