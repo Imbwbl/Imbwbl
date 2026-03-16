@@ -28,6 +28,9 @@ jobs:
 
                         - name: Generate Content
                           run: bun run index.ts
+                          env:
+                                  LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+                                  LASTFM_USER: ${{ secrets.LASTFM_USER }}
 
                         - name: Commit and Push Changes
                           uses: stefanzweifel/git-auto-commit-action@v5
