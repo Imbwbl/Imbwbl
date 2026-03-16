@@ -71,7 +71,7 @@ let music = async () => {
 
 figlet.defaults({ fontPath: "./" });
 let title = await figlet.text("BWBL", {
-        font: "invita",
+        font: "Invita",
 });
 let musics = await music();
 
