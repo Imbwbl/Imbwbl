@@ -34,5 +34,5 @@ jobs:
                           with:
                                   commit_message: "chore: updated music activity in README"
                                   # Ensure this matches the filename your index.ts is writing to
-                                  file_pattern: "index.md"
+                                  file_pattern: "README.txt"
                                   repository: .
