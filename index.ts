@@ -69,6 +69,7 @@ let music = async () => {
         return boxes;
 };
 
+figlet.defaults({ fontPath: "./" });
 let title = await figlet.text("BWBL", {
         font: "invita",
 });
