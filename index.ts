@@ -3,7 +3,7 @@ import { format_string as f } from "./format.ts";
 import figlet from "figlet";
 import type { LastFmResponse, Track } from "./types.ts";
 
-const index = file("index.md");
+const index = file("README.txt");
 
 class Box {
         private width: number;
