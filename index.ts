@@ -42,10 +42,13 @@ class Box {
         }
 }
 let music = async () => {
-        const response = await fetch(
-                "https://t2006api-gaming.theking90000.be/",
-        );
+        const apiKey = process.env.LASTFM_API_KEY;
+        const user = process.env.LASTFM_USER;
+        const url = `https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user=${user}&api_key=${apiKey}&format=json&limit=3`;
+
+        const response = await fetch(url);
         const data = (await response.json()) as LastFmResponse;
+        console.log(apiKey, data);
         const tracks = data["recenttracks"]["track"].slice(0, 3);
 
         const boxes = tracks
