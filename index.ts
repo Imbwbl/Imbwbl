@@ -48,7 +48,7 @@ let music = async () => {
 
         const response = await fetch(url);
         const data = (await response.json()) as LastFmResponse;
-        console.log(apiKey, data);
+
         const tracks = data["recenttracks"]["track"].slice(0, 3);
 
         const boxes = tracks
