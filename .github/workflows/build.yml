@@ -1,35 +1,40 @@
-name: Build
+name: Update Auto-README
 
 on:
-        push:
-                branches: [main]
-        schedule:
-                - cron: "0 * * * *"
-        workflow_dispatch:
+  push:
+    branches: [main]
+  schedule:
+    # Runs every hour
+    - cron: "0 * * * *"
+  workflow_dispatch: # Allows manual triggering
 
 jobs:
-        build:
-                runs-on: ubuntu-latest
-                permissions:
-                        contents: write
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
-                steps:
-                        - name: Checkout
-                          uses: actions/checkout@v4
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-                        - name: Setup Bun
-                          uses: oven-sh/setup-bun@v2
-                          with:
-                                  bun-version: latest
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
 
-                        - name: Install dependencies
-                          run: bun install --frozen-lockfile
+      - name: Install Dependencies
+        # Using --frozen-lockfile ensures consistency with your bun.lock
+        [cite_start]run: bun install --frozen-lockfile [cite: 1]
 
-                        - name: Run index
-                          run: bun index.ts
+      - name: Generate Content
+        # This executes your index.ts which fetches music and writes the file
+        [cite_start]run: bun run index.ts [cite: 6]
 
-                        - name: Commit changes
-                          uses: stefanzweifel/git-auto-commit-action@v5
-                          with:
-                                  commit_message: "updated readme"
-                                  repository: .
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: updated music activity in README"
+          # Ensure this matches the filename your index.ts is writing to
+          file_pattern: 'index.md'
+          repository: .
