@@ -66,13 +66,16 @@ let music = async () => {
                         return new Box(lines, "music", 5).render();
                 })
                 .join("\n");
-
-        console.log(boxes);
+        return boxes;
 };
-console.log(
-        await figlet.text("BWBL", {
-                font: "invita",
-        }),
-);
-music();
-await write(index, "");
+
+let title = await figlet.text("BWBL", {
+        font: "invita",
+});
+let musics = await music();
+
+let final = [title, musics].join("\n");
+
+console.log(final);
+
+await write(index, final);
