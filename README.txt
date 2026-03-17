@@ -7,21 +7,21 @@
 ╭───────────────────╮
 │      music      x │
 ├───────────────────┤
-│  Title: O.D       │
-│  Artist: Nekfeu   │
-│  Album: Cyborg    │
+│  Title: Night     │
+│  Artist: Orrage   │
+│  Album: Night     │
 ╰───────────────────╯
-╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: Inachevés            │
-│  Artist: Casseurs Flowters   │
-│  Album: Comment c'est loin   │
-╰──────────────────────────────╯
-╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Dans le vide   │
-│  Artist: Josman        │
-│  Album: Matrix         │
-╰────────────────────────╯
+╭─────────────────────────────────────╮
+│               music               x │
+├─────────────────────────────────────┤
+│  Title: True Romance                │
+│  Artist: Zuukou Mayzie              │
+│  Album: Le film : Le commencement   │
+╰─────────────────────────────────────╯
+╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: C'est tout    │
+│  Artist: Guizmo       │
+│  Album: C'est tout.   │
+╰───────────────────────╯
