@@ -4,24 +4,24 @@
  ) / ____)     |/ |/    ) / ____)    /       
 (_/ (          /  |    (_/ (        (_____   
                                            ) 
-╭─────────────────────────────────────────╮
-│                 music                 x │
-├─────────────────────────────────────────┤
-│  Title: AZNVR - Une minute de musique   │
-│  Artist: Luv Resval                     │
-│  Album: Mustafar                        │
-╰─────────────────────────────────────────╯
+╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: Sales babtous d'négros   │
+│  Artist: Guizmo                  │
+│  Album: Normal                   │
+╰──────────────────────────────────╯
+╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Humanoïde   │
+│  Artist: Nekfeu     │
+│  Album: Cyborg      │
+╰─────────────────────╯
 ╭───────────────────╮
 │      music      x │
 ├───────────────────┤
-│  Title: Normal    │
-│  Artist: Guizmo   │
-│  Album: Normal    │
+│  Title: LESSGUI   │
+│  Artist: Luther   │
+│  Album: GARÇON    │
 ╰───────────────────╯
-╭──────────────────────────────────────────────╮
-│                   music                    x │
-├──────────────────────────────────────────────┤
-│  Title: L'air du temps                       │
-│  Artist: Nekfeu                              │
-│  Album: Les étoiles vagabondes : expansion   │
-╰──────────────────────────────────────────────╯
