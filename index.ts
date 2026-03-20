@@ -72,7 +72,7 @@ figlet.defaults({ fontPath: "./" });
 let title = await figlet.text("BWBL", {
   font: "Invita",
 });
-title = `<p align="center">\n<pre>\n${title}\n</pre>\n</p>`;
+title = `<pre>\n${title}\n</pre>`;
 
 let musics = await music();
 //musics = "<pre>\n" + musics + "\n</pre>";
