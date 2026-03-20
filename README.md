@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e9a009aa75f5f5bd2d72ee934c313066.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────╮
-│                   music                    x │
-├──────────────────────────────────────────────┤
-│  Title: STUNTMEN (feat. Alpha Wann & Wit.)   │
-│  Artist: Laylow                              │
-│  Album: L'Étrange Histoire de Mr.Anderson    │
-╰──────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9ea9931e129bb5efd3606866901855b5.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: Just         │
+│  Artist: Radiohead   │
+│  Album: The Bends    │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────╮
-│               music                x │
-├──────────────────────────────────────┤
-│  Title: XX FILES                     │
-│  Artist: Jungle Jack                 │
-│  Album: JUNGLE DES ILLUSIONS VOL 2   │
-╰──────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/80f256e56b1043cdbb99da3ac4dd69a0.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Hard to Explain   │
+│  Artist: The Strokes      │
+│  Album: Is This It        │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/62e4b5e3a6bcaba85336d8cfc6147602.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: Rap catéchisme     │
-│  Artist: Freeze Corleone   │
-│  Album: LMF                │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7b977d52186a6dfd553bcde6e220caec.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────╮
+│            music            x │
+├───────────────────────────────┤
+│  Title: Insane in the Brain   │
+│  Artist: Cypress Hill         │
+│  Album: Black Sunday          │
+╰───────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
