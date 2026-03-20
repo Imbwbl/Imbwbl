@@ -72,7 +72,15 @@ figlet.defaults({ fontPath: "./" });
 let title = await figlet.text("BWBL", {
   font: "Invita",
 });
-title = `<pre>\n${title}\n</pre>`;
+
+//title = `<pre>\n${title}\n</pre>`;
+const redTitle = title
+    .split("\n")
+    .map(line => `@@ ${line} @@`) 
+    .join("\n");
+
+title = "```diff\n" + redTitle + "\n```";
+
 
 let musics = await music();
 //musics = "<pre>\n" + musics + "\n</pre>";
