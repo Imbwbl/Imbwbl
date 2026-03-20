@@ -1,9 +1,10 @@
 import { file, write } from "bun";
 import { format_string as f } from "./format.ts";
 import figlet from "figlet";
-import type { LastFmResponse, Track } from "./types.ts";
+import { simplifyTracks, type LastFmResponse, type Track } from "./types.ts";
 
 const index = file("README.md");
+const css = file ("style.css")
 
 class Box {
   private width: number;
@@ -46,18 +47,24 @@ let music = async () => {
   const response = await fetch(url);
   const data = (await response.json()) as LastFmResponse;
 
-  const tracks = data["recenttracks"]["track"].slice(0, 3);
-
+  //const tracks = data["recenttracks"]["track"].slice(0, 3);
+  const tracks = simplifyTracks(data)
   const boxes = tracks
     .map((track) => {
-      let name = `Title: ${track["name"]}`;
-      let artist = `Artist: ${track["artist"]["#text"]}`;
-      let album = `Album: ${track["album"]["#text"]}`;
-
+      let name = `Title: ${track.song}`;
+      let artist = `Artist: ${track.artist}`;
+      let album = `Album: ${track.album}`;
+      let cover = `<img style="border-radius: 10px;" src="${track.image}"/>`;
       const width = Math.max(name.length, artist.length, album.length);
 
       let lines = [name, artist, album].map((s) => s.padEnd(width, " "));
-      return new Box(lines, "music", 5).render();
+      return `
+<table>
+  <tr>
+    <td valign="center">${cover}</td>
+    <td valign="center"><pre>${new Box(lines, "music", 5).render()}</pre></td>
+  </tr>
+</table>`;
     })
     .join("\n");
   return boxes;
@@ -67,9 +74,13 @@ figlet.defaults({ fontPath: "./" });
 let title = await figlet.text("BWBL", {
   font: "Invita",
 });
-let musics = await music();
+title = "<pre class='title'>\n" + title + "\n</pre>";
 
-let final = "```\n" + [title, musics].join("\n") + "\n```";
+let musics = await music();
+//musics = "<pre>\n" + musics + "\n</pre>";
+
+let finalCss = "<style>\n" + await css.text() + "\n</style>"; 
+let final = [title, musics, finalCss].join("\n");
 
 console.log(final);
 
