@@ -5,25 +5,25 @@
  ) / ____)     |/ |/    ) / ____)    /       
 (_/ (          /  |    (_/ (        (_____   
                                            ) 
-╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Garçon     │
-│  Artist: Dalí      │
-│  Album: Magazine   │
-╰────────────────────╯
+╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: ma chérie ~愛しい君へ~   │
+│  Artist: Malace Mizer       │
+│  Album: ma chérie           │
+╰─────────────────────────────╯
 ╭──────────────────────────────╮
 │           music            x │
 ├──────────────────────────────┤
-│  Title: Si facile            │
-│  Artist: Casseurs Flowters   │
-│  Album: Comment c'est loin   │
+│  Title: Premier Amour        │
+│  Artist: Malace Mizer        │
+│  Album: Voyage Sans Retour   │
 ╰──────────────────────────────╯
-╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Stalker       │
-│  Artist: Jazzy Bazz   │
-│  Album: Nuit          │
-╰───────────────────────╯
+╭──────────────────╮
+│     music      x │
+├──────────────────┤
+│  Title: Allo     │
+│  Artist: Balti   │
+│  Album: Allo     │
+╰──────────────────╯
 ```
