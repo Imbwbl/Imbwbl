@@ -58,12 +58,11 @@ let music = async () => {
 
       let lines = [name, artist, album].map((s) => s.padEnd(width, " "));
       return `
-<table>
-  <tr>
-    <td valign="center">${cover}</td>
-    <td valign="center"><pre>${new Box(lines, "music", 5).render()}</pre></td>
-  </tr>
-</table>`;
+<div align="left">
+  <img src="${track.image}" heigth="100%" align="left" />
+  <pre>${new Box(lines, "music", 5).render()}</pre>
+</div>
+<br clear="left"/>`
     })
     .join("\n");
   return boxes;
@@ -73,7 +72,7 @@ figlet.defaults({ fontPath: "./" });
 let title = await figlet.text("BWBL", {
   font: "Invita",
 });
-title = "<pre style='text-align: center; color: red;'>\n" + title + "\n</pre>";
+title = `<p align="center">\n<pre>\n${title}\n</pre>\n</p>`;
 
 let musics = await music();
 //musics = "<pre>\n" + musics + "\n</pre>";
