@@ -1,4 +1,4 @@
-<pre style='text-align: center; color: CanvasText;'>
+<pre style='text-align: center; color: red;'>
    ______    __       __) ______        _    
   (, /    ) (, )  |  /   (, /    )  ___/__)  
     /---(      | /| /      /---(   (, /      
