@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/826cd46695ae445ca9db6ca7d694cdc0.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: Burning Pile     │
-│  Artist: Mother Mother   │
-│  Album: O My Heart       │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f8b772fdce8284a7c20cc254c7b32796.png" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Dumb       │
+│  Artist: Nirvana   │
+│  Album: In Utero   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0045696d4af535cdff923d4f5b257d94.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7ea7fc276a18b00cfbe3c87c03a45607.png" heigth="100%" align="left" />
   <pre>╭───────────────────────────────────────────╮
 │                  music                  x │
 ├───────────────────────────────────────────┤
-│  Title: Fade To Black - Remastered        │
-│  Artist: Metallica                        │
-│  Album: Ride The Lightning (Remastered)   │
+│  Title: People = Shit                     │
+│  Artist: Slipknot                         │
+│  Album: Iowa (10th Anniversary Edition)   │
 ╰───────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6b13b3feae253eb8f378f54b1bb5b7e9.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────╮
-│                   music                    x │
-├──────────────────────────────────────────────┤
-│  Title: Compte les hommes                    │
-│  Artist: Nekfeu                              │
-│  Album: Les étoiles vagabondes : expansion   │
-╰──────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/db0fbd5c1f3532682c5f3798cd330c92.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: Blackened                │
+│  Artist: Metallica               │
+│  Album: ...and Justice for All   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
