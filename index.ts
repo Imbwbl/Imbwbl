@@ -47,7 +47,7 @@ let music = async () => {
   const data = (await response.json()) as LastFmResponse;
 
   //const tracks = data["recenttracks"]["track"].slice(0, 3);
-  const tracks = simplifyTracks(data)
+  const tracks = simplifyTracks(data).slice(0, 3);
   const boxes = tracks
     .map((track) => {
       let name = `Title: ${track.song}`;
@@ -62,7 +62,7 @@ let music = async () => {
   <img src="${track.image}" heigth="100%" align="left" />
   <pre>${new Box(lines, "music", 5).render()}</pre>
 </div>
-<br clear="left"/>`
+<br clear="left"/>`;
     })
     .join("\n");
   return boxes;
@@ -75,12 +75,11 @@ let title = await figlet.text("BWBL", {
 
 //title = `<pre>\n${title}\n</pre>`;
 const redTitle = title
-    .split("\n")
-    .map(line => `@@ ${line} @@`) 
-    .join("\n");
+  .split("\n")
+  .map((line) => `@@ ${line} @@`)
+  .join("\n");
 
 title = "```diff\n" + redTitle + "\n```";
-
 
 let musics = await music();
 //musics = "<pre>\n" + musics + "\n</pre>";
