@@ -4,7 +4,6 @@ import figlet from "figlet";
 import { simplifyTracks, type LastFmResponse, type Track } from "./types.ts";
 
 const index = file("README.md");
-const css = file ("style.css")
 
 class Box {
   private width: number;
@@ -74,13 +73,12 @@ figlet.defaults({ fontPath: "./" });
 let title = await figlet.text("BWBL", {
   font: "Invita",
 });
-title = "<pre class='title'>\n" + title + "\n</pre>";
+title = "<pre style='text-align: center; color: CanvasText;'>\n" + title + "\n</pre>";
 
 let musics = await music();
 //musics = "<pre>\n" + musics + "\n</pre>";
 
-let finalCss = "<style>\n" + await css.text() + "\n</style>"; 
-let final = [title, musics, finalCss].join("\n");
+let final = [title, musics].join("\n");
 
 console.log(final);
 

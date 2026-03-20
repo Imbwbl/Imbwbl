@@ -1,4 +1,4 @@
-<pre class='title'>
+<pre style='text-align: center; color: CanvasText;'>
    ______    __       __) ______        _    
   (, /    ) (, )  |  /   (, /    )  ___/__)  
     /---(      | /| /      /---(   (, /      
@@ -45,10 +45,3 @@
 ╰───────────────────────╯</pre></td>
   </tr>
 </table>
-<style>
-* {
-    color: CanvasText;
-    text-align: center;
-}
-
-</style>
