@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/946fd4f651f4a67d72ccf7ebb1624b2b.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Doot Doot (6 7)   │
-│  Artist: Skrilla          │
-│  Album: Doot Doot (6 7)   │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ce9efc0bc44d53bf05be6c0126be96c9.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────╮
+│           music            x │
+├──────────────────────────────┤
+│  Title: Trouble              │
+│  Artist: Cage the Elephant   │
+│  Album: Tell Me I'm Pretty   │
+╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/58ab1fbec5f6b708d7d9ce59329bdd01.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────────╮
-│                  music                  x │
-├───────────────────────────────────────────┤
-│  Title: Remember You - Original Version   │
-│  Artist: Dominurmom                       │
-│  Album: Remember You (Original Version)   │
-╰───────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7e1ee7dbc2c188790d7b4c732385c2f9.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: Sick Love                │
+│  Artist: Red Hot Chili Peppers   │
+│  Album: The Getaway              │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Krush      │
-│  Artist: 55ASKY    │
-│  Album: Volim te   │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ebb227acd51f3b1683b659d9bdcdd348.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────╮
+│                 music                 x │
+├─────────────────────────────────────────┤
+│  Title: Yameii Vs. The World            │
+│  Artist: Yameii Online                  │
+│  Album: Friday Night Basement, Vol. 1   │
+╰─────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
