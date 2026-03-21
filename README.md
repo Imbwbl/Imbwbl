@@ -8,14 +8,26 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: manumax    │
+│  Artist: 55ASKY    │
+│  Album: Volim te   │
+╰────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: PSYK☹︎☹︎DB☹︎☹︎L       │
-│  Artist: 55ASKY               │
-│  Album: PILLZ & KANDY KRUSH   │
-╰───────────────────────────────╯</pre>
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: LA PRINCESSE & LE CRASSEUX   │
+│  Artist: 55ASKY                      │
+│  Album: PILLZ & KANDY KRUSH          │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
@@ -24,21 +36,9 @@
   <pre>╭───────────────────╮
 │      music      x │
 ├───────────────────┤
-│  Title: TKKASKY   │
-│  Artist: TKKF     │
-│  Album: TKKASKY   │
-╰───────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f2ca525150a1b86bc3d5ea06f9bda242.png" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: T55F      │
+│  Title: KHEYO     │
 │  Artist: 55ASKY   │
-│  Album: T55F      │
+│  Album: KHEYO     │
 ╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
