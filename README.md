@@ -8,18 +8,6 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/80f256e56b1043cdbb99da3ac4dd69a0.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Last Nite      │
-│  Artist: The Strokes   │
-│  Album: Is This It     │
-╰────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/4822b8c62e382da54fba5adb646ee147.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────────────╮
 │                 music                 x │
@@ -40,5 +28,17 @@
 │  Artist: Cage the Elephant     │
 │  Album: Melophobia             │
 ╰────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/573899052466479da97b9207a780d06f.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: About a Girl   │
+│  Artist: Nirvana       │
+│  Album: Nirvana        │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
