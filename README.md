@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f2ca525150a1b86bc3d5ea06f9bda242.png" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: T55F      │
-│  Artist: 55ASKY   │
-│  Album: T55F      │
-╰───────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Krush      │
-│  Artist: 55ASKY    │
-│  Album: Volim te   │
-╰────────────────────╯</pre>
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: Gravity falls   │
+│  Artist: 55ASKY         │
+│  Album: Volim te        │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6bba926d2812d76e471836d8ece2e653.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: La fille de Pastel   │
-│  Artist: 55ASKY              │
-│  Album: La fille de Pastel   │
-╰──────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────╮
+│            music            x │
+├───────────────────────────────┤
+│  Title: GR☹︎☹︎TADRM☹︎RVE      │
+│  Artist: 55ASKY               │
+│  Album: PILLZ & KANDY KRUSH   │
+╰───────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/598d6b3dcb1a04c5d9c2a2bc1cfacc90.png" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: PLÜG        │
+│  Artist: 55ASKY     │
+│  Album: DAS ㋡JEMI   │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
