@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/576554c542da76c08f0e80c129afcb0e.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: Selfless           │
-│  Artist: The Strokes       │
-│  Album: The New Abnormal   │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: LA PRINCESSE & LE CRASSEUX   │
+│  Artist: 55ASKY                      │
+│  Album: PILLZ & KANDY KRUSH          │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c1d87ec19e6f9c837d5f3b31441d1ff8.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────────────╮
-│                         music                          x │
-├──────────────────────────────────────────────────────────┤
-│  Title: Heaven Knows I'm Miserable Now - 2011 Remaster   │
-│  Artist: The Smiths                                      │
-│  Album: Hatful of Hollow                                 │
-╰──────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: KHEYO     │
+│  Artist: 55ASKY   │
+│  Album: KHEYO     │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/45dfde4f63a50f3aedeee21f3e9ed033.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────────╮
-│                  music                   x │
-├────────────────────────────────────────────┤
-│  Title: Scar Tissue                        │
-│  Artist: Red Hot Chili Peppers             │
-│  Album: Californication (Deluxe Edition)   │
-╰────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/598d6b3dcb1a04c5d9c2a2bc1cfacc90.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: DUFFEL BAG   │
+│  Artist: 55ASKY      │
+│  Album: DAS ㋡JEMI    │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
