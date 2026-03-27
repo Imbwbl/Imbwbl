@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: 2cm à l'heure           │
-│  Artist: Oxmo Puccino           │
-│  Album: LA HAUTEUR DE LA LUNE   │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0beb4878db5f7335393ed67a626822bd.png" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Hematome   │
+│  Artist: Joyca     │
+│  Album: Hematome   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: déconnecté         │
-│  Artist: Wallace Cleaver   │
-│  Album: baiser             │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Joli doll   │
+│  Artist: 55ASKY     │
+│  Album: Volim te    │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: çalavie            │
-│  Artist: Wallace Cleaver   │
-│  Album: baiser             │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/619331e79bfadd1733158f98c1c523be.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Fashionistar   │
+│  Artist: 55ASKY        │
+│  Album: Fashionistar   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
