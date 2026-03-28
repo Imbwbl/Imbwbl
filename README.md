@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Dans 10 Ans     │
-│  Artist: Guizmo         │
-│  Album: Dans ma ruche   │
-╰─────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/065776ae06714e6e8a5bc10657523115.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────╮
 │          music          x │
 ├───────────────────────────┤
-│  Title: Fenêtre sur rue   │
-│  Artist: Hugo TSR         │
-│  Album: Fenêtre sur rue   │
+│  Title: Porte d'Orléans   │
+│  Artist: PLK              │
+│  Album: Grand Garçon      │
 ╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Daruma          │
-│  Artist: Népal          │
-│  Album: Adios Bahamas   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: TKKASKY   │
+│  Artist: TKKF     │
+│  Album: TKKASKY   │
+╰───────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f2ca525150a1b86bc3d5ea06f9bda242.png" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: T55F      │
+│  Artist: 55ASKY   │
+│  Album: T55F      │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
