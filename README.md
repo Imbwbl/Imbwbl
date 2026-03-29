@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5d53d7e6aad2f08c464e301d3bab6e96.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Apocalypse              │
-│  Artist: Cigarettes After Sex   │
-│  Album: Cigarettes After Sex    │
-╰─────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9a9e5a949d016d4af09442c0af66e2da.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Miss Kitoko   │
-│  Artist: Theodora     │
-│  Album: Miss Kitoko   │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f8b30f540c824e0c9f0cf06a0e53fa98.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: Sales babtous d'négros   │
+│  Artist: Guizmo                  │
+│  Album: Normal                   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: COMME UN PRINCE   │
-│  Artist: Oenn             │
-│  Album: COMME UN PRINCE   │
-╰───────────────────────────╯</pre>
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: Doudou        │
+│  Artist: So La Lune   │
+│  Album: Doudou        │
+╰───────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e78aa7e0575a3ecab30d2e7700ef82f9.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────╮
+│           music            x │
+├──────────────────────────────┤
+│  Title: Volcano Love         │
+│  Artist: baby hayabusa       │
+│  Album: Faded Flower Story   │
+╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
