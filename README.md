@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f8b30f540c824e0c9f0cf06a0e53fa98.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: Sales babtous d'négros   │
-│  Artist: Guizmo                  │
-│  Album: Normal                   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9c7708f27f3e0ff6925fe356405183a8.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────╮
+│                    music                    x │
+├───────────────────────────────────────────────┤
+│  Title: Psychosocial                          │
+│  Artist: Slipknot                             │
+│  Album: All Hope Is Gone (10th Anniversary)   │
+╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/998c959b12bb83e812964042b44224c7.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: Last Chance      │
+│  Artist: Shotgun Willy   │
+│  Album: Last Chance      │
+╰──────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/efc8d28fb542369dc63d5215035e63f1.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────╮
 │        music        x │
 ├───────────────────────┤
-│  Title: Doudou        │
-│  Artist: So La Lune   │
-│  Album: Doudou        │
+│  Title: Inner World   │
+│  Artist: Luminist     │
+│  Album: Simulations   │
 ╰───────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e78aa7e0575a3ecab30d2e7700ef82f9.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: Volcano Love         │
-│  Artist: baby hayabusa       │
-│  Album: Faded Flower Story   │
-╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
