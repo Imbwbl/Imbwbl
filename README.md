@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2c931f923ac76cf5f56c7a5028f54e32.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────╮
-│                music                x │
-├───────────────────────────────────────┤
-│  Title: Where’d U Go? O(╥﹏╥)O .｡*ﾟ+   │
-│  Artist: Yameii Online                │
-│  Album: CANDY                         │
-╰───────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7f606674cfa1fdc4603695021d3fbc95.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: Not Allowed        │
+│  Artist: TV Girl           │
+│  Album: Who Really Cares   │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/576554c542da76c08f0e80c129afcb0e.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────╮
-│                 music                 x │
-├─────────────────────────────────────────┤
-│  Title: Why Are Sundays So Depressing   │
-│  Artist: The Strokes                    │
-│  Album: The New Abnormal                │
-╰─────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/426f10a255a07002b3702e4bc275ec44.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────────╮
+│                     music                      x │
+├──────────────────────────────────────────────────┤
+│  Title: Under the Bridge                         │
+│  Artist: Red Hot Chili Peppers                   │
+│  Album: Blood Sugar Sex Magik (Deluxe Edition)   │
+╰──────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2ab72082890442ce8954a7f6b9e9c39d.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────────╮
-│                  music                  x │
-├───────────────────────────────────────────┤
-│  Title: I Thought I Saw Your Face Today   │
-│  Artist: She & Him                        │
-│  Album: Volume One                        │
-╰───────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/93bf4549cf773af8a6e718d8969afa61.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: No error         │
+│  Artist: Yameii Online   │
+│  Album: No Error         │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
