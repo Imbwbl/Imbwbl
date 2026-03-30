@@ -8,6 +8,30 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Medusa    │
+│  Artist: Saïf     │
+│  Album: L'hiver   │
+╰───────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Malade    │
+│  Artist: Saïf     │
+│  Album: L'hiver   │
+╰───────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/7f606674cfa1fdc4603695021d3fbc95.jpg" heigth="100%" align="left" />
   <pre>╭────────────────────────────╮
 │          music           x │
@@ -16,29 +40,5 @@
 │  Artist: TV Girl           │
 │  Album: Who Really Cares   │
 ╰────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/426f10a255a07002b3702e4bc275ec44.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────╮
-│                     music                      x │
-├──────────────────────────────────────────────────┤
-│  Title: Under the Bridge                         │
-│  Artist: Red Hot Chili Peppers                   │
-│  Album: Blood Sugar Sex Magik (Deluxe Edition)   │
-╰──────────────────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/93bf4549cf773af8a6e718d8969afa61.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: No error         │
-│  Artist: Yameii Online   │
-│  Album: No Error         │
-╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
