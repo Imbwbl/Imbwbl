@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: Noyé dans mes rêves   │
-│  Artist: Guizmo               │
-│  Album: Amicalement vôtre     │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: Doudou        │
+│  Artist: So La Lune   │
+│  Album: Doudou        │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Instanonymat #2   │
-│  Artist: Saïf             │
-│  Album: Instanonymat #2   │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7f097b51f9e03e3710d268dfc85c24ae.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────╮
+│            music             x │
+├────────────────────────────────┤
+│  Title: Tsukithèse             │
+│  Artist: So La Lune            │
+│  Album: 2ème faille (Silfra)   │
+╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: 3arbi Connection   │
-│  Artist: Sam               │
-│  Album: 3arbi Connection   │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/564e9c792a78c95df59efb285cc7a4ae.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────────────────╮
+│                    music                     x │
+├────────────────────────────────────────────────┤
+│  Title: COMME UNE ACTRICE (feat. So La Lune)   │
+│  Artist: JEY BROWNIE                           │
+│  Album: G-POP CLASSIKS .02                     │
+╰────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
