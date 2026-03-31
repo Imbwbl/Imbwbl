@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: BARA      │
-│  Artist: yvnnis   │
-│  Album: BARA      │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9ea9931e129bb5efd3606866901855b5.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: My Iron Lung   │
+│  Artist: Radiohead     │
+│  Album: The Bends      │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Champagne violet       │
-│  Artist: Jungle Jack           │
-│  Album: Cognacs & Cigarettes   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d47e10945cd809556f5c207638722834.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Pas de reine   │
+│  Artist: Koba LaD      │
+│  Album: Détail         │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4a36c556b1153aa31dfdf16e8b131312.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Matin de juin   │
-│  Artist: cielbleu       │
-│  Album: Matin de juin   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/06ed8e48842dd12fedd4e006c27d5cae.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────╮
+│                    music                    x │
+├───────────────────────────────────────────────┤
+│  Title: Waltz No. 19 in A minor, Op. posth.   │
+│  Artist: Frédéric Chopin                      │
+│  Album: Chopin: Waltzes, Etc.                 │
+╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
