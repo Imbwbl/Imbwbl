@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ec2534943d43ac095136cc55db0eed1a.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Albiceleste   │
-│  Artist: Jazzy Bazz   │
-│  Album: Memoria       │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9071ab7bb48921a54fad9e4cf08dfd15.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: uet            │
+│  Artist: Luther        │
+│  Album: GARÇON + AMI   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/065776ae06714e6e8a5bc10657523115.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Old Boy           │
-│  Artist: Hugo TSR         │
-│  Album: Fenêtre sur rue   │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5f81c5dd81c3ae5259c3233bfa303a52.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Humanoïde   │
+│  Artist: Nekfeu     │
+│  Album: Cyborg      │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/82d6cefe38ba17690c760aa2fcbabdc6.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: L'autre univers    │
-│  Artist: Lujipeka          │
-│  Album: Montagnes Russes   │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: aaa                      │
+│  Artist: Alpha Wann              │
+│  Album: don dada mixtape vol 1   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
