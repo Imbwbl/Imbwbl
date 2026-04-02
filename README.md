@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4913b560d06c7401f6e9a4b811f7a806.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: FAVELA          │
-│  Artist: Favé           │
-│  Album: Il le fallait   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c0475a74ca4cda1f67c2eaee7bcba768.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: Billy         │
+│  Artist: So La Lune   │
+│  Album: Billy         │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5066e10db8bda081b6d21485d822d2b6.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────╮
-│                 music                 x │
-├─────────────────────────────────────────┤
-│  Title: La voie                         │
-│  Artist: So La Lune                     │
-│  Album: En attendant Offshore, vol. 2   │
-╰─────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/82d6cefe38ba17690c760aa2fcbabdc6.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────╮
+│              music              x │
+├───────────────────────────────────┤
+│  Title: Lala (feat. So La Lune)   │
+│  Artist: Lujipeka                 │
+│  Album: Montagnes Russes          │
+╰───────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────────────╮
-│                    music                     x │
-├────────────────────────────────────────────────┤
-│  Title: COMME UNE ACTRICE (feat. So La Lune)   │
-│  Artist: JEY BROWNIE                           │
-│  Album: COMME UNE ACTRICE (feat. So La Lune)   │
-╰────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Luc Besson        │
+│  Artist: So La Lune       │
+│  Album: Nouveau Produit   │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
