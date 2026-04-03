@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c0475a74ca4cda1f67c2eaee7bcba768.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Billy         │
-│  Artist: So La Lune   │
-│  Album: Billy         │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ebb227acd51f3b1683b659d9bdcdd348.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────╮
+│                 music                 x │
+├─────────────────────────────────────────┤
+│  Title: Yameii Vs. The World            │
+│  Artist: Yameii Online                  │
+│  Album: Friday Night Basement, Vol. 1   │
+╰─────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/82d6cefe38ba17690c760aa2fcbabdc6.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────╮
-│              music              x │
-├───────────────────────────────────┤
-│  Title: Lala (feat. So La Lune)   │
-│  Artist: Lujipeka                 │
-│  Album: Montagnes Russes          │
-╰───────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/576554c542da76c08f0e80c129afcb0e.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: The Adults Are Talking   │
+│  Artist: The Strokes             │
+│  Album: The New Abnormal         │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Luc Besson        │
-│  Artist: So La Lune       │
-│  Album: Nouveau Produit   │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/80f256e56b1043cdbb99da3ac4dd69a0.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Last Nite      │
+│  Artist: The Strokes   │
+│  Album: Is This It     │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
