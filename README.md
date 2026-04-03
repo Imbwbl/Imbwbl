@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7f606674cfa1fdc4603695021d3fbc95.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: Not Allowed        │
-│  Artist: TV Girl           │
-│  Album: Who Really Cares   │
-╰────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/37d435318d744beea7f76d55f8800cad.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
   <pre>╭────────────────────────────────────╮
 │              music               x │
 ├────────────────────────────────────┤
-│  Title: I Don't Know How To Love   │
-│  Artist: The Drums                 │
-│  Album: Portamento                 │
+│  Title: V6V12                      │
+│  Artist: Metanoia                  │
+│  Album: METANOIA VOL.1 : PAULINE   │
 ╰────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/701b7d04a6b8f1e6575375be68a67f29.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Je n'ai rien à faire   │
-│  Artist: Alice et Moi          │
-│  Album: Je n'ai rien à faire   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: 2cm à l'heure           │
+│  Artist: Oxmo Puccino           │
+│  Album: LA HAUTEUR DE LA LUNE   │
+╰─────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: philly flingo            │
+│  Artist: Alpha Wann              │
+│  Album: don dada mixtape vol 1   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
