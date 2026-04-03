@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/eaf8097fa30843d4b3434c9f62f9f3f3.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4bbc2421aefb5204a9ee196204ff7c24.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────╮
+│            music             x │
+├────────────────────────────────┤
+│  Title: Opening                │
+│  Artist: So La Lune            │
+│  Album: L'enfant de la pluie   │
+╰────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────╮
 │          music          x │
 ├───────────────────────────┤
-│  Title: Kekchose          │
-│  Artist: Lorenzo          │
-│  Album: Sex In The City   │
+│  Title: Le Masque         │
+│  Artist: So La Lune       │
+│  Album: Nouveau Produit   │
 ╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd67b0ea21b1d6440cc56f2e70d73d64.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: Arrêter le temps   │
-│  Artist: Lorenzo           │
-│  Album: Légende Vivante    │
-╰────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: Émotif (Booska 1H)   │
-│  Artist: PLK                 │
-│  Album: Polak                │
-╰──────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: .4h du mat.   │
+│  Artist: Lushe        │
+│  Album: .4h du mat.   │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
