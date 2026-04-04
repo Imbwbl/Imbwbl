@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────╮
-│     music      x │
-├──────────────────┤
-│  Title: FAVELA   │
-│  Artist: Favé    │
-│  Album: FAVELA   │
-╰──────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/db4cda2743e9121d61e5a1d5a00e7059.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: FUCK LARR         │
+│  Artist: Ino Casablanca   │
+│  Album: TAMARA            │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7f097b51f9e03e3710d268dfc85c24ae.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Tsukithèse             │
-│  Artist: So La Lune            │
-│  Album: 2ème faille (Silfra)   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b4b670c60e992e4ce5997b941e00d7f6.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────╮
+│              music              x │
+├───────────────────────────────────┤
+│  Title: Freestyle 1er Mouvement   │
+│  Artist: H JeuneCrack             │
+│  Album: Freestyle 1er Mouvement   │
+╰───────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/564e9c792a78c95df59efb285cc7a4ae.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────────────╮
-│                    music                     x │
-├────────────────────────────────────────────────┤
-│  Title: COMME UNE ACTRICE (feat. So La Lune)   │
-│  Artist: JEY BROWNIE                           │
-│  Album: G-POP CLASSIKS .02                     │
-╰────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: CHARBON ET DEVOUEMENT        │
+│  Artist: Jungle Jack                 │
+│  Album: JUNGLE DES ILLUSIONS VOL 2   │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
