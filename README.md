@@ -8,14 +8,14 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b976d6ad527ee180cf385f6fcda56fee.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: VONGOLE     │
-│  Artist: JeanJass   │
-│  Album: Grünt #71   │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a0b91f2b44757eff1445860b2732eb9.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: VIVEMENT      │
+│  Artist: NES          │
+│  Album: POUR 2 VRAI   │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
@@ -24,7 +24,7 @@
   <pre>╭────────────────────────────────╮
 │            music             x │
 ├────────────────────────────────┤
-│  Title: Le bruit et l'odeur    │
+│  Title: L'ère du Verseau       │
 │  Artist: Jungle Jack           │
 │  Album: Cognacs & Cigarettes   │
 ╰────────────────────────────────╯</pre>
@@ -32,13 +32,13 @@
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a906a3ae343de4ccd6b82c80d592e67.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/11b5905656ca89850641e4207279c4e7.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────╮
 │          music          x │
 ├───────────────────────────┤
-│  Title: DYBALA            │
+│  Title: longueDistance.   │
 │  Artist: Huntrill         │
-│  Album: Nouvelle Trap 2   │
+│  Album: BigSTRaat         │
 ╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
