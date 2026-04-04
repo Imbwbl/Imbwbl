@@ -8,18 +8,6 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a0b91f2b44757eff1445860b2732eb9.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: VIVEMENT      │
-│  Artist: NES          │
-│  Album: POUR 2 VRAI   │
-╰───────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
   <pre>╭────────────────────────────────╮
 │            music             x │
@@ -40,5 +28,17 @@
 │  Artist: Huntrill         │
 │  Album: BigSTRaat         │
 ╰───────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────╮
+│              music               x │
+├────────────────────────────────────┤
+│  Title: La Monnaie, les Diamants   │
+│  Artist: Legendes Industries       │
+│  Album: La Monnaie, les Diamants   │
+╰────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
