@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ed4d65246fca566364e80a549e2786b4.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Michel-Ange   │
-│  Artist: Leo SVR      │
-│  Album: SUNCHASER     │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Guerres de pissenlits   │
+│  Artist: BEN plg                │
+│  Album: Dire je t'aime          │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e8a67d3605105017688e1bbfedec7066.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────╮
-│              music               x │
-├────────────────────────────────────┤
-│  Title: MACALLAN SPEECH            │
-│  Artist: FEMTOGO                   │
-│  Album: FRANCS-TIREURS PARTISANS   │
-╰────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: dope      │
+│  Artist: Mairo    │
+│  Album: LA FIEV   │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3266df5d7a862dc63272ad078f8b3e04.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: Un frère                 │
-│  Artist: JeanJass                │
-│  Album: Tous ces ongles rongés   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────╮
+│            music             x │
+├────────────────────────────────┤
+│  Title: Rougon-Macquart        │
+│  Artist: Jungle Jack           │
+│  Album: Cognacs & Cigarettes   │
+╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
