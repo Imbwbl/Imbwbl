@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: minuit    │
+│  Artist: Mairo    │
+│  Album: LA FIEV   │
+╰───────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/1bd40abbf68de5b83b6427696cc064ce.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────────╮
 │            music            x │
@@ -28,17 +40,5 @@
 │  Artist: Jungle Jack           │
 │  Album: Cognacs & Cigarettes   │
 ╰────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9667fae38fab352113832050f2cc2b65.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Sade            │
-│  Artist: H JeuneCrack   │
-│  Album: 1er mouvement   │
-╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
