@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Guerres de pissenlits   │
-│  Artist: BEN plg                │
-│  Album: Dire je t'aime          │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/642d2312b25b41abad6bd8c6fecac700.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: Mauvaise tête   │
+│  Artist: A6el           │
+│  Album: Mauvaise tête   │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: dope      │
-│  Artist: Mairo    │
-│  Album: LA FIEV   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3c1e15ec9e463e8387ebfcdafcc44707.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────╮
+│                 music                 x │
+├─────────────────────────────────────────┤
+│  Title: J'attends au Carrefour Market   │
+│  Artist: A6el                           │
+│  Album: Station Paradiso                │
+╰─────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Rougon-Macquart        │
-│  Artist: Jungle Jack           │
-│  Album: Cognacs & Cigarettes   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/47d94fc6d67a9eb56b2177ff1593b05f.png" heigth="100%" align="left" />
+  <pre>╭──────────────────╮
+│     music      x │
+├──────────────────┤
+│  Title: SOLEIL   │
+│  Artist: A6el    │
+│  Album: SOLEIL   │
+╰──────────────────╯</pre>
 </div>
 <br clear="left"/>
