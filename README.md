@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: L'ère du Verseau       │
-│  Artist: Jungle Jack           │
-│  Album: Cognacs & Cigarettes   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ae109c5d082da27bf608024344516b6c.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────────╮
+│                     music                     x │
+├─────────────────────────────────────────────────┤
+│  Title: Un flingue et des roses - Remasterisé   │
+│  Artist: Oxmo Puccino                           │
+│  Album: Le cactus de Sibérie (Remasterisé)      │
+╰─────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/11b5905656ca89850641e4207279c4e7.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a906a3ae343de4ccd6b82c80d592e67.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────╮
 │          music          x │
 ├───────────────────────────┤
-│  Title: longueDistance.   │
+│  Title: J'RECOMPTE        │
 │  Artist: Huntrill         │
-│  Album: BigSTRaat         │
+│  Album: Nouvelle Trap 2   │
 ╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────╮
-│              music               x │
-├────────────────────────────────────┤
-│  Title: La Monnaie, les Diamants   │
-│  Artist: Legendes Industries       │
-│  Album: La Monnaie, les Diamants   │
-╰────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a0b91f2b44757eff1445860b2732eb9.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: ABRUZZES      │
+│  Artist: NES          │
+│  Album: POUR 2 VRAI   │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
