@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/93fe3c819e6073e735f7571929ffed8f.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────╮
-│       music        x │
-├──────────────────────┤
-│  Title: How (demo)   │
-│  Artist: Clairo      │
-│  Album: diary 001    │
-╰──────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/131f39659d4c421d6b5ee9fb4a2af3f6.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: GIMME GIMME    │
+│  Artist: NELICK        │
+│  Album: GOOFY & SEXY   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d5a3587186fee8920125145a730934ae.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────────────────────────╮
-│                           music                           x │
-├─────────────────────────────────────────────────────────────┤
-│  Title: we fell in love in october                          │
-│  Artist: girl in red                                        │
-│  Album: We Fell In Love In October / October Passed Me By   │
-╰─────────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/682a5158322e9f6915dcadea65a63675.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: 99 en peuf    │
+│  Artist: Kyo Itachi   │
+│  Album: Solide        │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/47504b29ee4b1921a1e0433c776c59ab.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: Flaming Hot Cheetos   │
-│  Artist: Clairo               │
-│  Album: Flaming Hot Cheetos   │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: CHROMATIK   │
+│  Artist: Priilick   │
+│  Album: ONZE        │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
