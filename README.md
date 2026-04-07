@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/09d5ea3fded29a16ffaac0ffdf8e84cc.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1a8b9646d10cd37f3d5b9117a8655ce3.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────╮
 │      music      x │
 ├───────────────────┤
-│  Title: TIK TAK   │
-│  Artist: TH       │
-│  Album: E-MUSIC   │
+│  Title: LESSGUI   │
+│  Artist: Luther   │
+│  Album: GARÇON    │
 ╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: STREET OF RAGE   │
-│  Artist: unfamouslouie   │
-│  Album: STILL UNFAMOUS   │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: Sundance        │
+│  Artist: Népal          │
+│  Album: Adios Bahamas   │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: METAL      │
-│  Artist: Rounhaa   │
-│  Album: METAL      │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/922f9626fc2d35b39569c733c5b877b9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: ADN                           │
+│  Artist: Josman                       │
+│  Album: DOM PERIGNON CRYING (Bonus)   │
+╰───────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
