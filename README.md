@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4b49d5d53345bc9fec05cbbb9722f8f4.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────────────────╮
-│                      music                       x │
-├────────────────────────────────────────────────────┤
-│  Title: I Want You                                 │
-│  Artist: Mitski                                    │
-│  Album: Retired from Sad, New Career in Business   │
-╰────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5259fe63f165274122979eb9e4b47c2d.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Blue Hair               │
+│  Artist: TV Girl                │
+│  Album: Death of a Party Girl   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3668a275467fc56cdde8d477593a6a62.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Blondie         │
-│  Artist: Current Joys   │
-│  Album: Wild Heart      │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/576554c542da76c08f0e80c129afcb0e.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: Ode to the Mets    │
+│  Artist: The Strokes       │
+│  Album: The New Abnormal   │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/29e403d4c56423e5b47aad1d4aecf4b0.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Morning Sex       │
-│  Artist: Ralph Castelli   │
-│  Album: Morning Sex       │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0fd72a9edea4a12b7b7c8c2f7e2c789c.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Japan       │
+│  Artist: Yot Club   │
+│  Album: Japan       │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
