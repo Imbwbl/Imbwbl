@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: FUCKED UP 3   │
-│  Artist: Josman       │
-│  Album: J.O.$         │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: LE PIÈGE                │
+│  Artist: Alpha Wann             │
+│  Album: UNE MAIN LAVE L'AUTRE   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/33d8d0fa37811f73c0162e030715504f.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────╮
-│               music                x │
-├──────────────────────────────────────┤
-│  Title: LA COLLINE DE L'EST          │
-│  Artist: Jungle Jack                 │
-│  Album: JUNGLE DES ILLUSIONS VOL 1   │
-╰──────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e9a009aa75f5f5bd2d72ee934c313066.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────╮
+│                   music                    x │
+├──────────────────────────────────────────────┤
+│  Title: STUNTMEN (feat. Alpha Wann & Wit.)   │
+│  Artist: Laylow                              │
+│  Album: L'Étrange Histoire de Mr.Anderson    │
+╰──────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/21e29fae850ac92468fa593793ed80f9.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/058467cf16d6a1e719af15ad41ae2948.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────╮
 │        music        x │
 ├───────────────────────┤
-│  Title: L'orchestre   │
-│  Artist: Bekar        │
-│  Album: Alba          │
+│  Title: T'oublier     │
+│  Artist: Jazzy Bazz   │
+│  Album: NIRVANA       │
 ╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
