@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1a8b9646d10cd37f3d5b9117a8655ce3.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: LESSGUI   │
-│  Artist: Luther   │
-│  Album: GARÇON    │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/33d8d0fa37811f73c0162e030715504f.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: VEGAPUNK                     │
+│  Artist: Jungle Jack                 │
+│  Album: JUNGLE DES ILLUSIONS VOL 1   │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Sundance        │
-│  Artist: Népal          │
-│  Album: Adios Bahamas   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d1bbdd0045801b8ea8e1cf7b94d3a6a.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: Éternité      │
+│  Artist: Jazzy Bazz   │
+│  Album: Nuit          │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/922f9626fc2d35b39569c733c5b877b9.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────╮
-│                music                x │
-├───────────────────────────────────────┤
-│  Title: ADN                           │
-│  Artist: Josman                       │
-│  Album: DOM PERIGNON CRYING (Bonus)   │
-╰───────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/af96bdd9bbd7ef4dab908ceb7b15d0e2.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────╮
+│               music               x │
+├─────────────────────────────────────┤
+│  Title: True Romance                │
+│  Artist: Zuukou Mayzie              │
+│  Album: Le film : Le commencement   │
+╰─────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
