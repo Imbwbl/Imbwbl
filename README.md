@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/564e9c792a78c95df59efb285cc7a4ae.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────────────╮
-│                    music                     x │
-├────────────────────────────────────────────────┤
-│  Title: COMME UNE ACTRICE (feat. So La Lune)   │
-│  Artist: JEY BROWNIE                           │
-│  Album: G-POP CLASSIKS .02                     │
-╰────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/86fc45f14a789e9fee32a99ea9036d3d.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: Clint Eastwood   │
+│  Artist: Gorillaz        │
+│  Album: Gorillaz         │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a3f5d997efc5dbd496182833fe7467ef.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Rodé          │
-│  Artist: So La Lune   │
-│  Album: Orbite        │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ce6e2af584a5480b85b79371b219a92e.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────╮
+│           music            x │
+├──────────────────────────────┤
+│  Title: On Melancholy Hill   │
+│  Artist: Gorillaz            │
+│  Album: Plastic Beach        │
+╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Doudou        │
-│  Artist: So La Lune   │
-│  Album: Doudou        │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/271483e955d2b255160f3361a7f5fb78.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: Feel Good Inc.   │
+│  Artist: Gorillaz        │
+│  Album: Demon Days       │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
