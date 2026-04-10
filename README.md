@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f1df7a900d6e991fa230b0be3a533151.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: SSL                      │
+│  Artist: NES                     │
+│  Album: Des pieds et des mains   │
+╰──────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/16a5218b13f6222718202ebdf92a1813.jpg" heigth="100%" align="left" />
   <pre>╭────────────────────────────────────╮
 │              music               x │
@@ -28,17 +40,5 @@
 │  Artist: Keroué            │
 │  Album: RECORD             │
 ╰────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dbbc252bcb92b4757a8114a64c86cbee.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Chant du cygne          │
-│  Artist: Caballero & JeanJass   │
-│  Album: ZushiBoyz Vol.1         │
-╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
