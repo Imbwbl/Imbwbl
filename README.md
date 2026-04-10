@@ -8,11 +8,23 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: Une femme enceinte qui fume   │
+│  Artist: Absolem                      │
+│  Album: Double Impact                 │
+╰───────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────────────────────╮
 │               music                x │
 ├──────────────────────────────────────┤
-│  Title: DRAGONS AQUATIQUES           │
+│  Title: KABUKI                       │
 │  Artist: Jungle Jack                 │
 │  Album: JUNGLE DES ILLUSIONS VOL 2   │
 ╰──────────────────────────────────────╯</pre>
@@ -20,25 +32,13 @@
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────╮
-│                     music                      x │
-├──────────────────────────────────────────────────┤
-│  Title: Paraît que les miracles n'existent pas   │
-│  Artist: BEN plg                                 │
-│  Album: Paraît que les miracles n'existent pas   │
-╰──────────────────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: çalavie            │
-│  Artist: Wallace Cleaver   │
-│  Album: baiser             │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/db4cda2743e9121d61e5a1d5a00e7059.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: RACAILLE          │
+│  Artist: Ino Casablanca   │
+│  Album: TAMARA            │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
