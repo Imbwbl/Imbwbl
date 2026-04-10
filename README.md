@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/13f2a7df546fbbc21320e3eb39f2bc9b.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────────╮
-│                  music                   x │
-├────────────────────────────────────────────┤
-│  Title: 4x4 NOIR                           │
-│  Artist: Huntrill                          │
-│  Album: LE BRUIT DE LA MACHINE À BILLETS   │
-╰────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: RADIOMAN   │
+│  Artist: Rounhaa   │
+│  Album: RADIOMAN   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────╮
-│           music           x │
-├─────────────────────────────┤
-│  Title: Iceberg             │
-│  Artist: Hugo TSR           │
-│  Album: Tant qu'on est là   │
-╰─────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: Le biff et moi   │
+│  Artist: Hologram Lo'    │
+│  Album: REPLICA 2        │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f1df7a900d6e991fa230b0be3a533151.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────────────────╮
 │             music              x │
 ├──────────────────────────────────┤
-│  Title: apdl                     │
-│  Artist: Alpha Wann              │
-│  Album: don dada mixtape vol 1   │
+│  Title: Hautes herbes            │
+│  Artist: NES                     │
+│  Album: Des pieds et des mains   │
 ╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
