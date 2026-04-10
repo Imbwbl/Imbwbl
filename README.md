@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: RADIOMAN   │
-│  Artist: Rounhaa   │
-│  Album: RADIOMAN   │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: DRAGONS AQUATIQUES           │
+│  Artist: Jungle Jack                 │
+│  Album: JUNGLE DES ILLUSIONS VOL 2   │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: Le biff et moi   │
-│  Artist: Hologram Lo'    │
-│  Album: REPLICA 2        │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────────╮
+│                     music                      x │
+├──────────────────────────────────────────────────┤
+│  Title: Paraît que les miracles n'existent pas   │
+│  Artist: BEN plg                                 │
+│  Album: Paraît que les miracles n'existent pas   │
+╰──────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f1df7a900d6e991fa230b0be3a533151.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: Hautes herbes            │
-│  Artist: NES                     │
-│  Album: Des pieds et des mains   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: çalavie            │
+│  Artist: Wallace Cleaver   │
+│  Album: baiser             │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
