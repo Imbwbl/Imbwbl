@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f1df7a900d6e991fa230b0be3a533151.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: SSL                      │
-│  Artist: NES                     │
-│  Album: Des pieds et des mains   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9339527b61c7c162f81a0d7e76d422bf.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────╮
+│                   music                   x │
+├─────────────────────────────────────────────┤
+│  Title: Mauvais garnements                  │
+│  Artist: Alkpote                            │
+│  Album: Les Ultimes Marches de l'Empereur   │
+╰─────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/16a5218b13f6222718202ebdf92a1813.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────╮
-│              music               x │
-├────────────────────────────────────┤
-│  Title: Doggybag                   │
-│  Artist: Gal                       │
-│  Album: Du caviar pour mon chien   │
-╰────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9339527b61c7c162f81a0d7e76d422bf.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────╮
+│                   music                   x │
+├─────────────────────────────────────────────┤
+│  Title: Mauvais garnements                  │
+│  Artist: Alkpote                            │
+│  Album: Les Ultimes Marches de l'Empereur   │
+╰─────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/09acdf8e5f5acee93a9841e4c492a1ca.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: À Balles Réelles   │
-│  Artist: Keroué            │
-│  Album: RECORD             │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9339527b61c7c162f81a0d7e76d422bf.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────╮
+│                   music                   x │
+├─────────────────────────────────────────────┤
+│  Title: Mauvais garnements                  │
+│  Artist: Alkpote                            │
+│  Album: Les Ultimes Marches de l'Empereur   │
+╰─────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
