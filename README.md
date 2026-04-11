@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a39bbf8120fe47f0ad7d59271c3ec4dd.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────╮
-│           music           x │
-├─────────────────────────────┤
-│  Title: Huit octobre 1971   │
-│  Artist: Cortex             │
-│  Album: Troupeau Bleu       │
-╰─────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e8a67d3605105017688e1bbfedec7066.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────╮
+│              music               x │
+├────────────────────────────────────┤
+│  Title: MME. RIFFAUD               │
+│  Artist: FEMTOGO                   │
+│  Album: FRANCS-TIREURS PARTISANS   │
+╰────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4fe47e812ec1b8f39658090ec3e24e0b.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────╮
-│           music           x │
-├─────────────────────────────┤
-│  Title: Raspberry           │
-│  Artist: Grouplove          │
-│  Album: Spreading Rumours   │
-╰─────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4c153d99248bf94a8e77c3f5fdc9e546.png" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: envie de rien   │
+│  Artist: Spider ZED     │
+│  Album: envie de rien   │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/46be4960b3e62737e3893f8a186a3542.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────────╮
-│                   music                   x │
-├─────────────────────────────────────────────┤
-│  Title: Twist And Shout - Remastered 2009   │
-│  Artist: The Beatles                        │
-│  Album: Please Please Me (Remastered)       │
-╰─────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: les paillettes   │
+│  Artist: KISSED          │
+│  Album: les paillettes   │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
