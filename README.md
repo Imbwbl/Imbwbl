@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e8a67d3605105017688e1bbfedec7066.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────╮
-│              music               x │
-├────────────────────────────────────┤
-│  Title: MME. RIFFAUD               │
-│  Artist: FEMTOGO                   │
-│  Album: FRANCS-TIREURS PARTISANS   │
-╰────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/84f90c131019b291aa892c503c1144b6.png" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: YKWIM?      │
+│  Artist: Yot Club   │
+│  Album: Bipolar     │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4c153d99248bf94a8e77c3f5fdc9e546.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: envie de rien   │
-│  Artist: Spider ZED     │
-│  Album: envie de rien   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/93fe3c819e6073e735f7571929ffed8f.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Hello?      │
+│  Artist: Clairo     │
+│  Album: diary 001   │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: les paillettes   │
-│  Artist: KISSED          │
-│  Album: les paillettes   │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2805853d6bb608c5ff0dd640e09b06b8.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: Pretty Girl   │
+│  Artist: Clairo       │
+│  Album: Pretty Girl   │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
