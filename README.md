@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6e8dcaffca6ff37a01e9677571d7578e.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────────────────────────────────────╮
-│                                music                                 x │
-├────────────────────────────────────────────────────────────────────────┤
-│  Title: Overture (Suite) No. 2 In B minor, BWV 1067 : VII. Badinerie   │
-│  Artist: Johann Sebastian Bach                                         │
-│  Album: Bach: Overtures (Suites) Nos. 1-4                              │
-╰────────────────────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a39bbf8120fe47f0ad7d59271c3ec4dd.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: Huit octobre 1971   │
+│  Artist: Cortex             │
+│  Album: Troupeau Bleu       │
+╰─────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/73cca8b4f4c0ad3bb0ce2e8c66f49a0b.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: conflict             │
-│  Artist: siromaru + cranky   │
-│  Album: conflict             │
-╰──────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4fe47e812ec1b8f39658090ec3e24e0b.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: Raspberry           │
+│  Artist: Grouplove          │
+│  Album: Spreading Rumours   │
+╰─────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: GR☹︎☹︎TADRM☹︎RVE      │
-│  Artist: 55ASKY               │
-│  Album: PILLZ & KANDY KRUSH   │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/46be4960b3e62737e3893f8a186a3542.png" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────╮
+│                   music                   x │
+├─────────────────────────────────────────────┤
+│  Title: Twist And Shout - Remastered 2009   │
+│  Artist: The Beatles                        │
+│  Album: Please Please Me (Remastered)       │
+╰─────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
