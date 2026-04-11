@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f7c906455b3ad9ea0fdb10c96858e295.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: JADE LA HYÈNE          │
-│  Artist: FEMTOGO               │
-│  Album: NAMELESS BELLIGERENT   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭──────────────────╮
+│     music      x │
+├──────────────────┤
+│  Title: Idylle   │
+│  Artist: A6el    │
+│  Album: Idylle   │
+╰──────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: Marinière   │
-│  Artist: A6el       │
-│  Album: Marinière   │
-╰─────────────────────╯</pre>
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: NE M'EN VEUX PAS   │
+│  Artist: BLOU FEET         │
+│  Album: NE M'EN VEUX PAS   │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Clopes et Vices   │
-│  Artist: Lushe            │
-│  Album: Clopes et Vices   │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/903d03d7986c773ca5f98b9ddd0cb3d4.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: Mélie-Rose   │
+│  Artist: KISSED      │
+│  Album: Mélie-Rose   │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
