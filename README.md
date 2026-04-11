@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/84f90c131019b291aa892c503c1144b6.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
   <pre>╭─────────────────────╮
 │       music       x │
 ├─────────────────────┤
-│  Title: YKWIM?      │
-│  Artist: Yot Club   │
-│  Album: Bipolar     │
+│  Title: Grandiose   │
+│  Artist: A6el       │
+│  Album: Grandiose   │
 ╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/93fe3c819e6073e735f7571929ffed8f.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: Hello?      │
-│  Artist: Clairo     │
-│  Album: diary 001   │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7f606674cfa1fdc4603695021d3fbc95.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: Not Allowed        │
+│  Artist: TV Girl           │
+│  Album: Who Really Cares   │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2805853d6bb608c5ff0dd640e09b06b8.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Pretty Girl   │
-│  Artist: Clairo       │
-│  Album: Pretty Girl   │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/37d435318d744beea7f76d55f8800cad.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────╮
+│              music               x │
+├────────────────────────────────────┤
+│  Title: I Don't Know How To Love   │
+│  Artist: The Drums                 │
+│  Album: Portamento                 │
+╰────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
