@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e8a67d3605105017688e1bbfedec7066.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────╮
-│              music               x │
-├────────────────────────────────────┤
-│  Title: MME. RIFFAUD               │
-│  Artist: FEMTOGO                   │
-│  Album: FRANCS-TIREURS PARTISANS   │
-╰────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4c153d99248bf94a8e77c3f5fdc9e546.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: envie de rien   │
-│  Artist: Spider ZED     │
-│  Album: envie de rien   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/04308c3bd557766c92f234521c02775e.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Paulise        │
+│  Artist: Lujipeka      │
+│  Album: Bruler Paris   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: les paillettes   │
-│  Artist: KISSED          │
-│  Album: les paillettes   │
-╰──────────────────────────╯</pre>
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: À bientôt,         │
+│  Artist: Wallace Cleaver   │
+│  Album: À bientôt,         │
+╰────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3b18d00a8d1e69e76080aa7b3478ff84.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: lhorloger   │
+│  Artist: Luther     │
+│  Album: lhorloger   │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
