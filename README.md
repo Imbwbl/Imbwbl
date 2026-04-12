@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2cd8c1ac868810fae8b31f5226896b76.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
   <pre>╭──────────────────────────────────╮
 │             music              x │
 ├──────────────────────────────────┤
-│  Title: JTM QUAND MÊME           │
-│  Artist: cielbleu                │
-│  Album: Janvier jtm quand même   │
+│  Title: Pardon Pour Mes Fautes   │
+│  Artist: Lightboy                │
+│  Album: Enfant Lumière           │
 ╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2cd8c1ac868810fae8b31f5226896b76.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: JTM QUAND MÊME           │
-│  Artist: cielbleu                │
-│  Album: Janvier jtm quand même   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: Hélico             │
+│  Artist: Orrage            │
+│  Album: Greenland part.1   │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f887032aa9975be8a87c53fd67d05e96.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: Jordan4          │
-│  Artist: H JeuneCrack    │
-│  Album: 2ème Mouvement   │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/eefc2119c3b86edead6095f694a94439.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Hollywood   │
+│  Artist: Dalí       │
+│  Album: Hollywood   │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
