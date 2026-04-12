@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e04b6dbc59c4eba1caaf78c4df4d9a5e.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: Nototune (feat. 820ks)   │
-│  Artist: Romsii                  │
-│  Album: 300%                     │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/11a4b49f0a69443355b628cacfb1538f.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: Timeless                     │
+│  Artist: Veridis Project             │
+│  Album: avec le temps tout partira   │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: Opéra     │
-│  Artist: Romsii   │
-│  Album: Opéra     │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/11a4b49f0a69443355b628cacfb1538f.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: Interlude                    │
+│  Artist: Veridis Project             │
+│  Album: avec le temps tout partira   │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Gosse coureur   │
-│  Artist: cielbleu       │
-│  Album: GOSSE COUREUR   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/11a4b49f0a69443355b628cacfb1538f.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: Horizon                      │
+│  Artist: Veridis Project             │
+│  Album: avec le temps tout partira   │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
