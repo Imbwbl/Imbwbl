@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/04308c3bd557766c92f234521c02775e.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Paulise        │
-│  Artist: Lujipeka      │
-│  Album: Bruler Paris   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2cd8c1ac868810fae8b31f5226896b76.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: JTM QUAND MÊME           │
+│  Artist: cielbleu                │
+│  Album: Janvier jtm quand même   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: À bientôt,         │
-│  Artist: Wallace Cleaver   │
-│  Album: À bientôt,         │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2cd8c1ac868810fae8b31f5226896b76.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: JTM QUAND MÊME           │
+│  Artist: cielbleu                │
+│  Album: Janvier jtm quand même   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3b18d00a8d1e69e76080aa7b3478ff84.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: lhorloger   │
-│  Artist: Luther     │
-│  Album: lhorloger   │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f887032aa9975be8a87c53fd67d05e96.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: Jordan4          │
+│  Artist: H JeuneCrack    │
+│  Album: 2ème Mouvement   │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
