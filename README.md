@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: Babtou    │
-│  Artist: Romsii   │
-│  Album: Lola      │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/35e417acf1c0086c247bf91989acc9e0.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: Alpha         │
+│  Artist: Damso        │
+│  Album: j'ai menti.   │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/aae9fe5f5f3dd1b59088bcf152fb9747.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Slide      │
-│  Artist: Romsii    │
-│  Album: Frenchie   │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: Δ. Dieu ne ment jamais   │
+│  Artist: Damso                   │
+│  Album: Ipséité                  │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e04b6dbc59c4eba1caaf78c4df4d9a5e.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: 300%      │
-│  Artist: Romsii   │
-│  Album: 300%      │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b835d59990741da2a6fb917543e5ac3d.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: Impardonnable   │
+│  Artist: Damso          │
+│  Album: BĒYĀH           │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
