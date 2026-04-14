@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: philly flingo            │
-│  Artist: Alpha Wann              │
-│  Album: don dada mixtape vol 1   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: GEPETTO     │
+│  Artist: Bu$hi      │
+│  Album: GRÜNT #60   │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2e1fe0576d82858fb7d4c20dc340b0a6.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────╮
-│                     music                      x │
-├──────────────────────────────────────────────────┤
-│  Title: Pas du même monde (feat. Bigflo & Oli)   │
-│  Artist: Guizmo                                  │
-│  Album: Renard                                   │
-╰──────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/04348e4f19bfba06bfefc75641a1b4e5.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: M.A.I.R   │
+│  Artist: Mairo    │
+│  Album: M.A.I.R   │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c869ac799047020ad305d589f44bbe75.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────╮
-│                music                x │
-├───────────────────────────────────────┤
-│  Title: Television / So Far So Good   │
-│  Artist: Rex Orange County            │
-│  Album: Apricot Princess              │
-╰───────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5cebf1f76dcc926ee308ffa6efd4fd2c.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: LA GRANDE ÉVASION   │
+│  Artist: Hologram Lo'       │
+│  Album: CREAMLAND           │
+╰─────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
