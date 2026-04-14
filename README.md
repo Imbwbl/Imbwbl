@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c76ed1ad4d027bc46b9e771efe5f59b6.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────╮
 │          music          x │
 ├───────────────────────────┤
-│  Title: Samantha Evelyn   │
-│  Artist: Zuukou Mayzie    │
-│  Album: 19h19             │
+│  Title: Ça ira            │
+│  Artist: So La Lune       │
+│  Album: Nouveau Produit   │
 ╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: MAL AIMÉS   │
-│  Artist: yvnnis     │
-│  Album: DND         │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: 30 secondes       │
+│  Artist: So La Lune       │
+│  Album: Nouveau Produit   │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────╮
-│     music      x │
-├──────────────────┤
-│  Title: FAVELA   │
-│  Artist: Favé    │
-│  Album: FAVELA   │
-╰──────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: C-11              │
+│  Artist: So La Lune       │
+│  Album: Nouveau Produit   │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
