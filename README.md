@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: philly flingo            │
+│  Artist: Alpha Wann              │
+│  Album: don dada mixtape vol 1   │
+╰──────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2e1fe0576d82858fb7d4c20dc340b0a6.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────────────────────────────────╮
 │                     music                      x │
@@ -28,17 +40,5 @@
 │  Artist: Rex Orange County            │
 │  Album: Apricot Princess              │
 ╰───────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/cc19ae7dab341baf82f14259fb4422ad.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Los Angeles   │
-│  Artist: Siaka        │
-│  Album: Los Angeles   │
-╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
