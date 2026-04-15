@@ -8,6 +8,30 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0a98e1663bd7f275aa5acb40b4378d7a.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────╮
+│              music              x │
+├───────────────────────────────────┤
+│  Title: Le monde par ma fenêtre   │
+│  Artist: Zamdane                  │
+│  Album: Couleur de ma peine       │
+╰───────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4981aa2d0e78259f8533eac76c8fb34c.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Cette Fille    │
+│  Artist: Luv Resval    │
+│  Album: Etoile Noire   │
+╰────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/f6d7498c6f3416ce3d2d1d53e6c492dd.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────╮
 │          music          x │
@@ -16,29 +40,5 @@
 │  Artist: Moha La Squale   │
 │  Album: Midi minuit       │
 ╰───────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e9a009aa75f5f5bd2d72ee934c313066.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────╮
-│                   music                    x │
-├──────────────────────────────────────────────┤
-│  Title: STUNTMEN (feat. Alpha Wann & Wit.)   │
-│  Artist: Laylow                              │
-│  Album: L'Étrange Histoire de Mr.Anderson    │
-╰──────────────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6b13b3feae253eb8f378f54b1bb5b7e9.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────╮
-│                   music                    x │
-├──────────────────────────────────────────────┤
-│  Title: L'air du temps                       │
-│  Artist: Nekfeu                              │
-│  Album: Les étoiles vagabondes : expansion   │
-╰──────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
