@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/598d6b3dcb1a04c5d9c2a2bc1cfacc90.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Lymbes    │
+│  Artist: 55ASKY   │
+│  Album: Lymbes    │
+╰───────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
   <pre>╭─────────────────────╮
 │       music       x │
 ├─────────────────────┤
-│  Title: MAGNOLIA    │
+│  Title: Wind-Shop   │
 │  Artist: 55ASKY     │
-│  Album: DAS ㋡JEMI   │
+│  Album: Zonia-553   │
 ╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/598d6b3dcb1a04c5d9c2a2bc1cfacc90.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
   <pre>╭──────────────────────╮
 │       music        x │
 ├──────────────────────┤
-│  Title: DUFFEL BAG   │
+│  Title: Ne0-Spiral   │
 │  Artist: 55ASKY      │
-│  Album: DAS ㋡JEMI    │
+│  Album: Zonia-553    │
 ╰──────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/598d6b3dcb1a04c5d9c2a2bc1cfacc90.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: PLÜG        │
-│  Artist: 55ASKY     │
-│  Album: DAS ㋡JEMI   │
-╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
