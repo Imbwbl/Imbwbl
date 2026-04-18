@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: BabyGirl   │
-│  Artist: Josman    │
-│  Album: Split      │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: UN ZDER, UN THÉ   │
+│  Artist: Josman           │
+│  Album: J.O.$             │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Dans le vide   │
-│  Artist: Josman        │
-│  Album: Matrix         │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/27bc7abde5e6861d961bf2ddb46060ce.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────╮
+│           music            x │
+├──────────────────────────────┤
+│  Title: AFFRANCHIS           │
+│  Artist: SDM                 │
+│  Album: A LA VIE A LA MORT   │
+╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Ailleurs   │
-│  Artist: Josman    │
-│  Album: J.000.$    │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Au Bout   │
+│  Artist: Josman   │
+│  Album: 000$      │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
