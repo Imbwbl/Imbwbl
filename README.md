@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/375d9a6f95c7b8c8377eec59be30df05.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: PANORAMA              │
-│  Artist: Josman               │
-│  Album: DOM PERIGNON CRYING   │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/07ebf6561c9ab8457ce03d10829655b1.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: Ghorba             │
+│  Artist: Veridis Project   │
+│  Album: Voir le soleil     │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: UN ZDER, UN THÉ   │
-│  Artist: Josman           │
-│  Album: J.O.$             │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/598d6b3dcb1a04c5d9c2a2bc1cfacc90.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: DUFFEL BAG   │
+│  Artist: 55ASKY      │
+│  Album: DAS ㋡JEMI    │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/27bc7abde5e6861d961bf2ddb46060ce.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: AFFRANCHIS           │
-│  Artist: SDM                 │
-│  Album: A LA VIE A LA MORT   │
-╰──────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/922f9626fc2d35b39569c733c5b877b9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: LONDON ST TROPEZ              │
+│  Artist: Josman                       │
+│  Album: DOM PERIGNON CRYING (Bonus)   │
+╰───────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
