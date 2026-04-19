@@ -8,6 +8,30 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Au singulier   │
+│  Artist: Kemmler       │
+│  Album: Au singulier   │
+╰────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2335efea51a33bfe18f47d10acbfca36.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: La misère est si belle   │
+│  Artist: PNL                     │
+│  Album: Deux Frères              │
+╰──────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────╮
 │             music             x │
@@ -16,29 +40,5 @@
 │  Artist: Alpha Wann             │
 │  Album: UNE MAIN LAVE L'AUTRE   │
 ╰─────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: Δ. Dieu ne ment jamais   │
-│  Artist: Damso                   │
-│  Album: Ipséité                  │
-╰──────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: Joli doll   │
-│  Artist: 55ASKY     │
-│  Album: Volim te    │
-╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
