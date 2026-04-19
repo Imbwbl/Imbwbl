@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: aaa                      │
-│  Artist: Alpha Wann              │
-│  Album: don dada mixtape vol 1   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Joli doll   │
+│  Artist: 55ASKY     │
+│  Album: Volim te    │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: 3095 pt2                 │
-│  Artist: Alpha Wann              │
-│  Album: don dada mixtape vol 1   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/619331e79bfadd1733158f98c1c523be.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Fashionistar   │
+│  Artist: 55ASKY        │
+│  Album: Fashionistar   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: R5 et Murcielago   │
-│  Artist: Alpha Wann        │
-│  Album: Alph Lauren 3      │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Bekamine   │
+│  Artist: 55ASKY    │
+│  Album: Volim te   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
