@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2ab72082890442ce8954a7f6b9e9c39d.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────────╮
-│                  music                  x │
-├───────────────────────────────────────────┤
-│  Title: I Thought I Saw Your Face Today   │
-│  Artist: She & Him                        │
-│  Album: Volume One                        │
-╰───────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a39bbf8120fe47f0ad7d59271c3ec4dd.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: Huit octobre 1971   │
+│  Artist: Cortex             │
+│  Album: Troupeau Bleu       │
+╰─────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7f3eebc25ed0d0560adeb5c4d40007f9.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Touch                   │
-│  Artist: Cigarettes After Sex   │
-│  Album: Cry                     │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4fe47e812ec1b8f39658090ec3e24e0b.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: Raspberry           │
+│  Artist: Grouplove          │
+│  Album: Spreading Rumours   │
+╰─────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Lovers Rock   │
-│  Artist: TV Girl      │
-│  Album: French Exit   │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/46be4960b3e62737e3893f8a186a3542.png" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────╮
+│                   music                   x │
+├─────────────────────────────────────────────┤
+│  Title: Twist And Shout - Remastered 2009   │
+│  Artist: The Beatles                        │
+│  Album: Please Please Me (Remastered)       │
+╰─────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
