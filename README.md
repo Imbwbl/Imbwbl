@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5d53d7e6aad2f08c464e301d3bab6e96.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Sunsetz                 │
-│  Artist: Cigarettes After Sex   │
-│  Album: Cigarettes After Sex    │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b13f04a3b528474235adbd2cc3ab99a9.png" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Restless    │
+│  Artist: Untitled   │
+│  Album: Restless    │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────╮
-│              music               x │
-├────────────────────────────────────┤
-│  Title: V6V12                      │
-│  Artist: Metanoia                  │
-│  Album: METANOIA VOL.1 : PAULINE   │
-╰────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0fd4ea33ee02465cc66904460ee8e91d.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: My Kind of Woman   │
+│  Artist: Mac DeMarco       │
+│  Album: 2                  │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: 2cm à l'heure           │
-│  Artist: Oxmo Puccino           │
-│  Album: LA HAUTEUR DE LA LUNE   │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: The Less I Know the Better   │
+│  Artist: Tame Impala                 │
+│  Album: Currents                     │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
