@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: Marjolina   │
-│  Artist: TKKF       │
-│  Album: Marjolina   │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5d53d7e6aad2f08c464e301d3bab6e96.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Sunsetz                 │
+│  Artist: Cigarettes After Sex   │
+│  Album: Cigarettes After Sex    │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────────────╮
-│                         music                          x │
-├──────────────────────────────────────────────────────────┤
-│  Title: miaou miaou                                      │
-│  Artist: Jima                                            │
-│  Album: techno chien : la naissance de l'enfant maudit   │
-╰──────────────────────────────────────────────────────────╯</pre>
+  <pre>╭────────────────────────────────────╮
+│              music               x │
+├────────────────────────────────────┤
+│  Title: V6V12                      │
+│  Artist: Metanoia                  │
+│  Album: METANOIA VOL.1 : PAULINE   │
+╰────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/acf46010faf2ece765b5b57ef8bebf13.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────╮
-│               music               x │
-├─────────────────────────────────────┤
-│  Title: Space Space Jam & Special   │
-│  Artist: Jima                       │
-│  Album: RAPPEL                      │
-╰─────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: 2cm à l'heure           │
+│  Artist: Oxmo Puccino           │
+│  Album: LA HAUTEUR DE LA LUNE   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
