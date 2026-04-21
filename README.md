@@ -8,6 +8,30 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/376855da53e7884003be87c6eb6e63ff.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────╮
+│            music            x │
+├───────────────────────────────┤
+│  Title: Something About You   │
+│  Artist: Eyedress             │
+│  Album: Mulholland Drive      │
+╰───────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9ea9931e129bb5efd3606866901855b5.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: Just         │
+│  Artist: Radiohead   │
+│  Album: The Bends    │
+╰──────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/f28dc346d76912c5141d1bce195afa81.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────────╮
 │               music               x │
@@ -16,29 +40,5 @@
 │  Artist: Nirvana                    │
 │  Album: In Utero (Deluxe Edition)   │
 ╰─────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4427b3c07b16babc7591111f3c35eefb.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Mrs Magic         │
-│  Artist: Strawberry Guy   │
-│  Album: Mrs Magic         │
-╰───────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b6cc7efcf8c694136846f0b3af0b7984.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: One More Love Song   │
-│  Artist: Mac DeMarco         │
-│  Album: This Old Dog         │
-╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
