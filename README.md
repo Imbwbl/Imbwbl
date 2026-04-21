@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/376855da53e7884003be87c6eb6e63ff.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: Something About You   │
-│  Artist: Eyedress             │
-│  Album: Mulholland Drive      │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/40564dd1a58f969fc3ee3c49bddffd23.png" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Duvet      │
+│  Artist: bôa       │
+│  Album: Twilight   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9ea9931e129bb5efd3606866901855b5.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────╮
-│       music        x │
-├──────────────────────┤
-│  Title: Just         │
-│  Artist: Radiohead   │
-│  Album: The Bends    │
-╰──────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a9c961c8da0d4427b7d7a4018738f5df.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Reptilia       │
+│  Artist: The Strokes   │
+│  Album: Room on Fire   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f28dc346d76912c5141d1bce195afa81.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────╮
-│               music               x │
-├─────────────────────────────────────┤
-│  Title: Heart-Shaped Box            │
-│  Artist: Nirvana                    │
-│  Album: In Utero (Deluxe Edition)   │
-╰─────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d97d21d3884088e85785eb471f3c431b.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: Drain You                │
+│  Artist: Nirvana                 │
+│  Album: Nevermind (Remastered)   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
