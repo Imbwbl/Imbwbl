@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/af64653c641bcca98fd66f46a7da26d6.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: No Other Heart   │
-│  Artist: Mac DeMarco     │
-│  Album: Another One      │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2d0f45e9a45eb0473566db0afbbdff08.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Heart to Heart          │
+│  Artist: Mac DeMarco            │
+│  Album: Here Comes the Cowboy   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d97d21d3884088e85785eb471f3c431b.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: Come as You Are          │
-│  Artist: Nirvana                 │
-│  Album: Nevermind (Remastered)   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/62d26c6cb4ac4bdccb8f3a2a0fd55421.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────╮
+│              music              x │
+├───────────────────────────────────┤
+│  Title: Exit Music (for a Film)   │
+│  Artist: Radiohead                │
+│  Album: OK Computer               │
+╰───────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/081d0b8e083463389f4c1a4c6202128b.gif" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────────────────────╮
-│                         music                         x │
-├─────────────────────────────────────────────────────────┤
-│  Title: This Night Has Opened My Eyes - 2011 Remaster   │
-│  Artist: The Smiths                                     │
-│  Album: Hatful of Hollow                                │
-╰─────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/37d435318d744beea7f76d55f8800cad.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: Money        │
+│  Artist: The Drums   │
+│  Album: Portamento   │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
