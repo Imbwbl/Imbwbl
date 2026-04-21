@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2d0f45e9a45eb0473566db0afbbdff08.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/28ffd87a1e554022c0065398979894c4.png" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────╮
 │             music             x │
 ├─────────────────────────────────┤
-│  Title: Heart to Heart          │
+│  Title: Chamber of Reflection   │
 │  Artist: Mac DeMarco            │
-│  Album: Here Comes the Cowboy   │
+│  Album: Salad Days              │
 ╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/62d26c6cb4ac4bdccb8f3a2a0fd55421.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────╮
-│              music              x │
-├───────────────────────────────────┤
-│  Title: Exit Music (for a Film)   │
-│  Artist: Radiohead                │
-│  Album: OK Computer               │
-╰───────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/788dfbc94a424d3b344aa97e68f68eed.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────────╮
+│                     music                      x │
+├──────────────────────────────────────────────────┤
+│  Title: My Love Mine All Mine                    │
+│  Artist: Mitski                                  │
+│  Album: The Land Is Inhospitable and So Are We   │
+╰──────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/37d435318d744beea7f76d55f8800cad.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────╮
-│       music        x │
-├──────────────────────┤
-│  Title: Money        │
-│  Artist: The Drums   │
-│  Album: Portamento   │
-╰──────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9dbcd9399ac3e622b4f508323155b644.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: Weird Fishes / Arpeggi   │
+│  Artist: Radiohead               │
+│  Album: In Rainbows              │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
