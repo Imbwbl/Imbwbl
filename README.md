@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: Medusa    │
-│  Artist: Saïf     │
-│  Album: L'hiver   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d16a43dbe57a444a7dbe90ddae226bae.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: Fumée noire   │
+│  Artist: DOC OVG      │
+│  Album: Fumée noire   │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b835d59990741da2a6fb917543e5ac3d.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: Magic (feat. I.A.)   │
-│  Artist: Damso               │
-│  Album: BĒYĀH                │
-╰──────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8dd7d74217644f97b98d67764af7088d.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: 3arbi Connection   │
+│  Artist: Sam               │
+│  Album: 3arbi Connection   │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/48730197da01099e15b454bc99b0612f.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: Vitrine   │
-│  Artist: Vald     │
-│  Album: Agartha   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dbabb3c34b2ac9e951232753b693167c.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: L'avalanche II   │
+│  Artist: Saïf            │
+│  Album: L'avalanche II   │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
