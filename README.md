@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d16a43dbe57a444a7dbe90ddae226bae.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Fumée noire   │
-│  Artist: DOC OVG      │
-│  Album: Fumée noire   │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8afd29b436c410f766eb7ab56edaeb3f.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: la toupiw       │
+│  Artist: TKKF           │
+│  Album: MORI! memento   │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8dd7d74217644f97b98d67764af7088d.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: 3arbi Connection   │
-│  Artist: Sam               │
-│  Album: 3arbi Connection   │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8afd29b436c410f766eb7ab56edaeb3f.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: palap papa      │
+│  Artist: TKKF           │
+│  Album: MORI! memento   │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dbabb3c34b2ac9e951232753b693167c.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: L'avalanche II   │
-│  Artist: Saïf            │
-│  Album: L'avalanche II   │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────────────────╮
+│                         music                          x │
+├──────────────────────────────────────────────────────────┤
+│  Title: miaou miaou                                      │
+│  Artist: Jima                                            │
+│  Album: techno chien : la naissance de l'enfant maudit   │
+╰──────────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
