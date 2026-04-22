@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/adb3becbca5997a4db00678293cff5cd.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: mission! FAILED   │
-│  Artist: TKKF             │
-│  Album: W1NT3R! l0ng      │
-╰───────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/adb3becbca5997a4db00678293cff5cd.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/465d9f48a1bdc4f7082a58b819de8c19.jpg" heigth="100%" align="left" />
   <pre>╭────────────────────────╮
 │        music         x │
 ├────────────────────────┤
-│  Title: SSX TRICKY     │
+│  Title: 41 shitemasu   │
 │  Artist: TKKF          │
-│  Album: W1NT3R! l0ng   │
+│  Album: T00N! w0rld    │
 ╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/adb3becbca5997a4db00678293cff5cd.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: astr0 b0y      │
-│  Artist: TKKF          │
-│  Album: W1NT3R! l0ng   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/465d9f48a1bdc4f7082a58b819de8c19.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: t4p10n        │
+│  Artist: TKKF         │
+│  Album: T00N! w0rld   │
+╰───────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/465d9f48a1bdc4f7082a58b819de8c19.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: l'0deur du v3nt!   │
+│  Artist: TKKF              │
+│  Album: T00N! w0rld        │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
