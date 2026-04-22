@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8afd29b436c410f766eb7ab56edaeb3f.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: la toupiw       │
-│  Artist: TKKF           │
-│  Album: MORI! memento   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/adb3becbca5997a4db00678293cff5cd.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: mission! FAILED   │
+│  Artist: TKKF             │
+│  Album: W1NT3R! l0ng      │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8afd29b436c410f766eb7ab56edaeb3f.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: palap papa      │
-│  Artist: TKKF           │
-│  Album: MORI! memento   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/adb3becbca5997a4db00678293cff5cd.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: SSX TRICKY     │
+│  Artist: TKKF          │
+│  Album: W1NT3R! l0ng   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────────────╮
-│                         music                          x │
-├──────────────────────────────────────────────────────────┤
-│  Title: miaou miaou                                      │
-│  Artist: Jima                                            │
-│  Album: techno chien : la naissance de l'enfant maudit   │
-╰──────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/adb3becbca5997a4db00678293cff5cd.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: astr0 b0y      │
+│  Artist: TKKF          │
+│  Album: W1NT3R! l0ng   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
