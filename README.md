@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/eec14c6a71744d85b2c4108b61276ef6.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Hey Jude       │
-│  Artist: The Beatles   │
-│  Album: Love           │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9095eedb4da8963a14508be425f6f8dd.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────────╮
+│                     music                      x │
+├──────────────────────────────────────────────────┤
+│  Title: Breakfast In America - Remastered 2026   │
+│  Artist: Supertramp                              │
+│  Album: Breakfast In America (Remastered 2026)   │
+╰──────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7fcedbba5aeb35abee6ed7d76ae602a9.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7a37895659617851adae070f2550e59c.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────────────────────────────────╮
 │                        music                        x │
 ├───────────────────────────────────────────────────────┤
-│  Title: Bohemian Rhapsody                             │
-│  Artist: Queen                                        │
-│  Album: Bohemian Rhapsody (The Original Soundtrack)   │
+│  Title: Strawberry Fields Forever - Remastered 2009   │
+│  Artist: The Beatles                                  │
+│  Album: Magical Mystery Tour (Remastered)             │
 ╰───────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a64eb1ffee9a1324da1c936a3498dc9.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Balade        │
-│  Artist: So La Lune   │
-│  Album: Tsuki         │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/11a01268e39c1c0ecb5fe8bb10b22800.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: You Really Got Me        │
+│  Artist: The Kinks               │
+│  Album: Kinks (Deluxe Edition)   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
