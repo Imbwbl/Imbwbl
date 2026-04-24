@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/cc1a1023fb93d96a155b4fff16a46da4.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/eec14c6a71744d85b2c4108b61276ef6.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Hey Jude       │
+│  Artist: The Beatles   │
+│  Album: Love           │
+╰────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/7fcedbba5aeb35abee6ed7d76ae602a9.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────────────╮
+│                        music                        x │
+├───────────────────────────────────────────────────────┤
+│  Title: Bohemian Rhapsody                             │
+│  Artist: Queen                                        │
+│  Album: Bohemian Rhapsody (The Original Soundtrack)   │
+╰───────────────────────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a64eb1ffee9a1324da1c936a3498dc9.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────╮
 │        music        x │
 ├───────────────────────┤
-│  Title: Plus Pareil   │
+│  Title: Balade        │
 │  Artist: So La Lune   │
-│  Album: Plus Pareil   │
+│  Album: Tsuki         │
 ╰───────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: juste après l'orage   │
-│  Artist: TKKF                 │
-│  Album: juste après l'orage   │
-╰───────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8a3c4f3610c1ed38d4b5fabddc37ed7b.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Boys Don't Cry         │
-│  Artist: The Cure              │
-│  Album: Three Imaginary Boys   │
-╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
