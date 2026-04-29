@@ -8,6 +8,30 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0342a250b09e9bcc1c83e8aba844d677.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: 1h55         │
+│  Artist: Tiakola     │
+│  Album: BDLM VOL.1   │
+╰──────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1b04c23215bccfe439e07f3e174db0ca.png" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Maudit     │
+│  Artist: WeRenoi   │
+│  Album: Maudit     │
+╰────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────╮
 │       music        x │
@@ -16,29 +40,5 @@
 │  Artist: Hamza       │
 │  Album: MANIA        │
 ╰──────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: CRYPTO           │
-│  Artist: La Rvfleuze     │
-│  Album: Numéro d'écrou   │
-╰──────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/aee27b266b0706e1f483644887fca3ab.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: You Stole The Show   │
-│  Artist: Sienna Spiro        │
-│  Album: You Stole The Show   │
-╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
