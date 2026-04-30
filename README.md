@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0342a250b09e9bcc1c83e8aba844d677.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/36d5df035fddbb9be8cd5d22d098bdb9.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Instanonymat #3   │
+│  Artist: Saïf             │
+│  Album: Instanonymat #3   │
+╰───────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
   <pre>╭──────────────────────╮
 │       music        x │
 ├──────────────────────┤
-│  Title: 1h55         │
-│  Artist: Tiakola     │
-│  Album: BDLM VOL.1   │
+│  Title: La bohème.   │
+│  Artist: Saïf        │
+│  Album: La bohème.   │
 ╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1b04c23215bccfe439e07f3e174db0ca.png" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Maudit     │
-│  Artist: WeRenoi   │
-│  Album: Maudit     │
-╰────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────╮
-│       music        x │
-├──────────────────────┤
-│  Title: KYKY2BONDY   │
-│  Artist: Hamza       │
-│  Album: MANIA        │
-╰──────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/bcff557340ea1cee008444b7dbfb559c.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: Les clés en main   │
+│  Artist: Fresh laDouille   │
+│  Album: Les clés en main   │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
