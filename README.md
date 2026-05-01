@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9dbcd9399ac3e622b4f508323155b644.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: Weird Fishes / Arpeggi   │
-│  Artist: Radiohead               │
-│  Album: In Rainbows              │
-╰──────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a9c961c8da0d4427b7d7a4018738f5df.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/619331e79bfadd1733158f98c1c523be.png" heigth="100%" align="left" />
   <pre>╭────────────────────────╮
 │        music         x │
 ├────────────────────────┤
-│  Title: Reptilia       │
-│  Artist: The Strokes   │
-│  Album: Room on Fire   │
+│  Title: Fashionistar   │
+│  Artist: 55ASKY        │
+│  Album: Fashionistar   │
 ╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/66663ddc6d1446c7cd90a4e7b489741a.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: rises the moon   │
-│  Artist: Liana Flores    │
-│  Album: recently         │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Bekamine   │
+│  Artist: 55ASKY    │
+│  Album: Volim te   │
+╰────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f28dc346d76912c5141d1bce195afa81.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────╮
+│               music               x │
+├─────────────────────────────────────┤
+│  Title: Heart-Shaped Box            │
+│  Artist: Nirvana                    │
+│  Album: In Utero (Deluxe Edition)   │
+╰─────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
