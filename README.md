@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/619331e79bfadd1733158f98c1c523be.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Fashionistar   │
-│  Artist: 55ASKY        │
-│  Album: Fashionistar   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: MEMENTO   │
+│  Artist: 55ASKY   │
+│  Album: TAEDIUM   │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Bekamine   │
-│  Artist: 55ASKY    │
-│  Album: Volim te   │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: .4h du mat.   │
+│  Artist: Lushe        │
+│  Album: .4h du mat.   │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f28dc346d76912c5141d1bce195afa81.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────╮
-│               music               x │
-├─────────────────────────────────────┤
-│  Title: Heart-Shaped Box            │
-│  Artist: Nirvana                    │
-│  Album: In Utero (Deluxe Edition)   │
-╰─────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Un peu de haine   │
+│  Artist: PLK              │
+│  Album: Mental            │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
