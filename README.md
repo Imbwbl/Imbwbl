@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3c1e15ec9e463e8387ebfcdafcc44707.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: Rendez-vous fenêtre   │
-│  Artist: A6el                 │
-│  Album: Station Paradiso      │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Dans le vide   │
+│  Artist: Josman        │
+│  Album: Matrix         │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────╮
-│                 music                  x │
-├──────────────────────────────────────────┤
-│  Title: TU DEVIENS QUOI EN CE MOMENT ?   │
-│  Artist: poissonchat                     │
-│  Album: TU DEVIENS QUOI EN CE MOMENT ?   │
-╰──────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: BabyGirl   │
+│  Artist: Josman    │
+│  Album: Split      │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Dyonysos               │
-│  Artist: Jungle Jack           │
-│  Album: Cognacs & Cigarettes   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────╮
+│                    music                    x │
+├───────────────────────────────────────────────┤
+│  Title: Peace, Haine, Love                    │
+│  Artist: Josman                               │
+│  Album: M.A.N (Black Roses & Lost Feelings)   │
+╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
