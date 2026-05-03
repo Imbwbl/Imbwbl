@@ -8,23 +8,11 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────╮
-│       music        x │
-├──────────────────────┤
-│  Title: Légendaire   │
-│  Artist: Jul         │
-│  Album: Légendaire   │
-╰──────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────────────────╮
 │                   music                   x │
 ├─────────────────────────────────────────────┤
-│  Title: Peur noire - Remasterisé            │
+│  Title: L'enfant seul - Remasterisé         │
 │  Artist: Oxmo Puccino                       │
 │  Album: Opéra Puccino (Edition Collector)   │
 ╰─────────────────────────────────────────────╯</pre>
@@ -32,13 +20,25 @@
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/84d4fb6138666ded6e63cab00971f6aa.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Titi parisien - Remix   │
-│  Artist: Seth Gueko             │
-│  Album: TITI PARISIEN 2         │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c76ed1ad4d027bc46b9e771efe5f59b6.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────╮
+│            music            x │
+├───────────────────────────────┤
+│  Title: Zendaya dans Dune 2   │
+│  Artist: Zuukou Mayzie        │
+│  Album: 19h19                 │
+╰───────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c512c61fb347350a58f84fac7e40df51.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: Bal De Bamako   │
+│  Artist: Lamomali       │
+│  Album: Lamomali        │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
