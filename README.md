@@ -12,7 +12,7 @@
   <pre>╭────────────────────╮
 │      music       x │
 ├────────────────────┤
-│  Title: Krush      │
+│  Title: Lost u     │
 │  Artist: 55ASKY    │
 │  Album: Volim te   │
 ╰────────────────────╯</pre>
@@ -20,25 +20,25 @@
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9b1d1d6238d4ab0e9f28946fa6c62f8d.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: W4NTED PET4SSE         │
-│  Artist: GU1T4R                │
-│  Album: MUSICINTHESTUD vol.1   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: Gravity falls   │
+│  Artist: 55ASKY         │
+│  Album: Volim te        │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: Joli doll   │
-│  Artist: 55ASKY     │
-│  Album: Volim te    │
-╰─────────────────────╯</pre>
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Volim te   │
+│  Artist: 55ASKY    │
+│  Album: Volim te   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
