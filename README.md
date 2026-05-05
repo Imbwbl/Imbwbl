@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────╮
+│                    music                    x │
+├───────────────────────────────────────────────┤
+│  Title: Peace, Haine, Love                    │
+│  Artist: Josman                               │
+│  Album: M.A.N (Black Roses & Lost Feelings)   │
+╰───────────────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth="100%" align="left" />
   <pre>╭────────────────────╮
 │      music       x │
@@ -28,17 +40,5 @@
 │  Artist: RSKO          │
 │  Album: Jeune prince   │
 ╰────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: My love (feat. Tayc)   │
-│  Artist: Josman                │
-│  Album: My love (feat. Tayc)   │
-╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
