@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9667fae38fab352113832050f2cc2b65.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────────╮
 │         music          x │
 ├──────────────────────────┤
-│  Title: POIL DE SIFAKA   │
-│  Artist: 55ASKY          │
-│  Album: TAEDIUM          │
+│  Title: Kaboul Kitchen   │
+│  Artist: H JeuneCrack    │
+│  Album: 1er mouvement    │
 ╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/598d6b3dcb1a04c5d9c2a2bc1cfacc90.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: PLÜG        │
-│  Artist: 55ASKY     │
-│  Album: DAS ㋡JEMI   │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────────╮
+│                     music                      x │
+├──────────────────────────────────────────────────┤
+│  Title: Le riz et la sauce                       │
+│  Artist: BEN plg                                 │
+│  Album: Paraît que les miracles n'existent pas   │
+╰──────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d78523822932ae7af4635ed175771900.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Stephanie         │
-│  Artist: Nafeesisboujee   │
-│  Album: Stephanie         │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/48730197da01099e15b454bc99b0612f.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Vitrine   │
+│  Artist: Vald     │
+│  Album: Agartha   │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
