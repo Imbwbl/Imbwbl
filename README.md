@@ -8,26 +8,26 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/bc58c88fe56ccca034cf13e84041a8ed.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: Les Enfants Perdus   │
-│  Artist: Rim'K               │
-│  Album: Les Enfants Perdus   │
-╰──────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: But en or               │
+│  Artist: Isha                   │
+│  Album: Bitume Caviar (Vol.1)   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/352cf2a16173c420d004c5a8b05cb0ac.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: Trucs sentimentaux   │
-│  Artist: BEN plg             │
-│  Album: Trucs sentimentaux   │
-╰──────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Le plan A               │
+│  Artist: Isha                   │
+│  Album: Bitume Caviar (Vol.1)   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
@@ -36,7 +36,7 @@
   <pre>╭─────────────────────────────────╮
 │             music             x │
 ├─────────────────────────────────┤
-│  Title: Fin de ce monde         │
+│  Title: Maître-nageur           │
 │  Artist: Isha                   │
 │  Album: Bitume Caviar (vol.2)   │
 ╰─────────────────────────────────╯</pre>
