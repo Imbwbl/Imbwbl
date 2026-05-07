@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Dans 10 Ans     │
-│  Artist: Guizmo         │
-│  Album: Dans ma ruche   │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5a23956df65d9581338e0e71db00d79a.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────────────────────────╮
+│                        music                         x │
+├────────────────────────────────────────────────────────┤
+│  Title: Another One Bites The Dust - Remastered 2011   │
+│  Artist: Queen                                         │
+│  Album: The Game (2011 Remaster)                       │
+╰────────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/acb36aaf19af99887b823c8263525db9.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Offshore   │
-│  Artist: Vald      │
-│  Album: XEU        │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/de361a68c39e4468c4df73fb3c8ae178.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────────────╮
+│                  music                   x │
+├────────────────────────────────────────────┤
+│  Title: Under Pressure - Remastered 2011   │
+│  Artist: Queen                             │
+│  Album: Hot Space (2011 Remaster)          │
+╰────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────╮
-│                     music                      x │
-├──────────────────────────────────────────────────┤
-│  Title: Béni                                     │
-│  Artist: BEN plg                                 │
-│  Album: Paraît que les miracles n'existent pas   │
-╰──────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d9645ba9592445b1c5c35e1990c6964f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────╮
+│                    music                    x │
+├───────────────────────────────────────────────┤
+│  Title: Don't Stop Me Now - Remastered 2011   │
+│  Artist: Queen                                │
+│  Album: Jazz (2011 Remaster)                  │
+╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
