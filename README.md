@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Ailleurs   │
-│  Artist: Josman    │
-│  Album: J.000.$    │
-╰────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0800ff6752d42fcbdc9d4f318bf8a2e8.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Boussole       │
-│  Artist: RSKO          │
-│  Album: Jeune prince   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: Chanson triste (feat. a6el)   │
+│  Artist: Lujipeka                     │
+│  Album: Chanson triste (feat. a6el)   │
+╰───────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: My love (feat. Tayc)   │
-│  Artist: Josman                │
-│  Album: My love (feat. Tayc)   │
-╰────────────────────────────────╯</pre>
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: Chanson triste (feat. a6el)   │
+│  Artist: Lujipeka                     │
+│  Album: Chanson triste (feat. a6el)   │
+╰───────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c6d5cfafb463873874f5bc64c2160809.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Señorita   │
+│  Artist: Josman    │
+│  Album: HHHH       │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
