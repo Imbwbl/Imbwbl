@@ -8,14 +8,26 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────╮
-│           music           x │
-├─────────────────────────────┤
-│  Title: Tant qu'on est là   │
-│  Artist: Hugo TSR           │
-│  Album: Tant qu'on est là   │
-╰─────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: André           │
+│  Artist: Guizmo         │
+│  Album: Dans ma ruche   │
+╰─────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Γ. Mosaïque solitaire   │
+│  Artist: Damso                  │
+│  Album: Ipséité                 │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
@@ -24,21 +36,9 @@
   <pre>╭───────────────────╮
 │      music      x │
 ├───────────────────┤
-│  Title: Acacia    │
+│  Title: Neo       │
 │  Artist: Vald     │
 │  Album: Agartha   │
 ╰───────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3c908e432c50ddd6e37177c4714d6473.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Minimum !       │
-│  Artist: Bigflo & Oli   │
-│  Album: KARMA           │
-╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
