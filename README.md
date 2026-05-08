@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: André           │
-│  Artist: Guizmo         │
-│  Album: Dans ma ruche   │
-╰─────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/22483a3da51b4671d94aab7195b77300.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────╮
 │             music             x │
 ├─────────────────────────────────┤
-│  Title: Γ. Mosaïque solitaire   │
-│  Artist: Damso                  │
-│  Album: Ipséité                 │
+│  Title: IMMUNITÉ DIPLOMATIQUE   │
+│  Artist: Deen Burbigo           │
+│  Album: CERCLE VERTUEUX         │
 ╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/48730197da01099e15b454bc99b0612f.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: Neo       │
-│  Artist: Vald     │
-│  Album: Agartha   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c5c694d3e96dbe60ef085bd42f9efa2b.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Humains - Bonus Track   │
+│  Artist: Damso                  │
+│  Album: Lithopédion             │
+╰─────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ec2c4a3381f7318966fb0da135626a02.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: Aviator     │
+│  Artist: Hugo TSR   │
+│  Album: La Pluie    │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
