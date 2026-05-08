@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────╮
-│                music                x │
-├───────────────────────────────────────┤
-│  Title: Chanson triste (feat. a6el)   │
-│  Artist: Lujipeka                     │
-│  Album: Chanson triste (feat. a6el)   │
-╰───────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: J'AIME BIEN!   │
+│  Artist: Josman        │
+│  Album: J.O.$          │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────╮
-│                music                x │
-├───────────────────────────────────────┤
-│  Title: Chanson triste (feat. a6el)   │
-│  Artist: Lujipeka                     │
-│  Album: Chanson triste (feat. a6el)   │
-╰───────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────╮
+│                    music                    x │
+├───────────────────────────────────────────────┤
+│  Title: Intro                                 │
+│  Artist: Josman                               │
+│  Album: M.A.N (Black Roses & Lost Feelings)   │
+╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────╮
-│                music                x │
-├───────────────────────────────────────┤
-│  Title: Chanson triste (feat. a6el)   │
-│  Artist: Lujipeka                     │
-│  Album: Chanson triste (feat. a6el)   │
-╰───────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: MACRO                   │
+│  Artist: Alpha Wann             │
+│  Album: UNE MAIN LAVE L'AUTRE   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
