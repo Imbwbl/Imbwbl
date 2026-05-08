@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: J'AIME BIEN!   │
-│  Artist: Josman        │
-│  Album: J.O.$          │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: Tant qu'on est là   │
+│  Artist: Hugo TSR           │
+│  Album: Tant qu'on est là   │
+╰─────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────────────╮
-│                    music                    x │
-├───────────────────────────────────────────────┤
-│  Title: Intro                                 │
-│  Artist: Josman                               │
-│  Album: M.A.N (Black Roses & Lost Feelings)   │
-╰───────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/48730197da01099e15b454bc99b0612f.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Acacia    │
+│  Artist: Vald     │
+│  Album: Agartha   │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: MACRO                   │
-│  Artist: Alpha Wann             │
-│  Album: UNE MAIN LAVE L'AUTRE   │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3c908e432c50ddd6e37177c4714d6473.png" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: Minimum !       │
+│  Artist: Bigflo & Oli   │
+│  Album: KARMA           │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
