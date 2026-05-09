@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2eb86f948e00bc7e672576e56491a387.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Batman         │
-│  Artist: Bu$hi         │
-│  Album: Bushi Tape 3   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ec08eb24ac5939202b2bd7da1f30b696.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────╮
+│            music            x │
+├───────────────────────────────┤
+│  Title: Ivy                   │
+│  Artist: baby hayabusa        │
+│  Album: Deadly Poison Sting   │
+╰───────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ce7e3fc4255f49c07338f04ba6ccf693.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────╮
 │             music             x │
 ├─────────────────────────────────┤
-│  Title: Trafics locaux          │
-│  Artist: Isha                   │
-│  Album: Bitume Caviar (vol.2)   │
+│  Title: Étoiles et satellites   │
+│  Artist: BEN plg                │
+│  Album: Dire je t'aime          │
 ╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6bfe91da4b689f903c85d7dd7ab4da2e.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: sonata     │
-│  Artist: FEMTOGO   │
-│  Album: archives   │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: i.think   │
+│  Artist: Mairo    │
+│  Album: LA FIEV   │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
