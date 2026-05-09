@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────╮
-│               music                x │
-├──────────────────────────────────────┤
-│  Title: LE CHEMIN                    │
-│  Artist: Jungle Jack                 │
-│  Album: JUNGLE DES ILLUSIONS VOL 2   │
-╰──────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2eb86f948e00bc7e672576e56491a387.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Batman         │
+│  Artist: Bu$hi         │
+│  Album: Bushi Tape 3   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/db4cda2743e9121d61e5a1d5a00e7059.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: NOUVO GROOVE      │
-│  Artist: Ino Casablanca   │
-│  Album: TAMARA            │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ce7e3fc4255f49c07338f04ba6ccf693.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Trafics locaux          │
+│  Artist: Isha                   │
+│  Album: Bitume Caviar (vol.2)   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b0292ba2c9e13dfb812e9f5a4999dd8a.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Superman      │
-│  Artist: Vald         │
-│  Album: Pandemonium   │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6bfe91da4b689f903c85d7dd7ab4da2e.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: sonata     │
+│  Artist: FEMTOGO   │
+│  Album: archives   │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
