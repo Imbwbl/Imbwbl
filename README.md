@@ -12,7 +12,7 @@
   <pre>╭───────────────────────────────────────╮
 │                music                x │
 ├───────────────────────────────────────┤
-│  Title: PLATINUM SNIPER               │
+│  Title: NEW VILLA                     │
 │  Artist: Josman                       │
 │  Album: DOM PERIGNON CRYING (Bonus)   │
 ╰───────────────────────────────────────╯</pre>
@@ -24,7 +24,7 @@
   <pre>╭───────────────────────────────────────╮
 │                music                x │
 ├───────────────────────────────────────┤
-│  Title: SPOTLIGHTS                    │
+│  Title: Le Crapaud                    │
 │  Artist: Josman                       │
 │  Album: DOM PERIGNON CRYING (Bonus)   │
 ╰───────────────────────────────────────╯</pre>
@@ -36,7 +36,7 @@
   <pre>╭───────────────────────────────────────╮
 │                music                x │
 ├───────────────────────────────────────┤
-│  Title: DOM PERIGNON CRYING           │
+│  Title: SLOPPY TOPPY (feat. HAMZA)    │
 │  Artist: Josman                       │
 │  Album: DOM PERIGNON CRYING (Bonus)   │
 ╰───────────────────────────────────────╯</pre>
