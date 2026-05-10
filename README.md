@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ec2c4a3381f7318966fb0da135626a02.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: La Pluie    │
-│  Artist: Hugo TSR   │
-│  Album: La Pluie    │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/922f9626fc2d35b39569c733c5b877b9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: PLATINUM SNIPER               │
+│  Artist: Josman                       │
+│  Album: DOM PERIGNON CRYING (Bonus)   │
+╰───────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ec2c4a3381f7318966fb0da135626a02.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: Lake City   │
-│  Artist: Hugo TSR   │
-│  Album: La Pluie    │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/922f9626fc2d35b39569c733c5b877b9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: SPOTLIGHTS                    │
+│  Artist: Josman                       │
+│  Album: DOM PERIGNON CRYING (Bonus)   │
+╰───────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ec2c4a3381f7318966fb0da135626a02.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Mauvais endroit   │
-│  Artist: Hugo TSR         │
-│  Album: La Pluie          │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/922f9626fc2d35b39569c733c5b877b9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: DOM PERIGNON CRYING           │
+│  Artist: Josman                       │
+│  Album: DOM PERIGNON CRYING (Bonus)   │
+╰───────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
