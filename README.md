@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Luc Besson        │
-│  Artist: So La Lune       │
-│  Album: Nouveau Produit   │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b93a2a08b3b83a28c47c7a90647405ed.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: Outrow       │
+│  Artist: Makala      │
+│  Album: Chaos Kiss   │
+╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/80f256e56b1043cdbb99da3ac4dd69a0.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Someday        │
-│  Artist: The Strokes   │
-│  Album: Is This It     │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/acb36aaf19af99887b823c8263525db9.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Possédé   │
+│  Artist: Vald     │
+│  Album: XEU       │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────╮
-│                music                x │
-├───────────────────────────────────────┤
-│  Title: Chanson triste (feat. a6el)   │
-│  Artist: Lujipeka                     │
-│  Album: Chanson triste (feat. a6el)   │
-╰───────────────────────────────────────╯</pre>
+  <pre>╭────────────────────────────────────╮
+│              music               x │
+├────────────────────────────────────┤
+│  Title: V6V12                      │
+│  Artist: Metanoia                  │
+│  Album: METANOIA VOL.1 : PAULINE   │
+╰────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
