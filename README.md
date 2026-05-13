@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3c1e15ec9e463e8387ebfcdafcc44707.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────╮
+│            music            x │
+├───────────────────────────────┤
+│  Title: Rendez-vous fenêtre   │
+│  Artist: A6el                 │
+│  Album: Station Paradiso      │
+╰───────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────╮
-│                music                x │
-├───────────────────────────────────────┤
-│  Title: Chanson triste (feat. a6el)   │
-│  Artist: Lujipeka                     │
-│  Album: Chanson triste (feat. a6el)   │
-╰───────────────────────────────────────╯</pre>
+  <pre>╭──────────────────────────────────────────╮
+│                 music                  x │
+├──────────────────────────────────────────┤
+│  Title: TU DEVIENS QUOI EN CE MOMENT ?   │
+│  Artist: poissonchat                     │
+│  Album: TU DEVIENS QUOI EN CE MOMENT ?   │
+╰──────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Luc Besson        │
-│  Artist: So La Lune       │
-│  Album: Nouveau Produit   │
-╰───────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f8b30f540c824e0c9f0cf06a0e53fa98.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: Sales babtous d'négros   │
-│  Artist: Guizmo                  │
-│  Album: Normal                   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────╮
+│            music             x │
+├────────────────────────────────┤
+│  Title: Dyonysos               │
+│  Artist: Jungle Jack           │
+│  Album: Cognacs & Cigarettes   │
+╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
