@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3c1e15ec9e463e8387ebfcdafcc44707.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: Rendez-vous fenêtre   │
-│  Artist: A6el                 │
-│  Album: Station Paradiso      │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a01a207b500fc4c19927bf3f4a7b66d5.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: Le taf du loup   │
+│  Artist: Saïf            │
+│  Album: Le taf du loup   │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────╮
-│                 music                  x │
-├──────────────────────────────────────────┤
-│  Title: TU DEVIENS QUOI EN CE MOMENT ?   │
-│  Artist: poissonchat                     │
-│  Album: TU DEVIENS QUOI EN CE MOMENT ?   │
-╰──────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f6d7498c6f3416ce3d2d1d53e6c492dd.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Midi minuit       │
+│  Artist: Moha La Squale   │
+│  Album: Midi minuit       │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Dyonysos               │
-│  Artist: Jungle Jack           │
-│  Album: Cognacs & Cigarettes   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: paramount   │
+│  Artist: Mairo      │
+│  Album: LA FIEV     │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
