@@ -8,6 +8,30 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: Chanson triste (feat. a6el)   │
+│  Artist: Lujipeka                     │
+│  Album: Chanson triste (feat. a6el)   │
+╰───────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ff18c3c08f0e1c85d62eeee24d1154e9.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: If Only       │
+│  Artist: The Marías   │
+│  Album: Submarine     │
+╰───────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/8c82dde2070afa0312be9826f81e7d93.png" heigth="100%" align="left" />
   <pre>╭───────────────────╮
 │      music      x │
@@ -15,30 +39,6 @@
 │  Title: TKKASKY   │
 │  Artist: TKKF     │
 │  Album: TKKASKY   │
-╰───────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6bba926d2812d76e471836d8ece2e653.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: La fille de Pastel   │
-│  Artist: 55ASKY              │
-│  Album: La fille de Pastel   │
-╰──────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f2ca525150a1b86bc3d5ea06f9bda242.png" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: T55F      │
-│  Artist: 55ASKY   │
-│  Album: T55F      │
 ╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
