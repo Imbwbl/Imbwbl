@@ -8,6 +8,30 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/88cfbbbdafdd4617748de786b46a8524.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: BLUESTORM   │
+│  Artist: TH         │
+│  Album: E-TRAP      │
+╰─────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ae109c5d082da27bf608024344516b6c.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────╮
+│                   music                    x │
+├──────────────────────────────────────────────┤
+│  Title: Mes fans - Remasterisé               │
+│  Artist: Oxmo Puccino                        │
+│  Album: Le cactus de Sibérie (Remasterisé)   │
+╰──────────────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/a01a207b500fc4c19927bf3f4a7b66d5.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────────╮
 │         music          x │
@@ -16,29 +40,5 @@
 │  Artist: Saïf            │
 │  Album: Le taf du loup   │
 ╰──────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f6d7498c6f3416ce3d2d1d53e6c492dd.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Midi minuit       │
-│  Artist: Moha La Squale   │
-│  Album: Midi minuit       │
-╰───────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: paramount   │
-│  Artist: Mairo      │
-│  Album: LA FIEV     │
-╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
