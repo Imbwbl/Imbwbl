@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/27bc7abde5e6861d961bf2ddb46060ce.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────╮
+│           music            x │
+├──────────────────────────────┤
+│  Title: AFFRANCHIS           │
+│  Artist: SDM                 │
+│  Album: A LA VIE A LA MORT   │
+╰──────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────────╮
 │         music          x │
@@ -27,18 +39,6 @@
 │  Title: SUD DE LA FRANCE   │
 │  Artist: yvnnis            │
 │  Album: DND                │
-╰────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/62e4b5e3a6bcaba85336d8cfc6147602.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: Freeze Raël        │
-│  Artist: Freeze Corleone   │
-│  Album: LMF                │
 ╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
