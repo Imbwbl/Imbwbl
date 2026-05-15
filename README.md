@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/80f256e56b1043cdbb99da3ac4dd69a0.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/760aa72d261ceb9554ff1d754d5de634.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: Soleil levant       │
+│  Artist: Orelsan            │
+│  Album: La fuite en avant   │
+╰─────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────╮
+│       music        x │
+├──────────────────────┤
+│  Title: KYKY2BONDY   │
+│  Artist: Hamza       │
+│  Album: MANIA        │
+╰──────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/32395a7bb18534ceb6983151d082b06c.jpg" heigth="100%" align="left" />
   <pre>╭────────────────────────╮
 │        music         x │
 ├────────────────────────┤
-│  Title: Someday        │
-│  Artist: The Strokes   │
-│  Album: Is This It     │
+│  Title: Serrure #5     │
+│  Artist: La Rvfleuze   │
+│  Album: Serrure #5     │
 ╰────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f8b772fdce8284a7c20cc254c7b32796.png" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Dumb       │
-│  Artist: Nirvana   │
-│  Album: In Utero   │
-╰────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d070e505cdab4b27cb39bfe28eb63343.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Come a Little Closer   │
-│  Artist: Cage the Elephant     │
-│  Album: Melophobia             │
-╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
