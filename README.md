@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d2389b806dd5061b6a75e360c4c46c88.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Bags       │
+│  Artist: Clairo    │
+│  Album: Immunity   │
+╰────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/93fe3c819e6073e735f7571929ffed8f.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────╮
 │       music       x │
@@ -28,17 +40,5 @@
 │  Artist: Clairo       │
 │  Album: Pretty Girl   │
 ╰───────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/87b44d37982e08d94b543a52e96c92f8.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────╮
-│       music        x │
-├──────────────────────┤
-│  Title: bubble gum   │
-│  Artist: Clairo      │
-│  Album: bubble gum   │
-╰──────────────────────╯</pre>
 </div>
 <br clear="left"/>
