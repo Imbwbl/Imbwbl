@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/77637bc1ad24780825d2d851efe70c4d.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────╮
 │             music             x │
 ├─────────────────────────────────┤
-│  Title: Pommeau de douche       │
+│  Title: Le chant des cigales    │
 │  Artist: Isha                   │
-│  Album: Bitume Caviar (vol.2)   │
+│  Album: Bitume Caviar (Vol.1)   │
 ╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3aa2e6be46c5ec320e85a90e84a77842.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────╮
-│              music               x │
-├────────────────────────────────────┤
-│  Title: Comme une ombre ft. PEET   │
-│  Artist: Absolem                   │
-│  Album: Champagne en canette       │
-╰────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2e3321641151b733459b47aabe24edf4.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────╮
+│        music        x │
+├───────────────────────┤
+│  Title: Déconseillé   │
+│  Artist: JeanJass     │
+│  Album: Hat Trick     │
+╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b976d6ad527ee180cf385f6fcda56fee.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: VONGOLE     │
-│  Artist: JeanJass   │
-│  Album: Grünt #71   │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a87ad4fed73c9a80d4838ac4ddea2685.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: GARE DU NORD            │
+│  Artist: yvnnis                 │
+│  Album: L'AFRO OU LES TRESSES   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
