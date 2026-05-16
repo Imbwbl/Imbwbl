@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d2389b806dd5061b6a75e360c4c46c88.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Bags       │
-│  Artist: Clairo    │
-│  Album: Immunity   │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/77637bc1ad24780825d2d851efe70c4d.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Pommeau de douche       │
+│  Artist: Isha                   │
+│  Album: Bitume Caviar (vol.2)   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/93fe3c819e6073e735f7571929ffed8f.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3aa2e6be46c5ec320e85a90e84a77842.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────╮
+│              music               x │
+├────────────────────────────────────┤
+│  Title: Comme une ombre ft. PEET   │
+│  Artist: Absolem                   │
+│  Album: Champagne en canette       │
+╰────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b976d6ad527ee180cf385f6fcda56fee.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────╮
 │       music       x │
 ├─────────────────────┤
-│  Title: Hello?      │
-│  Artist: Clairo     │
-│  Album: diary 001   │
+│  Title: VONGOLE     │
+│  Artist: JeanJass   │
+│  Album: Grünt #71   │
 ╰─────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2805853d6bb608c5ff0dd640e09b06b8.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Pretty Girl   │
-│  Artist: Clairo       │
-│  Album: Pretty Girl   │
-╰───────────────────────╯</pre>
 </div>
 <br clear="left"/>
