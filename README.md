@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d82e40b068c2797185564662c075e32.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────╮
-│           music           x │
-├─────────────────────────────┤
-│  Title: PHOBOS              │
-│  Artist: Jeune Mort         │
-│  Album: DEMAIN EST ANNULÉ   │
-╰─────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e8a67d3605105017688e1bbfedec7066.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────╮
+│              music               x │
+├────────────────────────────────────┤
+│  Title: MME. RIFFAUD               │
+│  Artist: FEMTOGO                   │
+│  Album: FRANCS-TIREURS PARTISANS   │
+╰────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────╮
-│                     music                      x │
-├──────────────────────────────────────────────────┤
-│  Title: Bague en plaqué                          │
-│  Artist: BEN plg                                 │
-│  Album: Paraît que les miracles n'existent pas   │
-╰──────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f887032aa9975be8a87c53fd67d05e96.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────╮
+│           music            x │
+├──────────────────────────────┤
+│  Title: Piscine intérieure   │
+│  Artist: H JeuneCrack        │
+│  Album: 2ème Mouvement       │
+╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/51133299e1e2b05aac244ba27a5d4a30.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────╮
-│               music                x │
-├──────────────────────────────────────┤
-│  Title: Compliqué                    │
-│  Artist: Jewel Usain                 │
-│  Album: Où les garçons grandissent   │
-╰──────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/baf227451636ea0acbd3828b49db2a65.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────╮
+│         music          x │
+├──────────────────────────┤
+│  Title: REMÈDE           │
+│  Artist: unfamouslouie   │
+│  Album: FREE UNFAMOUS    │
+╰──────────────────────────╯</pre>
 </div>
 <br clear="left"/>
