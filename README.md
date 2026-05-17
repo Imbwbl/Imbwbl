@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d82e40b068c2797185564662c075e32.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: PHOBOS              │
+│  Artist: Jeune Mort         │
+│  Album: DEMAIN EST ANNULÉ   │
+╰─────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────────────────────────────────╮
 │                     music                      x │
@@ -28,17 +40,5 @@
 │  Artist: Jewel Usain                 │
 │  Album: Où les garçons grandissent   │
 ╰──────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: CR600 - Bonus Track     │
-│  Artist: Isha                   │
-│  Album: Bitume Caviar (Vol.1)   │
-╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
