@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e8a67d3605105017688e1bbfedec7066.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────╮
-│              music               x │
-├────────────────────────────────────┤
-│  Title: MME. RIFFAUD               │
-│  Artist: FEMTOGO                   │
-│  Album: FRANCS-TIREURS PARTISANS   │
-╰────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3a45f08c32702b682d944b15bad8e0d9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────────────╮
+│                        music                        x │
+├───────────────────────────────────────────────────────┤
+│  Title: Who Lives, Who Dies, Who Tells Your Story     │
+│  Artist: Original Broadway Cast of Hamilton           │
+│  Album: Hamilton (Original Broadway Cast Recording)   │
+╰───────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f887032aa9975be8a87c53fd67d05e96.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: Piscine intérieure   │
-│  Artist: H JeuneCrack        │
-│  Album: 2ème Mouvement       │
-╰──────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: Chanson triste (feat. a6el)   │
+│  Artist: Lujipeka                     │
+│  Album: Chanson triste (feat. a6el)   │
+╰───────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/baf227451636ea0acbd3828b49db2a65.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: REMÈDE           │
-│  Artist: unfamouslouie   │
-│  Album: FREE UNFAMOUS    │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────╮
+│                 music                  x │
+├──────────────────────────────────────────┤
+│  Title: TU DEVIENS QUOI EN CE MOMENT ?   │
+│  Artist: poissonchat                     │
+│  Album: TU DEVIENS QUOI EN CE MOMENT ?   │
+╰──────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
