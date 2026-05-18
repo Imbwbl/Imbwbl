@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4822b8c62e382da54fba5adb646ee147.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────╮
-│                 music                 x │
-├─────────────────────────────────────────┤
-│  Title: Ain't No Mountain High Enough   │
-│  Artist: Marvin Gaye                    │
-│  Album: United                          │
-╰─────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dbbc252bcb92b4757a8114a64c86cbee.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Chant du cygne          │
+│  Artist: Caballero & JeanJass   │
+│  Album: ZushiBoyz Vol.1         │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: GEPETTO     │
-│  Artist: Bu$hi      │
-│  Album: GRÜNT #60   │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ce7e3fc4255f49c07338f04ba6ccf693.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Trafics locaux          │
+│  Artist: Isha                   │
+│  Album: Bitume Caviar (vol.2)   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/187d82bdf848f8c768c385457e80061a.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────╮
-│                 music                 x │
-├─────────────────────────────────────────┤
-│  Title: Le remède                       │
-│  Artist: Luidji                         │
-│  Album: Tristesse Business : Saison 1   │
-╰─────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3aa2e6be46c5ec320e85a90e84a77842.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: Nieuport Beach Ft. BEN PLG   │
+│  Artist: Absolem                     │
+│  Album: Champagne en canette         │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
