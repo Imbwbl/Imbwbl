@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dbbc252bcb92b4757a8114a64c86cbee.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Chant du cygne          │
-│  Artist: Caballero & JeanJass   │
-│  Album: ZushiBoyz Vol.1         │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f2ca525150a1b86bc3d5ea06f9bda242.png" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: T55F      │
+│  Artist: 55ASKY   │
+│  Album: T55F      │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ce7e3fc4255f49c07338f04ba6ccf693.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Trafics locaux          │
-│  Artist: Isha                   │
-│  Album: Bitume Caviar (vol.2)   │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a30f82f0e68dd016568fb023a63a30dd.png" heigth="100%" align="left" />
+  <pre>╭─────────────────╮
+│     music     x │
+├─────────────────┤
+│  Title: cr0c0   │
+│  Artist: TKKF   │
+│  Album: cr0c0   │
+╰─────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3aa2e6be46c5ec320e85a90e84a77842.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────╮
-│               music                x │
-├──────────────────────────────────────┤
-│  Title: Nieuport Beach Ft. BEN PLG   │
-│  Artist: Absolem                     │
-│  Album: Champagne en canette         │
-╰──────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9b1d1d6238d4ab0e9f28946fa6c62f8d.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────╮
+│            music             x │
+├────────────────────────────────┤
+│  Title: W4NTED PET4SSE         │
+│  Artist: GU1T4R                │
+│  Album: MUSICINTHESTUD vol.1   │
+╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
