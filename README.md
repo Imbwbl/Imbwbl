@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Pocahontas     │
-│  Artist: PLK           │
-│  Album: Grand Garçon   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: TIM€      │
+│  Artist: Josman   │
+│  Album: J.O.$     │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a64f7ded2e9560ee0a94bad40ea2904e.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: lyria      │
-│  Artist: Tom D.    │
-│  Album: älska 44   │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Stupéfiant et noir      │
+│  Artist: Alpha Wann             │
+│  Album: UNE MAIN LAVE L'AUTRE   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/23bd9aaa85c7337d6ee2076c6e380026.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────────╮
-│                   music                   x │
-├─────────────────────────────────────────────┤
-│  Title: Where Is My Mind? - 2007 Remaster   │
-│  Artist: Pixies                             │
-│  Album: Surfer Rosa (2007 Remaster)         │
-╰─────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: soldat tue soldat        │
+│  Artist: Alpha Wann              │
+│  Album: don dada mixtape vol 1   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
