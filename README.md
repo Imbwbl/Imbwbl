@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: P&P                   │
-│  Artist: aupinard             │
-│  Album: spleen. social club   │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Un peu de haine   │
+│  Artist: PLK              │
+│  Album: Mental            │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────────────╮
-│                    music                    x │
-├───────────────────────────────────────────────┤
-│  Title: Intro                                 │
-│  Artist: Josman                               │
-│  Album: M.A.N (Black Roses & Lost Feelings)   │
-╰───────────────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth="100%" align="left" />
   <pre>╭────────────────────╮
 │      music       x │
 ├────────────────────┤
-│  Title: Ailleurs   │
+│  Title: BabyGirl   │
 │  Artist: Josman    │
-│  Album: J.000.$    │
+│  Album: Split      │
 ╰────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: 2cm à l'heure           │
+│  Artist: Oxmo Puccino           │
+│  Album: LA HAUTEUR DE LA LUNE   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
