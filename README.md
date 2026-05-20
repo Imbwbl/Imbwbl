@@ -8,25 +8,25 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Un peu de haine   │
-│  Artist: PLK              │
-│  Album: Mental            │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b5dbc1e85590e74344829c08f45b3ff8.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────────╮
+│                      music                      x │
+├───────────────────────────────────────────────────┤
+│  Title: Ils me rient tous au nez - live version   │
+│  Artist: Theodora                                 │
+│  Album: MEGA BBL                                  │
+╰───────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/73cca8b4f4c0ad3bb0ce2e8c66f49a0b.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────────────╮
 │           music            x │
 ├──────────────────────────────┤
-│  Title: Émotif (Booska 1H)   │
-│  Artist: PLK                 │
-│  Album: Polak                │
+│  Title: conflict             │
+│  Artist: siromaru + cranky   │
+│  Album: conflict             │
 ╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
@@ -36,7 +36,7 @@
   <pre>╭──────────────────────────────────╮
 │             music              x │
 ├──────────────────────────────────┤
-│  Title: soldat tue soldat        │
+│  Title: philly flingo            │
 │  Artist: Alpha Wann              │
 │  Album: don dada mixtape vol 1   │
 ╰──────────────────────────────────╯</pre>
