@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: philly flingo            │
-│  Artist: Alpha Wann              │
-│  Album: don dada mixtape vol 1   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c78db0a6300089bc722485899784b44c.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────╮
+│                   music                   x │
+├─────────────────────────────────────────────┤
+│  Title: Comic sans MS                       │
+│  Artist: Caballero & JeanJass               │
+│  Album: High & Fines Herbes - La Saison 5   │
+╰─────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: 2cm à l'heure           │
-│  Artist: Oxmo Puccino           │
-│  Album: LA HAUTEUR DE LA LUNE   │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b438505b21ed911bfd8584ae1d4077a8.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: le feu.                      │
+│  Artist: aupinard                    │
+│  Album: pluie, montagnes et soleil   │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: XS        │
-│  Artist: Josman   │
-│  Album: J.O.$     │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b438505b21ed911bfd8584ae1d4077a8.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────╮
+│               music                x │
+├──────────────────────────────────────┤
+│  Title: après le beau temps,         │
+│  Artist: aupinard                    │
+│  Album: pluie, montagnes et soleil   │
+╰──────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
