@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2e6d550d3134a0c38d73944e2ba7567c.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: Belle âme       │
-│  Artist: Bianca Costa   │
-│  Album: Gringa          │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Stupéfiant et noir      │
+│  Artist: Alpha Wann             │
+│  Album: UNE MAIN LAVE L'AUTRE   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/b438505b21ed911bfd8584ae1d4077a8.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────╮
-│               music                x │
-├──────────────────────────────────────┤
-│  Title: penelope                     │
-│  Artist: aupinard                    │
-│  Album: pluie, montagnes et soleil   │
-╰──────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: philly flingo            │
+│  Artist: Alpha Wann              │
+│  Album: don dada mixtape vol 1   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: un thé?               │
-│  Artist: aupinard             │
-│  Album: spleen. social club   │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: 2cm à l'heure           │
+│  Artist: Oxmo Puccino           │
+│  Album: LA HAUTEUR DE LA LUNE   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
