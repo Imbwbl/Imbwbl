@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2e6d550d3134a0c38d73944e2ba7567c.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: Belle âme       │
+│  Artist: Bianca Costa   │
+│  Album: Gringa          │
+╰─────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/b438505b21ed911bfd8584ae1d4077a8.jpg" heigth="100%" align="left" />
   <pre>╭──────────────────────────────────────╮
 │               music                x │
@@ -28,17 +40,5 @@
 │  Artist: aupinard             │
 │  Album: spleen. social club   │
 ╰───────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/16539ff74f3cc51ad79a328d1d761281.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: quel type de vibe?   │
-│  Artist: aupinard            │
-│  Album: quel type de vibe?   │
-╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
