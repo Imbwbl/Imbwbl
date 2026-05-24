@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c78db0a6300089bc722485899784b44c.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────╮
+│                   music                   x │
+├─────────────────────────────────────────────┤
+│  Title: Les Tiktoks de Bardella             │
+│  Artist: Caballero & JeanJass               │
+│  Album: High & Fines Herbes - La Saison 5   │
+╰─────────────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/88cfbbbdafdd4617748de786b46a8524.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────╮
 │       music       x │
@@ -28,17 +40,5 @@
 │  Artist: Isha                   │
 │  Album: Bitume Caviar (Vol.1)   │
 ╰─────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: Le bruit et l'odeur    │
-│  Artist: Jungle Jack           │
-│  Album: Cognacs & Cigarettes   │
-╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
