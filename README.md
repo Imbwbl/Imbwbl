@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────╮
-│               music                x │
-├──────────────────────────────────────┤
-│  Title: Dans la tête - Bonus Track   │
-│  Artist: Limsa D'Aulnay              │
-│  Album: Bitume Caviar (Vol.1)        │
-╰──────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/88cfbbbdafdd4617748de786b46a8524.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────╮
+│       music       x │
+├─────────────────────┤
+│  Title: BLUESTORM   │
+│  Artist: TH         │
+│  Album: E-TRAP      │
+╰─────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/db4cda2743e9121d61e5a1d5a00e7059.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: NOUVO GROOVE      │
-│  Artist: Ino Casablanca   │
-│  Album: TAMARA            │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Le chant des cigales    │
+│  Artist: Isha                   │
+│  Album: Bitume Caviar (Vol.1)   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────╮
-│         music          x │
-├──────────────────────────┤
-│  Title: Le biff et moi   │
-│  Artist: Hologram Lo'    │
-│  Album: REPLICA 2        │
-╰──────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────╮
+│            music             x │
+├────────────────────────────────┤
+│  Title: Le bruit et l'odeur    │
+│  Artist: Jungle Jack           │
+│  Album: Cognacs & Cigarettes   │
+╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
