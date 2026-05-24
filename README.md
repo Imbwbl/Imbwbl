@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────╮
-│           music           x │
-├─────────────────────────────┤
-│  Title: J'ai le blues       │
-│  Artist: Guizmo             │
-│  Album: Amicalement vôtre   │
-╰─────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────╮
 │         music         x │
 ├─────────────────────────┤
-│  Title: Shanghai        │
-│  Artist: Alpha Wann     │
-│  Album: Alph Lauren 3   │
+│  Title: Dans 10 Ans     │
+│  Artist: Guizmo         │
+│  Album: Dans ma ruche   │
 ╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Bitcoin (BONUS TRACK)   │
-│  Artist: Hologram Lo'           │
-│  Album: REPLICA 2               │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────╮
+│           music           x │
+├─────────────────────────────┤
+│  Title: Tant qu'on est là   │
+│  Artist: Hugo TSR           │
+│  Album: Tant qu'on est là   │
+╰─────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0e07876dd4c1d745c7ff7d7595d82c67.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Paradis Vide      │
+│  Artist: Limsa D'Aulnay   │
+│  Album: Logique, Pt. 3    │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
