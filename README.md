@@ -8,14 +8,14 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────╮
-│          music           x │
-├────────────────────────────┤
-│  Title: Bapteme de l'air   │
-│  Artist: Guizmo            │
-│  Album: Bapteme de l'air   │
-╰────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: Bitcoin (BONUS TRACK)   │
+│  Artist: Hologram Lo'           │
+│  Album: REPLICA 2               │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
@@ -24,7 +24,7 @@
   <pre>╭────────────────────────────────────╮
 │              music               x │
 ├────────────────────────────────────┤
-│  Title: C pas Bambi c le cerf      │
+│  Title: Doggybag                   │
 │  Artist: Gal                       │
 │  Album: Du caviar pour mon chien   │
 ╰────────────────────────────────────╯</pre>
@@ -36,7 +36,7 @@
   <pre>╭──────────────────────────────────────╮
 │               music                x │
 ├──────────────────────────────────────┤
-│  Title: DRAGONS AQUATIQUES           │
+│  Title: XX FILES                     │
 │  Artist: Jungle Jack                 │
 │  Album: JUNGLE DES ILLUSIONS VOL 2   │
 ╰──────────────────────────────────────╯</pre>
