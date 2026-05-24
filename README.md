@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────╮
 │             music             x │
 ├─────────────────────────────────┤
-│  Title: Bitcoin (BONUS TRACK)   │
-│  Artist: Hologram Lo'           │
-│  Album: REPLICA 2               │
+│  Title: MACRO                   │
+│  Artist: Alpha Wann             │
+│  Album: UNE MAIN LAVE L'AUTRE   │
 ╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────╮
-│              music               x │
-├────────────────────────────────────┤
-│  Title: Doggybag                   │
-│  Artist: Gal                       │
-│  Album: Du caviar pour mon chien   │
-╰────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/68520d2db8d3cf22a12ee6b4d4c37455.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────╮
+│                 music                 x │
+├─────────────────────────────────────────┤
+│  Title: khaptastenda                    │
+│  Artist: Gal                            │
+│  Album: JeuneBeurDeLaFontaine (vol.2)   │
+╰─────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────╮
-│               music                x │
-├──────────────────────────────────────┤
-│  Title: XX FILES                     │
-│  Artist: Jungle Jack                 │
-│  Album: JUNGLE DES ILLUSIONS VOL 2   │
-╰──────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: REPLIC44        │
+│  Artist: Hologram Lo'   │
+│  Album: REPLICA 2       │
+╰─────────────────────────╯</pre>
 </div>
 <br clear="left"/>
