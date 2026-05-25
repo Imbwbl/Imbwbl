@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c78db0a6300089bc722485899784b44c.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────────╮
-│                   music                   x │
-├─────────────────────────────────────────────┤
-│  Title: Les Tiktoks de Bardella             │
-│  Artist: Caballero & JeanJass               │
-│  Album: High & Fines Herbes - La Saison 5   │
-╰─────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/425b503987a80f465bf200165db0bd6e.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────╮
+│          music           x │
+├────────────────────────────┤
+│  Title: Léo                │
+│  Artist: Wallace Cleaver   │
+│  Album: MARCEL             │
+╰────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/88cfbbbdafdd4617748de786b46a8524.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: BLUESTORM   │
-│  Artist: TH         │
-│  Album: E-TRAP      │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1a8b9646d10cd37f3d5b9117a8655ce3.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: LESSGUI   │
+│  Artist: Luther   │
+│  Album: GARÇON    │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────╮
-│             music             x │
-├─────────────────────────────────┤
-│  Title: Le chant des cigales    │
-│  Artist: Isha                   │
-│  Album: Bitume Caviar (Vol.1)   │
-╰─────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/95c7addfaf94bba94f0d9a58d6e547bd.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: alibi     │
+│  Artist: Luther   │
+│  Album: alibi     │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
