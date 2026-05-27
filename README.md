@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/922f9626fc2d35b39569c733c5b877b9.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────╮
-│                music                x │
-├───────────────────────────────────────┤
-│  Title: LONDON ST TROPEZ              │
-│  Artist: Josman                       │
-│  Album: DOM PERIGNON CRYING (Bonus)   │
-╰───────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Dans le vide   │
+│  Artist: Josman        │
+│  Album: Matrix         │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/375d9a6f95c7b8c8377eec59be30df05.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: Le Crapaud            │
-│  Artist: Josman               │
-│  Album: DOM PERIGNON CRYING   │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────╮
+│            music             x │
+├────────────────────────────────┤
+│  Title: My love (feat. Tayc)   │
+│  Artist: Josman                │
+│  Album: My love (feat. Tayc)   │
+╰────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/bea3e3de4fb1d3bdf326e05ffddea703.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────╮
-│         music         x │
-├─────────────────────────┤
-│  Title: BBL             │
-│  Artist: Arma Jackson   │
-│  Album: BBL             │
-╰─────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: XS        │
+│  Artist: Josman   │
+│  Album: J.O.$     │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
