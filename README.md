@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Dans le vide   │
-│  Artist: Josman        │
-│  Album: Matrix         │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/77637bc1ad24780825d2d851efe70c4d.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────╮
+│             music             x │
+├─────────────────────────────────┤
+│  Title: 15K                     │
+│  Artist: Isha                   │
+│  Album: Bitume Caviar (vol.2)   │
+╰─────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────╮
-│            music             x │
-├────────────────────────────────┤
-│  Title: My love (feat. Tayc)   │
-│  Artist: Josman                │
-│  Album: My love (feat. Tayc)   │
-╰────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────────╮
+│                     music                      x │
+├──────────────────────────────────────────────────┤
+│  Title: Tête à l'envers                          │
+│  Artist: BEN plg                                 │
+│  Album: Paraît que les miracles n'existent pas   │
+╰──────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: XS        │
-│  Artist: Josman   │
-│  Album: J.O.$     │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f1df7a900d6e991fa230b0be3a533151.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: Tout prendre             │
+│  Artist: NES                     │
+│  Album: Des pieds et des mains   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
