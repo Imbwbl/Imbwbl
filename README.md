@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────╮
-│                music                 x │
-├────────────────────────────────────────┤
-│  Title: baggy era 2                    │
-│  Artist: JeanJass                      │
-│  Album: Les champs de sacs plastique   │
-╰────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Loto      │
+│  Artist: Josman   │
+│  Album: J.O.$     │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────╮
-│                music                 x │
-├────────────────────────────────────────┤
-│  Title: métastases                     │
-│  Artist: JeanJass                      │
-│  Album: Les champs de sacs plastique   │
-╰────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/27bc7abde5e6861d961bf2ddb46060ce.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────╮
+│           music            x │
+├──────────────────────────────┤
+│  Title: AFFRANCHIS           │
+│  Artist: SDM                 │
+│  Album: A LA VIE A LA MORT   │
+╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────╮
-│                music                 x │
-├────────────────────────────────────────┤
-│  Title: 1xpas+                         │
-│  Artist: JeanJass                      │
-│  Album: Les champs de sacs plastique   │
-╰────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────────────╮
+│                        music                        x │
+├───────────────────────────────────────────────────────┤
+│  Title: MOONROCK                                      │
+│  Artist: Josman                                       │
+│  Album: M.A.N (Black Roses & Lost Feelings) [Bonus]   │
+╰───────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
