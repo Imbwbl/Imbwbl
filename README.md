@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────────────╮
-│                    music                    x │
-├───────────────────────────────────────────────┤
-│  Title: Peace, Haine, Love                    │
-│  Artist: Josman                               │
-│  Album: M.A.N (Black Roses & Lost Feelings)   │
-╰───────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/27bc7abde5e6861d961bf2ddb46060ce.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────╮
+│           music            x │
+├──────────────────────────────┤
+│  Title: AFFRANCHIS           │
+│  Artist: SDM                 │
+│  Album: A LA VIE A LA MORT   │
+╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c6d5cfafb463873874f5bc64c2160809.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Señorita   │
-│  Artist: Josman    │
-│  Album: HHHH       │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────────────╮
+│                        music                        x │
+├───────────────────────────────────────────────────────┤
+│  Title: MOONROCK                                      │
+│  Artist: Josman                                       │
+│  Album: M.A.N (Black Roses & Lost Feelings) [Bonus]   │
+╰───────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0800ff6752d42fcbdc9d4f318bf8a2e8.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Boussole       │
-│  Artist: RSKO          │
-│  Album: Jeune prince   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Au Bout   │
+│  Artist: Josman   │
+│  Album: 000$      │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
