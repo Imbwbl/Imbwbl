@@ -8,23 +8,11 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────╮
-│       music        x │
-├──────────────────────┤
-│  Title: L'OCCASION   │
-│  Artist: Josman      │
-│  Album: J.O.$        │
-╰──────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────────────────────────╮
 │                    music                    x │
 ├───────────────────────────────────────────────┤
-│  Title: AhGars!                               │
+│  Title: Peace, Haine, Love                    │
 │  Artist: Josman                               │
 │  Album: M.A.N (Black Roses & Lost Feelings)   │
 ╰───────────────────────────────────────────────╯</pre>
@@ -32,13 +20,25 @@
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/375d9a6f95c7b8c8377eec59be30df05.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: PLATINUM SNIPER       │
-│  Artist: Josman               │
-│  Album: DOM PERIGNON CRYING   │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c6d5cfafb463873874f5bc64c2160809.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Señorita   │
+│  Artist: Josman    │
+│  Album: HHHH       │
+╰────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0800ff6752d42fcbdc9d4f318bf8a2e8.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Boussole       │
+│  Artist: RSKO          │
+│  Album: Jeune prince   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
