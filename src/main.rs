@@ -1,88 +1,68 @@
-use std::fs;
+use std::{
+    fs::File,
+    io::{Read, Write},
+};
 
-use octocrab::{Page, models::Repository};
+use serde_json::{Value, to_string_pretty};
+use wreq::Client;
+use wreq_util::Emulation;
 
-struct Window {
-    content: Vec<String>,
-    title: Option<String>,
-    padding: usize,
-    width: usize,
-}
-impl Window {
-    fn new(content: Vec<String>, title: Option<String>, padding: Option<usize>) -> Self {
-        let padding = padding.unwrap_or(0);
-        let max_line = content.iter().map(|s| s.chars().count()).max().unwrap_or(0);
-        let width = std::cmp::max(max_line, title.as_ref().map_or(0, |t| t.chars().count())) + (2 * padding);
-        Self {
-            content,
-            title,
-            padding,
-            width,
-        }
-    }
-
-    fn render(&self) -> String {
-        let mut result = String::new();
-        if let Some(title) = &self.title {
-            result.push_str(&format!(
-                "```\n╭{:─<width$}╮\n│  {:^less_width$}x │\n├{:─<width$}┤\n",
-                "",
-                title,
-                "",
-                width = self.width,
-                less_width = self.width - 4
-            ));
-        }
-        for line in &self.content {
-            result.push_str(&format!("│{:^width$}│\n", line, width = self.width));
-        }
-        result.push_str(&format!("╰{:─<width$}╯\n```", "", width = self.width));
-        result
-    }
-}
-
-async fn get_last_pushed_repos() -> Result<Page<Repository>, octocrab::Error> {
-    let token =
-        std::env::var("GITHUB_TOKEN").expect("Please set the GITHUB_TOKEN environment variable");
-    let octocrab = octocrab::Octocrab::builder()
-        .personal_token(token)
-        .build()?;
-    Ok(octocrab
-        .current()
-        .list_repos_for_authenticated_user()
-        .sort("pushed")
-        .direction("descending")
-        .per_page(3)
+async fn get_musics(client: wreq::Client) -> String {
+    let url = format!(
+        "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={}&api_key={}&format=json&limit=3",
+        std::env::var("LASTFM_USER").expect("LASTFM_USER environment variable not set"),
+        std::env::var("LASTFM_KEY").expect("LASTFM_KEY environment variable not set")
+    );
+    let resp = client
+        .get(url)
         .send()
-        .await?)
+        .await
+        .expect("Unable to send request");
+    let json_data: serde_json::Value = resp.json().await.expect("Unable to read response");
+    let mut text = String::new();
+    if let Some(tracks) = json_data["recenttracks"]["track"].as_array() {
+        for track in tracks {
+            text.push_str(
+                format!(
+                    "<div>\n<img src={} heigth='100%' align='left'/>\n {} \n<br/> \n{} \n<br/> \n{}\n</div>\n<br clear='all' /><br /> ",
+                    track["image"][2]["#text"],
+                    track["name"].to_string().replace('"', ""),
+                    track["album"]["#text"].to_string().replace('"', ""),
+                    track["artist"]["#text"].to_string().replace('"', ""),
+                )
+                .as_str(),
+            );
+        }
+    }
+
+    text
 }
 
 #[tokio::main]
-async fn main() -> Result<(), Box<dyn std::error::Error>> {
-    dotenvy::dotenv()?;
+async fn main() {
+    dotenvy::dotenv()
+        .expect("Unable to load .env file. Please make sure it exists and is properly formatted.");
 
+    let client = Client::builder()
+        .emulation(Emulation::Chrome137)
+        .build()
+        .expect("Unable to build client");
+
+    let mut file = File::create("README.md").expect("Unable to create file");
+    let mut base = File::open("base.html").expect("Unable to open base file");
     let mut text = String::new();
-    let repos = get_last_pushed_repos().await?;
-    for repo in repos.items {
-        let window = Window::new(
-            vec![
-                format!("Lang: {}", repo.language.as_ref().and_then(|v| v.as_str()).unwrap_or("unknown")),
-                format!("Updated on {}", repo.updated_at
-                    .map(|dt| dt.format("%d %B %Y").to_string())
-                    .unwrap_or_else(|| "unknown".to_string())
-                ),
-                format!(
-                    "Stars: {}, forks: {}",
-                    repo.stargazers_count.unwrap_or(0), repo.forks_count.unwrap_or(0)
-                ),
-                format!("{}", repo.html_url.unwrap()),
-            ],
-            Some(repo.name),
-            Some(2),
-        );
-        text.push_str(format!("{}\n", &window.render()).as_str());
-    }
-    println!("{}", text);
-    fs::write("README.md", text)?;
-    Ok(())
+    base.read_to_string(&mut text).expect("Unable to read data");
+
+    let replaced_text = text
+        .replace("{languages.0}", "Rust")
+        .replace("{languages.1}", "Go")
+        .replace("{languages.2}", "SvelteKit")
+        .replace("{commits}", "Exemple Commits")
+        .replace("{projects}", "Exemple Projects")
+        .replace("{musics}", get_musics(client).await.as_str());
+
+    println!("{}", replaced_text);
+    //println!("{}", get_musics(client).await);
+    file.write_all(replaced_text.as_bytes())
+        .expect("Unable to write data");
 }
