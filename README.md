@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────╮
-│                music                 x │
-├────────────────────────────────────────┤
-│  Title: Pourvu qu'ça dure              │
-│  Artist: JeanJass                      │
-│  Album: Les champs de sacs plastique   │
-╰────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: XS        │
+│  Artist: Josman   │
+│  Album: J.O.$     │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────╮
-│                music                 x │
-├────────────────────────────────────────┤
-│  Title: Saisonnier                     │
-│  Artist: JeanJass                      │
-│  Album: Les champs de sacs plastique   │
-╰────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: soldat tue soldat        │
+│  Artist: Alpha Wann              │
+│  Album: don dada mixtape vol 1   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────╮
-│                music                 x │
-├────────────────────────────────────────┤
-│  Title: El Guerrouj                    │
-│  Artist: JeanJass                      │
-│  Album: Les champs de sacs plastique   │
-╰────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────╮
+│     music      x │
+├──────────────────┤
+│  Title: Life     │
+│  Artist: Hamza   │
+│  Album: 1994     │
+╰──────────────────╯</pre>
 </div>
 <br clear="left"/>
