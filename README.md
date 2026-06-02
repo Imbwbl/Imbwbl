@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────╮
 │      music      x │
 ├───────────────────┤
-│  Title: XS        │
-│  Artist: Josman   │
-│  Album: J.O.$     │
+│  Title: Air Max   │
+│  Artist: Rim'K    │
+│  Album: Air Max   │
 ╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: soldat tue soldat        │
-│  Artist: Alpha Wann              │
-│  Album: don dada mixtape vol 1   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────────────╮
+│                        music                        x │
+├───────────────────────────────────────────────────────┤
+│  Title: Peace, Haine, Love                            │
+│  Artist: Josman                                       │
+│  Album: M.A.N (Black Roses & Lost Feelings) [Bonus]   │
+╰───────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────╮
-│     music      x │
-├──────────────────┤
-│  Title: Life     │
-│  Artist: Hamza   │
-│  Album: 1994     │
-╰──────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────╮
+│          music          x │
+├───────────────────────────┤
+│  Title: Un peu de haine   │
+│  Artist: PLK              │
+│  Album: Mental            │
+╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
