@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: Air Max   │
-│  Artist: Rim'K    │
-│  Album: Air Max   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/375d9a6f95c7b8c8377eec59be30df05.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────╮
+│            music            x │
+├───────────────────────────────┤
+│  Title: PANORAMA              │
+│  Artist: Josman               │
+│  Album: DOM PERIGNON CRYING   │
+╰───────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────────────────────╮
-│                        music                        x │
-├───────────────────────────────────────────────────────┤
-│  Title: Peace, Haine, Love                            │
-│  Artist: Josman                                       │
-│  Album: M.A.N (Black Roses & Lost Feelings) [Bonus]   │
-╰───────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3c3b4c41dad068d3349b82d8232ec866.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Goal           │
+│  Artist: Josman        │
+│  Album: MYSTR J.O.$.   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────────╮
-│          music          x │
-├───────────────────────────┤
-│  Title: Un peu de haine   │
-│  Artist: PLK              │
-│  Album: Mental            │
-╰───────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────╮
+│                    music                    x │
+├───────────────────────────────────────────────┤
+│  Title: L'Œil de la Joconde                   │
+│  Artist: Josman                               │
+│  Album: M.A.N (Black Roses & Lost Feelings)   │
+╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
