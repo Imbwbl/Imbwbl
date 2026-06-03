@@ -3,9 +3,119 @@ use std::{
     io::{Read, Write},
 };
 
-use serde_json::{Value, to_string_pretty};
+use octocrab::Octocrab;
 use wreq::Client;
 use wreq_util::Emulation;
+
+async fn get_projects() -> String {
+    let token =
+        std::env::var("GITHUB_TOKEN").expect("Please set the GITHUB_TOKEN environment variable");
+    let octocrab = octocrab::Octocrab::builder()
+        .personal_token(token)
+        .build()
+        .expect("Failed to create octocrab builder");
+    let mut text: String = String::new();
+    let repos = octocrab
+        .current()
+        .list_repos_for_authenticated_user()
+        .sort("pushed")
+        .direction("descending")
+        .per_page(3)
+        .send()
+        .await
+        .expect("Failed to get repos");
+    for repo in repos {
+        text.push_str(format!(
+                    "<div>\n <h2><a href={}>{}</a></h2>\n <h3>Updated on {}</h3>\n <h3>stars: {}, forks: {}</h3>\n <h3>language: {}</h3>\n </div>",
+                    repo.html_url.unwrap(),
+                    repo.name,
+                    repo.stargazers_count.unwrap(),
+                    repo.forks_count.unwrap(),
+                    repo.language.unwrap().to_string().replace('"', ""),
+                    repo.updated_at
+                        .map(|dt| dt.format("%d %B %Y").to_string())
+                        .unwrap_or_else(|| "unknown".to_string())
+                ).as_str());
+    }
+
+    text
+}
+
+async fn get_latest_commits() -> String {
+    let token =
+        std::env::var("GITHUB_TOKEN").expect("Please set the GITHUB_TOKEN environment variable");
+
+    let octocrab = octocrab::Octocrab::builder()
+        .personal_token(token)
+        .build()
+        .expect("Failed to create octocrab builder");
+
+    let mut text: String = String::new();
+
+    // 1. Fetch the 3 most recently pushed repositories
+    let repos = octocrab
+        .current()
+        .list_repos_for_authenticated_user()
+        .sort("pushed")
+        .direction("descending")
+        .per_page(3)
+        .send()
+        .await
+        .expect("Failed to get repos");
+
+    // 2. Iterate through them to get the latest commit for each
+    for repo in repos {
+        let repo_name = repo.name;
+        // We need the owner's login to fetch commits for the repo
+        let owner = repo.owner.expect("Repository has no owner").login;
+
+        let commits_page = octocrab
+            .repos(&owner, &repo_name)
+            .list_commits()
+            .per_page(1) // We only want the absolute latest commit
+            .send()
+            .await;
+
+        if let Ok(page) = commits_page {
+            if let Some(commit) = page.items.into_iter().next() {
+                let commit_url = commit.html_url;
+
+                // Commits can have multiline messages; grabbing just the first line keeps it clean
+                let commit_msg = commit.commit.message;
+                let short_msg = commit_msg.lines().next().unwrap_or("No message");
+
+                // Safely extract author name
+                let author_name = commit
+                    .commit
+                    .author
+                    .as_ref()
+                    .map(|a| a.name.as_str())
+                    .unwrap_or("Unknown");
+
+                // Safely extract and format the commit date
+                let commit_date = commit
+                    .commit
+                    .author
+                    .as_ref()
+                    .and_then(|a| a.date)
+                    .map(|dt| dt.format("%d %B %Y").to_string())
+                    .unwrap_or_else(|| "unknown".to_string());
+
+                // 3. Format the HTML
+                text.push_str(&format!(
+                    "<div>\n <h2><a href=\"{}\">{}</a></h2>\n <h3>Repo: {}</h3>\n <h3>Committed on {} by {}</h3>\n </div>\n",
+                    commit_url,
+                    short_msg,
+                    repo_name,
+                    commit_date,
+                    author_name
+                ));
+            }
+        }
+    }
+
+    text
+}
 
 async fn get_musics(client: wreq::Client) -> String {
     let url = format!(
@@ -57,8 +167,8 @@ async fn main() {
         .replace("{languages.0}", "Rust")
         .replace("{languages.1}", "Go")
         .replace("{languages.2}", "SvelteKit")
-        .replace("{commits}", "Exemple Commits")
-        .replace("{projects}", "Exemple Projects")
+        .replace("{commits}", get_latest_commits().await.as_str())
+        .replace("{projects}", get_projects().await.as_str())
         .replace("{musics}", get_musics(client).await.as_str());
 
     println!("{}", replaced_text);
