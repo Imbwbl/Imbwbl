@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────╮
-│       music       x │
-├─────────────────────┤
-│  Title: Lifestyle   │
-│  Artist: Josman     │
-│  Album: Split       │
-╰─────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/162f1327b183a8f020fed9a1ae9bae01.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────╮
+│                 music                  x │
+├──────────────────────────────────────────┤
+│  Title: Jazz Suite No. 2: VI. Waltz II   │
+│  Artist: Dmitri Shostakovich             │
+│  Album: Shostakovich: The Jazz Album     │
+╰──────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/375d9a6f95c7b8c8377eec59be30df05.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────╮
-│            music            x │
-├───────────────────────────────┤
-│  Title: MATEUS                │
-│  Artist: Josman               │
-│  Album: DOM PERIGNON CRYING   │
-╰───────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d4cc4ef47ffb27ba5eea7e229227ab4d.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────╮
+│               music               x │
+├─────────────────────────────────────┤
+│  Title: The Second Waltz, Op. 99a   │
+│  Artist: Dmitri Shostakovich        │
+│  Album: Les Plus Grands Succès      │
+╰─────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/3c3b4c41dad068d3349b82d8232ec866.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────╮
-│        music         x │
-├────────────────────────┤
-│  Title: Décisions      │
-│  Artist: Josman        │
-│  Album: MYSTR J.O.$.   │
-╰────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f89cfc125821c581ee562371e140f890.png" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────────────────────────────────╮
+│                                 music                                 x │
+├─────────────────────────────────────────────────────────────────────────┤
+│  Title: Jazz Suite No. 2: VI. Waltz 2                                   │
+│  Artist: Dmitri Shostakovich                                            │
+│  Album: Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot   │
+╰─────────────────────────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
