@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/162f1327b183a8f020fed9a1ae9bae01.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────╮
-│                 music                  x │
-├──────────────────────────────────────────┤
-│  Title: Jazz Suite No. 2: VI. Waltz II   │
-│  Artist: Dmitri Shostakovich             │
-│  Album: Shostakovich: The Jazz Album     │
-╰──────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth="100%" align="left" />
+  <pre>╭────────────────────╮
+│      music       x │
+├────────────────────┤
+│  Title: Ailleurs   │
+│  Artist: Josman    │
+│  Album: J.000.$    │
+╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d4cc4ef47ffb27ba5eea7e229227ab4d.jpg" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────╮
-│               music               x │
-├─────────────────────────────────────┤
-│  Title: The Second Waltz, Op. 99a   │
-│  Artist: Dmitri Shostakovich        │
-│  Album: Les Plus Grands Succès      │
-╰─────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────╮
+│             music              x │
+├──────────────────────────────────┤
+│  Title: soldat tue soldat        │
+│  Artist: Alpha Wann              │
+│  Album: don dada mixtape vol 1   │
+╰──────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f89cfc125821c581ee562371e140f890.png" heigth="100%" align="left" />
-  <pre>╭─────────────────────────────────────────────────────────────────────────╮
-│                                 music                                 x │
-├─────────────────────────────────────────────────────────────────────────┤
-│  Title: Jazz Suite No. 2: VI. Waltz 2                                   │
-│  Artist: Dmitri Shostakovich                                            │
-│  Album: Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot   │
-╰─────────────────────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────╮
+│      music      x │
+├───────────────────┤
+│  Title: Air Max   │
+│  Artist: Rim'K    │
+│  Album: Air Max   │
+╰───────────────────╯</pre>
 </div>
 <br clear="left"/>
