@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────╮
-│             music              x │
-├──────────────────────────────────┤
-│  Title: soldat tue soldat        │
-│  Artist: Alpha Wann              │
-│  Album: don dada mixtape vol 1   │
-╰──────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/ad1070bb0ed87cbd9231bddeb7cd0ac2.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────────────────────────────────────────────────────╮
+│                                 music                                 x │
+├─────────────────────────────────────────────────────────────────────────┤
+│  Title: Prélude in C-sharp minor, Op. 3, No. 2                          │
+│  Artist: Sergei Rachmaninoff                                            │
+│  Album: Rachmaninoff Plays Rachmaninoff - The Ampico Piano Recordings   │
+╰─────────────────────────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: Air Max   │
-│  Artist: Rim'K    │
-│  Album: Air Max   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9408d01ca0c7190ece4b8a4e83e0fc5e.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Q.D.M.P.       │
+│  Artist: Hamza         │
+│  Album: PUBLIC ENEMY   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────────────────────╮
-│                        music                        x │
-├───────────────────────────────────────────────────────┤
-│  Title: Peace, Haine, Love                            │
-│  Artist: Josman                                       │
-│  Album: M.A.N (Black Roses & Lost Feelings) [Bonus]   │
-╰───────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9408d01ca0c7190ece4b8a4e83e0fc5e.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: BLICK          │
+│  Artist: Hamza         │
+│  Album: PUBLIC ENEMY   │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
