@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2139c98d14dbeabf04be1979564af0a0.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────────────────────────────────────────────╮
+│                                       music                                        x │
+├──────────────────────────────────────────────────────────────────────────────────────┤
+│  Title: Vocalise, Op. 34, No. 14                                                     │
+│  Artist: Sergei Rachmaninoff                                                         │
+│  Album: Rachmaninoff: Symphonic Dances, Op.45; Intermezzo "Aleko"; Vocalise, Op.34   │
+╰──────────────────────────────────────────────────────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/ad1070bb0ed87cbd9231bddeb7cd0ac2.jpg" heigth="100%" align="left" />
   <pre>╭─────────────────────────────────────────────────────────────────────────╮
 │                                 music                                 x │
@@ -20,25 +32,13 @@
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/64b2c205f32cefcd19e337d64286464a.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────────╮
-│                       music                        x │
-├──────────────────────────────────────────────────────┤
-│  Title: No. 5 In G Minor: Alla Marcia                │
-│  Artist: Sergei Rachmaninoff                         │
-│  Album: Rachmaninov: Preludes for Piano (Complete)   │
-╰──────────────────────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/0eaef82c18c801f68af3a414666b9db7.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────────────────────────────────────────────────╮
-│                                      music                                       x │
-├────────────────────────────────────────────────────────────────────────────────────┤
-│  Title: Shostakovich: Suite for Jazz Orchestra No. 2, Op. 50b: No. 2, Waltz        │
-│  Artist: Dmitri Shostakovich                                                       │
-│  Album: Shostakovich: Symphony No. 11 "The Year 1905", Jazz Suites & Tahiti Trot   │
-╰────────────────────────────────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/59b2ffb33ce9360499e1c322acb99a66.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────────────────────────────────╮
+│                            music                             x │
+├────────────────────────────────────────────────────────────────┤
+│  Title: Piano Concerto No. 2 in C minor, Op. 18: 1. Moderato   │
+│  Artist: Sergei Rachmaninoff                                   │
+│  Album: Rachmaninov: Piano Concerto No.2                       │
+╰────────────────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
