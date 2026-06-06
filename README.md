@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/84ab4991dbe9f0f97681e5db3e994ca5.png" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────────────────────────────────────────────────────────╮
-│                                               music                                                x │
-├──────────────────────────────────────────────────────────────────────────────────────────────────────┤
-│  Title: Orfeo ed Euridice, Wq. 30: Dance of the Blessed Spirits "Melody" (Arr. Sgambati for Piano)   │
-│  Artist: Christoph Willibald Gluck                                                                   │
-│  Album: Fantasia                                                                                     │
-╰──────────────────────────────────────────────────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/80f256e56b1043cdbb99da3ac4dd69a0.png" heigth="100%" align="left" />
+  <pre>╭────────────────────────╮
+│        music         x │
+├────────────────────────┤
+│  Title: Someday        │
+│  Artist: The Strokes   │
+│  Album: Is This It     │
+╰────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/95a3313d6e158dd47228d8dfdf1cba91.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────────────────────────────────────────────────────────────────────────╮
-│                                        music                                         x │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│  Title: 13 Pieces for Piano, Op. 76: No. 2, Etude (Arr. Sandquist for Cello & Piano)   │
-│  Artist: Jean Sibelius                                                                 │
-│  Album: Finlandia: Finland Independence Day                                            │
-╰────────────────────────────────────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────╮
+│                music                x │
+├───────────────────────────────────────┤
+│  Title: Chanson triste (feat. a6el)   │
+│  Artist: Lujipeka                     │
+│  Album: Chanson triste (feat. a6el)   │
+╰───────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8d29dc547286f3b64ea98426d27af22e.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────────────────────────────────────────────────────╮
-│                                   music                                    x │
-├──────────────────────────────────────────────────────────────────────────────┤
-│  Title: Serenade for Strings in E Major, Op. 22, B. 52: II. Tempo di valse   │
-│  Artist: Antonín Dvořák                                                      │
-│  Album: Dvořák: Serenade For Strings, Czech Suite                            │
-╰──────────────────────────────────────────────────────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────╮
+│                    music                    x │
+├───────────────────────────────────────────────┤
+│  Title: Intro                                 │
+│  Artist: Josman                               │
+│  Album: M.A.N (Black Roses & Lost Feelings)   │
+╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
