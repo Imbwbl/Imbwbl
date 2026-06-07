@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: Air Max   │
-│  Artist: Rim'K    │
-│  Album: Air Max   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8a835c44681773c5efd90aad22c7498e.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────────────────────────╮
+│                              music                              x │
+├───────────────────────────────────────────────────────────────────┤
+│  Title: ベサメ・ムーチョ                                                  │
+│  Artist: 小野リサ                                                     │
+│  Album: Romance Latino Vol.3 -Cuba Caliente y su ritmo sabroso-   │
+╰───────────────────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth="100%" align="left" />
-  <pre>╭───────────────────────╮
-│        music        x │
-├───────────────────────┤
-│  Title: Les Flammes   │
-│  Artist: Josman       │
-│  Album: J.000.$       │
-╰───────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9ae23aadd030af6b8fc045c35be0ce44.png" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╮
+│                                                                           music                                                                            x │
+├──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│  Title: For Just One Day Let's Only Think About (Love) [feat. Zach Callison, Deedee Magno Hall, Michaela Dietz, Tom Scharpling, Shelby Rabara & Uzo Aduba]   │
+│  Artist: Steven Universe                                                                                                                                     │
+│  Album: Steven Universe, Vol. 2 (Original Soundtrack)                                                                                                        │
+╰──────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────╮
-│     music      x │
-├──────────────────┤
-│  Title: Life     │
-│  Artist: Hamza   │
-│  Album: 1994     │
-╰──────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/bc4202b19c488be8ca759874faa8548a.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────────╮
+│                music                 x │
+├────────────────────────────────────────┤
+│  Title: Falling Behind                 │
+│  Artist: Laufey                        │
+│  Album: Everything I Know About Love   │
+╰────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
