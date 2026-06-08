@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a4bf523086f418629f84388f6549ba2b.jpg" heigth="100%" align="left" />
+  <pre>╭─────────────────────────╮
+│         music         x │
+├─────────────────────────┤
+│  Title: ПОВОД           │
+│  Artist: Morgenshtern   │
+│  Album: ALISHER         │
+╰─────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/619331e79bfadd1733158f98c1c523be.png" heigth="100%" align="left" />
   <pre>╭────────────────────────╮
 │        music         x │
@@ -28,17 +40,5 @@
 │  Artist: Luther   │
 │  Album: alibi     │
 ╰───────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: TOKYOTEL   │
-│  Artist: 55ASKY    │
-│  Album: RÖSËLITÄ   │
-╰────────────────────╯</pre>
 </div>
 <br clear="left"/>
