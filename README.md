@@ -8,6 +8,18 @@
 ```
 
 <div align="left">
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/e8fa9a166ed74b6fa5a9adcc519cf2d4.jpg" heigth="100%" align="left" />
+  <pre>╭────────────────────────────────────────────────────────────────╮
+│                            music                             x │
+├────────────────────────────────────────────────────────────────┤
+│  Title: Nocturne Op. 9 No. 2                                   │
+│  Artist: Frédéric Chopin                                       │
+│  Album: Just the Best Music Vol. 2 Solo Piano Relax Playlist   │
+╰────────────────────────────────────────────────────────────────╯</pre>
+</div>
+<br clear="left"/>
+
+<div align="left">
   <img src="https://lastfm.freetls.fastly.net/i/u/174s/06ed8e48842dd12fedd4e006c27d5cae.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────────────────────────╮
 │                    music                    x │
@@ -28,17 +40,5 @@
 │  Artist: Johann Sebastian Bach                                                        │
 │  Album: Glenn Gould plays Bach: The Well-Tempered Clavier Books I & II, BWV 846-893   │
 ╰───────────────────────────────────────────────────────────────────────────────────────╯</pre>
-</div>
-<br clear="left"/>
-
-<div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9c18a6e4a83f01033536b397b74920e9.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────────────────────────────────╮
-│                    music                    x │
-├───────────────────────────────────────────────┤
-│  Title: G Minor Bach (From "Piano Tiles 2")   │
-│  Artist: Jacob's Piano                        │
-│  Album: G Minor Bach (From "Piano Tiles 2")   │
-╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
