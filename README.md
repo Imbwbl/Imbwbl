@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/06ed8e48842dd12fedd4e006c27d5cae.jpg" heigth="100%" align="left" />
   <pre>╭───────────────────────────────────────────────╮
 │                    music                    x │
 ├───────────────────────────────────────────────┤
-│  Title: Intro                                 │
-│  Artist: Josman                               │
-│  Album: M.A.N (Black Roses & Lost Feelings)   │
+│  Title: Waltz No. 19 in A minor, Op. posth.   │
+│  Artist: Frédéric Chopin                      │
+│  Album: Chopin: Waltzes, Etc.                 │
 ╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────────────────╮
-│           music            x │
-├──────────────────────────────┤
-│  Title: Émotif (Booska 1H)   │
-│  Artist: PLK                 │
-│  Album: Polak                │
-╰──────────────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/d0394a3963a846853c209c9af5a334b4.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────────────────────────────────────────────╮
+│                                        music                                        x │
+├───────────────────────────────────────────────────────────────────────────────────────┤
+│  Title: Prelude & Fugue No. 2 in C minor, BWV 847: Prelude                            │
+│  Artist: Johann Sebastian Bach                                                        │
+│  Album: Glenn Gould plays Bach: The Well-Tempered Clavier Books I & II, BWV 846-893   │
+╰───────────────────────────────────────────────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth="100%" align="left" />
-  <pre>╭───────────────────╮
-│      music      x │
-├───────────────────┤
-│  Title: Air Max   │
-│  Artist: Rim'K    │
-│  Album: Air Max   │
-╰───────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/9c18a6e4a83f01033536b397b74920e9.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────────────────────╮
+│                    music                    x │
+├───────────────────────────────────────────────┤
+│  Title: G Minor Bach (From "Piano Tiles 2")   │
+│  Artist: Jacob's Piano                        │
+│  Album: G Minor Bach (From "Piano Tiles 2")   │
+╰───────────────────────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
