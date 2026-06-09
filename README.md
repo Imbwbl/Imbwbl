@@ -8,37 +8,37 @@
 ```
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/c1456309e6e4eda4e09a297504040512.jpg" heigth="100%" align="left" />
-  <pre>╭────────────────────╮
-│      music       x │
-├────────────────────┤
-│  Title: Helsinki   │
-│  Artist: Dinos     │
-│  Album: Imany      │
-╰────────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth="100%" align="left" />
+  <pre>╭───────────────────────────────╮
+│            music            x │
+├───────────────────────────────┤
+│  Title: P&P                   │
+│  Artist: aupinard             │
+│  Album: spleen. social club   │
+╰───────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth="100%" align="left" />
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth="100%" align="left" />
   <pre>╭───────────────────────────╮
 │          music          x │
 ├───────────────────────────┤
-│  Title: UN ZDER, UN THÉ   │
-│  Artist: Josman           │
-│  Album: J.O.$             │
+│  Title: Un peu de haine   │
+│  Artist: PLK              │
+│  Album: Mental            │
 ╰───────────────────────────╯</pre>
 </div>
 <br clear="left"/>
 
 <div align="left">
-  <img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth="100%" align="left" />
-  <pre>╭──────────────────╮
-│     music      x │
-├──────────────────┤
-│  Title: Life     │
-│  Artist: Hamza   │
-│  Album: 1994     │
-╰──────────────────╯</pre>
+  <img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth="100%" align="left" />
+  <pre>╭──────────────────────────────╮
+│           music            x │
+├──────────────────────────────┤
+│  Title: Émotif (Booska 1H)   │
+│  Artist: PLK                 │
+│  Album: Polak                │
+╰──────────────────────────────╯</pre>
 </div>
 <br clear="left"/>
