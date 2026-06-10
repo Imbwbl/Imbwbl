@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a00f9884cd49c19901da6f8a432406e85830851c">:closed_lock_with_key: Use PAT_TOKEN instead of GITHUB_TOKEN</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3089249cc63c3b665ecb03ef04b3d34e23264518">:wrench: Fix CI env name and fetch 3 tracks</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 June 2026 by bwbl</h3>
  </div>
@@ -81,6 +81,14 @@ Only One
 Sexyback! 
 <br/> 
 EGOVERT
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/03daf939f881a4bd4f896e4855171d94.png" heigth='100%' align='left'/>
+ I Think I Love You 
+<br/> 
+I Think I Love You 
+<br/> 
+1NONLY
 </div>
 <br clear='all' /><br /> 
 </details>
