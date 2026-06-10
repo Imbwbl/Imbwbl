@@ -25,7 +25,7 @@ jobs:
         run: cargo run --verbose --release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
       - name: Commit and push README
         run: |
