@@ -143,9 +143,8 @@ async fn get_musics(client: wreq::Client) -> String {
 }
 
 async fn get_languages() -> Vec<String> {
-    let token = std::env::var("GITHUB_TOKEN")
-        .ok()
-        .expect("Please set the GITHUB_TOKEN environment variable");
+    let token =
+        std::env::var("GITHUB_TOKEN").expect("Please set the GITHUB_TOKEN environment variable");
     let octocrab = octocrab::Octocrab::builder()
         .personal_token(token)
         .build()
@@ -180,8 +179,8 @@ async fn get_languages() -> Vec<String> {
 }
 #[tokio::main]
 async fn main() {
-    dotenvy::dotenv()
-        .expect("Unable to load .env file. Please make sure it exists and is properly formatted.");
+    dotenvy::dotenv().ok();
+    //.expect("Unable to load .env file. Please make sure it exists and is properly formatted.");
 
     let client = Client::builder()
         .emulation(Emulation::Chrome137)
