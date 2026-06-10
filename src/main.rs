@@ -143,8 +143,9 @@ async fn get_musics(client: wreq::Client) -> String {
 }
 
 async fn get_languages() -> Vec<String> {
-    let token =
-        std::env::var("GITHUB_TOKEN").expect("Please set the GITHUB_TOKEN environment variable");
+    let token = std::env::var("GITHUB_TOKEN")
+        .ok()
+        .expect("Please set the GITHUB_TOKEN environment variable");
     let octocrab = octocrab::Octocrab::builder()
         .personal_token(token)
         .build()
