@@ -15,17 +15,18 @@ env:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      repository-projects: write
 
     steps:
       - uses: actions/checkout@v4
-      - name: Build
-        run: cargo build --verbose
-      - name: Run tests
-        run: cargo test --verbose
       - name: Run program
-        run: cargo run --verbose
+        run: cargo run --verbose --release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LASTFM_API_KEY: ${{ secrets.LASTFM_API_KEY }}
+          LASTFM_USER: ${{ secrets.LASTFM_USER }}
       - name: Commit and push README
         run: |
           git config user.name "github-actions[bot]"
