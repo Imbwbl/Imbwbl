@@ -8,8 +8,7 @@ use wreq::Client;
 use wreq_util::Emulation;
 
 async fn get_projects() -> String {
-    let token =
-        std::env::var("GITHUB_TOKEN").expect("Please set the GITHUB_TOKEN environment variable");
+    let token = std::env::var("PAT_TOKEN").expect("Please set the PAT_TOKEN environment variable");
     let octocrab = octocrab::Octocrab::builder()
         .personal_token(token)
         .build()
@@ -42,8 +41,7 @@ async fn get_projects() -> String {
 }
 
 async fn get_latest_commits() -> String {
-    let token =
-        std::env::var("GITHUB_TOKEN").expect("Please set the GITHUB_TOKEN environment variable");
+    let token = std::env::var("PAT_TOKEN").expect("Please set the PAT_TOKEN environment variable");
 
     let octocrab = octocrab::Octocrab::builder()
         .personal_token(token)
@@ -143,8 +141,7 @@ async fn get_musics(client: wreq::Client) -> String {
 }
 
 async fn get_languages() -> Vec<String> {
-    let token =
-        std::env::var("GITHUB_TOKEN").expect("Please set the GITHUB_TOKEN environment variable");
+    let token = std::env::var("PAT_TOKEN").expect("Please set the PAT_TOKEN environment variable");
     let octocrab = octocrab::Octocrab::builder()
         .personal_token(token)
         .build()
