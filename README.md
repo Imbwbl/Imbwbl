@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Théophile</h1>
-    <p><i>Building with TypeScript, Rust, and HTML</i></p>
+    <p><i>Building with Rust, HTML, and Nix</i></p>
 </div>
 
 <br />
@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/14df55ea8506048db29c22ca2082c886b2b89fb5">chore: updated music activity in README</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a00f9884cd49c19901da6f8a432406e85830851c">:closed_lock_with_key: Use PAT_TOKEN instead of GITHUB_TOKEN</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 10 June 2026 by Imbwbl</h3>
+ <h3>Committed on 10 June 2026 by bwbl</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -34,7 +34,7 @@
     <div align="center"><div>
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
- <h3>stars: 1, forks: TypeScript</h3>
+ <h3>stars: 1, forks: Rust</h3>
  <h3>language: 10 June 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
@@ -67,36 +67,20 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/e79aaf8ebf8aafeb38aba66c06dd211e.jpg" heigth='100%' align='left'/>
- goth bitch 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f12b441a4ca4e6fc83dfc22bff8a3927.png" heigth='100%' align='left'/>
+ Only One 
 <br/> 
-Goth Bitch 
-<br/> 
-1NONLY
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/486a4a730c58893ad9b53789a5c5041b.jpg" heigth='100%' align='left'/>
- Stalking (feat. Shady Moon) 
-<br/> 
-Stalking (feat. Shady Moon) 
+Only One 
 <br/> 
 1NONLY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7486c31dd64a01e3276b60af09e21b72.jpg" heigth='100%' align='left'/>
- TELL ME WHY 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ee9e95ff24c116986f2cf831994370b3.jpg" heigth='100%' align='left'/>
+ Sexyback! 
 <br/> 
-ONLY IF I DIE, WOULD I NOT BE 
+Sexyback! 
 <br/> 
-1NONLY
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/5b65c04a0dd9959240f411b0edfa4916.jpg" heigth='100%' align='left'/>
- STARDUST 
-<br/> 
-Stardust 
-<br/> 
-1NONLY
+EGOVERT
 </div>
 <br clear='all' /><br /> 
 </details>
