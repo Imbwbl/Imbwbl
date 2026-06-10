@@ -202,7 +202,7 @@ async fn main() {
         .replace("{projects}", get_projects().await.as_str())
         .replace("{musics}", get_musics(client).await.as_str());
 
-    println!("{}", replaced_text);
+    // println!("{}", replaced_text);
     //println!("{}", get_musics(client).await);
     file.write_all(replaced_text.as_bytes())
         .expect("Unable to write data");
