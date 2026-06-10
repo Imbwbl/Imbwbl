@@ -113,7 +113,7 @@ async fn get_latest_commits() -> String {
 
 async fn get_musics(client: wreq::Client) -> String {
     let url = format!(
-        "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={}&api_key={}&format=json&limit=3",
+        "https://ws.audioscrobbler.com/2.0/?method=user.getrecenttracks&user={}&api_key={}&format=json&limit=2",
         std::env::var("LASTFM_USER").expect("LASTFM_USER environment variable not set"),
         std::env::var("LASTFM_KEY").expect("LASTFM_KEY environment variable not set")
     );
