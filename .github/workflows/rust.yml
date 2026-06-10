@@ -24,7 +24,7 @@ jobs:
       - name: Run program
         run: cargo run --verbose --release
         env:
-          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
           LASTFM_KEY: ${{ secrets.LASTFM_API_KEY }}
           LASTFM_USER: ${{ secrets.LASTFM_USER }}
       - name: Commit and push README
