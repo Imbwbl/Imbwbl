@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7b8c47cc8e3d77d22944fa4b3e38fda8e7689956">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e0678a3b50567d8a77254974629368d108a0e81e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" heigth='100%' align='left'/>
- Dans le vide 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/c6d5cfafb463873874f5bc64c2160809.jpg" heigth='100%' align='left'/>
+ Señorita 
 <br/> 
-Matrix 
-<br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
- Ailleurs 
-<br/> 
-J.000.$ 
+HHHH 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- J'AIME BIEN! 
+ XS 
 <br/> 
 J.O.$ 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ Peace, Haine, Love 
+<br/> 
+M.A.N (Black Roses & Lost Feelings) 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" heigth='100%' align='left'/>
+ Dans le vide 
+<br/> 
+Matrix 
 <br/> 
 Josman
 </div>
