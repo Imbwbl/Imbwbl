@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5187be2ffe32f620196a2ca3619979673a5dc0b6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/da550462b854d3f5ce5ddf6bbc291ea62f4a7e0e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/922f9626fc2d35b39569c733c5b877b9.png" heigth='100%' align='left'/>
+ LONDON ST TROPEZ 
+<br/> 
+DOM PERIGNON CRYING (Bonus) 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/bea3e3de4fb1d3bdf326e05ffddea703.png" heigth='100%' align='left'/>
  BBL 
 <br/> 
@@ -79,14 +87,6 @@ Arma Jackson
  CARLO 
 <br/> 
 J.000.$ 
-<br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/375d9a6f95c7b8c8377eec59be30df05.jpg" heigth='100%' align='left'/>
- FVCKED UP V 
-<br/> 
-DOM PERIGNON CRYING 
 <br/> 
 Josman
 </div>
