@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3350741ec893b5e83a5419346819f5c00fbcd797">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/29b03549d2e9c2df5cee5cac8a684799fbf13ab3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/375d9a6f95c7b8c8377eec59be30df05.jpg" heigth='100%' align='left'/>
- SPOTLIGHTS 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
+ À Notre Âge 
 <br/> 
-DOM PERIGNON CRYING 
-<br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
- Problèmes de Riche 
-<br/> 
-J.000.$ 
+Split 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4d1f6640e8353397414ef547dcc526d9.jpg" heigth='100%' align='left'/>
- 22h22 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ L'OCCASION 
 <br/> 
-DIAMOND TEARS 
+J.O.$ 
 <br/> 
-YG Pablo
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
+ OLY (Ouvre Les Yeux) 
+<br/> 
+000$ 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ AhGars! 
+<br/> 
+M.A.N (Black Roses & Lost Feelings) 
+<br/> 
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
