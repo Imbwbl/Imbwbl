@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/68c7674f0a5234264947832f53a4560aa67b1176">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8c227c295e1959d97f8f87a63591f9b2e7bd93c3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/27bc7abde5e6861d961bf2ddb46060ce.jpg" heigth='100%' align='left'/>
- AFFRANCHIS 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
+ Cohiba 
 <br/> 
-A LA VIE A LA MORT 
+J.000.$ 
 <br/> 
-SDM
+Josman
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- Loto 
+ UN ZDER, UN THÉ 
 <br/> 
 J.O.$ 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth='100%' align='left'/>
- MOONROCK 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ L'Œil de la Joconde 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) [Bonus] 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
 Josman
 </div>
