@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/29b03549d2e9c2df5cee5cac8a684799fbf13ab3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/02f3d6d2e68580d14813dd694a4aefd474fb2f5f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
- À Notre Âge 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/27bc7abde5e6861d961bf2ddb46060ce.jpg" heigth='100%' align='left'/>
+ AFFRANCHIS 
 <br/> 
-Split 
+A LA VIE A LA MORT 
 <br/> 
-Josman
+SDM
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- L'OCCASION 
+ Loto 
 <br/> 
 J.O.$ 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
- OLY (Ouvre Les Yeux) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth='100%' align='left'/>
+ MOONROCK 
 <br/> 
-000$ 
-<br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- AhGars! 
-<br/> 
-M.A.N (Black Roses & Lost Feelings) 
+M.A.N (Black Roses & Lost Feelings) [Bonus] 
 <br/> 
 Josman
 </div>
