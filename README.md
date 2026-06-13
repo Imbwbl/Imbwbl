@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/35767b50624623d7e008312dd630213e3ca3525e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bf19cd007f7cc560bbedd0da63ec5fbd6c665286">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
+ Un peu de haine 
+<br/> 
+Mental 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/95b8982516d0aeb79f7d26204a3d2fa3.jpg" heigth='100%' align='left'/>
  Copine 
 <br/> 
@@ -79,14 +87,6 @@ PLK
  Émotif (Booska 1H) 
 <br/> 
 Polak 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" heigth='100%' align='left'/>
- Pilote (feat. Hamza) 
-<br/> 
-Enna 
 <br/> 
 PLK
 </div>
