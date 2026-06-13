@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/98ade7d75178b3c063a712a54cd71284549668b6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/35767b50624623d7e008312dd630213e3ca3525e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
- Tu dors ? 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/95b8982516d0aeb79f7d26204a3d2fa3.jpg" heigth='100%' align='left'/>
+ Copine 
 <br/> 
-Grand Garçon 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
- Sex Model 
-<br/> 
-Grand Garçon 
+Platinum 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
- Pocahontas 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
+ Émotif (Booska 1H) 
 <br/> 
-Grand Garçon 
+Polak 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" heigth='100%' align='left'/>
+ Pilote (feat. Hamza) 
+<br/> 
+Enna 
 <br/> 
 PLK
 </div>
