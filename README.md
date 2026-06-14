@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/45f84a6d55b62b17cd30a0da6e16f490933420b7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/26237e6e27de0f0c786fdfa6bb235dcb2523ba75">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
- Un peu de haine 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e67bb3bbed57ece0435adf4eae84a24.jpg" heigth='100%' align='left'/>
+ REMEDE 
 <br/> 
-Mental 
+HATEBFK 
 <br/> 
-PLK
+LUVBFK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/95b8982516d0aeb79f7d26204a3d2fa3.jpg" heigth='100%' align='left'/>
- Copine 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ skat music 
 <br/> 
-Platinum 
+WHAT??? 
 <br/> 
-PLK
+LUVBFK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
- Émotif (Booska 1H) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ LUTECIA 
 <br/> 
-Polak 
+FATRAS BASEMENT 
 <br/> 
-PLK
+FATRAS PRODUCTION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" heigth='100%' align='left'/>
- Pilote (feat. Hamza) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e67bb3bbed57ece0435adf4eae84a24.jpg" heigth='100%' align='left'/>
+ SI CA ME DIT 
 <br/> 
-Enna 
+HATEBFK 
 <br/> 
-PLK
+LUVBFK
 </div>
 <br clear='all' /><br /> 
 </details>
