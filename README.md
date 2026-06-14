@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e1534a97f8ee4f904fdccdfeeb56dad362af0972">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6716fede6f232dfb25324f8297b8908c05c03550">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 June 2026 by github-actions[bot]</h3>
  </div>
@@ -89,14 +89,6 @@ LUVBFK
 Mental 
 <br/> 
 PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth='100%' align='left'/>
- Peace, Haine, Love 
-<br/> 
-M.A.N (Black Roses & Lost Feelings) [Bonus] 
-<br/> 
-Josman
 </div>
 <br clear='all' /><br /> 
 </details>
