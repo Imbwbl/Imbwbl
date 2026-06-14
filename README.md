@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/92a66d12703d9b8dcfdee9f951c57a97741abaa9">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/45f84a6d55b62b17cd30a0da6e16f490933420b7">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,24 +67,32 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
+ Un peu de haine 
+<br/> 
+Mental 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/95b8982516d0aeb79f7d26204a3d2fa3.jpg" heigth='100%' align='left'/>
+ Copine 
+<br/> 
+Platinum 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
- Bunkoeur 
+ Émotif (Booska 1H) 
 <br/> 
 Polak 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" heigth='100%' align='left'/>
- Quand tout s'enflamme 
-<br/> 
-Années Sauvages 
-<br/> 
-Georgio
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" heigth='100%' align='left'/>
- Dans les clips 
+ Pilote (feat. Hamza) 
 <br/> 
 Enna 
 <br/> 
