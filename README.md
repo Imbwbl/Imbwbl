@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/027b8e8f406df98c945c9337405f8d26d281dc37">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b2a84916418ff0f2546dd095870183d6b43395fc">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ffa8cb927d1ed4620e7c0d22d0f9ab35.jpg" heigth='100%' align='left'/>
- Do You Feel Me? 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
+ BabyGirl 
 <br/> 
-Do You Feel Me? 
+Split 
 <br/> 
-Oliver Tree
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/8a68ecced35c4d83c9ddd5441e0aecbc.jpg" heigth='100%' align='left'/>
- essence (feat. super computer) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
+ P&P 
 <br/> 
-Alone In A Crowd 
+spleen. social club 
 <br/> 
-Oliver Tree
+aupinard
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/8a68ecced35c4d83c9ddd5441e0aecbc.jpg" heigth='100%' align='left'/>
- One & Only 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
+ Un peu de haine 
 <br/> 
-Alone In A Crowd 
+Mental 
 <br/> 
-Oliver Tree
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ccb3e9111ea10cbfba872e7e691788e5.jpg" heigth='100%' align='left'/>
- Fuck The Whole World - Subtronics Remix 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth='100%' align='left'/>
+ 2cm à l'heure 
 <br/> 
-Fuck The Whole World (Subtronics Remix) 
+LA HAUTEUR DE LA LUNE 
 <br/> 
-Oliver Tree
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
