@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/52a2b409bd065de0bb69a2c88ba22d8755d24a14">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/027b8e8f406df98c945c9337405f8d26d281dc37">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth='100%' align='left'/>
- Peace, Haine, Love 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ffa8cb927d1ed4620e7c0d22d0f9ab35.jpg" heigth='100%' align='left'/>
+ Do You Feel Me? 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) [Bonus] 
+Do You Feel Me? 
 <br/> 
-Josman
+Oliver Tree
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8a68ecced35c4d83c9ddd5441e0aecbc.jpg" heigth='100%' align='left'/>
+ essence (feat. super computer) 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+Alone In A Crowd 
 <br/> 
-Josman
+Oliver Tree
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/e49d67d6f3e4c7302b80fc6fe7831389.jpg" heigth='100%' align='left'/>
- Jump Around 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8a68ecced35c4d83c9ddd5441e0aecbc.jpg" heigth='100%' align='left'/>
+ One & Only 
 <br/> 
-House of Pain (Fine Malt Lyrics) 
+Alone In A Crowd 
 <br/> 
-House of Pain
+Oliver Tree
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ccb3e9111ea10cbfba872e7e691788e5.jpg" heigth='100%' align='left'/>
+ Fuck The Whole World - Subtronics Remix 
+<br/> 
+Fuck The Whole World (Subtronics Remix) 
+<br/> 
+Oliver Tree
 </div>
 <br clear='all' /><br /> 
 </details>
