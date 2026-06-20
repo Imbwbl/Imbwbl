@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/cc4afcf5b78bf0526ce4924e84236d142710dae0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/12aacd67fdd9f7ec2e9e7c9608ef26295d471ba8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ XS 
+<br/> 
+J.O.$ 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
  BabyGirl 
 <br/> 
@@ -81,14 +89,6 @@ Josman
 J.000.$ 
 <br/> 
 Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- soldat tue soldat 
-<br/> 
-don dada mixtape vol 1 
-<br/> 
-Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
