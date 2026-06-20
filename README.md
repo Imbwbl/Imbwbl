@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c1393f489f473c2980a67f0c658e62230ab903d6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/83bbc8980561739bf45be67c7cd4b23bc63409b4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/22483a3da51b4671d94aab7195b77300.jpg" heigth='100%' align='left'/>
+ CERCLE VICIEUX 
+<br/> 
+CERCLE VERTUEUX 
+<br/> 
+Deen Burbigo
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
  Life 
 <br/> 
@@ -81,14 +89,6 @@ Hamza
 Traumerei: Romantic Violin Favourites 
 <br/> 
 Vittorio Monti
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
- Pistolet Rose 
-<br/> 
-PPP 
-<br/> 
-Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
