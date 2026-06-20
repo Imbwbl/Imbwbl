@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3e55958ccbfb6c5d3f075cf21793581e14fb7c51">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/86904c55e5d5400ffac90f2a32c557edd7582539">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- XS 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
+ Au Bout 
 <br/> 
-J.O.$ 
-<br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
- BabyGirl 
-<br/> 
-Split 
+000$ 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
- Ailleurs 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ BLUES 
 <br/> 
-J.000.$ 
+BLUES 
 <br/> 
-Josman
+LUVBFK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f41204a86531ed968f55a248bf8f461d.png" heigth='100%' align='left'/>
+ Dead To Me (Ft. Lox Chatterbox) 
+<br/> 
+Dead To Me (Ft. Lox Chatterbox) 
+<br/> 
+Fraxo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/35f7b288629cc770134e32ca16078c65.jpg" heigth='100%' align='left'/>
+ DEAD TO ME 
+<br/> 
+DEAD TO ME 
+<br/> 
+HAARPER
 </div>
 <br clear='all' /><br /> 
 </details>
