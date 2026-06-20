@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/37c9676e92ddb5e3be268d737852d36279c8023c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c1393f489f473c2980a67f0c658e62230ab903d6">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
+ Life 
+<br/> 
+1994 
+<br/> 
+Hamza
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/6ca38cee456f85f0ba007bd0c61c493c.jpg" heigth='100%' align='left'/>
  Csardas 
 <br/> 
@@ -81,14 +89,6 @@ Vittorio Monti
 PPP 
 <br/> 
 Alpha Wann
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- L'Œil de la Joconde 
-<br/> 
-M.A.N (Black Roses & Lost Feelings) 
-<br/> 
-Josman
 </div>
 <br clear='all' /><br /> 
 </details>
