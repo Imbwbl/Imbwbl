@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/367dd37ca16cd36ccc6643d06f3598a322b88890">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/971e2d5667bd22eb28c870f2a1d5532f63eb59b0">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 20 June 2026 by github-actions[bot]</h3>
+ <h3>Committed on 21 June 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -35,7 +35,7 @@
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
  <h3>stars: 1, forks: Rust</h3>
- <h3>language: 20 June 2026</h3>
+ <h3>language: 21 June 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
  <h3>Updated on 0</h3>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4ecab9e0c06a7a5fa05e000d54e16119.png" heigth='100%' align='left'/>
+ Agent Orange 
+<br/> 
+OG SAN I 
+<br/> 
+Deen Burbigo
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/22483a3da51b4671d94aab7195b77300.jpg" heigth='100%' align='left'/>
  CERCLE VICIEUX 
 <br/> 
@@ -81,14 +89,6 @@ Deen Burbigo
 1994 
 <br/> 
 Hamza
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6ca38cee456f85f0ba007bd0c61c493c.jpg" heigth='100%' align='left'/>
- Csardas 
-<br/> 
-Traumerei: Romantic Violin Favourites 
-<br/> 
-Vittorio Monti
 </div>
 <br clear='all' /><br /> 
 </details>
