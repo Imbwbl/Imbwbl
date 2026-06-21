@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/eb691c4dc0e53a8e7e76e4ebf7f99b3e02e6a16e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/01a753aba6c0e0dfaa53c039e822ec9f7a59d5c3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4ecab9e0c06a7a5fa05e000d54e16119.png" heigth='100%' align='left'/>
- Agent Orange 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth='100%' align='left'/>
+ 2cm à l'heure 
 <br/> 
-OG SAN I 
+LA HAUTEUR DE LA LUNE 
 <br/> 
-Deen Burbigo
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/22483a3da51b4671d94aab7195b77300.jpg" heigth='100%' align='left'/>
- CERCLE VICIEUX 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
+ BabyGirl 
 <br/> 
-CERCLE VERTUEUX 
+Split 
 <br/> 
-Deen Burbigo
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
- Life 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
+ Ailleurs 
 <br/> 
-1994 
+J.000.$ 
 <br/> 
-Hamza
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
