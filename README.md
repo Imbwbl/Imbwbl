@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d399860b8ee24dd0c79594f211d4282d8bd4b2a3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/99ffc6843768127ed164c4ae9cd9bfbb1fbd090c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/0beb4878db5f7335393ed67a626822bd.png" heigth='100%' align='left'/>
- Hematome 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
+ sweet love 
 <br/> 
-Hematome 
+HHHH² 
 <br/> 
-Joyca
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth='100%' align='left'/>
- PSYK☹︎☹︎DB☹︎☹︎L 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
+ princesse traitement 
 <br/> 
-PILLZ & KANDY KRUSH 
+HHHH² 
 <br/> 
-55ASKY
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6bba926d2812d76e471836d8ece2e653.png" heigth='100%' align='left'/>
- La fille de Pastel 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
+ wassup baby 
 <br/> 
-La fille de Pastel 
+HHHH² 
 <br/> 
-55ASKY
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/8c82dde2070afa0312be9826f81e7d93.png" heigth='100%' align='left'/>
- TKKASKY 
-<br/> 
-TKKASKY 
-<br/> 
-TKKF
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
