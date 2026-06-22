@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/362f1804f7b09db8945de033f2cbee59c6ee4c52">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d399860b8ee24dd0c79594f211d4282d8bd4b2a3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth='100%' align='left'/>
- 2cm à l'heure 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/0beb4878db5f7335393ed67a626822bd.png" heigth='100%' align='left'/>
+ Hematome 
 <br/> 
-LA HAUTEUR DE LA LUNE 
+Hematome 
 <br/> 
-Oxmo Puccino
+Joyca
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- XS 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth='100%' align='left'/>
+ PSYK☹︎☹︎DB☹︎☹︎L 
 <br/> 
-J.O.$ 
+PILLZ & KANDY KRUSH 
 <br/> 
-Josman
+55ASKY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
- BabyGirl 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6bba926d2812d76e471836d8ece2e653.png" heigth='100%' align='left'/>
+ La fille de Pastel 
 <br/> 
-Split 
+La fille de Pastel 
 <br/> 
-Josman
+55ASKY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
- Ailleurs 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8c82dde2070afa0312be9826f81e7d93.png" heigth='100%' align='left'/>
+ TKKASKY 
 <br/> 
-J.000.$ 
+TKKASKY 
 <br/> 
-Josman
+TKKF
 </div>
 <br clear='all' /><br /> 
 </details>
