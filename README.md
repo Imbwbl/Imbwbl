@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/900c9c993213f7fa6f47faf8a2998bf43408e9a6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4a16ac18e945ee91e282bb25c9212c01d17f175e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- J'AIME BIEN! 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
+ CARLO 
 <br/> 
-J.O.$ 
+J.000.$ 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+ Mort ce soir 
 <br/> 
 M.A.N (Black Roses & Lost Feelings) 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
- Toxxxic 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/375d9a6f95c7b8c8377eec59be30df05.jpg" heigth='100%' align='left'/>
+ PANORAMA 
 <br/> 
-HHHH² 
+DOM PERIGNON CRYING 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
- My love (feat. Tayc) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ UN ZDER, UN THÉ 
 <br/> 
-HHHH² 
+J.O.$ 
 <br/> 
 Josman
 </div>
