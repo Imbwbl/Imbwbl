@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/09b1a0c965683bdd130ecc03f967456c73efcfd1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e851cbd70dfb54abe99ed714353783f44e997eb5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- les #baddies 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth='100%' align='left'/>
+ Bekamine 
 <br/> 
-WHAT??? 
+Volim te 
 <br/> 
-LUVBFK
+55ASKY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/36ed49be5807c23c5cf3986eddc8cd6f.jpg" heigth='100%' align='left'/>
- Miss You - Sped Up Version 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
+ TOKYOTEL 
 <br/> 
-Miss You (Sped Up Version) 
+RÖSËLITÄ 
 <br/> 
-Oliver Tree
+55ASKY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
- Hurt 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/823d8b61558dc2620bb3d0b3724ce14e.jpg" heigth='100%' align='left'/>
+ RAMIREZ&LISANDRO 
 <br/> 
-Ugly is Beautiful 
+GRAFF PINK AVANT-GARDE 
 <br/> 
-Oliver Tree
+ruccie
 </div>
 <br clear='all' /><br /> 
 </details>
