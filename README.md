@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f0a5a168a1ab0c36af4c4ffd590e46bea15eec4f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/900c9c993213f7fa6f47faf8a2998bf43408e9a6">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 22 June 2026 by github-actions[bot]</h3>
+ <h3>Committed on 23 June 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -35,7 +35,7 @@
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
  <h3>stars: 1, forks: Rust</h3>
- <h3>language: 22 June 2026</h3>
+ <h3>language: 23 June 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
  <h3>Updated on 0</h3>
@@ -67,8 +67,24 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ J'AIME BIEN! 
+<br/> 
+J.O.$ 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ Intro 
+<br/> 
+M.A.N (Black Roses & Lost Feelings) 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
- sweet love 
+ Toxxxic 
 <br/> 
 HHHH² 
 <br/> 
@@ -76,15 +92,7 @@ Josman
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
- princesse traitement 
-<br/> 
-HHHH² 
-<br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
- wassup baby 
+ My love (feat. Tayc) 
 <br/> 
 HHHH² 
 <br/> 
