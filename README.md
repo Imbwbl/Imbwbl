@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ced93f639b3e3b1099497ae809339bbe0100f4e6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/93dd014bea643d207d5686a2bbd4fc6f81f875fd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,16 +67,16 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- BEKANE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9b1d1d6238d4ab0e9f28946fa6c62f8d.jpg" heigth='100%' align='left'/>
+ W4NTED PET4SSE 
 <br/> 
-RÖSËLITÄ 
+MUSICINTHESTUD vol.1 
 <br/> 
-55ASKY
+GU1T4R
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth='100%' align='left'/>
- Bekamine 
+ Joli doll 
 <br/> 
 Volim te 
 <br/> 
@@ -84,19 +84,11 @@ Volim te
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- TOKYOTEL 
+ GT3 
 <br/> 
 RÖSËLITÄ 
 <br/> 
 55ASKY
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/823d8b61558dc2620bb3d0b3724ce14e.jpg" heigth='100%' align='left'/>
- RAMIREZ&LISANDRO 
-<br/> 
-GRAFF PINK AVANT-GARDE 
-<br/> 
-ruccie
 </div>
 <br clear='all' /><br /> 
 </details>
