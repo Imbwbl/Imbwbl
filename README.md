@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b939157e39861feb004f5083a7287583aa13ef40">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5f9aebe11e9bf08d8a4ae81428b37ab690d37a26">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 24 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" heigth='100%' align='left'/>
- Trajectoire 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2eb86f948e00bc7e672576e56491a387.jpg" heigth='100%' align='left'/>
+ Révolution 
 <br/> 
-Adios Bahamas 
+Bushi Tape 3 
 <br/> 
-Népal
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" heigth='100%' align='left'/>
- Sundance 
-<br/> 
-Adios Bahamas 
-<br/> 
-Népal
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/0e89ef16cf980b6990ebfaf05ee7d833.png" heigth='100%' align='left'/>
- Babylone 
-<br/> 
-KKSHISENSE8 
-<br/> 
-Népal
+Bu$hi
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- soldat tue soldat 
+ la lune attire la mer 
 <br/> 
 don dada mixtape vol 1 
 <br/> 
 Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/33a09f75c38f33e0697a66df8760c8e2.png" heigth='100%' align='left'/>
+ On tombe, on réessaye 
+<br/> 
+On tombe, on réessaye 
+<br/> 
+BEN plg
 </div>
 <br clear='all' /><br /> 
 </details>
