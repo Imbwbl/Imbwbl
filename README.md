@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/02058ab180ddd60b984338fee2d5ca3dcc87d5fd">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6da2e9dd9cec24896793ef3ca2312eef11fb1d06">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 24 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9b1d1d6238d4ab0e9f28946fa6c62f8d.jpg" heigth='100%' align='left'/>
- W4NTED PET4SSE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
+ un thé? 
 <br/> 
-MUSICINTHESTUD vol.1 
+spleen. social club 
 <br/> 
-GU1T4R
+aupinard
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth='100%' align='left'/>
- Joli doll 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
+ GEPETTO 
 <br/> 
-Volim te 
+GRÜNT #60 
 <br/> 
-55ASKY
+Bu$hi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- GT3 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ Intro 
 <br/> 
-RÖSËLITÄ 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
-55ASKY
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
