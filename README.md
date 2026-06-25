@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c925b5895cb9689bb69338dfeda35ab730bf84ca">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7ee088345ae1533e2c59bbe2998d27b6811630ae">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 25 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2eb86f948e00bc7e672576e56491a387.jpg" heigth='100%' align='left'/>
- Révolution 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" heigth='100%' align='left'/>
+ J'ai mal au mic - Remasterisé 
 <br/> 
-Bushi Tape 3 
+L'amour est mort (Remasterisé) 
 <br/> 
-Bu$hi
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- la lune attire la mer 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/09e2690129b303b0a0e52f970215313d.jpg" heigth='100%' align='left'/>
+ Bal De Bamako 
 <br/> 
-don dada mixtape vol 1 
+Bal de Bamako 
 <br/> 
-Alpha Wann
+Lamomali
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/33a09f75c38f33e0697a66df8760c8e2.png" heigth='100%' align='left'/>
- On tombe, on réessaye 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
+ L'enfant seul - Remasterisé 
 <br/> 
-On tombe, on réessaye 
+Opéra Puccino (Edition Collector) 
 <br/> 
-BEN plg
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
