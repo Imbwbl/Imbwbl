@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/57cd0f91a57067683be56f7e152e4fe8568231e5">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8e944991a6bd2a9c75b62b298a7e2fe4b634f044">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 25 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/84d4fb6138666ded6e63cab00971f6aa.png" heigth='100%' align='left'/>
+ Titi parisien - Remix 
+<br/> 
+TITI PARISIEN 2 
+<br/> 
+Seth Gueko
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" heigth='100%' align='left'/>
  J'ai mal au mic - Remasterisé 
 <br/> 
@@ -81,14 +89,6 @@ Oxmo Puccino
 Bal de Bamako 
 <br/> 
 Lamomali
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
- L'enfant seul - Remasterisé 
-<br/> 
-Opéra Puccino (Edition Collector) 
-<br/> 
-Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
