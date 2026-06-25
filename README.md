@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1a9475c3673465a9712f1699e5fae618e1da977c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5a1974e7016e83491bae985ecef2d0232dd48543">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 25 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
- My Love (feat. Tayc) - Acoustic 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
+ La loi du point final - Remasterisé 
 <br/> 
-HHHH² 
+Opéra Puccino (Edition Collector) 
 <br/> 
-Josman
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
- Toxxxic 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/3069131c0edb40ec8dc0da75bb99b595.jpg" heigth='100%' align='left'/>
+ 365 jours 
 <br/> 
-HHHH² 
+L'arme de paix 
 <br/> 
-Josman
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
- My love (feat. Tayc) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/355d240e8b13a1e9767d68a287b0e8bc.jpg" heigth='100%' align='left'/>
+ Mama Lova 
 <br/> 
-HHHH² 
+Sad Hill 
 <br/> 
-Josman
+Kheops
 </div>
 <br clear='all' /><br /> 
 </details>
