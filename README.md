@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/57ca5d0028edb9f5c5238dfb541e56b02ea9419c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f9319c77efceb569683bb671f2b009c04e877b16">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
- Hurt 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/40923ef28eb7ab7625151adcdcde1c2e.jpg" heigth='100%' align='left'/>
+ Bling Bling 
 <br/> 
-Ugly is Beautiful 
+Dozo 
 <br/> 
-Oliver Tree
+Kaaris
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
- Alien Boy 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/29410c662a0ed6db148ddbe8a52ae247.png" heigth='100%' align='left'/>
+ Tiffany 
 <br/> 
-Ugly is Beautiful 
+BYAKUGAN 
 <br/> 
-Oliver Tree
+Kaaris
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/8a68ecced35c4d83c9ddd5441e0aecbc.jpg" heigth='100%' align='left'/>
- Miss You - Bonus Track 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/e503ae35a89d7d064af3e0375b14b081.jpg" heigth='100%' align='left'/>
+ Se-Vrak 
 <br/> 
-Alone In A Crowd 
+Le bruit de mon âme 
 <br/> 
-Oliver Tree
+Kaaris
 </div>
 <br clear='all' /><br /> 
 </details>
