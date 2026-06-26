@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bc39170f6594c592ff67e525cd7bb315827f661f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/26f3ba021be1220b2a5976737dc74f9dc205a967">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/7410f22fc9c22f077004a3fe6807f11e.jpg" heigth='100%' align='left'/>
+ Conte de fée - Remasterisé 
+<br/> 
+Lipopette bar (Remasterisé) 
+<br/> 
+Oxmo Puccino
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/d9529784dde15a3c09c6a943da2cd987.jpg" heigth='100%' align='left'/>
+ Social club 
+<br/> 
+La nuit du réveil 
+<br/> 
+Oxmo Puccino
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
  La loi du point final - Remasterisé 
 <br/> 
 Opéra Puccino (Edition Collector) 
 <br/> 
 Oxmo Puccino
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/3069131c0edb40ec8dc0da75bb99b595.jpg" heigth='100%' align='left'/>
- 365 jours 
-<br/> 
-L'arme de paix 
-<br/> 
-Oxmo Puccino
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/355d240e8b13a1e9767d68a287b0e8bc.jpg" heigth='100%' align='left'/>
- Mama Lova 
-<br/> 
-Sad Hill 
-<br/> 
-Kheops
 </div>
 <br clear='all' /><br /> 
 </details>
