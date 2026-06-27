@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a275c23a922e1d746d3ed390dd621fec42f0b61f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b9afbbbd0d356e0f8b47235adf16e902eba171b0">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
- Un peu de haine 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" heigth='100%' align='left'/>
+ Attentat 
 <br/> 
-Mental 
+Enna Boost 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
- GEPETTO 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
+ Pocahontas 
 <br/> 
-GRÜNT #60 
+Grand Garçon 
 <br/> 
-Bu$hi
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth='100%' align='left'/>
- Air Max 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ philly flingo 
 <br/> 
-Air Max 
+don dada mixtape vol 1 
 <br/> 
-Rim'K
+Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Peur de la mort - Veridis Project Remix 
+<br/> 
+Peur de la mort (Veridis Project Remix) 
+<br/> 
+Bu$hi
 </div>
 <br clear='all' /><br /> 
 </details>
