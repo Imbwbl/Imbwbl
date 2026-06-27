@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0e587d3c7211a0b78d514c67ab805c0e9d10bc5a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7bc7c7d0ef8be3b60ff60e260a1e1cb61e9c6d82">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
- Jerk 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1f48bb0bca3319c9e0d6d8ed61d38d31.jpg" heigth='100%' align='left'/>
+ Cheddar 
 <br/> 
-Ugly is Beautiful 
+Cheddar 
 <br/> 
-Oliver Tree
+Népal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
- Hurt 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
+ Qui peut le nier ! - Remasterisé 
 <br/> 
-Ugly is Beautiful 
+Opéra Puccino (Edition Collector) 
 <br/> 
-Oliver Tree
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
- Alien Boy 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" heigth='100%' align='left'/>
+ C'est pas grave 
 <br/> 
-Ugly is Beautiful 
+Adieu, au revoir 
 <br/> 
-Oliver Tree
+Columbine
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/d12155b5b85e9f2fac745ad7abf74ae4.jpg" heigth='100%' align='left'/>
+ journée à paris 
+<br/> 
+journée à paris 
+<br/> 
+aupinard
 </div>
 <br clear='all' /><br /> 
 </details>
