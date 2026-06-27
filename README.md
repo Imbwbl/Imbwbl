@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d9398c523ac169b7c33688b0f949dd154050f0c3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/78fd396592d47bde3cc0b0b4def52168ef6fc644">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
+ Un peu de haine 
+<br/> 
+Mental 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
  GEPETTO 
 <br/> 
@@ -81,14 +89,6 @@ Bu$hi
 Air Max 
 <br/> 
 Rim'K
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth='100%' align='left'/>
- Stupéfiant et noir 
-<br/> 
-UNE MAIN LAVE L'AUTRE 
-<br/> 
-Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
