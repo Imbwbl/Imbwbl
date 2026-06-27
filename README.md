@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7bc7c7d0ef8be3b60ff60e260a1e1cb61e9c6d82">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3d849d124c89cfef2643e6e124b417949132cd59">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1f48bb0bca3319c9e0d6d8ed61d38d31.jpg" heigth='100%' align='left'/>
- Cheddar 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ce7e3fc4255f49c07338f04ba6ccf693.jpg" heigth='100%' align='left'/>
+ Trafics locaux 
 <br/> 
-Cheddar 
+Bitume Caviar (vol.2) 
 <br/> 
-Népal
+Isha
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
- Qui peut le nier ! - Remasterisé 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f8b30f540c824e0c9f0cf06a0e53fa98.jpg" heigth='100%' align='left'/>
+ Sales babtous d'négros 
 <br/> 
-Opéra Puccino (Edition Collector) 
+Normal 
 <br/> 
-Oxmo Puccino
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" heigth='100%' align='left'/>
- C'est pas grave 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/89680baa3baf92438405eb78df23880c.jpg" heigth='100%' align='left'/>
+ 12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano) 
 <br/> 
-Adieu, au revoir 
+Rachmaninoff: Préludes; Études-Tableaux; Moments musicaux 
 <br/> 
-Columbine
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/d12155b5b85e9f2fac745ad7abf74ae4.jpg" heigth='100%' align='left'/>
- journée à paris 
-<br/> 
-journée à paris 
-<br/> 
-aupinard
+Sergei Rachmaninoff
 </div>
 <br clear='all' /><br /> 
 </details>
