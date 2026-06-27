@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2c5a41ecc0a47b3d8e8ef2989e5a95b71edbeeea">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0e587d3c7211a0b78d514c67ab805c0e9d10bc5a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1eb2cbbad42c315fc9fe4242f0353d83.jpg" heigth='100%' align='left'/>
- Score 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
+ Jerk 
 <br/> 
-Eau de source 
+Ugly is Beautiful 
 <br/> 
-SOUFFRANCE
+Oliver Tree
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2355ddd5cc081cf633037ae0dc9cfc49.jpg" heigth='100%' align='left'/>
- goosebumps 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
+ Hurt 
 <br/> 
-Birds in the Trap Sing McKnight 
+Ugly is Beautiful 
 <br/> 
-Travis Scott
+Oliver Tree
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
- Pocahontas 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
+ Alien Boy 
 <br/> 
-Grand Garçon 
+Ugly is Beautiful 
 <br/> 
-PLK
+Oliver Tree
 </div>
 <br clear='all' /><br /> 
 </details>
