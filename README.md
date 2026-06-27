@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b9afbbbd0d356e0f8b47235adf16e902eba171b0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2c5a41ecc0a47b3d8e8ef2989e5a95b71edbeeea">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,12 +67,20 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" heigth='100%' align='left'/>
- Attentat 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1eb2cbbad42c315fc9fe4242f0353d83.jpg" heigth='100%' align='left'/>
+ Score 
 <br/> 
-Enna Boost 
+Eau de source 
 <br/> 
-PLK
+SOUFFRANCE
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2355ddd5cc081cf633037ae0dc9cfc49.jpg" heigth='100%' align='left'/>
+ goosebumps 
+<br/> 
+Birds in the Trap Sing McKnight 
+<br/> 
+Travis Scott
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
@@ -81,22 +89,6 @@ PLK
 Grand Garçon 
 <br/> 
 PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- philly flingo 
-<br/> 
-don dada mixtape vol 1 
-<br/> 
-Alpha Wann
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Peur de la mort - Veridis Project Remix 
-<br/> 
-Peur de la mort (Veridis Project Remix) 
-<br/> 
-Bu$hi
 </div>
 <br clear='all' /><br /> 
 </details>
