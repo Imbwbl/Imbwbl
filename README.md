@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/96a64716f976aa5b638bf4ed667c4afb68b409be">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/034b19d5328824967481ea4751222665d0ed92f5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/792a7ff7b6e840acdf6c1a8e33f65aa6.jpg" heigth='100%' align='left'/>
- Parado no Bailão 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/922460abbc02eea99e00cdc5ece530c5.jpg" heigth='100%' align='left'/>
+ Ela Ké Cavucadinha 
 <br/> 
-Parado no Bailão 
+Ela Ké Cavucadinha 
 <br/> 
-MC L da vinte
+Gordinho Bolado
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f70e483762c28ceed0f3e0cb3d721f06.jpg" heigth='100%' align='left'/>
- Joga o Bum Bum Tam Tam 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/bd6addcebdce0537cb5b4bc349f30e2d.png" heigth='100%' align='left'/>
+ Mas que nada 
 <br/> 
-Joga o Bum Bum Tam Tam 
+Timeless 
 <br/> 
-Mc Fioti
+Sérgio Mendes
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/fe516fe34735b735783a676a565cadbb.jpg" heigth='100%' align='left'/>
- Olha a Explosão 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2581fa1d22784898015c31bf70b8b549.jpg" heigth='100%' align='left'/>
+ Desenrola Bate Joga de Ladin - feat. DJ Biel do Furduncinho 
 <br/> 
-Olha a Explosão 
+Pros Menorzin (feat. DJ Biel do Furduncinho) 
 <br/> 
-MC Kevinho
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/b8d3c7dcbf594749c7d7617e286c1e31.jpg" heigth='100%' align='left'/>
- S.E.V.R.A.N 
-<br/> 
-Or Noir Part 2 
-<br/> 
-Kaaris
+L7NNON
 </div>
 <br clear='all' /><br /> 
 </details>
