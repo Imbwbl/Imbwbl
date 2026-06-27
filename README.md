@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/034b19d5328824967481ea4751222665d0ed92f5">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2979e8a8a0eb44d4513f153ae2469ac2108fd5a0">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/7ad7141e15defdcbbd242daea98d7357.jpg" heigth='100%' align='left'/>
+ TAKA LA DENTRO 
+<br/> 
+TAKA LA DENTRO 
+<br/> 
+SEKIMANE
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/922460abbc02eea99e00cdc5ece530c5.jpg" heigth='100%' align='left'/>
  Ela Ké Cavucadinha 
 <br/> 
@@ -81,14 +89,6 @@ Gordinho Bolado
 Timeless 
 <br/> 
 Sérgio Mendes
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2581fa1d22784898015c31bf70b8b549.jpg" heigth='100%' align='left'/>
- Desenrola Bate Joga de Ladin - feat. DJ Biel do Furduncinho 
-<br/> 
-Pros Menorzin (feat. DJ Biel do Furduncinho) 
-<br/> 
-L7NNON
 </div>
 <br clear='all' /><br /> 
 </details>
