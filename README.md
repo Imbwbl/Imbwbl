@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6c7d4be07e3b18e0214224a0a122697eea50a39f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/96a64716f976aa5b638bf4ed667c4afb68b409be">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/b8d3c7dcbf594749c7d7617e286c1e31.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/792a7ff7b6e840acdf6c1a8e33f65aa6.jpg" heigth='100%' align='left'/>
+ Parado no Bailão 
 <br/> 
-Or Noir Part 2 
+Parado no Bailão 
 <br/> 
-Kaaris
+MC L da vinte
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f70e483762c28ceed0f3e0cb3d721f06.jpg" heigth='100%' align='left'/>
+ Joga o Bum Bum Tam Tam 
+<br/> 
+Joga o Bum Bum Tam Tam 
+<br/> 
+Mc Fioti
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/fe516fe34735b735783a676a565cadbb.jpg" heigth='100%' align='left'/>
+ Olha a Explosão 
+<br/> 
+Olha a Explosão 
+<br/> 
+MC Kevinho
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/b8d3c7dcbf594749c7d7617e286c1e31.jpg" heigth='100%' align='left'/>
- Chargé 
+ S.E.V.R.A.N 
 <br/> 
 Or Noir Part 2 
-<br/> 
-Kaaris
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/e47689eae2498e56ea1e62fabb298d4e.jpg" heigth='100%' align='left'/>
- Rien ne se remplace 
-<br/> 
-Essonne History X 
-<br/> 
-Ziak
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/dd164974f14c46c1aa73400317e8a616.jpg" heigth='100%' align='left'/>
- Bizon 
-<br/> 
-Or Noir 
 <br/> 
 Kaaris
 </div>
