@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3d849d124c89cfef2643e6e124b417949132cd59">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6c7d4be07e3b18e0214224a0a122697eea50a39f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ce7e3fc4255f49c07338f04ba6ccf693.jpg" heigth='100%' align='left'/>
- Trafics locaux 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/b8d3c7dcbf594749c7d7617e286c1e31.jpg" heigth='100%' align='left'/>
+ Intro 
 <br/> 
-Bitume Caviar (vol.2) 
+Or Noir Part 2 
 <br/> 
-Isha
+Kaaris
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f8b30f540c824e0c9f0cf06a0e53fa98.jpg" heigth='100%' align='left'/>
- Sales babtous d'négros 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/b8d3c7dcbf594749c7d7617e286c1e31.jpg" heigth='100%' align='left'/>
+ Chargé 
 <br/> 
-Normal 
+Or Noir Part 2 
 <br/> 
-Guizmo
+Kaaris
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/89680baa3baf92438405eb78df23880c.jpg" heigth='100%' align='left'/>
- 12 Songs, Op. 21: V. Lilacs (Transcr. Rachmaninoff for Solo Piano) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/e47689eae2498e56ea1e62fabb298d4e.jpg" heigth='100%' align='left'/>
+ Rien ne se remplace 
 <br/> 
-Rachmaninoff: Préludes; Études-Tableaux; Moments musicaux 
+Essonne History X 
 <br/> 
-Sergei Rachmaninoff
+Ziak
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/dd164974f14c46c1aa73400317e8a616.jpg" heigth='100%' align='left'/>
+ Bizon 
+<br/> 
+Or Noir 
+<br/> 
+Kaaris
 </div>
 <br clear='all' /><br /> 
 </details>
