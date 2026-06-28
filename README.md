@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5e7fe26c2bcd7cb78d4c87a411f55dbdc14c6832">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1ac38401b039b18cf55f9f02f62478adbe9500df">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 28 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7ad7141e15defdcbbd242daea98d7357.jpg" heigth='100%' align='left'/>
- TAKA LA DENTRO 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a978c563118bfe66740d5bb6ed12d2c2.jpg" heigth='100%' align='left'/>
+ COME HERE! 
 <br/> 
-TAKA LA DENTRO 
+COME HERE! 
 <br/> 
-SEKIMANE
+22december
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/922460abbc02eea99e00cdc5ece530c5.jpg" heigth='100%' align='left'/>
- Ela Ké Cavucadinha 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Peur de la mort - Veridis Project Remix 
 <br/> 
-Ela Ké Cavucadinha 
+Peur de la mort (Veridis Project Remix) 
 <br/> 
-Gordinho Bolado
+Bu$hi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/bd6addcebdce0537cb5b4bc349f30e2d.png" heigth='100%' align='left'/>
- Mas que nada 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2e506399182947002824619342259475.jpg" heigth='100%' align='left'/>
+ Sua amiga deu 
 <br/> 
-Timeless 
+Sua amiga deu 
 <br/> 
-Sérgio Mendes
+MC Levin
 </div>
 <br clear='all' /><br /> 
 </details>
