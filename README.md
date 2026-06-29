@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e2f7cd36651a98aa965c44d9efc6668645d96eb4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c04aefebf0045445e8e8967dca570c64820718d7">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 29 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a978c563118bfe66740d5bb6ed12d2c2.jpg" heigth='100%' align='left'/>
- COME HERE! 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
+ BEKANE 
 <br/> 
-COME HERE! 
+RÖSËLITÄ 
 <br/> 
-22december
+55ASKY
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/43effa25aab2545dab64be187a867fbd.jpg" heigth='100%' align='left'/>
+ Life Goes On 
+<br/> 
+Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe) 
+<br/> 
+Oliver Tree
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Peur de la mort - Veridis Project Remix 
+ Chanson triste (feat. a6el) 
 <br/> 
-Peur de la mort (Veridis Project Remix) 
+Chanson triste (feat. a6el) 
 <br/> 
-Bu$hi
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2e506399182947002824619342259475.jpg" heigth='100%' align='left'/>
- Sua amiga deu 
-<br/> 
-Sua amiga deu 
-<br/> 
-MC Levin
+Lujipeka
 </div>
 <br clear='all' /><br /> 
 </details>
