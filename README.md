@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c04aefebf0045445e8e8967dca570c64820718d7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/70e8a7340cc4d8a8ffe161e11ab0df86a21d29b7">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 29 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- BEKANE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ XS 
 <br/> 
-RÖSËLITÄ 
+J.O.$ 
 <br/> 
-55ASKY
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/43effa25aab2545dab64be187a867fbd.jpg" heigth='100%' align='left'/>
- Life Goes On 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ Intro 
 <br/> 
-Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe) 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
-Oliver Tree
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Chanson triste (feat. a6el) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
+ Pistolet Rose 
 <br/> 
-Chanson triste (feat. a6el) 
+PPP 
 <br/> 
-Lujipeka
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
