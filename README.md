@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b033457c110d7dc4ad8da6a93ab455af9721c219">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/118a54e1f40af5b1e54dabbede3729e2bb6d5fbf">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 29 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- L'Œil de la Joconde 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
+ Les Flammes 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
-<br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- Loto 
-<br/> 
-J.O.$ 
+J.000.$ 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/27bc7abde5e6861d961bf2ddb46060ce.jpg" heigth='100%' align='left'/>
- AFFRANCHIS 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
+ Life 
 <br/> 
-A LA VIE A LA MORT 
+1994 
 <br/> 
-SDM
+Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
- date night 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
+ Pistolet Rose 
 <br/> 
-HHHH² 
+PPP 
 <br/> 
-Josman
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
