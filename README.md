@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ce0f149cb4b42664fd9b4bcd2e22d31fd0484185">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/58c4165889bcf099f228b8efa18fe2d28d8fe4d1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/80f256e56b1043cdbb99da3ac4dd69a0.png" heigth='100%' align='left'/>
- Someday 
-<br/> 
-Is This It 
-<br/> 
-The Strokes
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Chanson triste (feat. a6el) 
+ V6V12 
 <br/> 
-Chanson triste (feat. a6el) 
+METANOIA VOL.1 : PAULINE 
 <br/> 
-Lujipeka
+Metanoia
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth='100%' align='left'/>
+ 2cm à l'heure 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+LA HAUTEUR DE LA LUNE 
 <br/> 
-Josman
+Oxmo Puccino
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ philly flingo 
+<br/> 
+don dada mixtape vol 1 
+<br/> 
+Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth='100%' align='left'/>
+ Luc Besson 
+<br/> 
+Nouveau Produit 
+<br/> 
+So La Lune
 </div>
 <br clear='all' /><br /> 
 </details>
