@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5bce9d4c32333db168f0f1109841d7e35e3ca363">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dc19d3e4a5ab7cf2bc7d73510a9e32fb62c9cf19">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
+ BabyGirl 
+<br/> 
+Split 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
  la lune attire la mer 
 <br/> 
@@ -81,22 +89,6 @@ Alpha Wann
 Peur de la mort (Veridis Project Remix) 
 <br/> 
 Bu$hi
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" heigth='100%' align='left'/>
- Sundance 
-<br/> 
-Adios Bahamas 
-<br/> 
-Népal
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
- L'enfant seul - Remasterisé 
-<br/> 
-Opéra Puccino (Edition Collector) 
-<br/> 
-Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
