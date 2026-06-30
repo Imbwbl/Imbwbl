@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/58c4165889bcf099f228b8efa18fe2d28d8fe4d1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d8873eea7013d908100d807fa8e1fb1dcb983b4a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 June 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- V6V12 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/33a09f75c38f33e0697a66df8760c8e2.png" heigth='100%' align='left'/>
+ On tombe, on réessaye 
 <br/> 
-METANOIA VOL.1 : PAULINE 
+On tombe, on réessaye 
 <br/> 
-Metanoia
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth='100%' align='left'/>
- 2cm à l'heure 
-<br/> 
-LA HAUTEUR DE LA LUNE 
-<br/> 
-Oxmo Puccino
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- philly flingo 
+ soldat tue soldat 
 <br/> 
 don dada mixtape vol 1 
 <br/> 
 Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth='100%' align='left'/>
- Luc Besson 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" heigth='100%' align='left'/>
+ SUPERSTAR 
 <br/> 
-Nouveau Produit 
+ÉPILOGUE 
 <br/> 
-So La Lune
+Bu$hi
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/760297d128fc8e8f1831ffea7f704595.jpg" heigth='100%' align='left'/>
+ Astronaute 
+<br/> 
+Astronaute 
+<br/> 
+An'Om
 </div>
 <br clear='all' /><br /> 
 </details>
