@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7d15be8f645718084c50cafbce07cbb8aa25de6b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c695e14d8244a3ea8e5772fd3d060420fe9a77da">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth='100%' align='left'/>
- G LA GEUL D'UN PICASS☹︎ 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
+ BRATGENERATOR 
 <br/> 
-PILLZ & KANDY KRUSH 
-<br/> 
-55ASKY
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/b2da59363033f4503aadabb8c0ac4a4a.jpg" heigth='100%' align='left'/>
- GIGA.seummm 
-<br/> 
-R0SE 80N80N 
+RÖSËLITÄ 
 <br/> 
 55ASKY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- PLZ SCUZ MI 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
+ BALOBIGYAL 
 <br/> 
-TAEDIUM 
+RÖSËLITÄ 
+<br/> 
+55ASKY
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a26aa205cb699c972d21bbb5ee8b15a4.jpg" heigth='100%' align='left'/>
+ KAMILAKABELO 
+<br/> 
+cross/øver 
+<br/> 
+ToDieFor
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth='100%' align='left'/>
+ Bekamine 
+<br/> 
+Volim te 
 <br/> 
 55ASKY
 </div>
