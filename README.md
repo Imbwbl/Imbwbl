@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a3ef8de1e44956c5377c0e5328e18cb3b66042b7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7d15be8f645718084c50cafbce07cbb8aa25de6b">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- la maison principale 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth='100%' align='left'/>
+ G LA GEUL D'UN PICASS☹︎ 
 <br/> 
-la maison principale 
+PILLZ & KANDY KRUSH 
 <br/> 
-Tom D.
+55ASKY
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/b2da59363033f4503aadabb8c0ac4a4a.jpg" heigth='100%' align='left'/>
+ GIGA.seummm 
+<br/> 
+R0SE 80N80N 
+<br/> 
+55ASKY
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- warhol 
+ PLZ SCUZ MI 
 <br/> 
-warhol 
+TAEDIUM 
 <br/> 
-Tom D.
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/d23889c29e890c1de7fc9ffbe604da70.jpg" heigth='100%' align='left'/>
- Parler d'amour c guez 
-<br/> 
-De.yngaren 
-<br/> 
-Tom D.
+55ASKY
 </div>
 <br clear='all' /><br /> 
 </details>
