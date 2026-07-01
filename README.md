@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/aca65fc18e6272eb1a1271fcf8393180bba3b900">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a3ef8de1e44956c5377c0e5328e18cb3b66042b7">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a64f7ded2e9560ee0a94bad40ea2904e.jpg" heigth='100%' align='left'/>
- pour toi 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ la maison principale 
 <br/> 
-älska 44 
+la maison principale 
 <br/> 
 Tom D.
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- BEKANE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ warhol 
 <br/> 
-RÖSËLITÄ 
+warhol 
 <br/> 
-55ASKY
+Tom D.
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2eb86f948e00bc7e672576e56491a387.jpg" heigth='100%' align='left'/>
- Révolution 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/d23889c29e890c1de7fc9ffbe604da70.jpg" heigth='100%' align='left'/>
+ Parler d'amour c guez 
 <br/> 
-Bushi Tape 3 
+De.yngaren 
 <br/> 
-Bu$hi
+Tom D.
 </div>
 <br clear='all' /><br /> 
 </details>
