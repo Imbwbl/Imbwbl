@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c695e14d8244a3ea8e5772fd3d060420fe9a77da">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9ada54c572c1e6868ca152872054c973b389e295">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,32 +67,32 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- BRATGENERATOR 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth='100%' align='left'/>
+ Krush 
 <br/> 
-RÖSËLITÄ 
-<br/> 
-55ASKY
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- BALOBIGYAL 
-<br/> 
-RÖSËLITÄ 
+Volim te 
 <br/> 
 55ASKY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a26aa205cb699c972d21bbb5ee8b15a4.jpg" heigth='100%' align='left'/>
- KAMILAKABELO 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f2ca525150a1b86bc3d5ea06f9bda242.png" heigth='100%' align='left'/>
+ T55F 
 <br/> 
-cross/øver 
+T55F 
 <br/> 
-ToDieFor
+55ASKY
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9b1d1d6238d4ab0e9f28946fa6c62f8d.jpg" heigth='100%' align='left'/>
+ W4NTED PET4SSE 
+<br/> 
+MUSICINTHESTUD vol.1 
+<br/> 
+GU1T4R
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth='100%' align='left'/>
- Bekamine 
+ Joli doll 
 <br/> 
 Volim te 
 <br/> 
