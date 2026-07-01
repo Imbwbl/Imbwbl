@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/cf91610686a627bcf968052fc8d64e5dcfd27c14">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/417c52316d763d87f6d391b84ad3ad083eaf0215">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" heigth='100%' align='left'/>
- Joli doll 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/598d6b3dcb1a04c5d9c2a2bc1cfacc90.png" heigth='100%' align='left'/>
+ MAGNOLIA 
 <br/> 
-Volim te 
-<br/> 
-55ASKY
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/619331e79bfadd1733158f98c1c523be.png" heigth='100%' align='left'/>
- Fashionistar 
-<br/> 
-Fashionistar 
+DAS ㋡JEMI 
 <br/> 
 55ASKY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- METHYLENE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth='100%' align='left'/>
+ EQ SUR MA PTN DE LIIIFE 
 <br/> 
-RÖSËLITÄ 
+PILLZ & KANDY KRUSH 
 <br/> 
 55ASKY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- GT3 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/b2da59363033f4503aadabb8c0ac4a4a.jpg" heigth='100%' align='left'/>
+ gpeur etça msoûllle 
 <br/> 
-RÖSËLITÄ 
+R0SE 80N80N 
 <br/> 
 55ASKY
 </div>
