@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2df17c9d298754cbd378844e3ab4f7b39ca23837">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/829d75010c9f7a3591399fe27c6909a9e9f74607">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 02 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/598d6b3dcb1a04c5d9c2a2bc1cfacc90.png" heigth='100%' align='left'/>
- MAGNOLIA 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" heigth='100%' align='left'/>
+ SUPERSTAR 
 <br/> 
-DAS ㋡JEMI 
+ÉPILOGUE 
 <br/> 
-55ASKY
+Bu$hi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/206614c0634852f62f9fccadef175330.jpg" heigth='100%' align='left'/>
- EQ SUR MA PTN DE LIIIFE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
+ GEPETTO 
 <br/> 
-PILLZ & KANDY KRUSH 
+GRÜNT #60 
 <br/> 
-55ASKY
+Bu$hi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/b2da59363033f4503aadabb8c0ac4a4a.jpg" heigth='100%' align='left'/>
- gpeur etça msoûllle 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" heigth='100%' align='left'/>
+ Sundance 
 <br/> 
-R0SE 80N80N 
+Adios Bahamas 
 <br/> 
-55ASKY
+Népal
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ la lune attire la mer 
+<br/> 
+don dada mixtape vol 1 
+<br/> 
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
