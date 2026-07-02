@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/829d75010c9f7a3591399fe27c6909a9e9f74607">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0abb1515e91a5e74eda25f7aa85fd6afe69868ec">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 02 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" heigth='100%' align='left'/>
- SUPERSTAR 
-<br/> 
-ÉPILOGUE 
-<br/> 
-Bu$hi
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
- GEPETTO 
-<br/> 
-GRÜNT #60 
-<br/> 
-Bu$hi
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" heigth='100%' align='left'/>
- Sundance 
+ Trajectoire 
 <br/> 
 Adios Bahamas 
 <br/> 
 Népal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- la lune attire la mer 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1a8b9646d10cd37f3d5b9117a8655ce3.jpg" heigth='100%' align='left'/>
+ ALAKAZAM 
 <br/> 
-don dada mixtape vol 1 
+GARÇON 
 <br/> 
-Alpha Wann
+Luther
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" heigth='100%' align='left'/>
+ Faut que j'arrête 
+<br/> 
+Lola 
+<br/> 
+Romsii
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/760297d128fc8e8f1831ffea7f704595.jpg" heigth='100%' align='left'/>
+ Astronaute 
+<br/> 
+Astronaute 
+<br/> 
+An'Om
 </div>
 <br clear='all' /><br /> 
 </details>
