@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1e1f35e85ee189b1c0dd70e7bc995b15c66edf03">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c44dee517a31b8d88f12dbd3b86020e6829f0d0a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 02 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- philly flingo 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" heigth='100%' align='left'/>
+ J'ai mal au mic - Remasterisé 
 <br/> 
-don dada mixtape vol 1 
+L'amour est mort (Remasterisé) 
 <br/> 
-Alpha Wann
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
- Un peu de haine 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" heigth='100%' align='left'/>
+ Trajectoire 
 <br/> 
-Mental 
+Adios Bahamas 
 <br/> 
-PLK
+Népal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- soldat tue soldat 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1a8b9646d10cd37f3d5b9117a8655ce3.jpg" heigth='100%' align='left'/>
+ ALAKAZAM 
 <br/> 
-don dada mixtape vol 1 
+GARÇON 
 <br/> 
-Alpha Wann
+Luther
 </div>
 <br clear='all' /><br /> 
 </details>
