@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/089e203202923a1e9c0c6e12c1d387429752ac2a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e8d5b704b980441e221b4f25b4952f2c620beeed">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 04 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
- Un peu de haine 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/b835d59990741da2a6fb917543e5ac3d.jpg" heigth='100%' align='left'/>
+ Pa Pa Paw 
 <br/> 
-Mental 
+BĒYĀH 
 <br/> 
-PLK
+Damso
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- soldat tue soldat 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ LA PLAIE 
 <br/> 
-don dada mixtape vol 1 
+J.O.$ 
 <br/> 
-Alpha Wann
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
- L'enfant seul - Remasterisé 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ Intro 
 <br/> 
-Opéra Puccino (Edition Collector) 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
-Oxmo Puccino
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
