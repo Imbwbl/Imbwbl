@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b382cbaf800ebd2086dd8dcde42a1146d4330ffa">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/493437fe421605460cdeb225db9cb0c1e90bea8a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 04 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a64f7ded2e9560ee0a94bad40ea2904e.jpg" heigth='100%' align='left'/>
- la colline intro 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Je Suis Dans Le Jardin Suédois 
 <br/> 
-älska 44 
+1984 
 <br/> 
 Tom D.
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- adore 
+ R.I.P KURT 
 <br/> 
-adore 
-<br/> 
-Tom D.
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- la maison principale 
-<br/> 
-la maison principale 
+1984 
 <br/> 
 Tom D.
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- warhol 
+ ICY 
 <br/> 
-warhol 
+1984 
 <br/> 
 Tom D.
 </div>
