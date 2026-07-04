@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e8d5b704b980441e221b4f25b4952f2c620beeed">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1dc3c8ff24f230f5406e6ba95be7a786ef49e050">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 04 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/b835d59990741da2a6fb917543e5ac3d.jpg" heigth='100%' align='left'/>
- Pa Pa Paw 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ ANTIOXYDANT 
 <br/> 
-BĒYĀH 
+BLISS 
 <br/> 
-Damso
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- LA PLAIE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth='100%' align='left'/>
+ Paraît que les miracles n'existent pas 
 <br/> 
-J.O.$ 
+Paraît que les miracles n'existent pas 
 <br/> 
-Josman
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/95c7addfaf94bba94f0d9a58d6e547bd.jpg" heigth='100%' align='left'/>
+ alibi 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+alibi 
 <br/> 
-Josman
+Luther
 </div>
 <br clear='all' /><br /> 
 </details>
