@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f4f3c8e9209842bb14049fd9ddc2e23c42eb1d35">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e1f2e18be15c33e3d73caaebf8933d6ff8b50173">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 05 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" heigth='100%' align='left'/>
- Pilote (feat. Hamza) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/db3fcb656c565e62a509b8566348d7bc.jpg" heigth='100%' align='left'/>
+ Henny me noie 
 <br/> 
-Enna 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1b04c23215bccfe439e07f3e174db0ca.png" heigth='100%' align='left'/>
- Maudit 
-<br/> 
-Maudit 
-<br/> 
-WeRenoi
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth='100%' align='left'/>
- KYKY2BONDY 
-<br/> 
-MANIA 
+Paradise 
 <br/> 
 Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" heigth='100%' align='left'/>
- CRYPTO 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/5899a957257d0df89d73937f312f2bdb.jpg" heigth='100%' align='left'/>
+ MISS LILY'S 
 <br/> 
-Numéro d'écrou 
+KINTSUGI 
 <br/> 
-La Rvfleuze
+Dinos
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/86d820cc79c9f0017d16ac01b3d5e705.jpg" heigth='100%' align='left'/>
+ Atasanté (feat. Hamza) 
+<br/> 
+Mélo 
+<br/> 
+Tiakola
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9408d01ca0c7190ece4b8a4e83e0fc5e.jpg" heigth='100%' align='left'/>
+ TENNESSEE 
+<br/> 
+PUBLIC ENEMY 
+<br/> 
+Hamza
 </div>
 <br clear='all' /><br /> 
 </details>
