@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e9588eb873ac0db3366e5bf0eb97446acaf6f73e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/59baa657a2e599515625f47dc53513fdb08c6c6c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 05 July 2026 by github-actions[bot]</h3>
  </div>
@@ -68,7 +68,7 @@
     <br />
     <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- R.I.P KURT 
+ NICE 
 <br/> 
 1984 
 <br/> 
@@ -76,7 +76,7 @@ Tom D.
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- ICY 
+ F.L.C. (два четыре семь) 
 <br/> 
 1984 
 <br/> 
@@ -84,7 +84,15 @@ Tom D.
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- 1X2X 
+ SLIDE 
+<br/> 
+1984 
+<br/> 
+Tom D.
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ SAD SURFER 
 <br/> 
 1984 
 <br/> 
