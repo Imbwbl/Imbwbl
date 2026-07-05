@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/12830ea5073cbaef8b6ef32dbe3df4f34113c0c8">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f4f3c8e9209842bb14049fd9ddc2e23c42eb1d35">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 05 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/86b1fbc7d8fa0a071661db8e947fac24.jpg" heigth='100%' align='left'/>
- Bob Marley 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" heigth='100%' align='left'/>
+ Pilote (feat. Hamza) 
 <br/> 
-En Croix 
+Enna 
 <br/> 
-lagui
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/052c33af5662217fffb4d0c41c7e86d8.jpg" heigth='100%' align='left'/>
- Gun salute 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1b04c23215bccfe439e07f3e174db0ca.png" heigth='100%' align='left'/>
+ Maudit 
 <br/> 
-Or Noir Part 3 
+Maudit 
 <br/> 
-Kaaris
+WeRenoi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/47d0e2f2d7d708e7b1faad9dec9e0376.jpg" heigth='100%' align='left'/>
- Tchoin 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth='100%' align='left'/>
+ KYKY2BONDY 
 <br/> 
-Okou Gnakouri 
+MANIA 
 <br/> 
-Kaaris
+Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/29410c662a0ed6db148ddbe8a52ae247.png" heigth='100%' align='left'/>
- 2ème Prime 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" heigth='100%' align='left'/>
+ CRYPTO 
 <br/> 
-BYAKUGAN 
+Numéro d'écrou 
 <br/> 
-Kaaris
+La Rvfleuze
 </div>
 <br clear='all' /><br /> 
 </details>
