@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e1f2e18be15c33e3d73caaebf8933d6ff8b50173">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2b816b339c804da10ea2df6c0efeba201ab4bdae">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 05 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/db3fcb656c565e62a509b8566348d7bc.jpg" heigth='100%' align='left'/>
- Henny me noie 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/190e1083ba4e602f32d2923f334c624b.jpg" heigth='100%' align='left'/>
+ Mes Lovés 
 <br/> 
-Paradise 
+Mes Lovés 
 <br/> 
-Hamza
+ponko
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/5899a957257d0df89d73937f312f2bdb.jpg" heigth='100%' align='left'/>
- MISS LILY'S 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/7210b3864becc1af9bde4a59007a1ac1.png" heigth='100%' align='left'/>
+ PENNY 
 <br/> 
-KINTSUGI 
+PENNY 
 <br/> 
-Dinos
+Reezy
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/86d820cc79c9f0017d16ac01b3d5e705.jpg" heigth='100%' align='left'/>
- Atasanté (feat. Hamza) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth='100%' align='left'/>
+ ENCORE UNE NUIT 
 <br/> 
-Mélo 
-<br/> 
-Tiakola
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9408d01ca0c7190ece4b8a4e83e0fc5e.jpg" heigth='100%' align='left'/>
- TENNESSEE 
-<br/> 
-PUBLIC ENEMY 
+MANIA 
 <br/> 
 Hamza
 </div>
