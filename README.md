@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5c39cc0222c5a3cc6bd63a008b57412a48652950">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1c9f435042e45504d8655871546e3262d378b3fd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 06 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a922b2ed4b5d77bbbafff771dec7fd90.png" heigth='100%' align='left'/>
+ Dernier je t'aime 
+<br/> 
+Love Therapy 
+<br/> 
+Monsieur Nov
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- UN ZDER, UN THÉ 
+ L'OCCASION 
 <br/> 
 J.O.$ 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
- Tout recommencer (feat. Tessa B) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ revolver 
 <br/> 
-Mental 
+revolver 
 <br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
- OLY (Ouvre Les Yeux) 
-<br/> 
-000$ 
-<br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ec2534943d43ac095136cc55db0eed1a.jpg" heigth='100%' align='left'/>
- Albiceleste 
-<br/> 
-Memoria 
-<br/> 
-Jazzy Bazz
+aupinard
 </div>
 <br clear='all' /><br /> 
 </details>
