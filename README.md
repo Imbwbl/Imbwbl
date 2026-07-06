@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8e9a66959cf3b2799f666780ed929e26375eb4f8">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5c39cc0222c5a3cc6bd63a008b57412a48652950">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 06 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
- Life 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ UN ZDER, UN THÉ 
 <br/> 
-1994 
-<br/> 
-Hamza
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
- Pistolet Rose 
-<br/> 
-PPP 
-<br/> 
-Alpha Wann
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- L'Œil de la Joconde 
-<br/> 
-M.A.N (Black Roses & Lost Feelings) 
+J.O.$ 
 <br/> 
 Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
+ Tout recommencer (feat. Tessa B) 
+<br/> 
+Mental 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
+ OLY (Ouvre Les Yeux) 
+<br/> 
+000$ 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ec2534943d43ac095136cc55db0eed1a.jpg" heigth='100%' align='left'/>
+ Albiceleste 
+<br/> 
+Memoria 
+<br/> 
+Jazzy Bazz
 </div>
 <br clear='all' /><br /> 
 </details>
