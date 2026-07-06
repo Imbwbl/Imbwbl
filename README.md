@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0f7c2af73ca581a4cb55c98803cd23181b0e2c6c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f18270a839a60f4c61f5b2d0efa6bbcf2e04fbc0">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 06 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/190e1083ba4e602f32d2923f334c624b.jpg" heigth='100%' align='left'/>
- Mes Lovés 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ Loto 
 <br/> 
-Mes Lovés 
+J.O.$ 
 <br/> 
-ponko
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7210b3864becc1af9bde4a59007a1ac1.png" heigth='100%' align='left'/>
- PENNY 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" heigth='100%' align='left'/>
+ Froid 
 <br/> 
-PENNY 
+Années Sauvages 
 <br/> 
-Reezy
+Georgio
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth='100%' align='left'/>
- ENCORE UNE NUIT 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" heigth='100%' align='left'/>
+ Dans le vide 
 <br/> 
-MANIA 
+Matrix 
 <br/> 
-Hamza
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
