@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f18270a839a60f4c61f5b2d0efa6bbcf2e04fbc0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8e9a66959cf3b2799f666780ed929e26375eb4f8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 06 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- Loto 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
+ Life 
 <br/> 
-J.O.$ 
+1994 
 <br/> 
-Josman
+Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" heigth='100%' align='left'/>
- Froid 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
+ Pistolet Rose 
 <br/> 
-Années Sauvages 
+PPP 
 <br/> 
-Georgio
+Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" heigth='100%' align='left'/>
- Dans le vide 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ L'Œil de la Joconde 
 <br/> 
-Matrix 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
 Josman
 </div>
