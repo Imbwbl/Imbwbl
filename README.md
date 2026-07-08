@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8472d058f3fa84dc05f0f55d9b1d74dccfa21ecc">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/93ee419694be99d4faae25f60b9dca4d08f0391f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 08 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- HAGOS 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/04d89e1ed49ef05d1ce0c7f283c77d73.jpg" heigth='100%' align='left'/>
+ 360TrickShot - A COLORS SHOW 
 <br/> 
-BLISS 
+360TrickShot - A COLORS SHOW 
 <br/> 
-Mairo
+Jolagreen23
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- PARC DES SOURDS 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" heigth='100%' align='left'/>
+ princesse traitement 
 <br/> 
-BLISS 
+HHHH² 
 <br/> 
-Mairo
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- LOUP D'MER 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ philly flingo 
 <br/> 
-BLISS 
+don dada mixtape vol 1 
 <br/> 
-Mairo
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
