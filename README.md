@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/64518c4b37be3cf05411ea1fc8dddefbcf5eae84">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/096fc4e4a677aefd9de89a7425d530396268cc9d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth='100%' align='left'/>
- Motor 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/68520d2db8d3cf22a12ee6b4d4c37455.jpg" heigth='100%' align='left'/>
+ tournerlapage 
 <br/> 
-Nouveau Produit 
+JeuneBeurDeLaFontaine (vol.2) 
 <br/> 
-So La Lune
+Gal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth='100%' align='left'/>
- Le plan B 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6d82e40b068c2797185564662c075e32.jpg" heigth='100%' align='left'/>
+ PHOBOS 
 <br/> 
-Bitume Caviar (Vol.1) 
+DEMAIN EST ANNULÉ 
 <br/> 
-Isha
+Jeune Mort
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
- VUE IMPRENABLE SUR LA JUNGLE 
+ LE CHEMIN 
 <br/> 
 JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
 Jungle Jack
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a87ad4fed73c9a80d4838ac4ddea2685.jpg" heigth='100%' align='left'/>
- SATIVA 
-<br/> 
-L'AFRO OU LES TRESSES 
-<br/> 
-yvnnis
 </div>
 <br clear='all' /><br /> 
 </details>
