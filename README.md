@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f00f04fc301377c9a699ba25ae92b2ed79cd11ce">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/64518c4b37be3cf05411ea1fc8dddefbcf5eae84">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/0286fa72d9a7c0b63e815fbb3cb67dd2.jpg" heigth='100%' align='left'/>
- Câlins 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth='100%' align='left'/>
+ Motor 
 <br/> 
-Câlins 
-<br/> 
-Luther
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth='100%' align='left'/>
- est-ce que je l'aime ? 
-<br/> 
-baiser 
-<br/> 
-Wallace Cleaver
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Range Ro 
-<br/> 
-Fissure de vie 
+Nouveau Produit 
 <br/> 
 So La Lune
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth='100%' align='left'/>
- Le chant des cigales 
+ Le plan B 
 <br/> 
 Bitume Caviar (Vol.1) 
 <br/> 
 Isha
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
+ VUE IMPRENABLE SUR LA JUNGLE 
+<br/> 
+JUNGLE DES ILLUSIONS VOL 2 
+<br/> 
+Jungle Jack
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a87ad4fed73c9a80d4838ac4ddea2685.jpg" heigth='100%' align='left'/>
+ SATIVA 
+<br/> 
+L'AFRO OU LES TRESSES 
+<br/> 
+yvnnis
 </div>
 <br clear='all' /><br /> 
 </details>
