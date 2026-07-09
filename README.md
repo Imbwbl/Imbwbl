@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9309d49d760699c83ef00e78f472012922e9b521">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f00f04fc301377c9a699ba25ae92b2ed79cd11ce">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
- OLY (Ouvre Les Yeux) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/0286fa72d9a7c0b63e815fbb3cb67dd2.jpg" heigth='100%' align='left'/>
+ Câlins 
 <br/> 
-000$ 
+Câlins 
 <br/> 
-Josman
+Luther
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" heigth='100%' align='left'/>
- Froid 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth='100%' align='left'/>
+ est-ce que je l'aime ? 
 <br/> 
-Années Sauvages 
+baiser 
 <br/> 
-Georgio
+Wallace Cleaver
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- UN ZDER, UN THÉ 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Range Ro 
 <br/> 
-J.O.$ 
+Fissure de vie 
 <br/> 
-Josman
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a922b2ed4b5d77bbbafff771dec7fd90.png" heigth='100%' align='left'/>
- Dernier je t'aime 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth='100%' align='left'/>
+ Le chant des cigales 
 <br/> 
-Love Therapy 
+Bitume Caviar (Vol.1) 
 <br/> 
-Monsieur Nov
+Isha
 </div>
 <br clear='all' /><br /> 
 </details>
