@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/38984487bbdb6c1d6feb130d11f499152a4a67d4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9309d49d760699c83ef00e78f472012922e9b521">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth='100%' align='left'/>
- 2cm à l'heure 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
+ OLY (Ouvre Les Yeux) 
 <br/> 
-LA HAUTEUR DE LA LUNE 
+000$ 
 <br/> 
-Oxmo Puccino
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth='100%' align='left'/>
- Stupéfiant et noir 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" heigth='100%' align='left'/>
+ Froid 
 <br/> 
-UNE MAIN LAVE L'AUTRE 
+Années Sauvages 
 <br/> 
-Alpha Wann
+Georgio
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
- Émotif (Booska 1H) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ UN ZDER, UN THÉ 
 <br/> 
-Polak 
+J.O.$ 
 <br/> 
-PLK
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a922b2ed4b5d77bbbafff771dec7fd90.png" heigth='100%' align='left'/>
+ Dernier je t'aime 
+<br/> 
+Love Therapy 
+<br/> 
+Monsieur Nov
 </div>
 <br clear='all' /><br /> 
 </details>
