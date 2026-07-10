@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fda29a2e451c6583e6a55c7806ad553bfa424921">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f60bef56da04118aac37b578007bae60e45581dd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth='100%' align='left'/>
- Shanghai 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/cbb5d316f69c464775c5ad4d9146a376.jpg" heigth='100%' align='left'/>
+ Inner Démons (feat. Alpha Wann) 
 <br/> 
-Alph Lauren 3 
+Laisse Nous Faire Vol. 1 
 <br/> 
-Alpha Wann
+Caballero
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/68520d2db8d3cf22a12ee6b4d4c37455.jpg" heigth='100%' align='left'/>
- ramènemoiunflingue 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
+ Göbekli Tepe 
 <br/> 
-JeuneBeurDeLaFontaine (vol.2) 
-<br/> 
-Gal
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
- CHARBON ET DEVOUEMENT 
-<br/> 
-JUNGLE DES ILLUSIONS VOL 2 
+Cognacs & Cigarettes 
 <br/> 
 Jungle Jack
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
- tarif groupé 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/5cebf1f76dcc926ee308ffa6efd4fd2c.jpg" heigth='100%' align='left'/>
+ L'ÉCOLE DE L'EST 
 <br/> 
-REPLICA 2 
+CREAMLAND 
 <br/> 
 Hologram Lo'
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth='100%' align='left'/>
+ Inna di Club 
+<br/> 
+Bitume Caviar (Vol.1) 
+<br/> 
+Isha
 </div>
 <br clear='all' /><br /> 
 </details>
