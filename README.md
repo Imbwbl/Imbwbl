@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/af06cfd0d451a146499b98644ea296161bb7250f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fda29a2e451c6583e6a55c7806ad553bfa424921">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
- Tout recommencer (feat. Tessa B) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth='100%' align='left'/>
+ Shanghai 
 <br/> 
-Mental 
+Alph Lauren 3 
 <br/> 
-PLK
+Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" heigth='100%' align='left'/>
- Dans le vide 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/68520d2db8d3cf22a12ee6b4d4c37455.jpg" heigth='100%' align='left'/>
+ ramènemoiunflingue 
 <br/> 
-Matrix 
+JeuneBeurDeLaFontaine (vol.2) 
 <br/> 
-Josman
+Gal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" heigth='100%' align='left'/>
- Froid 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
+ CHARBON ET DEVOUEMENT 
 <br/> 
-Années Sauvages 
+JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
-Georgio
+Jungle Jack
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- UN ZDER, UN THÉ 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
+ tarif groupé 
 <br/> 
-J.O.$ 
+REPLICA 2 
 <br/> 
-Josman
+Hologram Lo'
 </div>
 <br clear='all' /><br /> 
 </details>
