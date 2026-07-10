@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f60bef56da04118aac37b578007bae60e45581dd">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ff8be193c65fbcde9bf3f9974c8f56d957b386a8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/cbb5d316f69c464775c5ad4d9146a376.jpg" heigth='100%' align='left'/>
- Inner Démons (feat. Alpha Wann) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2355ddd5cc081cf633037ae0dc9cfc49.jpg" heigth='100%' align='left'/>
+ goosebumps 
 <br/> 
-Laisse Nous Faire Vol. 1 
+Birds in the Trap Sing McKnight 
 <br/> 
-Caballero
+Travis Scott
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
- Göbekli Tepe 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ HOPE 
 <br/> 
-Cognacs & Cigarettes 
+? 
 <br/> 
-Jungle Jack
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/5cebf1f76dcc926ee308ffa6efd4fd2c.jpg" heigth='100%' align='left'/>
- L'ÉCOLE DE L'EST 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ Moonlight 
 <br/> 
-CREAMLAND 
+? 
 <br/> 
-Hologram Lo'
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth='100%' align='left'/>
- Inna di Club 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ Loto 
 <br/> 
-Bitume Caviar (Vol.1) 
+J.O.$ 
 <br/> 
-Isha
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
