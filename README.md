@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ff8be193c65fbcde9bf3f9974c8f56d957b386a8">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d6266a81c5a6c4cc09510a6d2caa4f02d3f73fbc">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,14 +67,6 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2355ddd5cc081cf633037ae0dc9cfc49.jpg" heigth='100%' align='left'/>
- goosebumps 
-<br/> 
-Birds in the Trap Sing McKnight 
-<br/> 
-Travis Scott
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
  HOPE 
 <br/> 
