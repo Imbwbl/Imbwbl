@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/45896cbe3b89c74923bb314e3d1c7c89809f1e36">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ee9aa269d30f185fbcf60f5ac73c0de47b297ea5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- ANTIOXYDANT 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/039f705163b64b622300716a377918db.jpg" heigth='100%' align='left'/>
+ H.A.D. 
 <br/> 
-BLISS 
+EKWA MWATO 
 <br/> 
-Mairo
+Feel
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- SATO 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/3c3b4c41dad068d3349b82d8232ec866.jpg" heigth='100%' align='left'/>
+ New Hares (Same Sh!t) 
 <br/> 
-BLISS 
+MYSTR J.O.$. 
 <br/> 
-Mairo
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- HAGOS 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a8c9c0603bb051c6387c4a09f92cd22f.jpg" heigth='100%' align='left'/>
+ Idk / Wet 
 <br/> 
-BLISS 
+Idk / Wet 
 <br/> 
-Mairo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- PARC DES SOURDS 
-<br/> 
-BLISS 
-<br/> 
-Mairo
+JaySoCold
 </div>
 <br clear='all' /><br /> 
 </details>
