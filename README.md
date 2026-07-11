@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fec8ed231bb5de72c1957a0c4c84fb9626345d29">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7faf9eaae9436f6bd2bcb96c31f5003d0f8453ba">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/039f705163b64b622300716a377918db.jpg" heigth='100%' align='left'/>
- H.A.D. 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
+ L’enfer 
 <br/> 
-EKWA MWATO 
+Multitude 
 <br/> 
-Feel
+Stromae
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/3c3b4c41dad068d3349b82d8232ec866.jpg" heigth='100%' align='left'/>
- New Hares (Same Sh!t) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
+ Fils de joie 
 <br/> 
-MYSTR J.O.$. 
+Multitude 
 <br/> 
-Josman
+Stromae
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a8c9c0603bb051c6387c4a09f92cd22f.jpg" heigth='100%' align='left'/>
- Idk / Wet 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
+ La solassitude 
 <br/> 
-Idk / Wet 
+Multitude 
 <br/> 
-JaySoCold
+Stromae
 </div>
 <br clear='all' /><br /> 
 </details>
