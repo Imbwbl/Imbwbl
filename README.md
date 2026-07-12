@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/380a44813426da7cbaca8111f256248b78ae1e05">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/04a03cf7e51fd9a0d3b1a73a50b51fff8f170da7">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
- L’enfer 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/c3a19935dcb8ffc887961b8b1b5574c3.jpg" heigth='100%' align='left'/>
+ stacy 
 <br/> 
-Multitude 
+stacy 
 <br/> 
-Stromae
+axaero
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
- Fils de joie 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ red flannel 
 <br/> 
-Multitude 
+red flannel 
 <br/> 
-Stromae
+Artifex27
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
- La solassitude 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/04b722e14f8beb3912a6ab8d1a3558e1.jpg" heigth='100%' align='left'/>
+ drip! 
 <br/> 
-Multitude 
+drip! 
 <br/> 
-Stromae
+Capzlock
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/dc9c30b18022c3454f7791302b59caa6.jpg" heigth='100%' align='left'/>
+ pink diamonds! 
+<br/> 
+pink diamonds! 
+<br/> 
+22december
 </div>
 <br clear='all' /><br /> 
 </details>
