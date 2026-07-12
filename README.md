@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ffeaa395714b5542597dff0be88b063f13fceacb">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9f5b7d600ead4fbb9547520488b1b73b607f245f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,22 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ XS 
+<br/> 
+J.O.$ 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth='100%' align='left'/>
+ Peace, Haine, Love 
+<br/> 
+M.A.N (Black Roses & Lost Feelings) [Bonus] 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
  philly flingo 
 <br/> 
@@ -81,22 +97,6 @@ Alpha Wann
 1994 
 <br/> 
 Hamza
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
- Émotif (Booska 1H) 
-<br/> 
-Polak 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth='100%' align='left'/>
- Air Max 
-<br/> 
-Air Max 
-<br/> 
-Rim'K
 </div>
 <br clear='all' /><br /> 
 </details>
