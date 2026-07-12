@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/04a03cf7e51fd9a0d3b1a73a50b51fff8f170da7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d7262773a6594b8df900066b7bce42376accca6b">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/c3a19935dcb8ffc887961b8b1b5574c3.jpg" heigth='100%' align='left'/>
- stacy 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/3642ff601fcf59d884cda8ad9541c1fa.jpg" heigth='100%' align='left'/>
+ BUSSIT BACK! 
 <br/> 
-stacy 
+BUSSIT BACK! 
 <br/> 
-axaero
+Slevpy808
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- red flannel 
+ I Don't Even Drift 
 <br/> 
-red flannel 
+I Don't Even Drift 
 <br/> 
-Artifex27
+lames
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/04b722e14f8beb3912a6ab8d1a3558e1.jpg" heigth='100%' align='left'/>
- drip! 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/517f3f2f36121a97240024316fbcbdfb.jpg" heigth='100%' align='left'/>
+ Noticed! 
 <br/> 
-drip! 
-<br/> 
-Capzlock
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/dc9c30b18022c3454f7791302b59caa6.jpg" heigth='100%' align='left'/>
- pink diamonds! 
-<br/> 
-pink diamonds! 
+Noticed! 
 <br/> 
 22december
 </div>
