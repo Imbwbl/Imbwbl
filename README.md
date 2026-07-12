@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bbb1e89dc154d3251465a6cd5348106dce0c0cc7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/03cd5a1f10c2bee0a7893a593ea5ebe0a8e0dc2c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,22 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
+ Émotif (Booska 1H) 
+<br/> 
+Polak 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth='100%' align='left'/>
+ Air Max 
+<br/> 
+Air Max 
+<br/> 
+Rim'K
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
  BabyGirl 
 <br/> 
@@ -81,14 +97,6 @@ Josman
 UNE MAIN LAVE L'AUTRE 
 <br/> 
 Alpha Wann
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
- P&P 
-<br/> 
-spleen. social club 
-<br/> 
-aupinard
 </div>
 <br clear='all' /><br /> 
 </details>
