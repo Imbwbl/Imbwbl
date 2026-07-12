@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/deaf50e9ecfb9f0b461210ffb5c4997fede901c7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bbb1e89dc154d3251465a6cd5348106dce0c0cc7">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/3642ff601fcf59d884cda8ad9541c1fa.jpg" heigth='100%' align='left'/>
- BUSSIT BACK! 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
+ BabyGirl 
 <br/> 
-BUSSIT BACK! 
+Split 
 <br/> 
-Slevpy808
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- I Don't Even Drift 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth='100%' align='left'/>
+ Stupéfiant et noir 
 <br/> 
-I Don't Even Drift 
+UNE MAIN LAVE L'AUTRE 
 <br/> 
-lames
+Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/517f3f2f36121a97240024316fbcbdfb.jpg" heigth='100%' align='left'/>
- Noticed! 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
+ P&P 
 <br/> 
-Noticed! 
+spleen. social club 
 <br/> 
-22december
+aupinard
 </div>
 <br clear='all' /><br /> 
 </details>
