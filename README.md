@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0bbeec47508aeecb02993e68722f482f9db6e8d9">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/de0f21a67a00e7ae4fe29da7116e3ed28ca4ac33">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2eb86f948e00bc7e672576e56491a387.jpg" heigth='100%' align='left'/>
- Révolution 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" heigth='100%' align='left'/>
+ Saint-Ouen 
 <br/> 
-Bushi Tape 3 
+Lola 
+<br/> 
+Romsii
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Peur de la mort - Veridis Project Remix 
+<br/> 
+Peur de la mort (Veridis Project Remix) 
 <br/> 
 Bu$hi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
- GEPETTO 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ la lune attire la mer 
 <br/> 
-GRÜNT #60 
+don dada mixtape vol 1 
 <br/> 
-Bu$hi
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/33a09f75c38f33e0697a66df8760c8e2.png" heigth='100%' align='left'/>
- On tombe, on réessaye 
-<br/> 
-On tombe, on réessaye 
-<br/> 
-BEN plg
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
