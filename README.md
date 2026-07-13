@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/de0f21a67a00e7ae4fe29da7116e3ed28ca4ac33">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a78d3283c6f0658289b12250a082b94e89837565">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" heigth='100%' align='left'/>
- Saint-Ouen 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
+ Pas vraiment 
 <br/> 
-Lola 
+Multitude 
 <br/> 
-Romsii
+Stromae
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Peur de la mort - Veridis Project Remix 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
+ C’est que du bonheur 
 <br/> 
-Peur de la mort (Veridis Project Remix) 
+Multitude 
 <br/> 
-Bu$hi
+Stromae
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- la lune attire la mer 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
+ L’enfer 
 <br/> 
-don dada mixtape vol 1 
+Multitude 
 <br/> 
-Alpha Wann
+Stromae
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
+ Fils de joie 
+<br/> 
+Multitude 
+<br/> 
+Stromae
 </div>
 <br clear='all' /><br /> 
 </details>
