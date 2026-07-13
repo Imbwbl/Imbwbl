@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c3a8105885a3587bc577af4c61389d88a98ff612">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b65f04e040c81a2db74e8f51237264e9b085599e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
- Santé 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9c6db8f77556aff290ab91cbdf09ec3a.jpg" heigth='100%' align='left'/>
+ des fleurs x stromae 
 <br/> 
-Multitude 
+des fleurs x stromae 
 <br/> 
-Stromae
+Tove Lo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
- Invaincu 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9c6db8f77556aff290ab91cbdf09ec3a.jpg" heigth='100%' align='left'/>
+ I’m your girl right? 
 <br/> 
-Multitude 
+des fleurs x stromae 
 <br/> 
-Stromae
+Tove Lo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
- Mon amour (with Camila Cabello) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9c6db8f77556aff290ab91cbdf09ec3a.jpg" heigth='100%' align='left'/>
+ des fleurs x stromae 
 <br/> 
-Multitude 
+des fleurs x stromae 
 <br/> 
-Stromae
+Tove Lo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ca56c1269850005a8144efeae41a2124.png" heigth='100%' align='left'/>
- Bonne journée 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9c6db8f77556aff290ab91cbdf09ec3a.jpg" heigth='100%' align='left'/>
+ I’m your girl right? 
 <br/> 
-Multitude 
+des fleurs x stromae 
 <br/> 
-Stromae
+Tove Lo
 </div>
 <br clear='all' /><br /> 
 </details>
