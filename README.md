@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b65f04e040c81a2db74e8f51237264e9b085599e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f3a62c4909fc0e6f4f18b69503e9076d7a638711">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9c6db8f77556aff290ab91cbdf09ec3a.jpg" heigth='100%' align='left'/>
- des fleurs x stromae 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
+ P&P 
 <br/> 
-des fleurs x stromae 
+spleen. social club 
 <br/> 
-Tove Lo
+aupinard
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9c6db8f77556aff290ab91cbdf09ec3a.jpg" heigth='100%' align='left'/>
- I’m your girl right? 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
+ Émotif (Booska 1H) 
 <br/> 
-des fleurs x stromae 
+Polak 
 <br/> 
-Tove Lo
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9c6db8f77556aff290ab91cbdf09ec3a.jpg" heigth='100%' align='left'/>
- des fleurs x stromae 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
+ Ailleurs 
 <br/> 
-des fleurs x stromae 
+J.000.$ 
 <br/> 
-Tove Lo
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9c6db8f77556aff290ab91cbdf09ec3a.jpg" heigth='100%' align='left'/>
- I’m your girl right? 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ philly flingo 
 <br/> 
-des fleurs x stromae 
+don dada mixtape vol 1 
 <br/> 
-Tove Lo
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
