@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/df629c4a88c3a61bc759b89626ee8b8e43eebf7a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4f8f6f13ca8268cbbc3714eb703fae2b182a09ff">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a0c32940287add6a7fce3b0ebc2dc521.jpg" heigth='100%' align='left'/>
+ soleil soleil 
+<br/> 
+Les Failles 
+<br/> 
+Pomme
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ UNE FOIS PAS DEUX 
+<br/> 
+UNE FOIS PAS DEUX 
+<br/> 
+BLOU FEET
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
  It Only Gets Better 
 <br/> 
 It Only Gets Better 
 <br/> 
 Rowan Beck
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/52a34c4764bb4d578b4bf86b3ed468b4.jpg" heigth='100%' align='left'/>
- Worthless 
-<br/> 
-Worthless 
-<br/> 
-The Clumps
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/c1683c945139ad0dbcbfee9ab7e77aea.jpg" heigth='100%' align='left'/>
- Seventh Heaven 
-<br/> 
-ALOHA INOHA 
-<br/> 
-INOHA
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Marcel 
-<br/> 
-Marcel 
-<br/> 
-Lutt
 </div>
 <br clear='all' /><br /> 
 </details>
