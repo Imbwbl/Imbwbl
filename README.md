@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d790b4a43c0cd442c79d4a36007c8c2374f4b657">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/592ec73b61dee3a092d8e16b5c9121d708f1c397">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/58b88c32a9810e0f4565c26bd5efff7a.jpg" heigth='100%' align='left'/>
- POPTHATRUNK 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ move it! 
 <br/> 
-POPTHATRUNK 
+move it! 
 <br/> 
-1NONLY
+axaero
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a0603040dadc13baed5d498c7a80ab1f.png" heigth='100%' align='left'/>
- Shakira! 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1a8c641a643435e92bd6adef828a19fe.jpg" heigth='100%' align='left'/>
+ Bleue 
 <br/> 
-Shakira! 
+bleue. 
 <br/> 
-1NONLY
+Wale the Sage
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/7486c31dd64a01e3276b60af09e21b72.jpg" heigth='100%' align='left'/>
- GRAILED 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ CRUSH! 
 <br/> 
-ONLY IF I DIE, WOULD I NOT BE 
+CRUSH! 
 <br/> 
-1NONLY
+Slevpy808
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/d86f8afdd71324d541b3bec1448df7a4.jpg" heigth='100%' align='left'/>
- Step Back! 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Perfect Timing 
 <br/> 
-Step Back! 
+Perfect Timing 
 <br/> 
-1NONLY
+Amol
 </div>
 <br clear='all' /><br /> 
 </details>
