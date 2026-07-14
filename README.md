@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d9561e9f3db43cbe4e3ac7c73cf1490cc9da4bb3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/df629c4a88c3a61bc759b89626ee8b8e43eebf7a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
- BabyGirl 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ It Only Gets Better 
 <br/> 
-Split 
+It Only Gets Better 
 <br/> 
-Josman
+Rowan Beck
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
- P&P 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/52a34c4764bb4d578b4bf86b3ed468b4.jpg" heigth='100%' align='left'/>
+ Worthless 
 <br/> 
-spleen. social club 
+Worthless 
 <br/> 
-aupinard
+The Clumps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
- Émotif (Booska 1H) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/c1683c945139ad0dbcbfee9ab7e77aea.jpg" heigth='100%' align='left'/>
+ Seventh Heaven 
 <br/> 
-Polak 
+ALOHA INOHA 
 <br/> 
-PLK
+INOHA
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Marcel 
+<br/> 
+Marcel 
+<br/> 
+Lutt
 </div>
 <br clear='all' /><br /> 
 </details>
