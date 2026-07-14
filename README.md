@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8ccbb174c5d2209a65cfdfcc1d2eba3dc1f7029e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d790b4a43c0cd442c79d4a36007c8c2374f4b657">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
- BabyGirl 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/58b88c32a9810e0f4565c26bd5efff7a.jpg" heigth='100%' align='left'/>
+ POPTHATRUNK 
 <br/> 
-Split 
+POPTHATRUNK 
 <br/> 
-Josman
+1NONLY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
- un thé? 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a0603040dadc13baed5d498c7a80ab1f.png" heigth='100%' align='left'/>
+ Shakira! 
 <br/> 
-spleen. social club 
+Shakira! 
 <br/> 
-aupinard
+1NONLY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
- GEPETTO 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/7486c31dd64a01e3276b60af09e21b72.jpg" heigth='100%' align='left'/>
+ GRAILED 
 <br/> 
-GRÜNT #60 
+ONLY IF I DIE, WOULD I NOT BE 
 <br/> 
-Bu$hi
+1NONLY
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/d86f8afdd71324d541b3bec1448df7a4.jpg" heigth='100%' align='left'/>
+ Step Back! 
+<br/> 
+Step Back! 
+<br/> 
+1NONLY
 </div>
 <br clear='all' /><br /> 
 </details>
