@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4f8f6f13ca8268cbbc3714eb703fae2b182a09ff">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7523889db3229e40209cb66dd3f30cbfde3d8ab9">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a0c32940287add6a7fce3b0ebc2dc521.jpg" heigth='100%' align='left'/>
- soleil soleil 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8bbbc22e83bb40f1c07956ec8e8f578e.png" heigth='100%' align='left'/>
+ Formidable 
 <br/> 
-Les Failles 
+Racine carrée 
 <br/> 
-Pomme
+Stromae
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- UNE FOIS PAS DEUX 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8daa6ab55c1d0ce78de68acd71493797.png" heigth='100%' align='left'/>
+ My Sins Are My Savior (feat. Stromae) 
 <br/> 
-UNE FOIS PAS DEUX 
+CONFESSIONS II 
 <br/> 
-BLOU FEET
+Madonna
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- It Only Gets Better 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8bbbc22e83bb40f1c07956ec8e8f578e.png" heigth='100%' align='left'/>
+ Tous les mêmes 
 <br/> 
-It Only Gets Better 
+Racine carrée 
 <br/> 
-Rowan Beck
+Stromae
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9c6db8f77556aff290ab91cbdf09ec3a.jpg" heigth='100%' align='left'/>
+ des fleurs x stromae 
+<br/> 
+des fleurs x stromae 
+<br/> 
+Tove Lo
 </div>
 <br clear='all' /><br /> 
 </details>
