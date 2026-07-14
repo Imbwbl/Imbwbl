@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a86c223b2a9e5cfdb69162c231c8bacf9e6b6787">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/339e36f8aba9864c9d4f713620e25fd818d48d74">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
+ BabyGirl 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+Split 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/c6f4e3943f8549afc92eedf0ea182b7c.png" heigth='100%' align='left'/>
- Alors on danse 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
+ un thé? 
 <br/> 
-Alors on danse 
+spleen. social club 
 <br/> 
-Stromae
+aupinard
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/bef304374b9974ff701c92df6ae0d0b9.jpg" heigth='100%' align='left'/>
- Te Quiero 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
+ GEPETTO 
 <br/> 
-Cheese 
+GRÜNT #60 
 <br/> 
-Stromae
+Bu$hi
 </div>
 <br clear='all' /><br /> 
 </details>
