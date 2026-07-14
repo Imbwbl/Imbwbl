@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d935f948354d73c4e5c3b081073c5d958dd72028">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/24b4048ed030ab9c037b43ce5332f89f9bb6f383">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- WYD 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8089ceeae603df894e401ed2c86f0956.jpg" heigth='100%' align='left'/>
+ Nowhere! 
 <br/> 
-WYD 
+Nowhere! 
 <br/> 
-Letoa
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/e5b6e0b7c64f0271ac404490cb7b22cd.jpg" heigth='100%' align='left'/>
- i changed 
-<br/> 
-i changed 
-<br/> 
-Artifex27
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/04b722e14f8beb3912a6ab8d1a3558e1.jpg" heigth='100%' align='left'/>
- drip! 
-<br/> 
-drip! 
-<br/> 
-Capzlock
+22december
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- no escape 
+ late night 
 <br/> 
-no escape 
+late night 
 <br/> 
-axaero
+Jaswed
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Sombre 09' 
+<br/> 
+Sombre 09' 
+<br/> 
+Amol
 </div>
 <br clear='all' /><br /> 
 </details>
