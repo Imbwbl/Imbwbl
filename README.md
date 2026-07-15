@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e3d8305a0d1a506ce61be4467c2f56d4f4cdecc8">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e58fb1b29f35859e4041b30ecb28ee35a2713e0f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
- P&P 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ HOPE 
 <br/> 
-spleen. social club 
+? 
 <br/> 
-aupinard
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
- Life 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4386a469e620103f8436b3e969075959.jpg" heigth='100%' align='left'/>
+ SICKO MODE 
 <br/> 
-1994 
+ASTROWORLD 
 <br/> 
-Hamza
+Travis Scott
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
- Émotif (Booska 1H) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ Sad! 
 <br/> 
-Polak 
+? 
 <br/> 
-PLK
+XXXTENTACION
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ Moonlight 
+<br/> 
+? 
+<br/> 
+XXXTENTACION
 </div>
 <br clear='all' /><br /> 
 </details>
