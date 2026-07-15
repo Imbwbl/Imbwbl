@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/365008fd192dac7e91898f383a6ce7f2f4d0af74">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7d64e2a04e4cfe3a06ae3df470557f6bb8a0c3bf">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 July 2026 by github-actions[bot]</h3>
  </div>
@@ -68,7 +68,7 @@
     <br />
     <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- PARC DES SOURDS 
+ SATO 
 <br/> 
 BLISS 
 <br/> 
@@ -76,27 +76,19 @@ Mairo
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- LOUP D'MER 
+ HAGOS 
 <br/> 
 BLISS 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/cb8e41ecc96f769575babd440b81e795.jpg" heigth='100%' align='left'/>
- All Girls Are the Same 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ PARC DES SOURDS 
 <br/> 
-Goodbye & Good Riddance 
+BLISS 
 <br/> 
-Juice WRLD
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
- HOPE 
-<br/> 
-? 
-<br/> 
-XXXTENTACION
+Mairo
 </div>
 <br clear='all' /><br /> 
 </details>
