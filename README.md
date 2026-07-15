@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e58fb1b29f35859e4041b30ecb28ee35a2713e0f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5297ae80e9e33151fa0d39e311ced03adb14eebc">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
- HOPE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6d4413f1aaafb9d56221627c2a5a8a97.png" heigth='100%' align='left'/>
+ C.R.E.A.M. (Cash Rules Everything Around Me) 
 <br/> 
-? 
+Enter The Wu-Tang (36 Chambers) [Expanded Edition] 
 <br/> 
-XXXTENTACION
+Wu-Tang Clan
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4386a469e620103f8436b3e969075959.jpg" heigth='100%' align='left'/>
- SICKO MODE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2089b187eb492cba7e1aa62ad44ada55.jpg" heigth='100%' align='left'/>
+ Anthem (with Big Sean & EST Gee) - Soundtrack Version 
 <br/> 
-ASTROWORLD 
+Creed III: The Soundtrack 
 <br/> 
-Travis Scott
+Dreamville
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
- Sad! 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/cb8e41ecc96f769575babd440b81e795.jpg" heigth='100%' align='left'/>
+ Black & White 
 <br/> 
-? 
+Goodbye & Good Riddance 
 <br/> 
-XXXTENTACION
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
- Moonlight 
-<br/> 
-? 
-<br/> 
-XXXTENTACION
+Juice WRLD
 </div>
 <br clear='all' /><br /> 
 </details>
