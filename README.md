@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dcf942831cb5f3803704a38fa12f6c46741399c4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7c9c8940dfbc688adb747e02cc7062e461fa7cf5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- SECOND SOUFFLE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ Intro 
 <br/> 
-BLISS 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
-Mairo
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- ERA 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ philly flingo 
 <br/> 
-BLISS 
+don dada mixtape vol 1 
 <br/> 
-Mairo
+Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- ALBA BISTRO FREESTYLE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ XS 
 <br/> 
-BLISS 
+J.O.$ 
 <br/> 
-Mairo
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
