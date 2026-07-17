@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6574b0ac7676e9294ffb50d0681ae269231ff0c4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1c7c43cfdddbb2bdc4a0145e1849be85cb511d9d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
- P&P 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ ALBA BISTRO FREESTYLE 
 <br/> 
-spleen. social club 
+BLISS 
 <br/> 
-aupinard
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ TOUR D'IVOIRE 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+BLISS 
 <br/> 
-Josman
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- philly flingo 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ ANTIOXYDANT 
 <br/> 
-don dada mixtape vol 1 
+BLISS 
 <br/> 
-Alpha Wann
+Mairo
 </div>
 <br clear='all' /><br /> 
 </details>
