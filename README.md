@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/754c5204e2433f6e0ce88b521c9cc44a886ae315">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/94c0d9cd1e19cda6bfe8658f2f0d0f2302b7c248">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
+ Les Flammes 
+<br/> 
+J.000.$ 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
+ Life 
+<br/> 
+1994 
+<br/> 
+Hamza
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/ad1070bb0ed87cbd9231bddeb7cd0ac2.jpg" heigth='100%' align='left'/>
  Prélude in C-sharp minor, Op. 3, No. 2 
 <br/> 
 Rachmaninoff Plays Rachmaninoff - The Ampico Piano Recordings 
 <br/> 
 Sergei Rachmaninoff
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6ca38cee456f85f0ba007bd0c61c493c.jpg" heigth='100%' align='left'/>
- Csardas 
-<br/> 
-Traumerei: Romantic Violin Favourites 
-<br/> 
-Vittorio Monti
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
- Pistolet Rose 
-<br/> 
-PPP 
-<br/> 
-Alpha Wann
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- L'Œil de la Joconde 
-<br/> 
-M.A.N (Black Roses & Lost Feelings) 
-<br/> 
-Josman
 </div>
 <br clear='all' /><br /> 
 </details>
