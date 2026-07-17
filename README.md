@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0f961482c44d8654c1d80e17dd2826c45fab60ac">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/754c5204e2433f6e0ce88b521c9cc44a886ae315">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
- Au Bout 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/ad1070bb0ed87cbd9231bddeb7cd0ac2.jpg" heigth='100%' align='left'/>
+ Prélude in C-sharp minor, Op. 3, No. 2 
 <br/> 
-000$ 
+Rachmaninoff Plays Rachmaninoff - The Ampico Piano Recordings 
+<br/> 
+Sergei Rachmaninoff
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6ca38cee456f85f0ba007bd0c61c493c.jpg" heigth='100%' align='left'/>
+ Csardas 
+<br/> 
+Traumerei: Romantic Violin Favourites 
+<br/> 
+Vittorio Monti
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
+ Pistolet Rose 
+<br/> 
+PPP 
+<br/> 
+Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ L'Œil de la Joconde 
+<br/> 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
 Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- BLUES 
-<br/> 
-BLUES 
-<br/> 
-LUVBFK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" heigth='100%' align='left'/>
- J'ai mal au mic - Remasterisé 
-<br/> 
-L'amour est mort (Remasterisé) 
-<br/> 
-Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
