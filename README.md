@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1bb23ae55d60381492aac0491f5ad340de998ecd">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f01dcd6982694282edfb41906630501de1e28250">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
+ Au Bout 
+<br/> 
+000$ 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- V6V12 
+ BLUES 
 <br/> 
-METANOIA VOL.1 : PAULINE 
+BLUES 
 <br/> 
-Metanoia
+LUVBFK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
- J'ai le blues 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" heigth='100%' align='left'/>
+ J'ai mal au mic - Remasterisé 
 <br/> 
-Amicalement vôtre 
+L'amour est mort (Remasterisé) 
 <br/> 
-Guizmo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- SECOND SOUFFLE 
-<br/> 
-BLISS 
-<br/> 
-Mairo
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
