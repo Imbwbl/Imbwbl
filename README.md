@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e93cc72b165ecaf8701b9a37c90652e0a86b5e7a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f94d2e2760d7769f10ba67d95f3fa7d7f12a68b4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 July 2026 by github-actions[bot]</h3>
  </div>
@@ -68,7 +68,7 @@
     <br />
     <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- ALBA BISTRO FREESTYLE 
+ PARC DES SOURDS 
 <br/> 
 BLISS 
 <br/> 
@@ -76,7 +76,7 @@ Mairo
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- TOUR D'IVOIRE 
+ LOUP D'MER 
 <br/> 
 BLISS 
 <br/> 
@@ -84,7 +84,15 @@ Mairo
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- ANTIOXYDANT 
+ SECOND SOUFFLE 
+<br/> 
+BLISS 
+<br/> 
+Mairo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ ERA 
 <br/> 
 BLISS 
 <br/> 
