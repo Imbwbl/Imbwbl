@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bc7418c0ca185c87e5b1fcd9f9d884d4c9b8ac4b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/72b8fe92d6e904f27688ed52005738cfe41aa805">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
- Les Flammes 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/465d9f48a1bdc4f7082a58b819de8c19.jpg" heigth='100%' align='left'/>
+ cui cui cui 
 <br/> 
-J.000.$ 
+T00N! w0rld 
 <br/> 
-Josman
+TKKF
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
- Life 
+ 1994 
 <br/> 
 1994 
 <br/> 
 Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/ad1070bb0ed87cbd9231bddeb7cd0ac2.jpg" heigth='100%' align='left'/>
- Prélude in C-sharp minor, Op. 3, No. 2 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
+ Demain 
 <br/> 
-Rachmaninoff Plays Rachmaninoff - The Ampico Piano Recordings 
+2069' 
 <br/> 
-Sergei Rachmaninoff
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth='100%' align='left'/>
+ Air Max 
+<br/> 
+Air Max 
+<br/> 
+Rim'K
 </div>
 <br clear='all' /><br /> 
 </details>
