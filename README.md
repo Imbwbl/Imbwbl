@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/206f985b62d552c5fee2641cc078b89fb67e8d62">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e4746f2a492b8660b4da9b366bec8885af75f825">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 July 2026 by github-actions[bot]</h3>
  </div>
@@ -68,7 +68,7 @@
     <br />
     <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- CAAASHH 
+ MENACE II SOBRIETY (BONUS TRACK) 
 <br/> 
 1984 
 <br/> 
@@ -76,7 +76,7 @@ Tom D.
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- FUCKDAPOLICE !!! 
+ OUTRO PT. II 
 <br/> 
 1984 
 <br/> 
@@ -84,15 +84,7 @@ Tom D.
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- UN TEH LUDE 
-<br/> 
-1984 
-<br/> 
-Tom D.
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Je Suis Dans Le Jardin Suédois 
+ NICE 
 <br/> 
 1984 
 <br/> 
