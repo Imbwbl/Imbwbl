@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e4746f2a492b8660b4da9b366bec8885af75f825">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f11b4e153c68b6b2253f356ff60ec898e36d2f88">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- MENACE II SOBRIETY (BONUS TRACK) 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
+ Pistolet Rose 
 <br/> 
-1984 
+PPP 
 <br/> 
-Tom D.
+Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- OUTRO PT. II 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ L'Œil de la Joconde 
 <br/> 
-1984 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
-Tom D.
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- NICE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
+ Au Bout 
 <br/> 
-1984 
+000$ 
 <br/> 
-Tom D.
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
