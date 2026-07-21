@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/aef6dba1148cc61ff84c7a2d78f7c9fe2220474b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c4b93851399021e363484b3285554a502879a859">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
- P&P 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth='100%' align='left'/>
+ Air Max 
 <br/> 
-spleen. social club 
+Air Max 
 <br/> 
-aupinard
+Rim'K
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" heigth='100%' align='left'/>
- BabyGirl 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
+ Life 
 <br/> 
-Split 
+1994 
+<br/> 
+Hamza
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
+ Ailleurs 
+<br/> 
+J.000.$ 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
+ Un peu de haine 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+Mental 
 <br/> 
-Josman
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
