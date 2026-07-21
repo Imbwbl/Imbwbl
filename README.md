@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d04a14bf77d8abddc14e2a2655733ed006635c4a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c5f2df456029f9bc83288e65e7d486254ac362b0">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 July 2026 by github-actions[bot]</h3>
  </div>
@@ -66,5 +66,29 @@
 <details>
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
-    
+    <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth='100%' align='left'/>
+ Stupéfiant et noir 
+<br/> 
+UNE MAIN LAVE L'AUTRE 
+<br/> 
+Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" heigth='100%' align='left'/>
+ Émotif (Booska 1H) 
+<br/> 
+Polak 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ Intro 
+<br/> 
+M.A.N (Black Roses & Lost Feelings) 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> 
 </details>
