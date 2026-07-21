@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c4b93851399021e363484b3285554a502879a859">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/99d03e1713999143d37d07096865561a293a6339">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth='100%' align='left'/>
- Air Max 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ XS 
 <br/> 
-Air Max 
-<br/> 
-Rim'K
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
- Life 
-<br/> 
-1994 
-<br/> 
-Hamza
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
- Ailleurs 
-<br/> 
-J.000.$ 
+J.O.$ 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" heigth='100%' align='left'/>
- Un peu de haine 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6d47bf730b54b2c6d05a177f4ecf1328.jpg" heigth='100%' align='left'/>
+ 2cm à l'heure 
 <br/> 
-Mental 
+LA HAUTEUR DE LA LUNE 
 <br/> 
-PLK
+Oxmo Puccino
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ soldat tue soldat 
+<br/> 
+don dada mixtape vol 1 
+<br/> 
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
