@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1d004b21bfc61c947bf8087b2396b3c329964146">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a1d4bc9b74d387cbaa3e73a45840b4b4c4e89508">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
- ton ombre ne revient pas 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth='100%' align='left'/>
+ Le plan B 
 <br/> 
-spleen. social club 
+Bitume Caviar (Vol.1) 
 <br/> 
-aupinard
+Isha
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/0e89ef16cf980b6990ebfaf05ee7d833.png" heigth='100%' align='left'/>
+ Cloud 8 
+<br/> 
+KKSHISENSE8 
+<br/> 
+Népal
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- crame 
+ Je vis, je meurs, la nuit 
 <br/> 
-crame 
+Du caviar pour mon chien 
 <br/> 
-Rounhaa
+Gal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- PAS + 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth='100%' align='left'/>
+ André 
 <br/> 
-PAS + 
+Dans ma ruche 
 <br/> 
-unisature
+Guizmo
 </div>
 <br clear='all' /><br /> 
 </details>
