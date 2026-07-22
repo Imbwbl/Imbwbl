@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dd53ac0e4860dcf8f48f1b800b344035ec5b5b96">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8cab3c04526d8e0fe32a2a0ce9c8c53a9f9311f8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/cb8e41ecc96f769575babd440b81e795.jpg" heigth='100%' align='left'/>
- All Girls Are the Same 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ FUCKDAPOLICE !!! 
 <br/> 
-Goodbye & Good Riddance 
+1984 
 <br/> 
-Juice WRLD
+Tom D.
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
- HOPE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
+ Demain 
 <br/> 
-? 
+2069' 
 <br/> 
-XXXTENTACION
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4386a469e620103f8436b3e969075959.jpg" heigth='100%' align='left'/>
- SICKO MODE 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth='100%' align='left'/>
+ R5 et Murcielago 
 <br/> 
-ASTROWORLD 
+Alph Lauren 3 
 <br/> 
-Travis Scott
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
