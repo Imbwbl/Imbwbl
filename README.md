@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a1d4bc9b74d387cbaa3e73a45840b4b4c4e89508">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/39204830e34319c2979dcdf41b039bdd20bfce21">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/f16cf7a1a93c761ed04e6ec6b3a30ac6.jpg" heigth='100%' align='left'/>
- Le plan B 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ HOPE 
 <br/> 
-Bitume Caviar (Vol.1) 
+? 
 <br/> 
-Isha
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/0e89ef16cf980b6990ebfaf05ee7d833.png" heigth='100%' align='left'/>
- Cloud 8 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4386a469e620103f8436b3e969075959.jpg" heigth='100%' align='left'/>
+ SICKO MODE 
 <br/> 
-KKSHISENSE8 
+ASTROWORLD 
 <br/> 
-Népal
+Travis Scott
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Je vis, je meurs, la nuit 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ Sad! 
 <br/> 
-Du caviar pour mon chien 
+? 
 <br/> 
-Gal
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth='100%' align='left'/>
- André 
-<br/> 
-Dans ma ruche 
-<br/> 
-Guizmo
+XXXTENTACION
 </div>
 <br clear='all' /><br /> 
 </details>
