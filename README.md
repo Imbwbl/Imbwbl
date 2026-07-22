@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/39204830e34319c2979dcdf41b039bdd20bfce21">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dd53ac0e4860dcf8f48f1b800b344035ec5b5b96">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/cb8e41ecc96f769575babd440b81e795.jpg" heigth='100%' align='left'/>
+ All Girls Are the Same 
+<br/> 
+Goodbye & Good Riddance 
+<br/> 
+Juice WRLD
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
  HOPE 
 <br/> 
@@ -81,14 +89,6 @@ XXXTENTACION
 ASTROWORLD 
 <br/> 
 Travis Scott
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
- Sad! 
-<br/> 
-? 
-<br/> 
-XXXTENTACION
 </div>
 <br clear='all' /><br /> 
 </details>
