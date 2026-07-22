@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f3a3859c0d7b2e286ff27e74decdaa613e6c9a4a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/430d1888601d01534dfbb21f25cb3671fb47d8e3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- FUCKDAPOLICE !!! 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/2805853d6bb608c5ff0dd640e09b06b8.jpg" heigth='100%' align='left'/>
+ Pretty Girl 
 <br/> 
-1984 
+Pretty Girl 
 <br/> 
-Tom D.
+Clairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
- Demain 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/87b44d37982e08d94b543a52e96c92f8.jpg" heigth='100%' align='left'/>
+ bubble gum 
 <br/> 
-2069' 
+bubble gum 
 <br/> 
-PLK
+Clairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth='100%' align='left'/>
- R5 et Murcielago 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/87b44d37982e08d94b543a52e96c92f8.jpg" heigth='100%' align='left'/>
+ bubble gum 
 <br/> 
-Alph Lauren 3 
+bubble gum 
 <br/> 
-Alpha Wann
+Clairo
 </div>
 <br clear='all' /><br /> 
 </details>
