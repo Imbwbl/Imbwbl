@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/90765b160054251081b79a3ddd1000461c76cf31">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/79613b134f9196c5faae88f0dcd26aeb71305846">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
+ L'enfant seul - Remasterisé 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+Opéra Puccino (Edition Collector) 
 <br/> 
-Josman
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- XS 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/33a09f75c38f33e0697a66df8760c8e2.png" heigth='100%' align='left'/>
+ On tombe, on réessaye 
 <br/> 
-J.O.$ 
+On tombe, on réessaye 
 <br/> 
-Josman
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
- Ailleurs 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/760297d128fc8e8f1831ffea7f704595.jpg" heigth='100%' align='left'/>
+ Astronaute 
 <br/> 
-J.000.$ 
+Astronaute 
 <br/> 
-Josman
+An'Om
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth='100%' align='left'/>
- Peace, Haine, Love 
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" heigth='100%' align='left'/>
+ C'est pas grave 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) [Bonus] 
+Adieu, au revoir 
 <br/> 
-Josman
+Columbine
 </div>
 <br clear='all' /><br /> 
 </details>
