@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/79613b134f9196c5faae88f0dcd26aeb71305846">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/23ae5b1f26cd7c916369f42947d251bcf9bbecea">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 July 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ Intro 
+<br/> 
+M.A.N (Black Roses & Lost Feelings) 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
+ un thé? 
+<br/> 
+spleen. social club 
+<br/> 
+aupinard
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" heigth='100%' align='left'/>
  L'enfant seul - Remasterisé 
 <br/> 
 Opéra Puccino (Edition Collector) 
 <br/> 
 Oxmo Puccino
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/33a09f75c38f33e0697a66df8760c8e2.png" heigth='100%' align='left'/>
- On tombe, on réessaye 
-<br/> 
-On tombe, on réessaye 
-<br/> 
-BEN plg
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/760297d128fc8e8f1831ffea7f704595.jpg" heigth='100%' align='left'/>
- Astronaute 
-<br/> 
-Astronaute 
-<br/> 
-An'Om
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" heigth='100%' align='left'/>
- C'est pas grave 
-<br/> 
-Adieu, au revoir 
-<br/> 
-Columbine
 </div>
 <br clear='all' /><br /> 
 </details>
