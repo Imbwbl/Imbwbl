@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/91ce5a99edb7a15359d4b572aa7327d5d49edd20">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3b988136af72c1b4e02b2df9766ddab0f7349384">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" heigth='100%' align='left'/>
- C'est pas grave 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/276873d134e1b529c8bd9e40ea3ddf90.jpg" heigth='100%' align='left'/>
+ NRV 
 <br/> 
-Adieu, au revoir 
+NRV 
 <br/> 
-Columbine
+Kaaris
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" heigth='100%' align='left'/>
- SUPERSTAR 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ Moonlight 
 <br/> 
-ÉPILOGUE 
+? 
 <br/> 
-Bu$hi
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ce2baba0efbd26c05354ba1a9dfe74b3.jpg" heigth='100%' align='left'/>
+ AVM 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+VEDA 
 <br/> 
-Josman
+YG Pablo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4c66e0e7a7f0f8f6daad2da92cbf0dc7.jpg" heigth='100%' align='left'/>
+ TU ME RENDS BÊTE 
+<br/> 
+TU ME RENDS BÊTE 
+<br/> 
+Gims
 </div>
 <br clear='all' /><br /> 
 </details>
