@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d68eef3ca49b49a523a318b8373f4664c92378be">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/17b0c84f98bee32de8415c89d9ecddae3268ac3f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 06 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,7 +67,7 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" heigth='100%' align='left'/>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" heigth='100%' align='left'/>
  C'est pas grave 
 <br/> 
 Adieu, au revoir 
@@ -75,7 +75,7 @@ Adieu, au revoir
 Columbine
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" heigth='100%' align='left'/>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" heigth='100%' align='left'/>
  SUPERSTAR 
 <br/> 
 ÉPILOGUE 
@@ -83,7 +83,7 @@ Columbine
 Bu$hi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
  Intro 
 <br/> 
 M.A.N (Black Roses & Lost Feelings) 
