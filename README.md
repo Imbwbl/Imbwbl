@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3b988136af72c1b4e02b2df9766ddab0f7349384">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4d7cb99b39f1e546cc10f2fc4013ff733b48b4f4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,14 +67,6 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/276873d134e1b529c8bd9e40ea3ddf90.jpg" heigth='100%' align='left'/>
- NRV 
-<br/> 
-NRV 
-<br/> 
-Kaaris
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
  Moonlight 
 <br/> 
