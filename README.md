@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/39a86df7b4955e3dca7837cc16a2182cd110ff52">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3ce0d7829ef3406f954982ea7e70da6240fba45f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/576554c542da76c08f0e80c129afcb0e.png" heigth='100%' align='left'/>
- The Adults Are Talking 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0a9f1e6e0c825c1e7772fb049f2bf4a1.jpg" heigth='100%' align='left'/>
+ Amoeba 
 <br/> 
-The New Abnormal 
+Sling 
 <br/> 
-The Strokes
+Clairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3dfc90eece3bcdfbfe7c860d1f54477b.jpg" heigth='100%' align='left'/>
- Harvey 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/40564dd1a58f969fc3ee3c49bddffd23.png" heigth='100%' align='left'/>
+ Duvet 
 <br/> 
-Invitation to Her's 
+Twilight 
 <br/> 
-Her's
+bôa
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3ebab0f7ce4e3a8fc2334f811427df6f.jpg" heigth='100%' align='left'/>
- Stress Relief 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87910ddc061744bc798346c2b0eef401.jpg" heigth='100%' align='left'/>
+ I Don't Know You 
 <br/> 
-Am I sinking or Am I swimming? 
+I Don't Know You 
 <br/> 
-late night drive home
+The Marías
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/66891a663fd54520c5fefc8afde43f94.jpg" heigth='100%' align='left'/>
- 1 4 2 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e505ce7d60d366c501418aa473c2dd19.jpg" heigth='100%' align='left'/>
+ In My Mind 
 <br/> 
-Sun Transmission 
+In My Mind 
 <br/> 
-Inner Wave
+Lyn Lapid
 </div>
 <br clear='all' /><br /> 
 </details>
