@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/25d21add2031e48e7a2fce30d00370d44ff13b57">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/39a86df7b4955e3dca7837cc16a2182cd110ff52">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/74e59938d6365ad84c92273028bdf595.jpg" heigth='100%' align='left'/>
- You Get Me So High 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/576554c542da76c08f0e80c129afcb0e.png" heigth='100%' align='left'/>
+ The Adults Are Talking 
 <br/> 
-Hard to Imagine the Neighbourhood Ever Changing 
+The New Abnormal 
 <br/> 
-The Neighbourhood
+The Strokes
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/37d435318d744beea7f76d55f8800cad.png" heigth='100%' align='left'/>
- Money 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3dfc90eece3bcdfbfe7c860d1f54477b.jpg" heigth='100%' align='left'/>
+ Harvey 
 <br/> 
-Portamento 
+Invitation to Her's 
 <br/> 
-The Drums
+Her's
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1349baf0f67ff97b52135f159dea3213.jpg" heigth='100%' align='left'/>
- Sunflower 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3ebab0f7ce4e3a8fc2334f811427df6f.jpg" heigth='100%' align='left'/>
+ Stress Relief 
 <br/> 
-Sunflower 
+Am I sinking or Am I swimming? 
 <br/> 
-Michele Leigh
+late night drive home
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg" heigth='100%' align='left'/>
- Lovers Rock 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/66891a663fd54520c5fefc8afde43f94.jpg" heigth='100%' align='left'/>
+ 1 4 2 
 <br/> 
-French Exit 
+Sun Transmission 
 <br/> 
-TV Girl
+Inner Wave
 </div>
 <br clear='all' /><br /> 
 </details>
