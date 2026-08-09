@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/174b8a565eef359f92c56246aeef87d31fb42378">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b5fd7597bc4847441dad5b033ee108655f775a80">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
- Moonlight 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
+ Amicalement Vôtre 
 <br/> 
-? 
+Amicalement vôtre 
 <br/> 
-XXXTENTACION
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ce2baba0efbd26c05354ba1a9dfe74b3.jpg" heigth='100%' align='left'/>
- AVM 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
+ Je l'aime autant que je la hais 
 <br/> 
-VEDA 
+Amicalement vôtre 
 <br/> 
-YG Pablo
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4c66e0e7a7f0f8f6daad2da92cbf0dc7.jpg" heigth='100%' align='left'/>
- TU ME RENDS BÊTE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
+ Je n'ai plus peur de me souvenir 
 <br/> 
-TU ME RENDS BÊTE 
+Amicalement vôtre 
 <br/> 
-Gims
+Guizmo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
+ Vagabond 
+<br/> 
+Amicalement vôtre 
+<br/> 
+Guizmo
 </div>
 <br clear='all' /><br /> 
 </details>
