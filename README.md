@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b5fd7597bc4847441dad5b033ee108655f775a80">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/efeebe8cc5a3392306b7a8e8ae092f35b89092fd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 August 2026 by github-actions[bot]</h3>
  </div>
@@ -68,7 +68,7 @@
     <br />
     <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
- Amicalement Vôtre 
+ J'ai le blues 
 <br/> 
 Amicalement vôtre 
 <br/> 
@@ -76,7 +76,7 @@ Guizmo
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
- Je l'aime autant que je la hais 
+ Les gens parlent d'amour 
 <br/> 
 Amicalement vôtre 
 <br/> 
@@ -84,15 +84,7 @@ Guizmo
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
- Je n'ai plus peur de me souvenir 
-<br/> 
-Amicalement vôtre 
-<br/> 
-Guizmo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
- Vagabond 
+ Je n'sais pas quand ça finira.. 
 <br/> 
 Amicalement vôtre 
 <br/> 
