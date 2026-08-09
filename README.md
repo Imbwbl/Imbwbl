@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e6a240c19a6d56dd9e9fa2c85371cc218b2d1543">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4c98e6d00f832d7a6e3cbde12ca42dc023934a84">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5cb0c0e7bfd405bfbcf8f87c57840c5d.jpg" heigth='100%' align='left'/>
- Yam Yam 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/37d435318d744beea7f76d55f8800cad.png" heigth='100%' align='left'/>
+ I Don't Know How To Love 
 <br/> 
-Yam Yam 
+Portamento 
 <br/> 
-No Vacation
+The Drums
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f90c131019b291aa892c503c1144b6.png" heigth='100%' align='left'/>
- YKWIM? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/701b7d04a6b8f1e6575375be68a67f29.jpg" heigth='100%' align='left'/>
+ Je n'ai rien à faire 
 <br/> 
-Bipolar 
+Je n'ai rien à faire 
 <br/> 
-Yot Club
+Alice et Moi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/93fe3c819e6073e735f7571929ffed8f.jpg" heigth='100%' align='left'/>
- Hello? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9ed4cf0ce373ab55db1da91012921604.jpg" heigth='100%' align='left'/>
+ Young 
 <br/> 
-diary 001 
+Vibes 
 <br/> 
-Clairo
+VACATIONS
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2805853d6bb608c5ff0dd640e09b06b8.jpg" heigth='100%' align='left'/>
- Pretty Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d2389b806dd5061b6a75e360c4c46c88.jpg" heigth='100%' align='left'/>
+ Sofia 
 <br/> 
-Pretty Girl 
+Immunity 
 <br/> 
 Clairo
 </div>
