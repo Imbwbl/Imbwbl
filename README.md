@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4c98e6d00f832d7a6e3cbde12ca42dc023934a84">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/25d21add2031e48e7a2fce30d00370d44ff13b57">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/74e59938d6365ad84c92273028bdf595.jpg" heigth='100%' align='left'/>
+ You Get Me So High 
+<br/> 
+Hard to Imagine the Neighbourhood Ever Changing 
+<br/> 
+The Neighbourhood
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/37d435318d744beea7f76d55f8800cad.png" heigth='100%' align='left'/>
- I Don't Know How To Love 
+ Money 
 <br/> 
 Portamento 
 <br/> 
 The Drums
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/701b7d04a6b8f1e6575375be68a67f29.jpg" heigth='100%' align='left'/>
- Je n'ai rien à faire 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1349baf0f67ff97b52135f159dea3213.jpg" heigth='100%' align='left'/>
+ Sunflower 
 <br/> 
-Je n'ai rien à faire 
+Sunflower 
 <br/> 
-Alice et Moi
+Michele Leigh
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9ed4cf0ce373ab55db1da91012921604.jpg" heigth='100%' align='left'/>
- Young 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg" heigth='100%' align='left'/>
+ Lovers Rock 
 <br/> 
-Vibes 
+French Exit 
 <br/> 
-VACATIONS
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d2389b806dd5061b6a75e360c4c46c88.jpg" heigth='100%' align='left'/>
- Sofia 
-<br/> 
-Immunity 
-<br/> 
-Clairo
+TV Girl
 </div>
 <br clear='all' /><br /> 
 </details>
