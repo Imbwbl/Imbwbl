@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/da05c39b465e70d246f4e4a291eaeec6c016e80e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/82d701795e311779be08999536ecb50d155192d6">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87b44d37982e08d94b543a52e96c92f8.jpg" heigth='100%' align='left'/>
+ bubble gum 
+<br/> 
+bubble gum 
+<br/> 
+Clairo
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" heigth='100%' align='left'/>
  Curl up & Die 
 <br/> 
@@ -81,14 +89,6 @@ Matt Maltese
 Retired from Sad, New Career in Business 
 <br/> 
 Mitski
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3668a275467fc56cdde8d477593a6a62.jpg" heigth='100%' align='left'/>
- Blondie 
-<br/> 
-Wild Heart 
-<br/> 
-Current Joys
 </div>
 <br clear='all' /><br /> 
 </details>
