@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3d13e9babfc3ab5f5afa8d08a453466239aa7def">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/db8ff40c7b75f3bd7f09ce7751d29e7c841ea7bd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" heigth='100%' align='left'/>
+ Attentat 
+<br/> 
+Enna Boost 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87b44d37982e08d94b543a52e96c92f8.jpg" heigth='100%' align='left'/>
  bubble gum 
 <br/> 
@@ -81,14 +89,6 @@ Clairo
 Krystal 
 <br/> 
 Matt Maltese
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4b49d5d53345bc9fec05cbbb9722f8f4.png" heigth='100%' align='left'/>
- I Want You 
-<br/> 
-Retired from Sad, New Career in Business 
-<br/> 
-Mitski
 </div>
 <br clear='all' /><br /> 
 </details>
