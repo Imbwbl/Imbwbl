@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3ce0d7829ef3406f954982ea7e70da6240fba45f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8f07a1e67b3f784d9492367dc7a4c05f5ab03077">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0a9f1e6e0c825c1e7772fb049f2bf4a1.jpg" heigth='100%' align='left'/>
- Amoeba 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f33ecdb3db79940b1f3938bf1b2bd10.jpg" heigth='100%' align='left'/>
+ Curl up & Die 
 <br/> 
-Sling 
+Krystal 
 <br/> 
-Clairo
+Matt Maltese
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/40564dd1a58f969fc3ee3c49bddffd23.png" heigth='100%' align='left'/>
- Duvet 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4b49d5d53345bc9fec05cbbb9722f8f4.png" heigth='100%' align='left'/>
+ I Want You 
 <br/> 
-Twilight 
+Retired from Sad, New Career in Business 
 <br/> 
-bôa
+Mitski
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87910ddc061744bc798346c2b0eef401.jpg" heigth='100%' align='left'/>
- I Don't Know You 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3668a275467fc56cdde8d477593a6a62.jpg" heigth='100%' align='left'/>
+ Blondie 
 <br/> 
-I Don't Know You 
+Wild Heart 
 <br/> 
-The Marías
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e505ce7d60d366c501418aa473c2dd19.jpg" heigth='100%' align='left'/>
- In My Mind 
-<br/> 
-In My Mind 
-<br/> 
-Lyn Lapid
+Current Joys
 </div>
 <br clear='all' /><br /> 
 </details>
