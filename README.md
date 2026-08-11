@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a18adf79e244b729fdc88a996cfda25d0927040c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/faa700b77648e8a4c7cf421dea84082e90e83cfd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c950c3d48bb8ded40c4cb27b736837b.jpg" heigth='100%' align='left'/>
- My Ordinary Life 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
+ Hurt 
 <br/> 
-My Ordinary Life 
+Ugly is Beautiful 
 <br/> 
-The Living Tombstone
+Oliver Tree
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b63b6e8a7e27e39ab195b1aa88dc0d45.jpg" heigth='100%' align='left'/>
- It's Been So Long 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
+ Alien Boy 
 <br/> 
-FNAFdom (Live) 
+Ugly is Beautiful 
 <br/> 
-The Living Tombstone
+Oliver Tree
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c950c3d48bb8ded40c4cb27b736837b.jpg" heigth='100%' align='left'/>
- My Ordinary Life 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8a68ecced35c4d83c9ddd5441e0aecbc.jpg" heigth='100%' align='left'/>
+ Miss You - Bonus Track 
 <br/> 
-My Ordinary Life 
+Alone In A Crowd 
 <br/> 
-The Living Tombstone
+Oliver Tree
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/43effa25aab2545dab64be187a867fbd.jpg" heigth='100%' align='left'/>
+ Life Goes On 
+<br/> 
+Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe) 
+<br/> 
+Oliver Tree
 </div>
 <br clear='all' /><br /> 
 </details>
