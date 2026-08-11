@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7d2062f759eb779c56a7ab50fbd329ddcca24c81">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/830d2f9e6780d7530a96bec5af30507422cb544b">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4aae5ab93cbb5bec97196f8116678703.jpg" heigth='100%' align='left'/>
+ Un Peu Beaucoup 
+<br/> 
+Offshore 
+<br/> 
+So La Lune
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
  Guérison 
 <br/> 
@@ -79,22 +87,6 @@ So La Lune
  Tsukithèse 
 <br/> 
 2ème faille (Silfra) 
-<br/> 
-So La Lune
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4aae5ab93cbb5bec97196f8116678703.jpg" heigth='100%' align='left'/>
- Belle 
-<br/> 
-Offshore 
-<br/> 
-So La Lune
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Range Ro 
-<br/> 
-Fissure de vie 
 <br/> 
 So La Lune
 </div>
