@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/66154ab907c1eb2386df3daad0bc79c342a12428">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9debd5f75d1bf8e99e03cccec2a122846faf2208">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4aae5ab93cbb5bec97196f8116678703.jpg" heigth='100%' align='left'/>
- Un Peu Beaucoup 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c950c3d48bb8ded40c4cb27b736837b.jpg" heigth='100%' align='left'/>
+ My Ordinary Life 
 <br/> 
-Offshore 
+My Ordinary Life 
 <br/> 
-So La Lune
+The Living Tombstone
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c9848fb1ae5da2ee9c4d765c32599a63.jpg" heigth='100%' align='left'/>
+ My Ordinary Life - Slowed 
+<br/> 
+My Ordinary Life (Sped Up and Slowed) 
+<br/> 
+10x
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Guérison 
+ Medellín 
 <br/> 
 Fissure de vie 
 <br/> 
 So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7f097b51f9e03e3710d268dfc85c24ae.jpg" heigth='100%' align='left'/>
- Tsukithèse 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4aae5ab93cbb5bec97196f8116678703.jpg" heigth='100%' align='left'/>
+ Un Peu Beaucoup 
 <br/> 
-2ème faille (Silfra) 
+Offshore 
 <br/> 
 So La Lune
 </div>
