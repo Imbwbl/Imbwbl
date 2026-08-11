@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0c60b2276d0c2e61c6c89f5aa8ff9da5e26d7667">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bc7472cc23072a59e60c9c4fa079487af39adaf7">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e4ecd32d08c4669c4ddf057baaa87938.jpg" heigth='100%' align='left'/>
- Jocelyn Flores 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/07977695d3114433b96074320609b8d8.jpg" heigth='100%' align='left'/>
+ Raise My Sword 
 <br/> 
-17 
+Under the Force of Courage 
 <br/> 
-XXXTENTACION
+Galneryus
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e4ecd32d08c4669c4ddf057baaa87938.jpg" heigth='100%' align='left'/>
- Revenge 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff8b1b48c20f99d1c2c6e3c79bc69272.jpg" heigth='100%' align='left'/>
+ Die 
 <br/> 
-17 
+Songs Part Two 
 <br/> 
-XXXTENTACION
+Jeff Williams
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
- Sad! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2f81ab1f0f3383e64dae9f2e172497f8.jpg" heigth='100%' align='left'/>
+ Dead To Me - Original Mix 
 <br/> 
-? 
+Dead To Me 
 <br/> 
-XXXTENTACION
+Whales
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e4ecd32d08c4669c4ddf057baaa87938.jpg" heigth='100%' align='left'/>
- fuck love 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c950c3d48bb8ded40c4cb27b736837b.jpg" heigth='100%' align='left'/>
+ My Ordinary Life 
 <br/> 
-17 
+My Ordinary Life 
 <br/> 
-XXXTENTACION
+The Living Tombstone
 </div>
 <br clear='all' /><br /> 
 </details>
