@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9debd5f75d1bf8e99e03cccec2a122846faf2208">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a18adf79e244b729fdc88a996cfda25d0927040c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 August 2026 by github-actions[bot]</h3>
  </div>
@@ -75,28 +75,20 @@ My Ordinary Life
 The Living Tombstone
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c9848fb1ae5da2ee9c4d765c32599a63.jpg" heigth='100%' align='left'/>
- My Ordinary Life - Slowed 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b63b6e8a7e27e39ab195b1aa88dc0d45.jpg" heigth='100%' align='left'/>
+ It's Been So Long 
 <br/> 
-My Ordinary Life (Sped Up and Slowed) 
+FNAFdom (Live) 
 <br/> 
-10x
+The Living Tombstone
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Medellín 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c950c3d48bb8ded40c4cb27b736837b.jpg" heigth='100%' align='left'/>
+ My Ordinary Life 
 <br/> 
-Fissure de vie 
+My Ordinary Life 
 <br/> 
-So La Lune
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4aae5ab93cbb5bec97196f8116678703.jpg" heigth='100%' align='left'/>
- Un Peu Beaucoup 
-<br/> 
-Offshore 
-<br/> 
-So La Lune
+The Living Tombstone
 </div>
 <br clear='all' /><br /> 
 </details>
