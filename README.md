@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/faa700b77648e8a4c7cf421dea84082e90e83cfd">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0c60b2276d0c2e61c6c89f5aa8ff9da5e26d7667">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
- Hurt 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e4ecd32d08c4669c4ddf057baaa87938.jpg" heigth='100%' align='left'/>
+ Jocelyn Flores 
 <br/> 
-Ugly is Beautiful 
+17 
 <br/> 
-Oliver Tree
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7771d707e0ac83c2b3b1fc85787ac7fc.png" heigth='100%' align='left'/>
- Alien Boy 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e4ecd32d08c4669c4ddf057baaa87938.jpg" heigth='100%' align='left'/>
+ Revenge 
 <br/> 
-Ugly is Beautiful 
+17 
 <br/> 
-Oliver Tree
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8a68ecced35c4d83c9ddd5441e0aecbc.jpg" heigth='100%' align='left'/>
- Miss You - Bonus Track 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ Sad! 
 <br/> 
-Alone In A Crowd 
+? 
 <br/> 
-Oliver Tree
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/43effa25aab2545dab64be187a867fbd.jpg" heigth='100%' align='left'/>
- Life Goes On 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e4ecd32d08c4669c4ddf057baaa87938.jpg" heigth='100%' align='left'/>
+ fuck love 
 <br/> 
-Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe) 
+17 
 <br/> 
-Oliver Tree
+XXXTENTACION
 </div>
 <br clear='all' /><br /> 
 </details>
