@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bc7472cc23072a59e60c9c4fa079487af39adaf7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ace66c2c3c0e9cbc130345d61fadc6f4ceacb1a8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/07977695d3114433b96074320609b8d8.jpg" heigth='100%' align='left'/>
- Raise My Sword 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6be31f30561a8a38d0a2fd53c2c5d518.jpg" heigth='100%' align='left'/>
+ why are u running? 
 <br/> 
-Under the Force of Courage 
+why are u running? 
 <br/> 
-Galneryus
+Gudbye
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff8b1b48c20f99d1c2c6e3c79bc69272.jpg" heigth='100%' align='left'/>
- Die 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Vendetta 
 <br/> 
-Songs Part Two 
+Vendetta 
 <br/> 
-Jeff Williams
+KA$$IU$
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2f81ab1f0f3383e64dae9f2e172497f8.jpg" heigth='100%' align='left'/>
- Dead To Me - Original Mix 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3642ff601fcf59d884cda8ad9541c1fa.jpg" heigth='100%' align='left'/>
+ BUSSIT BACK! 
 <br/> 
-Dead To Me 
+BUSSIT BACK! 
 <br/> 
-Whales
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c950c3d48bb8ded40c4cb27b736837b.jpg" heigth='100%' align='left'/>
- My Ordinary Life 
-<br/> 
-My Ordinary Life 
-<br/> 
-The Living Tombstone
+Slevpy808
 </div>
 <br clear='all' /><br /> 
 </details>
