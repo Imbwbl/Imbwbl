@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8a495351a00b634eed4b7a39702d4e4bc7bd38b2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/52112cf5cb4c9a11f4e050bc989fe886d07e63c8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,22 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ Moonlight 
+<br/> 
+? 
+<br/> 
+XXXTENTACION
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ red flannel 
+<br/> 
+red flannel 
+<br/> 
+Artifex27
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6be31f30561a8a38d0a2fd53c2c5d518.jpg" heigth='100%' align='left'/>
  why are u running? 
 <br/> 
@@ -81,14 +97,6 @@ Gudbye
 Vendetta 
 <br/> 
 KA$$IU$
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3642ff601fcf59d884cda8ad9541c1fa.jpg" heigth='100%' align='left'/>
- BUSSIT BACK! 
-<br/> 
-BUSSIT BACK! 
-<br/> 
-Slevpy808
 </div>
 <br clear='all' /><br /> 
 </details>
