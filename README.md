@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/486e7f3e78ce790ec71eeb1579cacfef82477d74">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2e513cbf73272d6d000657a0aa0973a9266e83b1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/14da2bdcdc2e4d7a83ed16e756aaab48.png" heigth='100%' align='left'/>
- Through the Fire and Flames 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/62108c8cb09b56c19d50a04c93b7ac73.jpg" heigth='100%' align='left'/>
+ Mexico 
 <br/> 
-Inhuman Rampage 
+Mexico 
 <br/> 
-DragonForce
+Shotgun Willy
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f8b6341f4cfa9650a8649b8f4a953ec7.jpg" heigth='100%' align='left'/>
- Roi - Instrumental 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d0335b9d9b2d31c5814a2e502dabdbfd.jpg" heigth='100%' align='left'/>
+ スカーレット警察のゲットーパトロール24時 
 <br/> 
-Roi 
+GENSOKYO DEMPA EXPO (イオシス東方コンピレーション vol.23) 
 <br/> 
-Mckyyy
+IOSYS
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/06ed8e48842dd12fedd4e006c27d5cae.jpg" heigth='100%' align='left'/>
- Waltz No. 19 in A minor, Op. posth. 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/05d0fa9d0db5ec4c7f1c1ae6e41ed1ad.jpg" heigth='100%' align='left'/>
+ OTEMBA KOIMUSUME 
 <br/> 
-Chopin: Waltzes, Etc. 
+東方紅魔郷　～ the Embodiment of Scarlet Devil. サウンドトラック 
 <br/> 
-Frédéric Chopin
+上海アリス幻樂団
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/490f5bcde33a4d5eb4c894330ab14089.png" heigth='100%' align='left'/>
- Bach: Toccata and Fugue in D Minor (Single Edit) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b1de80d7ec4e39752582d8b893c44884.jpg" heigth='100%' align='left'/>
+ MTG - VINGANÇA 
 <br/> 
-The Best Of Vanessa-Mae 
+MTG - VINGANÇA 
 <br/> 
-Johann Sebastian Bach
+DJ FKU
 </div>
 <br clear='all' /><br /> 
 </details>
