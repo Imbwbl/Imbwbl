@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/470c265fab01b2415e1446bcde80cbaf0e20cb9f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d66cd6b61926b491102159f18a2bb5cbbe15fb4a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
- Pistolet Rose 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04348e4f19bfba06bfefc75641a1b4e5.jpg" heigth='100%' align='left'/>
+ M.A.I.R 
 <br/> 
-PPP 
+M.A.I.R 
 <br/> 
-Alpha Wann
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- L'Œil de la Joconde 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5cebf1f76dcc926ee308ffa6efd4fd2c.jpg" heigth='100%' align='left'/>
+ LA GRANDE ÉVASION 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+CREAMLAND 
 <br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
- Au Bout 
-<br/> 
-000$ 
-<br/> 
-Josman
+Hologram Lo'
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- BLUES 
+ no escape 
 <br/> 
-BLUES 
+no escape 
 <br/> 
-LUVBFK
+axaero
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff18c3c08f0e1c85d62eeee24d1154e9.jpg" heigth='100%' align='left'/>
+ If Only 
+<br/> 
+Submarine 
+<br/> 
+The Marías
 </div>
 <br clear='all' /><br /> 
 </details>
