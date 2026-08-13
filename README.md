@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d66cd6b61926b491102159f18a2bb5cbbe15fb4a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/425b95e403e4affad4eb860c7403442782347114">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04348e4f19bfba06bfefc75641a1b4e5.jpg" heigth='100%' align='left'/>
- M.A.I.R 
-<br/> 
-M.A.I.R 
-<br/> 
-Mairo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5cebf1f76dcc926ee308ffa6efd4fd2c.jpg" heigth='100%' align='left'/>
- LA GRANDE ÉVASION 
-<br/> 
-CREAMLAND 
-<br/> 
-Hologram Lo'
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- no escape 
+ TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-no escape 
+TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-axaero
+poissonchat
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff18c3c08f0e1c85d62eeee24d1154e9.jpg" heigth='100%' align='left'/>
- If Only 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
+ Dyonysos 
 <br/> 
-Submarine 
+Cognacs & Cigarettes 
 <br/> 
-The Marías
+Jungle Jack
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
+ Champagne violet 
+<br/> 
+Cognacs & Cigarettes 
+<br/> 
+Jungle Jack
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2e3321641151b733459b47aabe24edf4.jpg" heigth='100%' align='left'/>
+ Mains qui prient 
+<br/> 
+Hat Trick 
+<br/> 
+JeanJass
 </div>
 <br clear='all' /><br /> 
 </details>
