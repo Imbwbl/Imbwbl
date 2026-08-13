@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2e513cbf73272d6d000657a0aa0973a9266e83b1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8087031684f092c524cf234ca3961af8221f667a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/62108c8cb09b56c19d50a04c93b7ac73.jpg" heigth='100%' align='left'/>
- Mexico 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6be31f30561a8a38d0a2fd53c2c5d518.jpg" heigth='100%' align='left'/>
+ why are u running? 
 <br/> 
-Mexico 
+why are u running? 
 <br/> 
-Shotgun Willy
+Gudbye
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d0335b9d9b2d31c5814a2e502dabdbfd.jpg" heigth='100%' align='left'/>
- スカーレット警察のゲットーパトロール24時 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Vendetta 
 <br/> 
-GENSOKYO DEMPA EXPO (イオシス東方コンピレーション vol.23) 
+Vendetta 
 <br/> 
-IOSYS
+KA$$IU$
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/05d0fa9d0db5ec4c7f1c1ae6e41ed1ad.jpg" heigth='100%' align='left'/>
- OTEMBA KOIMUSUME 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3642ff601fcf59d884cda8ad9541c1fa.jpg" heigth='100%' align='left'/>
+ BUSSIT BACK! 
 <br/> 
-東方紅魔郷　～ the Embodiment of Scarlet Devil. サウンドトラック 
+BUSSIT BACK! 
 <br/> 
-上海アリス幻樂団
+Slevpy808
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b1de80d7ec4e39752582d8b893c44884.jpg" heigth='100%' align='left'/>
- MTG - VINGANÇA 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dc9c30b18022c3454f7791302b59caa6.jpg" heigth='100%' align='left'/>
+ pink diamonds! 
 <br/> 
-MTG - VINGANÇA 
+pink diamonds! 
 <br/> 
-DJ FKU
+22december
 </div>
 <br clear='all' /><br /> 
 </details>
