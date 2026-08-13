@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5fb5088f392a929781bd553d939714a048df67e0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/94987f8578d8798841a51ce26480bde4925f281f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" heigth='100%' align='left'/>
+ Attentat 
+<br/> 
+Enna Boost 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" heigth='100%' align='left'/>
+ Moonlight 
+<br/> 
+? 
+<br/> 
+XXXTENTACION
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
  la lune attire la mer 
 <br/> 
 don dada mixtape vol 1 
 <br/> 
 Alpha Wann
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e89ef16cf980b6990ebfaf05ee7d833.png" heigth='100%' align='left'/>
- Babylone 
-<br/> 
-KKSHISENSE8 
-<br/> 
-Népal
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" heigth='100%' align='left'/>
- Saint-Ouen 
-<br/> 
-Lola 
-<br/> 
-Romsii
 </div>
 <br clear='all' /><br /> 
 </details>
