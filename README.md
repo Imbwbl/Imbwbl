@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6db039f823cac35dbd102f92292d89b8567a591c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/486e7f3e78ce790ec71eeb1579cacfef82477d74">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7860c303862f4cd1d1101f7e5726661b.png" heigth='100%' align='left'/>
- NISSAN ALTIMA 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/14da2bdcdc2e4d7a83ed16e756aaab48.png" heigth='100%' align='left'/>
+ Through the Fire and Flames 
 <br/> 
-Alligator Bites Never Heal 
+Inhuman Rampage 
 <br/> 
-Doechii
+DragonForce
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7e9b5e5ed23dd7a05e1dfce3c6051a5.png" heigth='100%' align='left'/>
- Kingston 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f8b6341f4cfa9650a8649b8f4a953ec7.jpg" heigth='100%' align='left'/>
+ Roi - Instrumental 
 <br/> 
-Atlanta Millionaires Club 
+Roi 
 <br/> 
-Faye Webster
+Mckyyy
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9c18a6e4a83f01033536b397b74920e9.jpg" heigth='100%' align='left'/>
- G Minor Bach (From \Piano Tiles 2\) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/06ed8e48842dd12fedd4e006c27d5cae.jpg" heigth='100%' align='left'/>
+ Waltz No. 19 in A minor, Op. posth. 
 <br/> 
-G Minor Bach (From \Piano Tiles 2\) 
+Chopin: Waltzes, Etc. 
 <br/> 
-Jacob's Piano
+Frédéric Chopin
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e39f381e24a9a8affb9bae0211b214f0.jpg" heigth='100%' align='left'/>
- 15 Two-Part Inventions, BWV 772/786: No. 13 in A minor, BWV 784 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/490f5bcde33a4d5eb4c894330ab14089.png" heigth='100%' align='left'/>
+ Bach: Toccata and Fugue in D Minor (Single Edit) 
 <br/> 
-Bach, J.S.: Keyboard Works; The Well-Tempered Clavier; 2- & 3- Part Inventions; The Art Of Fugue; Chromatic Fantasy & Fugue (Collectors Edition) 
+The Best Of Vanessa-Mae 
 <br/> 
 Johann Sebastian Bach
 </div>
