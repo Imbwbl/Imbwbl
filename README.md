@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e3f3e43d8a9e5a38693f8c351d3f4c1ab7339f15">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e5de3609af8b5e6540208e3db2559d2060b0348a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 August 2026 by github-actions[bot]</h3>
  </div>
@@ -66,29 +66,5 @@
 <details>
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
-    <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth='100%' align='left'/>
- Les mégots dans le bac à sable 
-<br/> 
-Dire je t'aime 
-<br/> 
-BEN plg
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/47454290d5d2bdd283ce9fd158a8aaa9.jpg" heigth='100%' align='left'/>
- Pistolet avec les doigts 
-<br/> 
-cuicui 
-<br/> 
-Asfar Shamsi
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/563a0d40aca9c1c5c441ba6326d55537.jpg" heigth='100%' align='left'/>
- Théâtre de marionnettes 
-<br/> 
-J'rêve mieux qu'avant 
-<br/> 
-BEN plg
-</div>
-<br clear='all' /><br /> 
+    
 </details>
