@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c93dbb2702997f2612aeab9b8abb91feb8210fee">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/31c7f8a4f3e3094b77a625171f9814407f46d121">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/563a0d40aca9c1c5c441ba6326d55537.jpg" heigth='100%' align='left'/>
- Ah bah ouais 
-<br/> 
-J'rêve mieux qu'avant 
-<br/> 
-BEN plg
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth='100%' align='left'/>
- Tête à l'envers 
-<br/> 
-Paraît que les miracles n'existent pas 
-<br/> 
-BEN plg
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/03fd93bbd4e1710bb9ec45e9b677fcba.jpg" heigth='100%' align='left'/>
  Tant que ça va (feat. Bekar) 
 <br/> 
 Parcours accidenté 
+<br/> 
+BEN plg
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth='100%' align='left'/>
+ Étoiles et satellites 
+<br/> 
+Dire je t'aime 
+<br/> 
+BEN plg
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/958a0f85ecd3e991dd7693fcf89c6a9e.jpg" heigth='100%' align='left'/>
+ Victor Osimhen 
+<br/> 
+Victor Osimhen 
 <br/> 
 BEN plg
 </div>
