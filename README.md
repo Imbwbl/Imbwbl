@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/27d14e44eaf06a842d838401234c5de980be5898">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f7500cd292ef68a2468f40785c10e7b6d76f7a8a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b63b6e8a7e27e39ab195b1aa88dc0d45.jpg" heigth='100%' align='left'/>
- It's Been So Long 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fe058624409204ec4efc387e37eba846.jpg" heigth='100%' align='left'/>
+ Remember You (feat. Olivia Olson & Tom Kenny) 
 <br/> 
-FNAFdom (Live) 
+Adventure Time, Vol. 2 (Original Soundtrack) 
 <br/> 
-The Living Tombstone
+Adventure Time
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c950c3d48bb8ded40c4cb27b736837b.jpg" heigth='100%' align='left'/>
- My Ordinary Life 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3f51768726b92fac71f82d2cb9a50b0b.jpg" heigth='100%' align='left'/>
+ Hidden In The Sand 
 <br/> 
-My Ordinary Life 
+Marvin's Marvelous Mechanical Museum 
 <br/> 
-The Living Tombstone
+Tally Hall
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f94ada97eff80421ab894b6f35b787f4.png" heigth='100%' align='left'/>
- Nuit 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/cd94d11320ebaab4256ae10c4b706862.jpg" heigth='100%' align='left'/>
+ 7 Weeks & 3 Days 
 <br/> 
-Southside 
+7 Weeks & 3 Days Alternate Versions or Whatever 
 <br/> 
-Oboy
+yungatita
 </div>
 <br clear='all' /><br /> 
 </details>
