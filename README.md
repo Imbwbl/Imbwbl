@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/87fedb384cf03f905c47c7dffa15a4d63de260ef">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/27d14e44eaf06a842d838401234c5de980be5898">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/474e6849ab5fefc92767ab87724c8f0f.png" heigth='100%' align='left'/>
- Cabeza 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b63b6e8a7e27e39ab195b1aa88dc0d45.jpg" heigth='100%' align='left'/>
+ It's Been So Long 
 <br/> 
-Mafana 
+FNAFdom (Live) 
 <br/> 
-Oboy
+The Living Tombstone
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94445ff72dccbf5dd65c02108df1976a.jpg" heigth='100%' align='left'/>
- TDB 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c950c3d48bb8ded40c4cb27b736837b.jpg" heigth='100%' align='left'/>
+ My Ordinary Life 
 <br/> 
-No crari 
+My Ordinary Life 
 <br/> 
-Oboy
+The Living Tombstone
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e3fb465882f91d5167b5967353ba483.jpg" heigth='100%' align='left'/>
- Avec Toi 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f94ada97eff80421ab894b6f35b787f4.png" heigth='100%' align='left'/>
+ Nuit 
 <br/> 
-OMEGA 
+Southside 
 <br/> 
 Oboy
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" heigth='100%' align='left'/>
- Attentat 
-<br/> 
-Enna Boost 
-<br/> 
-PLK
 </div>
 <br clear='all' /><br /> 
 </details>
