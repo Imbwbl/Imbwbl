@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/19504c680876b907670d7a39910a698c02931e18">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/aab61c51d8a878a0b63fd46af730a366b9220061">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fe058624409204ec4efc387e37eba846.jpg" heigth='100%' align='left'/>
- Remember You (feat. Olivia Olson & Tom Kenny) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth='100%' align='left'/>
+ Les mégots dans le bac à sable 
 <br/> 
-Adventure Time, Vol. 2 (Original Soundtrack) 
+Dire je t'aime 
 <br/> 
-Adventure Time
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3f51768726b92fac71f82d2cb9a50b0b.jpg" heigth='100%' align='left'/>
- Hidden In The Sand 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/47454290d5d2bdd283ce9fd158a8aaa9.jpg" heigth='100%' align='left'/>
+ Pistolet avec les doigts 
 <br/> 
-Marvin's Marvelous Mechanical Museum 
+cuicui 
 <br/> 
-Tally Hall
+Asfar Shamsi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/cd94d11320ebaab4256ae10c4b706862.jpg" heigth='100%' align='left'/>
- 7 Weeks & 3 Days 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/563a0d40aca9c1c5c441ba6326d55537.jpg" heigth='100%' align='left'/>
+ Théâtre de marionnettes 
 <br/> 
-7 Weeks & 3 Days Alternate Versions or Whatever 
+J'rêve mieux qu'avant 
 <br/> 
-yungatita
+BEN plg
 </div>
 <br clear='all' /><br /> 
 </details>
