@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c7839957054ebda546abd7984b9f9f5b0903edbb">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/87fedb384cf03f905c47c7dffa15a4d63de260ef">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- no escape 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/474e6849ab5fefc92767ab87724c8f0f.png" heigth='100%' align='left'/>
+ Cabeza 
 <br/> 
-no escape 
+Mafana 
 <br/> 
-axaero
+Oboy
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Swerve! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94445ff72dccbf5dd65c02108df1976a.jpg" heigth='100%' align='left'/>
+ TDB 
 <br/> 
-Swerve! 
+No crari 
 <br/> 
-Artifex27
+Oboy
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- no love! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e3fb465882f91d5167b5967353ba483.jpg" heigth='100%' align='left'/>
+ Avec Toi 
 <br/> 
-no love! 
+OMEGA 
 <br/> 
-axaero
+Oboy
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" heigth='100%' align='left'/>
+ Attentat 
+<br/> 
+Enna Boost 
+<br/> 
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
