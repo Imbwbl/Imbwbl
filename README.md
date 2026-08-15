@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/88542aaf22b2acfd35e5bdf805110aa0b6939452">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f9230e5cd764e6dd021c8e7996f592d2a3955f5a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,22 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth='100%' align='left'/>
+ R5 et Murcielago 
+<br/> 
+Alph Lauren 3 
+<br/> 
+Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c71360a7e1150d26af57028e991c2680.jpg" heigth='100%' align='left'/>
+ Pilé - Gospel 
+<br/> 
+Pilé (Gospel) 
+<br/> 
+Mauvais Djo
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
  Maladie 
 <br/> 
@@ -75,28 +91,12 @@ Maladie
 Mauvais Djo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth='100%' align='left'/>
- Plus peur du monde 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dbf3b144c2c8ca42508e877a7b1fafd5.jpg" heigth='100%' align='left'/>
+ Pilé 
 <br/> 
-Dire je t'aime 
+L'undertaker, Pt. 1 
 <br/> 
-BEN plg
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth='100%' align='left'/>
- Tête à l'envers 
-<br/> 
-Paraît que les miracles n'existent pas 
-<br/> 
-BEN plg
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/03fd93bbd4e1710bb9ec45e9b677fcba.jpg" heigth='100%' align='left'/>
- Tant que ça va (feat. Bekar) 
-<br/> 
-Parcours accidenté 
-<br/> 
-BEN plg
+Mauvais Djo
 </div>
 <br clear='all' /><br /> 
 </details>
