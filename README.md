@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ecdc5930e1acfd069702a361db02c28fd33f0a89">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f03abe783ad32c91d27c30d9958f5cf1ef8b70fa">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/517f3f2f36121a97240024316fbcbdfb.jpg" heigth='100%' align='left'/>
- Noticed! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ I Don't Even Drift 
 <br/> 
-Noticed! 
+I Don't Even Drift 
 <br/> 
-22december
+lames
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Rose Tint 
+ red flannel 
 <br/> 
-Rose Tint 
+red flannel 
 <br/> 
-Amol
+Artifex27
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2f61732711149856db6f17c36bb4f71c.jpg" heigth='100%' align='left'/>
- robbing spree! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6be31f30561a8a38d0a2fd53c2c5d518.jpg" heigth='100%' align='left'/>
+ why are u running? 
 <br/> 
-robbing spree! 
+why are u running? 
 <br/> 
-22december
+Gudbye
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a978c563118bfe66740d5bb6ed12d2c2.jpg" heigth='100%' align='left'/>
- COME HERE! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Vendetta 
 <br/> 
-COME HERE! 
+Vendetta 
 <br/> 
-22december
+KA$$IU$
 </div>
 <br clear='all' /><br /> 
 </details>
