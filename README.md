@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ba93635461b3eb84c304602ed940e7fd4848e14a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b5b00605107d3ce3f5facf02e11c9aa7edeb141a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 August 2026 by github-actions[bot]</h3>
  </div>
@@ -89,14 +89,6 @@ MAGIE!
 GO 
 <br/> 
 Sunburn
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3cb3233cd6070200678334394526a917.jpg" heigth='100%' align='left'/>
- creeper 
-<br/> 
-creeper + seed 
-<br/> 
-Luther
 </div>
 <br clear='all' /><br /> 
 </details>
