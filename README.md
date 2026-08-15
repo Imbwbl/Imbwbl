@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f9230e5cd764e6dd021c8e7996f592d2a3955f5a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7e98f3b24f8eca2adfa70f44380c1bb196f3f5a2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,20 +67,20 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
+ Demain 
+<br/> 
+2069' 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth='100%' align='left'/>
  R5 et Murcielago 
 <br/> 
 Alph Lauren 3 
 <br/> 
 Alpha Wann
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c71360a7e1150d26af57028e991c2680.jpg" heigth='100%' align='left'/>
- Pilé - Gospel 
-<br/> 
-Pilé (Gospel) 
-<br/> 
-Mauvais Djo
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
@@ -91,12 +91,12 @@ Maladie
 Mauvais Djo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dbf3b144c2c8ca42508e877a7b1fafd5.jpg" heigth='100%' align='left'/>
- Pilé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ BLUES 
 <br/> 
-L'undertaker, Pt. 1 
+BLUES 
 <br/> 
-Mauvais Djo
+LUVBFK
 </div>
 <br clear='all' /><br /> 
 </details>
