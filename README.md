@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f03abe783ad32c91d27c30d9958f5cf1ef8b70fa">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ba93635461b3eb84c304602ed940e7fd4848e14a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- I Don't Even Drift 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
+ METHYLENE 
 <br/> 
-I Don't Even Drift 
+RÖSËLITÄ 
 <br/> 
-lames
+55ASKY
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- red flannel 
+ pp hello kitty 
 <br/> 
-red flannel 
+pp hello kitty 
 <br/> 
-Artifex27
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6be31f30561a8a38d0a2fd53c2c5d518.jpg" heigth='100%' align='left'/>
- why are u running? 
-<br/> 
-why are u running? 
-<br/> 
-Gudbye
+MAGIE!
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Vendetta 
+ GO 
 <br/> 
-Vendetta 
+GO 
 <br/> 
-KA$$IU$
+Sunburn
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3cb3233cd6070200678334394526a917.jpg" heigth='100%' align='left'/>
+ creeper 
+<br/> 
+creeper + seed 
+<br/> 
+Luther
 </div>
 <br clear='all' /><br /> 
 </details>
