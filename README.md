@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7e98f3b24f8eca2adfa70f44380c1bb196f3f5a2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/179f86096ddbc083ecc190bd7b3c2d4966b36f64">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
- Demain 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
+ Pistolet Rose 
 <br/> 
-2069' 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth='100%' align='left'/>
- R5 et Murcielago 
-<br/> 
-Alph Lauren 3 
+PPP 
 <br/> 
 Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
- Maladie 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
+ L'Œil de la Joconde 
 <br/> 
-Maladie 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
-Mauvais Djo
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- BLUES 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
+ Au Bout 
 <br/> 
-BLUES 
+000$ 
 <br/> 
-LUVBFK
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
