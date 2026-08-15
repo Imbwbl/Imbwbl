@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e5f96449c6e5c33f5645d95853cc774495a22b23">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/88542aaf22b2acfd35e5bdf805110aa0b6939452">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/03fd93bbd4e1710bb9ec45e9b677fcba.jpg" heigth='100%' align='left'/>
- Tant que ça va (feat. Bekar) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
+ Maladie 
 <br/> 
-Parcours accidenté 
+Maladie 
 <br/> 
-BEN plg
+Mauvais Djo
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth='100%' align='left'/>
- Étoiles et satellites 
+ Plus peur du monde 
 <br/> 
 Dire je t'aime 
 <br/> 
 BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/958a0f85ecd3e991dd7693fcf89c6a9e.jpg" heigth='100%' align='left'/>
- Victor Osimhen 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth='100%' align='left'/>
+ Tête à l'envers 
 <br/> 
-Victor Osimhen 
+Paraît que les miracles n'existent pas 
+<br/> 
+BEN plg
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/03fd93bbd4e1710bb9ec45e9b677fcba.jpg" heigth='100%' align='left'/>
+ Tant que ça va (feat. Bekar) 
+<br/> 
+Parcours accidenté 
 <br/> 
 BEN plg
 </div>
