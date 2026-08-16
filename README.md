@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2332b7871f1fd8060a63844d38ad36c4ec51ea9d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7386a133eae0108c3e3da7f9be3f46af38ea1773">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" heigth='100%' align='left'/>
- Medusa 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Guérison 
 <br/> 
-L'hiver 
+Fissure de vie 
 <br/> 
-Saïf
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b045b3463129371c8bd6a2f34884bbc5.png" heigth='100%' align='left'/>
- Couteau dans le dos 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Range Ro 
 <br/> 
-Couteau dans le dos 
+Fissure de vie 
 <br/> 
-Alonzo
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
- Maladie 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Medellín 
 <br/> 
-Maladie 
+Fissure de vie 
 <br/> 
-Mauvais Djo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
- METHYLENE 
-<br/> 
-RÖSËLITÄ 
-<br/> 
-55ASKY
+So La Lune
 </div>
 <br clear='all' /><br /> 
 </details>
