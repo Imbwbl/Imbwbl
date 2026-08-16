@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/125699b6cc59f7824a16f35021cc6d97d8526aff">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8be33ed6d424fe48e1cbee32613508680f68b566">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
+ Maladie 
+<br/> 
+Maladie 
+<br/> 
+Mauvais Djo
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" heigth='100%' align='left'/>
  METHYLENE 
 <br/> 
@@ -81,14 +89,6 @@ RÖSËLITÄ
 pp hello kitty 
 <br/> 
 MAGIE!
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- GO 
-<br/> 
-GO 
-<br/> 
-Sunburn
 </div>
 <br clear='all' /><br /> 
 </details>
