@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d4e4ab7235d2419951cb11a3a4f37aaf298f8bab">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6e88a0b7af070106d771b6569966151cf04b4647">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Medellín 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth='100%' align='left'/>
+ André 
 <br/> 
-Fissure de vie 
+Dans ma ruche 
 <br/> 
-So La Lune
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Soleil mourant 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/027254c99c429bc1ae0dbf997ca20933.jpg" heigth='100%' align='left'/>
+ Attendez-moi 
 <br/> 
-Fissure de vie 
+#GPG 
 <br/> 
-So La Lune
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a3f5d997efc5dbd496182833fe7467ef.jpg" heigth='100%' align='left'/>
- Rodé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
+ Noyé dans mes rêves 
 <br/> 
-Orbite 
+Amicalement vôtre 
 <br/> 
-So La Lune
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Guérison 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bde9faacddcc9a49757e0daedecaf620.jpg" heigth='100%' align='left'/>
+ GUIZ CORLEONE 
 <br/> 
-Fissure de vie 
+La Tanière 
 <br/> 
-So La Lune
+Guizmo
 </div>
 <br clear='all' /><br /> 
 </details>
