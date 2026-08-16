@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/cf13ca5b7dcd34aa21dfaf9822ce8fb7990b90f0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2332b7871f1fd8060a63844d38ad36c4ec51ea9d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,22 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" heigth='100%' align='left'/>
+ Medusa 
+<br/> 
+L'hiver 
+<br/> 
+Saïf
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b045b3463129371c8bd6a2f34884bbc5.png" heigth='100%' align='left'/>
+ Couteau dans le dos 
+<br/> 
+Couteau dans le dos 
+<br/> 
+Alonzo
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
  Maladie 
 <br/> 
@@ -81,14 +97,6 @@ Mauvais Djo
 RÖSËLITÄ 
 <br/> 
 55ASKY
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- pp hello kitty 
-<br/> 
-pp hello kitty 
-<br/> 
-MAGIE!
 </div>
 <br clear='all' /><br /> 
 </details>
