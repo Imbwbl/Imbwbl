@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e74788ea2b4daf83d631bbbb83d083f4652c80ab">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d4f3bca59d3a9763b487832ce370ff1106793682">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth='100%' align='left'/>
- BOOMBAP MI AMOR 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
+ Maladie 
 <br/> 
-Les champs de sacs plastique 
+Maladie 
 <br/> 
-JeanJass
+Mauvais Djo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
- TRISTESSE QUI COÛTE CHÈRE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Fantôme 
 <br/> 
-REPLICA 2 
+Fantôme 
 <br/> 
-Hologram Lo'
+A6el
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- HAGOS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Fantôme 
 <br/> 
-BLISS 
+Fantôme 
 <br/> 
-Mairo
+A6el
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4d1f6640e8353397414ef547dcc526d9.jpg" heigth='100%' align='left'/>
- 22h22 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/46bddd059d09980ca32a489898d04333.png" heigth='100%' align='left'/>
+ Ma jolie maison 
 <br/> 
-DIAMOND TEARS 
+PIRE QUE CHEZ MOI 
 <br/> 
-YG Pablo
+A6el
 </div>
 <br clear='all' /><br /> 
 </details>
