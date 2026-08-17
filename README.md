@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a3a77c79a11e7a2458873d0761069b1bd071418c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/70d6cd5751e4b65315762e390b179de0f64a6279">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
- Noyé dans mes rêves 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Déconnecté 
 <br/> 
-Amicalement vôtre 
+Fissure de vie 
 <br/> 
-Guizmo
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bde9faacddcc9a49757e0daedecaf620.jpg" heigth='100%' align='left'/>
- GUIZ CORLEONE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Eternelle 2 
 <br/> 
-La Tanière 
+Fissure de vie 
 <br/> 
-Guizmo
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2805853d6bb608c5ff0dd640e09b06b8.jpg" heigth='100%' align='left'/>
- Pretty Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Dona 
 <br/> 
-Pretty Girl 
+Fissure de vie 
 <br/> 
-Clairo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87b44d37982e08d94b543a52e96c92f8.jpg" heigth='100%' align='left'/>
- bubble gum 
-<br/> 
-bubble gum 
-<br/> 
-Clairo
+So La Lune
 </div>
 <br clear='all' /><br /> 
 </details>
