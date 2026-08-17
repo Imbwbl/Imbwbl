@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/37cd41d6abd923c2529c4695381e55e9695025c7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4355283b80a2e0d03fdfbb8fd657571e52b0a33c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
- Au Bout 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" heigth='100%' align='left'/>
+ Peace, Haine, Love 
 <br/> 
-000$ 
+M.A.N (Black Roses & Lost Feelings) [Bonus] 
 <br/> 
 Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- BLUES 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth='100%' align='left'/>
+ Stupéfiant et noir 
 <br/> 
-BLUES 
+UNE MAIN LAVE L'AUTRE 
 <br/> 
-LUVBFK
+Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" heigth='100%' align='left'/>
- J'ai mal au mic - Remasterisé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
+ P&P 
 <br/> 
-L'amour est mort (Remasterisé) 
+spleen. social club 
 <br/> 
-Oxmo Puccino
+aupinard
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- FUCKDAPOLICE !!! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ soldat tue soldat 
 <br/> 
-1984 
+don dada mixtape vol 1 
 <br/> 
-Tom D.
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
