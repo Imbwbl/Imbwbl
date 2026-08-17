@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e19a6bae024707f3a2f63faf246be01fd86c456b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e74788ea2b4daf83d631bbbb83d083f4652c80ab">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a3f5d997efc5dbd496182833fe7467ef.jpg" heigth='100%' align='left'/>
- Rodé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth='100%' align='left'/>
+ BOOMBAP MI AMOR 
 <br/> 
-Orbite 
+Les champs de sacs plastique 
 <br/> 
-So La Lune
+JeanJass
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- 2 i 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
+ TRISTESSE QUI COÛTE CHÈRE 
 <br/> 
-Fissure de vie 
+REPLICA 2 
 <br/> 
-So La Lune
+Hologram Lo'
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Déconnecté 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ HAGOS 
 <br/> 
-Fissure de vie 
+BLISS 
 <br/> 
-So La Lune
+Mairo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4d1f6640e8353397414ef547dcc526d9.jpg" heigth='100%' align='left'/>
+ 22h22 
+<br/> 
+DIAMOND TEARS 
+<br/> 
+YG Pablo
 </div>
 <br clear='all' /><br /> 
 </details>
