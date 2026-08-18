@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/50c7e52a37cd07565dbd9bcfb52970ffdac762c9">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c70598787238eb93d4252ca2fceb8a5352696308">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- la lune attire la mer 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
+ a.k.a MARGI 
 <br/> 
-don dada mixtape vol 1 
+REPLICA 2 
 <br/> 
-Alpha Wann
+Hologram Lo'
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- 2 i 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/737ee2a4a218fa9ae35df6e11a8203c1.png" heigth='100%' align='left'/>
+ La vie est belle 
 <br/> 
-Fissure de vie 
+Si vous saviez 
 <br/> 
-So La Lune
+Saïf
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae6423fadc2cda82920e69207eb2a218.jpg" heigth='100%' align='left'/>
- Petit frère 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/352cf2a16173c420d004c5a8b05cb0ac.jpg" heigth='100%' align='left'/>
+ Trucs sentimentaux 
 <br/> 
-L'école Du Micro D'argent 
+Trucs sentimentaux 
 <br/> 
-IAM
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
- Châteldon 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/cc19ae7dab341baf82f14259fb4422ad.jpg" heigth='100%' align='left'/>
+ Los Angeles 
 <br/> 
-Cognacs & Cigarettes 
+Los Angeles 
 <br/> 
-Jungle Jack
+Siaka
 </div>
 <br clear='all' /><br /> 
 </details>
