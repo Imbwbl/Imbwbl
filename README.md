@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b86fff97285e22ddaff508ef385868c447a6ec52">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/048bfa0c45bf165b02e200980c61379b565d0ded">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a2e34d4e9aa2117e17c3e1d41527daba.jpg" heigth='100%' align='left'/>
- Vent de l'est 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e8a67d3605105017688e1bbfedec7066.jpg" heigth='100%' align='left'/>
+ UN AUTRE JOUR 
 <br/> 
-.RAW-Z 
+FRANCS-TIREURS PARTISANS 
 <br/> 
-Laylow
+FEMTOGO
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7a6ff6cb57fb02b308b6b48fd40a91b7.jpg" heigth='100%' align='left'/>
+ Quoi de neuf bébé 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+Melvin de Paris 
 <br/> 
-Josman
+Jok'Air
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-Josman
+poissonchat
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- XS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
+ Je l'aime autant que je la hais 
 <br/> 
-J.O.$ 
+Amicalement vôtre 
 <br/> 
-Josman
+Guizmo
 </div>
 <br clear='all' /><br /> 
 </details>
