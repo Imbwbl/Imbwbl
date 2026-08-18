@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/07c6cb0b9ab43db14e2d2f141619f81f08f91e6c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e0e8445a75da3b13eb28793caedd29c54cbe0db0">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/832ade6a35ec2a224ea9a5be326b5de4.jpg" heigth='100%' align='left'/>
- Borderline 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7f097b51f9e03e3710d268dfc85c24ae.jpg" heigth='100%' align='left'/>
+ Tsukithèse 
 <br/> 
-The Slow Rush 
+2ème faille (Silfra) 
 <br/> 
-Tame Impala
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9b1d1d6238d4ab0e9f28946fa6c62f8d.jpg" heigth='100%' align='left'/>
- W4NTED PET4SSE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth='100%' align='left'/>
+ DRAGONS 
 <br/> 
-MUSICINTHESTUD vol.1 
+MANIA 
 <br/> 
-GU1T4R
+Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
- Champagne violet 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fd268992e98bab1a310e9505011b7af.jpg" heigth='100%' align='left'/>
+ Coeur cassé 
 <br/> 
-Cognacs & Cigarettes 
+Avant l'Aube 
 <br/> 
-Jungle Jack
+Jeune Mort
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
- EMOTICONE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth='100%' align='left'/>
+ On tombe, on réessaye 
 <br/> 
-DND 
+Paraît que les miracles n'existent pas 
 <br/> 
-yvnnis
+BEN plg
 </div>
 <br clear='all' /><br /> 
 </details>
