@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e0e8445a75da3b13eb28793caedd29c54cbe0db0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/50c7e52a37cd07565dbd9bcfb52970ffdac762c9">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7f097b51f9e03e3710d268dfc85c24ae.jpg" heigth='100%' align='left'/>
- Tsukithèse 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ la lune attire la mer 
 <br/> 
-2ème faille (Silfra) 
+don dada mixtape vol 1 
+<br/> 
+Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ 2 i 
+<br/> 
+Fissure de vie 
 <br/> 
 So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth='100%' align='left'/>
- DRAGONS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae6423fadc2cda82920e69207eb2a218.jpg" heigth='100%' align='left'/>
+ Petit frère 
 <br/> 
-MANIA 
+L'école Du Micro D'argent 
 <br/> 
-Hamza
+IAM
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fd268992e98bab1a310e9505011b7af.jpg" heigth='100%' align='left'/>
- Coeur cassé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
+ Châteldon 
 <br/> 
-Avant l'Aube 
+Cognacs & Cigarettes 
 <br/> 
-Jeune Mort
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth='100%' align='left'/>
- On tombe, on réessaye 
-<br/> 
-Paraît que les miracles n'existent pas 
-<br/> 
-BEN plg
+Jungle Jack
 </div>
 <br clear='all' /><br /> 
 </details>
