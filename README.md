@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/91b68fd2e1a7ab797821c5bb5684a1aac006dc7b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/54eeb61e02675050268222580cf78586ddb633ef">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acb36aaf19af99887b823c8263525db9.jpg" heigth='100%' align='left'/>
- Désaccordé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4e6f750b8ae0226a94efa41b6e8a6df6.jpg" heigth='100%' align='left'/>
+ MILLIONS (ACOUSTIQUE) 
 <br/> 
-XEU 
+TRIADE 
 <br/> 
-Vald
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/737ee2a4a218fa9ae35df6e11a8203c1.png" heigth='100%' align='left'/>
- Murmures 
-<br/> 
-Si vous saviez 
-<br/> 
-Saïf
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/563a0d40aca9c1c5c441ba6326d55537.jpg" heigth='100%' align='left'/>
- Théâtre de marionnettes 
-<br/> 
-J'rêve mieux qu'avant 
-<br/> 
-BEN plg
+ADÉS THE PLANET
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- AUDACE 
+ UN TEH LUDE 
 <br/> 
-AUDACE 
+1984 
 <br/> 
-Lucboy
+Tom D.
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4aae5ab93cbb5bec97196f8116678703.jpg" heigth='100%' align='left'/>
+ Un Peu Beaucoup 
+<br/> 
+Offshore 
+<br/> 
+So La Lune
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/70944c3594ea079c4502ebe7b23d648c.jpg" heigth='100%' align='left'/>
+ Californie 
+<br/> 
+Double Hélice 3 
+<br/> 
+Caballero & JeanJass
 </div>
 <br clear='all' /><br /> 
 </details>
