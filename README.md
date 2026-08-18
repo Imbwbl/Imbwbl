@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c70598787238eb93d4252ca2fceb8a5352696308">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/91b68fd2e1a7ab797821c5bb5684a1aac006dc7b">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
- a.k.a MARGI 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acb36aaf19af99887b823c8263525db9.jpg" heigth='100%' align='left'/>
+ Désaccordé 
 <br/> 
-REPLICA 2 
+XEU 
 <br/> 
-Hologram Lo'
+Vald
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/737ee2a4a218fa9ae35df6e11a8203c1.png" heigth='100%' align='left'/>
- La vie est belle 
+ Murmures 
 <br/> 
 Si vous saviez 
 <br/> 
 Saïf
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/352cf2a16173c420d004c5a8b05cb0ac.jpg" heigth='100%' align='left'/>
- Trucs sentimentaux 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/563a0d40aca9c1c5c441ba6326d55537.jpg" heigth='100%' align='left'/>
+ Théâtre de marionnettes 
 <br/> 
-Trucs sentimentaux 
+J'rêve mieux qu'avant 
 <br/> 
 BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/cc19ae7dab341baf82f14259fb4422ad.jpg" heigth='100%' align='left'/>
- Los Angeles 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ AUDACE 
 <br/> 
-Los Angeles 
+AUDACE 
 <br/> 
-Siaka
+Lucboy
 </div>
 <br clear='all' /><br /> 
 </details>
