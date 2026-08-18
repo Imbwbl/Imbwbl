@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/54eeb61e02675050268222580cf78586ddb633ef">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d712b55a2e5ff5430f127477fcdb743cc85fb21e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4e6f750b8ae0226a94efa41b6e8a6df6.jpg" heigth='100%' align='left'/>
- MILLIONS (ACOUSTIQUE) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth='100%' align='left'/>
+ André 
 <br/> 
-TRIADE 
+Dans ma ruche 
 <br/> 
-ADÉS THE PLANET
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- UN TEH LUDE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fd268992e98bab1a310e9505011b7af.jpg" heigth='100%' align='left'/>
+ Coeur cassé 
 <br/> 
-1984 
+Avant l'Aube 
 <br/> 
-Tom D.
+Jeune Mort
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4aae5ab93cbb5bec97196f8116678703.jpg" heigth='100%' align='left'/>
- Un Peu Beaucoup 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth='100%' align='left'/>
+ On tombe, on réessaye 
 <br/> 
-Offshore 
+Paraît que les miracles n'existent pas 
 <br/> 
-So La Lune
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/70944c3594ea079c4502ebe7b23d648c.jpg" heigth='100%' align='left'/>
- Californie 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" heigth='100%' align='left'/>
+ Revenants 
 <br/> 
-Double Hélice 3 
+Double Impact 
 <br/> 
-Caballero & JeanJass
+Absolem
 </div>
 <br clear='all' /><br /> 
 </details>
