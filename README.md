@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d712b55a2e5ff5430f127477fcdb743cc85fb21e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/903737115d0abcef16f85612078d8ae6ecaea4fe">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2e3321641151b733459b47aabe24edf4.jpg" heigth='100%' align='left'/>
+ Mains qui prient 
+<br/> 
+Hat Trick 
+<br/> 
+JeanJass
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
+ Playoffs 
+<br/> 
+PPP 
+<br/> 
+Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" heigth='100%' align='left'/>
  André 
 <br/> 
 Dans ma ruche 
 <br/> 
 Guizmo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fd268992e98bab1a310e9505011b7af.jpg" heigth='100%' align='left'/>
- Coeur cassé 
-<br/> 
-Avant l'Aube 
-<br/> 
-Jeune Mort
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dc07358285fb7401addb568fbae3764d.jpg" heigth='100%' align='left'/>
- On tombe, on réessaye 
-<br/> 
-Paraît que les miracles n'existent pas 
-<br/> 
-BEN plg
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" heigth='100%' align='left'/>
- Revenants 
-<br/> 
-Double Impact 
-<br/> 
-Absolem
 </div>
 <br clear='all' /><br /> 
 </details>
