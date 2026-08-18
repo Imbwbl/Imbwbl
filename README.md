@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/048bfa0c45bf165b02e200980c61379b565d0ded">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/07c6cb0b9ab43db14e2d2f141619f81f08f91e6c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e8a67d3605105017688e1bbfedec7066.jpg" heigth='100%' align='left'/>
- UN AUTRE JOUR 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/832ade6a35ec2a224ea9a5be326b5de4.jpg" heigth='100%' align='left'/>
+ Borderline 
 <br/> 
-FRANCS-TIREURS PARTISANS 
+The Slow Rush 
 <br/> 
-FEMTOGO
+Tame Impala
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7a6ff6cb57fb02b308b6b48fd40a91b7.jpg" heigth='100%' align='left'/>
- Quoi de neuf bébé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9b1d1d6238d4ab0e9f28946fa6c62f8d.jpg" heigth='100%' align='left'/>
+ W4NTED PET4SSE 
 <br/> 
-Melvin de Paris 
+MUSICINTHESTUD vol.1 
 <br/> 
-Jok'Air
+GU1T4R
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- TU DEVIENS QUOI EN CE MOMENT ? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
+ Champagne violet 
 <br/> 
-TU DEVIENS QUOI EN CE MOMENT ? 
+Cognacs & Cigarettes 
 <br/> 
-poissonchat
+Jungle Jack
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
- Je l'aime autant que je la hais 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
+ EMOTICONE 
 <br/> 
-Amicalement vôtre 
+DND 
 <br/> 
-Guizmo
+yvnnis
 </div>
 <br clear='all' /><br /> 
 </details>
