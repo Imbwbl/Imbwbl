@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/cae6643f8f5185eaead2fa299915429178ab21d0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bf1f906bb73b0b24c29db6b77de9ac2a0b2d5c09">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fd0eff5db60804105d8cfcc734315ca3.jpg" heigth='100%' align='left'/>
- Jealous 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Nicki 
 <br/> 
-Jealous 
+Fissure de vie 
 <br/> 
-Eyedress
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/32d86a507ca8a086ad646411b4ac19dc.jpg" heigth='100%' align='left'/>
- Dream Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Nouveaux pirates 
 <br/> 
-Dream Girl 
+Fissure de vie 
 <br/> 
-crisaunt
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ebafc42b70594f1d8fa18d9fcd1869f4.png" heigth='100%' align='left'/>
- Always Forever 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ 2 i 
 <br/> 
-Static 
+Fissure de vie 
 <br/> 
-Cults
+So La Lune
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
+ Déconnecté 
+<br/> 
+Fissure de vie 
+<br/> 
+So La Lune
 </div>
 <br clear='all' /><br /> 
 </details>
