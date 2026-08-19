@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e8068029adc2b1072641da6f24f19bd88273df72">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5b6c40c8c6344df502218d8dac4017df2f1c02d8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,8 +67,16 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ la lune attire la mer 
+<br/> 
+don dada mixtape vol 1 
+<br/> 
+Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Interlune 
+ Eternelle 2 
 <br/> 
 Fissure de vie 
 <br/> 
@@ -76,7 +84,7 @@ So La Lune
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Péché 
+ Dona 
 <br/> 
 Fissure de vie 
 <br/> 
@@ -84,15 +92,7 @@ So La Lune
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Nicki 
-<br/> 
-Fissure de vie 
-<br/> 
-So La Lune
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Nouveaux pirates 
+ Vide 
 <br/> 
 Fissure de vie 
 <br/> 
