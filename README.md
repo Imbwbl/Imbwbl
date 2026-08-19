@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bf1f906bb73b0b24c29db6b77de9ac2a0b2d5c09">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e419dca147d181fca386a9dca3e34cd435810b17">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 August 2026 by github-actions[bot]</h3>
  </div>
@@ -68,7 +68,7 @@
     <br />
     <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Nicki 
+ Guérison 
 <br/> 
 Fissure de vie 
 <br/> 
@@ -76,7 +76,7 @@ So La Lune
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Nouveaux pirates 
+ Range Ro 
 <br/> 
 Fissure de vie 
 <br/> 
@@ -84,7 +84,7 @@ So La Lune
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- 2 i 
+ Medellín 
 <br/> 
 Fissure de vie 
 <br/> 
@@ -92,7 +92,7 @@ So La Lune
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Déconnecté 
+ Fin heureuse 
 <br/> 
 Fissure de vie 
 <br/> 
