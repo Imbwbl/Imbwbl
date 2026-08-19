@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/78d5bb5a47650907c7e405e7a3510dc35577913d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a07c734f562e6a8eb58ad13ee4f590fca2cbf398">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f90c131019b291aa892c503c1144b6.png" heigth='100%' align='left'/>
+ YKWIM? 
+<br/> 
+Bipolar 
+<br/> 
+Yot Club
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/93fe3c819e6073e735f7571929ffed8f.jpg" heigth='100%' align='left'/>
  Hello? 
 <br/> 
@@ -81,22 +89,6 @@ Clairo
 Pretty Girl 
 <br/> 
 Clairo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87b44d37982e08d94b543a52e96c92f8.jpg" heigth='100%' align='left'/>
- bubble gum 
-<br/> 
-bubble gum 
-<br/> 
-Clairo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" heigth='100%' align='left'/>
- Medellín 
-<br/> 
-Fissure de vie 
-<br/> 
-So La Lune
 </div>
 <br clear='all' /><br /> 
 </details>
