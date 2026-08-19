@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a07c734f562e6a8eb58ad13ee4f590fca2cbf398">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7c8eb872abfa373a2db3c2a6f129d8dad4b0eef9">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 18 August 2026 by github-actions[bot]</h3>
+ <h3>Committed on 19 August 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -35,7 +35,7 @@
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
  <h3>stars: 1, forks: Rust</h3>
- <h3>language: 18 August 2026</h3>
+ <h3>language: 19 August 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
  <h3>Updated on 0</h3>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f90c131019b291aa892c503c1144b6.png" heigth='100%' align='left'/>
- YKWIM? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fd0eff5db60804105d8cfcc734315ca3.jpg" heigth='100%' align='left'/>
+ Jealous 
 <br/> 
-Bipolar 
+Jealous 
 <br/> 
-Yot Club
+Eyedress
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/93fe3c819e6073e735f7571929ffed8f.jpg" heigth='100%' align='left'/>
- Hello? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/32d86a507ca8a086ad646411b4ac19dc.jpg" heigth='100%' align='left'/>
+ Dream Girl 
 <br/> 
-diary 001 
+Dream Girl 
 <br/> 
-Clairo
+crisaunt
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2805853d6bb608c5ff0dd640e09b06b8.jpg" heigth='100%' align='left'/>
- Pretty Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ebafc42b70594f1d8fa18d9fcd1869f4.png" heigth='100%' align='left'/>
+ Always Forever 
 <br/> 
-Pretty Girl 
+Static 
 <br/> 
-Clairo
+Cults
 </div>
 <br clear='all' /><br /> 
 </details>
