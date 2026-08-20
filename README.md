@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/912f6759e541cfc3cc58aa2d2134bc6056ba75e4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/69bf541d62bab5d39f3db7d524ca7cc4a006d842">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7407577d07184c478cc51cee8f0ef747.jpg" heigth='100%' align='left'/>
+ Bonbon à la menthe 
+<br/> 
+Jok'Travolta 
+<br/> 
+Jok'Air
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
+ Henri cimer 
+<br/> 
+Grand Garçon 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/56875b0dcdaf7442e3032cc8e4b49367.jpg" heigth='100%' align='left'/>
  Il est temps de le dire 
 <br/> 
 Sous haute surveillance 
 <br/> 
 Martin Gal
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6d1bbdd0045801b8ea8e1cf7b94d3a6a.jpg" heigth='100%' align='left'/>
- Cinq heures du matin 
-<br/> 
-Nuit 
-<br/> 
-Jazzy Bazz
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bac1864b1e70aae048c44dca343f16c8.jpg" heigth='100%' align='left'/>
- NO HOOK 
-<br/> 
-ERRR 
-<br/> 
-La Fève
 </div>
 <br clear='all' /><br /> 
 </details>
