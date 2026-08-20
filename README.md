@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1a6ec297348b5aa8a35a7491a495ee049df8d684">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b0381be7eefbde9c2b2340de5d13408ae4f98c6b">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth='100%' align='left'/>
- Plus peur du monde 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/afe67448b4b448b8bc2d79b3ce76dbcc.png" heigth='100%' align='left'/>
+ Stupeflip vite !!! 
 <br/> 
-Dire je t'aime 
+The hypnoflip invasion 
 <br/> 
-BEN plg
+Stupeflip
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- L'OCCASION 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e89ef16cf980b6990ebfaf05ee7d833.png" heigth='100%' align='left'/>
+ Babylone 
 <br/> 
-J.O.$ 
+KKSHISENSE8 
 <br/> 
-Josman
+Népal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a0b91f2b44757eff1445860b2732eb9.jpg" heigth='100%' align='left'/>
- VENDREDI À LONDRES 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
+ 1994 
 <br/> 
-POUR 2 VRAI 
+1994 
 <br/> 
-NES
+Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
- Dyonysos 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dff3c4cd53047a23e9cd37c002b1407f.png" heigth='100%' align='left'/>
+ 5.9.3 
 <br/> 
-Cognacs & Cigarettes 
+Plus fort. 
 <br/> 
-Jungle Jack
+Bekar
 </div>
 <br clear='all' /><br /> 
 </details>
