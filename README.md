@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f2e289a5e71ca548ff94bdd061e6d87902c6989b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e39c4d929e3f510905edf3092fe11a4f7801234f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
- SUD DE LA FRANCE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ AUDACE 
 <br/> 
-DND 
+AUDACE 
 <br/> 
-yvnnis
+Lucboy
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- ANTIOXYDANT 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3cb3233cd6070200678334394526a917.jpg" heigth='100%' align='left'/>
+ creeper 
 <br/> 
-BLISS 
+creeper + seed 
 <br/> 
-Mairo
+Luther
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a35d127ce563d113f5b8a5a45a045622.jpg" heigth='100%' align='left'/>
- penelope, pt.2 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ RATURES 
 <br/> 
-spleen. social club 
+RATURES 
 <br/> 
-aupinard
+ver2gris
 </div>
 <br clear='all' /><br /> 
 </details>
