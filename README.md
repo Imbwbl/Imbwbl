@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7d3bf3b410709be7e4f21379b02d5ce543fce26e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3f382163793467f0568639c00605b3af936d8cba">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth='100%' align='left'/>
- BOOMBAP MI AMOR 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a2e34d4e9aa2117e17c3e1d41527daba.jpg" heigth='100%' align='left'/>
+ Swish 
 <br/> 
-Les champs de sacs plastique 
+.RAW-Z 
 <br/> 
-JeanJass
+Laylow
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
- KABUKI 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
+ tarif groupé 
 <br/> 
-JUNGLE DES ILLUSIONS VOL 2 
+REPLICA 2 
 <br/> 
-Jungle Jack
+Hologram Lo'
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- ERA 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/563a0d40aca9c1c5c441ba6326d55537.jpg" heigth='100%' align='left'/>
+ Ah bah ouais 
 <br/> 
-BLISS 
+J'rêve mieux qu'avant 
 <br/> 
-Mairo
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
- SUD DE LA FRANCE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ UN ZDER, UN THÉ 
 <br/> 
-DND 
+J.O.$ 
 <br/> 
-yvnnis
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
