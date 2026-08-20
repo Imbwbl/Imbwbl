@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3f382163793467f0568639c00605b3af936d8cba">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9d5c7e058152541afd290dc4bc11b7012bde8dd2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a2e34d4e9aa2117e17c3e1d41527daba.jpg" heigth='100%' align='left'/>
- Swish 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
+ Demain 
 <br/> 
-.RAW-Z 
+2069' 
 <br/> 
-Laylow
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
- tarif groupé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/86a31b20103511c613c48bd459cda2d2.jpg" heigth='100%' align='left'/>
+ 24 
 <br/> 
-REPLICA 2 
+24 
 <br/> 
-Hologram Lo'
+La Fève
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/563a0d40aca9c1c5c441ba6326d55537.jpg" heigth='100%' align='left'/>
- Ah bah ouais 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth='100%' align='left'/>
+ çalavie 
 <br/> 
-J'rêve mieux qu'avant 
+baiser 
 <br/> 
-BEN plg
+Wallace Cleaver
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
- UN ZDER, UN THÉ 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" heigth='100%' align='left'/>
+ Malik Al Mawt 
 <br/> 
-J.O.$ 
+444 Nuits 
 <br/> 
-Josman
+Népal
 </div>
 <br clear='all' /><br /> 
 </details>
