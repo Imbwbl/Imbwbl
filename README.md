@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b0381be7eefbde9c2b2340de5d13408ae4f98c6b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9733e5e169184b53f510521e928e17ce2a1f13c8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/afe67448b4b448b8bc2d79b3ce76dbcc.png" heigth='100%' align='left'/>
- Stupeflip vite !!! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/56875b0dcdaf7442e3032cc8e4b49367.jpg" heigth='100%' align='left'/>
+ Il est temps de le dire 
 <br/> 
-The hypnoflip invasion 
+Sous haute surveillance 
 <br/> 
-Stupeflip
+Martin Gal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e89ef16cf980b6990ebfaf05ee7d833.png" heigth='100%' align='left'/>
- Babylone 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6d1bbdd0045801b8ea8e1cf7b94d3a6a.jpg" heigth='100%' align='left'/>
+ Cinq heures du matin 
 <br/> 
-KKSHISENSE8 
+Nuit 
 <br/> 
-Népal
+Jazzy Bazz
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
- 1994 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bac1864b1e70aae048c44dca343f16c8.jpg" heigth='100%' align='left'/>
+ NO HOOK 
 <br/> 
-1994 
+ERRR 
 <br/> 
-Hamza
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dff3c4cd53047a23e9cd37c002b1407f.png" heigth='100%' align='left'/>
- 5.9.3 
-<br/> 
-Plus fort. 
-<br/> 
-Bekar
+La Fève
 </div>
 <br clear='all' /><br /> 
 </details>
