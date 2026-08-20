@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9d5c7e058152541afd290dc4bc11b7012bde8dd2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1a6ec297348b5aa8a35a7491a495ee049df8d684">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
- Demain 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" heigth='100%' align='left'/>
+ Plus peur du monde 
 <br/> 
-2069' 
+Dire je t'aime 
 <br/> 
-PLK
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/86a31b20103511c613c48bd459cda2d2.jpg" heigth='100%' align='left'/>
- 24 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" heigth='100%' align='left'/>
+ L'OCCASION 
 <br/> 
-24 
+J.O.$ 
 <br/> 
-La Fève
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth='100%' align='left'/>
- çalavie 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a0b91f2b44757eff1445860b2732eb9.jpg" heigth='100%' align='left'/>
+ VENDREDI À LONDRES 
 <br/> 
-baiser 
+POUR 2 VRAI 
 <br/> 
-Wallace Cleaver
+NES
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" heigth='100%' align='left'/>
- Malik Al Mawt 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" heigth='100%' align='left'/>
+ Dyonysos 
 <br/> 
-444 Nuits 
+Cognacs & Cigarettes 
 <br/> 
-Népal
+Jungle Jack
 </div>
 <br clear='all' /><br /> 
 </details>
