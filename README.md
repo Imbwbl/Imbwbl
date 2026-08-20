@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/49e70ea9787537e6f982007da238886cd16e7d06">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7d3bf3b410709be7e4f21379b02d5ce543fce26e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7407577d07184c478cc51cee8f0ef747.jpg" heigth='100%' align='left'/>
- Bonbon à la menthe 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" heigth='100%' align='left'/>
+ BOOMBAP MI AMOR 
 <br/> 
-Jok'Travolta 
+Les champs de sacs plastique 
 <br/> 
-Jok'Air
+JeanJass
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
- Henri cimer 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
+ KABUKI 
 <br/> 
-Grand Garçon 
+JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
-PLK
+Jungle Jack
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/56875b0dcdaf7442e3032cc8e4b49367.jpg" heigth='100%' align='left'/>
- Il est temps de le dire 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ ERA 
 <br/> 
-Sous haute surveillance 
+BLISS 
 <br/> 
-Martin Gal
+Mairo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
+ SUD DE LA FRANCE 
+<br/> 
+DND 
+<br/> 
+yvnnis
 </div>
 <br clear='all' /><br /> 
 </details>
