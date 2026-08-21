@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/619b3774af8e52d718935d3e8f601894b935dba2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2e0269a0d46df0ba97b4df296f4dc7b64cf8f8e1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/56875b0dcdaf7442e3032cc8e4b49367.jpg" heigth='100%' align='left'/>
- Il est temps de le dire 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
+ LE CHEMIN 
 <br/> 
-Sous haute surveillance 
+JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
-Martin Gal
+Jungle Jack
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6d1bbdd0045801b8ea8e1cf7b94d3a6a.jpg" heigth='100%' align='left'/>
- Cinq heures du matin 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a2e34d4e9aa2117e17c3e1d41527daba.jpg" heigth='100%' align='left'/>
+ Maladresse 
 <br/> 
-Nuit 
+.RAW-Z 
 <br/> 
-Jazzy Bazz
+Laylow
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bac1864b1e70aae048c44dca343f16c8.jpg" heigth='100%' align='left'/>
- NO HOOK 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
+ Bitcoin (BONUS TRACK) 
 <br/> 
-ERRR 
+REPLICA 2 
 <br/> 
-La Fève
+Hologram Lo'
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
+ Henri cimer 
+<br/> 
+Grand Garçon 
+<br/> 
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
