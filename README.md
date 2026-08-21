@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2e0269a0d46df0ba97b4df296f4dc7b64cf8f8e1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/52349b29f8ef20090d3434d0b757216c68e13d73">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
- LE CHEMIN 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b443fafcfa2c849f34fb883949595cfc.jpg" heigth='100%' align='left'/>
+ Instanonymat #5 
 <br/> 
-JUNGLE DES ILLUSIONS VOL 2 
+Instanonymat #5 
 <br/> 
-Jungle Jack
+Saïf
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a2e34d4e9aa2117e17c3e1d41527daba.jpg" heigth='100%' align='left'/>
- Maladresse 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
+ Je n'ai plus peur de me souvenir 
 <br/> 
-.RAW-Z 
+Amicalement vôtre 
 <br/> 
-Laylow
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" heigth='100%' align='left'/>
- Bitcoin (BONUS TRACK) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e01f961cf5855e943dcd23975b551d72.jpg" heigth='100%' align='left'/>
+ MONACO 
 <br/> 
-REPLICA 2 
+LA FOLIE DES GRANDEURS 
 <br/> 
-Hologram Lo'
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" heigth='100%' align='left'/>
- Henri cimer 
-<br/> 
-Grand Garçon 
-<br/> 
-PLK
+Houdi
 </div>
 <br clear='all' /><br /> 
 </details>
