@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ac5fdc58edbcf39a1a8f6018ed05ef4aa28ce54e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4b37994a55c7366a991d4281284f329799732131">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5ce60af52be1674b049f2ffd6e975a99.jpg" heigth='100%' align='left'/>
- MAISON DE CAMPAGNE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ HOLLYWOOD BOULEVARD 
 <br/> 
-MAISON DE CAMPAGNE/ SMS 
+En attendant l'hiver 
 <br/> 
-Gemen
+poissonchat
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/70d58c961d5fe1dcd10690ddb80b6c4b.jpg" heigth='100%' align='left'/>
- BODY 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fb414651dc4950a169c9cca3f9adcaec.jpg" heigth='100%' align='left'/>
+ SURDOUÉ 
 <br/> 
-STELE (2ème Partie) 
+DRAGA 
 <br/> 
 Gemen
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3ee8143dad3000dbfa0491c07899bff4.jpg" heigth='100%' align='left'/>
- SANS TOI 
-<br/> 
-NMS (NIGHTMARES EDITION) 
-<br/> 
-ihatemed
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- FACE À LA MER 
+ zéro notifs 
 <br/> 
-FACE À LA MER 
+CHAOS 
+<br/> 
+Gemen
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f9bfbb050bc137b9fc6a7d255cbcb8d1.jpg" heigth='100%' align='left'/>
+ LOCA 
+<br/> 
+VARA 
 <br/> 
 Gemen
 </div>
