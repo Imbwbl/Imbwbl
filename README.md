@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dc83429d7caa7fbcfcad686c553acfb351c54366">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e151d7ecc8ded8785affd6db8c89dfdab20513b4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/70d58c961d5fe1dcd10690ddb80b6c4b.jpg" heigth='100%' align='left'/>
- BODY 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2e66a8bd32d478d1f69cb3366b7779e8.jpg" heigth='100%' align='left'/>
+ Top 5 
 <br/> 
-STELE (2ème Partie) 
+Top 5 
+<br/> 
+RNP
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44352ae0540a8855f15bb7d12fb65b56.jpg" heigth='100%' align='left'/>
+ QU'EST-CE QUE ÇA FAIT ? 
+<br/> 
+4PEAT 
 <br/> 
 Gemen
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3ee8143dad3000dbfa0491c07899bff4.jpg" heigth='100%' align='left'/>
- SANS TOI 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/01ce699fee8a8f1da479f9a72a44c341.jpg" heigth='100%' align='left'/>
+ OKAY! 
 <br/> 
-NMS (NIGHTMARES EDITION) 
-<br/> 
-ihatemed
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- FACE À LA MER 
-<br/> 
-FACE À LA MER 
+STELE (1ère Partie) 
 <br/> 
 Gemen
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- BONCHAR 
-<br/> 
-BONCHAR 
-<br/> 
-1863
 </div>
 <br clear='all' /><br /> 
 </details>
