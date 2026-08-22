@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d4c780376c0a94cbbd0deec0c7e5c795049a63fa">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/11a586fb84de1c0b7c7e07793947713c925774f5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,24 +67,16 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9e2b03413f8fe9581a9cf940024ddc4c.jpg" heigth='100%' align='left'/>
- PANAME PETIT CAFÉ 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ t'aimes pas 
 <br/> 
-STELE (3ème Partie) 
-<br/> 
-Gemen
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fb414651dc4950a169c9cca3f9adcaec.jpg" heigth='100%' align='left'/>
- GO HARD! 
-<br/> 
-DRAGA 
+STELE (4ème Partie) 
 <br/> 
 Gemen
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- C'EST NOUS ! 
+ LET GO 
 <br/> 
 SAVOIR (S')AIMER C'EST TOUT 
 <br/> 
@@ -92,9 +84,17 @@ Gemen
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- la dalle 
+ GARGAMEL 
 <br/> 
-STELE (4ème Partie) 
+GARGAMEL 
+<br/> 
+SKT KOSMO
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9e2b03413f8fe9581a9cf940024ddc4c.jpg" heigth='100%' align='left'/>
+ COMPRIS DANS L'JEU 
+<br/> 
+STELE (3ème Partie) 
 <br/> 
 Gemen
 </div>
