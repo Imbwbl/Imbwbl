@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1c8920e3516d58a01d4ed1b5adc8bf03f9b8b69d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/20cb60d469c94deefe0b4f60762df0b0f643c6d2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/68df8668c4ea8e7569fb16d73487804c.png" heigth='100%' align='left'/>
- 10 balles 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e455dd48259b6bf41f56d4a1c1ef0c56.jpg" heigth='100%' align='left'/>
+ Changement de propriétaire - A COLORS SHOW 
 <br/> 
-200 
+Changement de propriétaire - A COLORS SHOW 
 <br/> 
-abel31
+Sadek
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b443fafcfa2c849f34fb883949595cfc.jpg" heigth='100%' align='left'/>
- Instanonymat #5 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Odyssée 
 <br/> 
-Instanonymat #5 
+Odyssée 
 <br/> 
-Saïf
+GRÂCE GRÂCE
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
- Je n'ai plus peur de me souvenir 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" heigth='100%' align='left'/>
+ Une pieuvre dans un seau 
 <br/> 
-Amicalement vôtre 
+Une pieuvre dans un seau 
 <br/> 
-Guizmo
+Surprise
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
+ Maladie 
+<br/> 
+Maladie 
+<br/> 
+Mauvais Djo
 </div>
 <br clear='all' /><br /> 
 </details>
