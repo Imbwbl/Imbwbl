@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4b37994a55c7366a991d4281284f329799732131">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d4c780376c0a94cbbd0deec0c7e5c795049a63fa">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,16 +67,16 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- HOLLYWOOD BOULEVARD 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9e2b03413f8fe9581a9cf940024ddc4c.jpg" heigth='100%' align='left'/>
+ PANAME PETIT CAFÉ 
 <br/> 
-En attendant l'hiver 
+STELE (3ème Partie) 
 <br/> 
-poissonchat
+Gemen
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fb414651dc4950a169c9cca3f9adcaec.jpg" heigth='100%' align='left'/>
- SURDOUÉ 
+ GO HARD! 
 <br/> 
 DRAGA 
 <br/> 
@@ -84,17 +84,17 @@ Gemen
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- zéro notifs 
+ C'EST NOUS ! 
 <br/> 
-CHAOS 
+SAVOIR (S')AIMER C'EST TOUT 
 <br/> 
 Gemen
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f9bfbb050bc137b9fc6a7d255cbcb8d1.jpg" heigth='100%' align='left'/>
- LOCA 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ la dalle 
 <br/> 
-VARA 
+STELE (4ème Partie) 
 <br/> 
 Gemen
 </div>
