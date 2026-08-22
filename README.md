@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7e45a3424b07adc53aed0e664eb2f000d8254378">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ac5fdc58edbcf39a1a8f6018ed05ef4aa28ce54e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,34 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- GOAT 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5ce60af52be1674b049f2ffd6e975a99.jpg" heigth='100%' align='left'/>
+ MAISON DE CAMPAGNE 
 <br/> 
-TUNNEL VISION 
+MAISON DE CAMPAGNE/ SMS 
 <br/> 
-YSOS
+Gemen
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/70d58c961d5fe1dcd10690ddb80b6c4b.jpg" heigth='100%' align='left'/>
- XP 
+ BODY 
 <br/> 
 STELE (2ème Partie) 
 <br/> 
 Gemen
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- #onvattbz 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3ee8143dad3000dbfa0491c07899bff4.jpg" heigth='100%' align='left'/>
+ SANS TOI 
 <br/> 
-CHAOS 
+NMS (NIGHTMARES EDITION) 
 <br/> 
-Gemen
+ihatemed
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- a/r à london 
+ FACE À LA MER 
 <br/> 
-a/r à london 
+FACE À LA MER 
 <br/> 
 Gemen
 </div>
