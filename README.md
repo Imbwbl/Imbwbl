@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7e57000e78ef8d5a969022489e3897d7460c4b9d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/192ae80051d2626871083e77e5c0a88446c98f6c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 21 August 2026 by github-actions[bot]</h3>
+ <h3>Committed on 22 August 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -35,7 +35,7 @@
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
  <h3>stars: 1, forks: Rust</h3>
- <h3>language: 21 August 2026</h3>
+ <h3>language: 22 August 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
  <h3>Updated on 0</h3>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/68df8668c4ea8e7569fb16d73487804c.png" heigth='100%' align='left'/>
+ 10 balles 
+<br/> 
+200 
+<br/> 
+abel31
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b443fafcfa2c849f34fb883949595cfc.jpg" heigth='100%' align='left'/>
  Instanonymat #5 
 <br/> 
@@ -81,14 +89,6 @@ Saïf
 Amicalement vôtre 
 <br/> 
 Guizmo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e01f961cf5855e943dcd23975b551d72.jpg" heigth='100%' align='left'/>
- MONACO 
-<br/> 
-LA FOLIE DES GRANDEURS 
-<br/> 
-Houdi
 </div>
 <br clear='all' /><br /> 
 </details>
