@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6fd51fc1f9fccb4297348b6a31b965b83588f2bc">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7e57000e78ef8d5a969022489e3897d7460c4b9d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 August 2026 by github-actions[bot]</h3>
  </div>
@@ -66,5 +66,29 @@
 <details>
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
-    
+    <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b443fafcfa2c849f34fb883949595cfc.jpg" heigth='100%' align='left'/>
+ Instanonymat #5 
+<br/> 
+Instanonymat #5 
+<br/> 
+Saïf
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" heigth='100%' align='left'/>
+ Je n'ai plus peur de me souvenir 
+<br/> 
+Amicalement vôtre 
+<br/> 
+Guizmo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e01f961cf5855e943dcd23975b551d72.jpg" heigth='100%' align='left'/>
+ MONACO 
+<br/> 
+LA FOLIE DES GRANDEURS 
+<br/> 
+Houdi
+</div>
+<br clear='all' /><br /> 
 </details>
