@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4378f6c771c44243527bcdb714a351302885c736">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9e2d86e25dc64e0d7f52a45c3e1609ad05e99304">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/33d8d0fa37811f73c0162e030715504f.jpg" heigth='100%' align='left'/>
- JUNGLE PACK 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
+ RADIO COTONOU 
 <br/> 
-JUNGLE DES ILLUSIONS VOL 1 
+DND 
 <br/> 
-Jungle Jack
+yvnnis
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a556be869aae722d3e7eab4c3a36e925.jpg" heigth='100%' align='left'/>
- SAMEDI SOIR À PARIS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4c29e146ab333af5d4a1e3d3f2d54b5.jpg" heigth='100%' align='left'/>
+ Kitsu 
 <br/> 
-POUR 2 VRAI (Version finale) 
+3ème Faille (San Andreas) 
 <br/> 
-NES
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" heigth='100%' align='left'/>
- température 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1a8b9646d10cd37f3d5b9117a8655ce3.jpg" heigth='100%' align='left'/>
+ GARÇON 
 <br/> 
-LA FIEV 
+GARÇON 
 <br/> 
-Mairo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6fefbd848f47cea91325224a37971ee4.jpg" heigth='100%' align='left'/>
- xénon 
-<br/> 
-merci 
-<br/> 
-Wallace Cleaver
+Luther
 </div>
 <br clear='all' /><br /> 
 </details>
