@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8d2a6b127d1c8b6997c9612f960f9d48a7f8c659">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d800ef93278b63c641e4265aa73ee0b21ab29f4a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04d89e1ed49ef05d1ce0c7f283c77d73.jpg" heigth='100%' align='left'/>
- 360TrickShot - A COLORS SHOW 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ed4d65246fca566364e80a549e2786b4.jpg" heigth='100%' align='left'/>
+ Full Sang Froid 
 <br/> 
-360TrickShot - A COLORS SHOW 
+SUNCHASER 
 <br/> 
-Jolagreen23
+Leo SVR
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3642ff601fcf59d884cda8ad9541c1fa.jpg" heigth='100%' align='left'/>
- BUSSIT BACK! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e71e308a019257e8852e5960b683273a.jpg" heigth='100%' align='left'/>
+ MOVE LA DOPE 
 <br/> 
-BUSSIT BACK! 
+QUITTE OU DOUBLE 
 <br/> 
-Slevpy808
+Moji x Sboy
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a12f863de01c8a1fd69b3e7876af8224.jpg" heigth='100%' align='left'/>
- 42 BIS BOULEVARD MAGELLAN 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/53eb475097b57aa846509887ca98fd5c.jpg" heigth='100%' align='left'/>
+ mélodiedubas 
 <br/> 
-ALGORITHME 2.0 
+JeuneBeurDeLaFontaine (vol.1) 
 <br/> 
-TH
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2eb86f948e00bc7e672576e56491a387.jpg" heigth='100%' align='left'/>
- Pocket 
-<br/> 
-Bushi Tape 3 
-<br/> 
-Bu$hi
+Gal
 </div>
 <br clear='all' /><br /> 
 </details>
