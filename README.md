@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/57d62ff51e0d665f7dbc46b6172d618757b5ede5">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e37785f7461c773d3e1e5077e8652fccc49babf4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c48d5c509ed47c5a6419fc71771f44b.jpg" heigth='100%' align='left'/>
+ Grand Bleu 
+<br/> 
+Grand Bleu 
+<br/> 
+Wallace Cleaver
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
- RADIO COTONOU 
+ BREAK 
 <br/> 
 DND 
 <br/> 
 yvnnis
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4c29e146ab333af5d4a1e3d3f2d54b5.jpg" heigth='100%' align='left'/>
- Kitsu 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/86a31b20103511c613c48bd459cda2d2.jpg" heigth='100%' align='left'/>
+ OUVRE LA PORTE! 
 <br/> 
-3ème Faille (San Andreas) 
+24 
 <br/> 
-So La Lune
+La Fève
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1a8b9646d10cd37f3d5b9117a8655ce3.jpg" heigth='100%' align='left'/>
- GARÇON 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth='100%' align='left'/>
+ KYKY2BONDY 
 <br/> 
-GARÇON 
+MANIA 
 <br/> 
-Luther
+Hamza
 </div>
 <br clear='all' /><br /> 
 </details>
