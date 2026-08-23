@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e37785f7461c773d3e1e5077e8652fccc49babf4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8d2a6b127d1c8b6997c9612f960f9d48a7f8c659">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c48d5c509ed47c5a6419fc71771f44b.jpg" heigth='100%' align='left'/>
- Grand Bleu 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04d89e1ed49ef05d1ce0c7f283c77d73.jpg" heigth='100%' align='left'/>
+ 360TrickShot - A COLORS SHOW 
 <br/> 
-Grand Bleu 
+360TrickShot - A COLORS SHOW 
 <br/> 
-Wallace Cleaver
+Jolagreen23
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
- BREAK 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3642ff601fcf59d884cda8ad9541c1fa.jpg" heigth='100%' align='left'/>
+ BUSSIT BACK! 
 <br/> 
-DND 
+BUSSIT BACK! 
 <br/> 
-yvnnis
+Slevpy808
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/86a31b20103511c613c48bd459cda2d2.jpg" heigth='100%' align='left'/>
- OUVRE LA PORTE! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a12f863de01c8a1fd69b3e7876af8224.jpg" heigth='100%' align='left'/>
+ 42 BIS BOULEVARD MAGELLAN 
 <br/> 
-24 
+ALGORITHME 2.0 
 <br/> 
-La Fève
+TH
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2b627ee750b323da9cf15298169e9f83.jpg" heigth='100%' align='left'/>
- KYKY2BONDY 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2eb86f948e00bc7e672576e56491a387.jpg" heigth='100%' align='left'/>
+ Pocket 
 <br/> 
-MANIA 
+Bushi Tape 3 
 <br/> 
-Hamza
+Bu$hi
 </div>
 <br clear='all' /><br /> 
 </details>
