@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d800ef93278b63c641e4265aa73ee0b21ab29f4a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0f8b2a8ba14da40e069fa1134881a6c18180b575">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ed4d65246fca566364e80a549e2786b4.jpg" heigth='100%' align='left'/>
- Full Sang Froid 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ NDDB #6 
 <br/> 
-SUNCHASER 
+NDDB #6 
 <br/> 
-Leo SVR
+BORO700
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e71e308a019257e8852e5960b683273a.jpg" heigth='100%' align='left'/>
- MOVE LA DOPE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ Fin des temps 
 <br/> 
-QUITTE OU DOUBLE 
+Fin des temps 
 <br/> 
-Moji x Sboy
+Saisai
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/53eb475097b57aa846509887ca98fd5c.jpg" heigth='100%' align='left'/>
- mélodiedubas 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/22d050b232681ee641358d4bb73834eb.png" heigth='100%' align='left'/>
+ M*R*H 
 <br/> 
-JeuneBeurDeLaFontaine (vol.1) 
+M*R*H 
 <br/> 
-Gal
+BORO700
 </div>
 <br clear='all' /><br /> 
 </details>
