@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/43fd149f46fa9fd4b0d5639687495f3f8406d1b7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d66ec9f6be422acfa3a783121de0831742621abd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2e66a8bd32d478d1f69cb3366b7779e8.jpg" heigth='100%' align='left'/>
- Top 5 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95c7addfaf94bba94f0d9a58d6e547bd.jpg" heigth='100%' align='left'/>
+ alibi 
 <br/> 
-Top 5 
+alibi 
 <br/> 
-RNP
+Luther
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44352ae0540a8855f15bb7d12fb65b56.jpg" heigth='100%' align='left'/>
- QU'EST-CE QUE ÇA FAIT ? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
+ LE CHEMIN 
 <br/> 
-4PEAT 
+JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
-Gemen
+Jungle Jack
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/01ce699fee8a8f1da479f9a72a44c341.jpg" heigth='100%' align='left'/>
- OKAY! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ ANTIOXYDANT 
 <br/> 
-STELE (1ère Partie) 
+BLISS 
 <br/> 
-Gemen
+Mairo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bc4202b19c488be8ca759874faa8548a.jpg" heigth='100%' align='left'/>
+ Falling Behind 
+<br/> 
+Everything I Know About Love 
+<br/> 
+Laufey
 </div>
 <br clear='all' /><br /> 
 </details>
