@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/79447110a101f95a82c57fb109be4a6930bca146">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/707191f91bc1ae8702a6320f4cdb6c4c9056ad36">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 24 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- NDDB #6 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/68df8668c4ea8e7569fb16d73487804c.png" heigth='100%' align='left'/>
+ crystal 
 <br/> 
-NDDB #6 
+200 
 <br/> 
-BORO700
+abel31
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Fin des temps 
+ MAG3NMAG0T 
 <br/> 
-Fin des temps 
+S̷̪̹̤̩͎̣̭̩̗͔͍̮͚̽͑̐̓ę̷͍͚͚͔̰̠̎́́̈́͐ć̴̡̭̩̜̰̭͋t̴̢̪̳͖̲͚̮̪͕̦̙̟̐̇̆̈́͐͋̈́́̎̃̀̓͝ư̸̯̄̂̿̊̈́̅̃͑̓̋͠͝m̵̨̛̺̪͍̄͊̑̃̈̓̀̓̉ś̸̻͉̯͎̜̜̞̬͎̻͎̰͎̒̈e̴̯͗̋͛̆̂̊̽̄̔͐̐͑̿̾m̶̧̧̰̘͇̜̪̺̻̝͓̭͋̅̾̏̐͘͘͜͝͝ͅp̵͍̼͇̲̪͉̪̙̫̲͈͇̀̿͘̚r̴̡̭̠͓͉͇̭͙̖̣̣͍̫̈́̉͐̃̉̋͌̋̕̚ͅa̸̡̧̠͈͉̻̫̤̺̬̔́̐͂̓̈́͜͠ 
 <br/> 
-Saisai
+GU1T4R
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/22d050b232681ee641358d4bb73834eb.png" heigth='100%' align='left'/>
- M*R*H 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ LAUSANNE 
 <br/> 
-M*R*H 
+LAUSANNE 
 <br/> 
-BORO700
+Tom D.
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ MEMENTO 
+<br/> 
+TAEDIUM 
+<br/> 
+55ASKY
 </div>
 <br clear='all' /><br /> 
 </details>
