@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ad00be1576f0416af3f8322d7d18b4d36f89fa23">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4e21dfaaa24981e809ec48956c5c4a3cd4ad2171">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 24 August 2026 by github-actions[bot]</h3>
  </div>
@@ -66,5 +66,29 @@
 <details>
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
-    
+    <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acf46010faf2ece765b5b57ef8bebf13.jpg" heigth='100%' align='left'/>
+ bababoy 
+<br/> 
+RAPPEL 
+<br/> 
+Jima
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/68df8668c4ea8e7569fb16d73487804c.png" heigth='100%' align='left'/>
+ crystal 
+<br/> 
+200 
+<br/> 
+abel31
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ MAG3NMAG0T 
+<br/> 
+S̷̪̹̤̩͎̣̭̩̗͔͍̮͚̽͑̐̓ę̷͍͚͚͔̰̠̎́́̈́͐ć̴̡̭̩̜̰̭͋t̴̢̪̳͖̲͚̮̪͕̦̙̟̐̇̆̈́͐͋̈́́̎̃̀̓͝ư̸̯̄̂̿̊̈́̅̃͑̓̋͠͝m̵̨̛̺̪͍̄͊̑̃̈̓̀̓̉ś̸̻͉̯͎̜̜̞̬͎̻͎̰͎̒̈e̴̯͗̋͛̆̂̊̽̄̔͐̐͑̿̾m̶̧̧̰̘͇̜̪̺̻̝͓̭͋̅̾̏̐͘͘͜͝͝ͅp̵͍̼͇̲̪͉̪̙̫̲͈͇̀̿͘̚r̴̡̭̠͓͉͇̭͙̖̣̣͍̫̈́̉͐̃̉̋͌̋̕̚ͅa̸̡̧̠͈͉̻̫̤̺̬̔́̐͂̓̈́͜͠ 
+<br/> 
+GU1T4R
+</div>
+<br clear='all' /><br /> 
 </details>
