@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/7f24b4cb7e57c288445d8f82c834f10bd710dc1e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1e59d5c29c9e823af5b1ac3c27b6986d0ff11493">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acf46010faf2ece765b5b57ef8bebf13.jpg" heigth='100%' align='left'/>
- bababoy 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
+ VUE IMPRENABLE SUR LA JUNGLE 
 <br/> 
-RAPPEL 
+JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
-Jima
+Jungle Jack
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/68df8668c4ea8e7569fb16d73487804c.png" heigth='100%' align='left'/>
- crystal 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f895a995f8ebdf85ab1424118726febb.jpg" heigth='100%' align='left'/>
+ virage 
 <br/> 
-200 
+AMI 
 <br/> 
-abel31
+Luther
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- MAG3NMAG0T 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" heigth='100%' align='left'/>
+ FERME LES YEUX 
 <br/> 
-S̷̪̹̤̩͎̣̭̩̗͔͍̮͚̽͑̐̓ę̷͍͚͚͔̰̠̎́́̈́͐ć̴̡̭̩̜̰̭͋t̴̢̪̳͖̲͚̮̪͕̦̙̟̐̇̆̈́͐͋̈́́̎̃̀̓͝ư̸̯̄̂̿̊̈́̅̃͑̓̋͠͝m̵̨̛̺̪͍̄͊̑̃̈̓̀̓̉ś̸̻͉̯͎̜̜̞̬͎̻͎̰͎̒̈e̴̯͗̋͛̆̂̊̽̄̔͐̐͑̿̾m̶̧̧̰̘͇̜̪̺̻̝͓̭͋̅̾̏̐͘͘͜͝͝ͅp̵͍̼͇̲̪͉̪̙̫̲͈͇̀̿͘̚r̴̡̭̠͓͉͇̭͙̖̣̣͍̫̈́̉͐̃̉̋͌̋̕̚ͅa̸̡̧̠͈͉̻̫̤̺̬̔́̐͂̓̈́͜͠ 
+ÉPILOGUE 
 <br/> 
-GU1T4R
+Bu$hi
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/425b503987a80f465bf200165db0bd6e.jpg" heigth='100%' align='left'/>
+ Incendie 
+<br/> 
+MARCEL 
+<br/> 
+Wallace Cleaver
 </div>
 <br clear='all' /><br /> 
 </details>
