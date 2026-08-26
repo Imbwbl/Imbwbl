@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1e59d5c29c9e823af5b1ac3c27b6986d0ff11493">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/344642d583ab915ba80a328aef833c9bb954b7b1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
- VUE IMPRENABLE SUR LA JUNGLE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth='100%' align='left'/>
+ dans ma tête 
 <br/> 
-JUNGLE DES ILLUSIONS VOL 2 
+baiser 
 <br/> 
-Jungle Jack
+Wallace Cleaver
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f895a995f8ebdf85ab1424118726febb.jpg" heigth='100%' align='left'/>
- virage 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f03b5cd4b5f05435f9f1521a4d9da57.jpg" heigth='100%' align='left'/>
+ Hégemon 
 <br/> 
-AMI 
+Trame 
 <br/> 
 Luther
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" heigth='100%' align='left'/>
- FERME LES YEUX 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
+ BIG SHOT 
 <br/> 
-ÉPILOGUE 
+DND 
 <br/> 
-Bu$hi
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/425b503987a80f465bf200165db0bd6e.jpg" heigth='100%' align='left'/>
- Incendie 
-<br/> 
-MARCEL 
-<br/> 
-Wallace Cleaver
+yvnnis
 </div>
 <br clear='all' /><br /> 
 </details>
