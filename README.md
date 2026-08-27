@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e12a10a73c4d3f481c781ea7c76b02e389278c2e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ee095bdb3e9ab426b0be64ba86fb21896123afbd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 26 August 2026 by github-actions[bot]</h3>
+ <h3>Committed on 27 August 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -35,7 +35,7 @@
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
  <h3>stars: 1, forks: Rust</h3>
- <h3>language: 26 August 2026</h3>
+ <h3>language: 27 August 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
  <h3>Updated on 0</h3>
@@ -67,18 +67,18 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6ef864599a4b77435a314fc6d918e9ef.jpg" heigth='100%' align='left'/>
- 1000 Blunts 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f29ed74d75ec8c5ccc07d46ec3ba7841.jpg" heigth='100%' align='left'/>
+ KILL YOURSELF (Part III) 
 <br/> 
-Sing Me A Lullaby, My Sweet Temptation 
+My Liver Will Handle What My Heart Can't 
 <br/> 
 $uicideboy$
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94c9f5017bad912557b1c8fbb9cfca4a.jpg" heigth='100%' align='left'/>
- ANTARCTICA 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6ef864599a4b77435a314fc6d918e9ef.jpg" heigth='100%' align='left'/>
+ 1000 Blunts 
 <br/> 
-Antarctica 
+Sing Me A Lullaby, My Sweet Temptation 
 <br/> 
 $uicideboy$
 </div>
