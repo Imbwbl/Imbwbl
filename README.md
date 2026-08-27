@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ee095bdb3e9ab426b0be64ba86fb21896123afbd">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c8049bdf2bf6a726f2f4651e54da65fd80ca2e20">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,34 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f29ed74d75ec8c5ccc07d46ec3ba7841.jpg" heigth='100%' align='left'/>
- KILL YOURSELF (Part III) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" heigth='100%' align='left'/>
+ Medusa 
 <br/> 
-My Liver Will Handle What My Heart Can't 
+L'hiver 
 <br/> 
-$uicideboy$
+Saïf
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c40d50eef84ea3bb653b913ba9a1e915.png" heigth='100%' align='left'/>
+ RAP d’arabe 
+<br/> 
+RAP d’arabe 
+<br/> 
+Saïf
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ HOLLYWOOD BOULEVARD 
+<br/> 
+En attendant l'hiver 
+<br/> 
+poissonchat
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6ef864599a4b77435a314fc6d918e9ef.jpg" heigth='100%' align='left'/>
  1000 Blunts 
 <br/> 
 Sing Me A Lullaby, My Sweet Temptation 
-<br/> 
-$uicideboy$
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bd1cb0ccb17ccaa7a339a25e748112d4.png" heigth='100%' align='left'/>
- ...And To Those I Love, Thanks For Sticking Around 
-<br/> 
-STOP STARING AT THE SHADOWS 
 <br/> 
 $uicideboy$
 </div>
