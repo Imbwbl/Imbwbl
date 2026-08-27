@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/344642d583ab915ba80a328aef833c9bb954b7b1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e12a10a73c4d3f481c781ea7c76b02e389278c2e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth='100%' align='left'/>
- dans ma tête 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6ef864599a4b77435a314fc6d918e9ef.jpg" heigth='100%' align='left'/>
+ 1000 Blunts 
 <br/> 
-baiser 
+Sing Me A Lullaby, My Sweet Temptation 
 <br/> 
-Wallace Cleaver
+$uicideboy$
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f03b5cd4b5f05435f9f1521a4d9da57.jpg" heigth='100%' align='left'/>
- Hégemon 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94c9f5017bad912557b1c8fbb9cfca4a.jpg" heigth='100%' align='left'/>
+ ANTARCTICA 
 <br/> 
-Trame 
+Antarctica 
 <br/> 
-Luther
+$uicideboy$
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" heigth='100%' align='left'/>
- BIG SHOT 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bd1cb0ccb17ccaa7a339a25e748112d4.png" heigth='100%' align='left'/>
+ ...And To Those I Love, Thanks For Sticking Around 
 <br/> 
-DND 
+STOP STARING AT THE SHADOWS 
 <br/> 
-yvnnis
+$uicideboy$
 </div>
 <br clear='all' /><br /> 
 </details>
