@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c8049bdf2bf6a726f2f4651e54da65fd80ca2e20">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/42e08cb0e8bb3f8883ad080f07a1dbdd2cccdc7a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/42b00f32fae35918e0b45df90df4a09d.jpg" heigth='100%' align='left'/>
+ L'avalanche 
+<br/> 
+L'avalanche 
+<br/> 
+Saïf
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" heigth='100%' align='left'/>
  Medusa 
 <br/> 
@@ -75,28 +83,12 @@ L'hiver
 Saïf
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c40d50eef84ea3bb653b913ba9a1e915.png" heigth='100%' align='left'/>
- RAP d’arabe 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/737ee2a4a218fa9ae35df6e11a8203c1.png" heigth='100%' align='left'/>
+ Si vous saviez 
 <br/> 
-RAP d’arabe 
+Si vous saviez 
 <br/> 
 Saïf
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- HOLLYWOOD BOULEVARD 
-<br/> 
-En attendant l'hiver 
-<br/> 
-poissonchat
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6ef864599a4b77435a314fc6d918e9ef.jpg" heigth='100%' align='left'/>
- 1000 Blunts 
-<br/> 
-Sing Me A Lullaby, My Sweet Temptation 
-<br/> 
-$uicideboy$
 </div>
 <br clear='all' /><br /> 
 </details>
