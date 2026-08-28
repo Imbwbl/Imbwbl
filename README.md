@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/42e08cb0e8bb3f8883ad080f07a1dbdd2cccdc7a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0496c58f47da20720c989de7ab88ca15484cf6d5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 27 August 2026 by github-actions[bot]</h3>
+ <h3>Committed on 28 August 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -35,7 +35,7 @@
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
  <h3>stars: 1, forks: Rust</h3>
- <h3>language: 27 August 2026</h3>
+ <h3>language: 28 August 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
  <h3>Updated on 0</h3>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/42b00f32fae35918e0b45df90df4a09d.jpg" heigth='100%' align='left'/>
- L'avalanche 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
+ Life 
 <br/> 
-L'avalanche 
+1994 
 <br/> 
-Saïf
+Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" heigth='100%' align='left'/>
- Medusa 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ad1070bb0ed87cbd9231bddeb7cd0ac2.jpg" heigth='100%' align='left'/>
+ Prélude in C-sharp minor, Op. 3, No. 2 
 <br/> 
-L'hiver 
+Rachmaninoff Plays Rachmaninoff - The Ampico Piano Recordings 
 <br/> 
-Saïf
+Sergei Rachmaninoff
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/737ee2a4a218fa9ae35df6e11a8203c1.png" heigth='100%' align='left'/>
- Si vous saviez 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
+ Pistolet Rose 
 <br/> 
-Si vous saviez 
+PPP 
 <br/> 
-Saïf
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
