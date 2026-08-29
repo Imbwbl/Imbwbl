@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0496c58f47da20720c989de7ab88ca15484cf6d5">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/21568c1f62708fd013b6e6384babeec9b561c3f8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 28 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
- Life 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ BARA 
 <br/> 
-1994 
+BARA 
 <br/> 
-Hamza
+yvnnis
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ad1070bb0ed87cbd9231bddeb7cd0ac2.jpg" heigth='100%' align='left'/>
- Prélude in C-sharp minor, Op. 3, No. 2 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1eb2cbbad42c315fc9fe4242f0353d83.jpg" heigth='100%' align='left'/>
+ Voraces 
 <br/> 
-Rachmaninoff Plays Rachmaninoff - The Ampico Piano Recordings 
+Eau de source 
 <br/> 
-Sergei Rachmaninoff
+SOUFFRANCE
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" heigth='100%' align='left'/>
- Pistolet Rose 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ LAUSANNE 
 <br/> 
-PPP 
+LAUSANNE 
 <br/> 
-Alpha Wann
+Tom D.
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b835d59990741da2a6fb917543e5ac3d.jpg" heigth='100%' align='left'/>
+ Magic (feat. I.A.) 
+<br/> 
+BĒYĀH 
+<br/> 
+Damso
 </div>
 <br clear='all' /><br /> 
 </details>
