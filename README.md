@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/21568c1f62708fd013b6e6384babeec9b561c3f8">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a4e60005f07f3a6a4cd90d348bd5c339ff020342">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 28 August 2026 by github-actions[bot]</h3>
+ <h3>Committed on 29 August 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -35,7 +35,7 @@
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
  <h3>stars: 1, forks: Rust</h3>
- <h3>language: 28 August 2026</h3>
+ <h3>language: 29 August 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
  <h3>Updated on 0</h3>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- BARA 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7327bd581388498d9188d75467e535b7.png" heigth='100%' align='left'/>
+ Christmas Kids 
 <br/> 
-BARA 
+I Can't Handle Change 
 <br/> 
-yvnnis
+Roar
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1eb2cbbad42c315fc9fe4242f0353d83.jpg" heigth='100%' align='left'/>
- Voraces 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e8a5a2c98516adcdffea49a8607775ab.jpg" heigth='100%' align='left'/>
+ summer depression 
 <br/> 
-Eau de source 
+summer depression 
 <br/> 
-SOUFFRANCE
+girl in red
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- LAUSANNE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c325087ededaf34f6f21d801f75f28fb.jpg" heigth='100%' align='left'/>
+ ROMANTIC LOVER 
 <br/> 
-LAUSANNE 
+Let's Skip to the Wedding 
 <br/> 
-Tom D.
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b835d59990741da2a6fb917543e5ac3d.jpg" heigth='100%' align='left'/>
- Magic (feat. I.A.) 
-<br/> 
-BĒYĀH 
-<br/> 
-Damso
+Eyedress
 </div>
 <br clear='all' /><br /> 
 </details>
