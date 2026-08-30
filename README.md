@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0904c325b9358cac174425e8e4da8ce6dd46b5a5">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c703ffa909b836bbbf8d3de7fe37328b9258ed14">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,14 +67,6 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4862ecaa1291d3cd4f445f3eb14bf1e7.jpg" heigth='100%' align='left'/>
- Comfort Zone 
-<br/> 
-Comfort Zone 
-<br/> 
-Yot Club
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/36a064d8029e4b9c9d52c07961fbeed2.png" heigth='100%' align='left'/>
  Call It Fate, Call It Karma 
 <br/> 
