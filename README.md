@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fe26fa99476c7244a31ba653c9146c364ad7a511">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ec7e1f93eeda6e6c50e7a86add272c0066963faa">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e505ce7d60d366c501418aa473c2dd19.jpg" heigth='100%' align='left'/>
- In My Mind 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0141e712c3737d5c574c6856855b99bc.png" heigth='100%' align='left'/>
+ we don't know a thing 
 <br/> 
-In My Mind 
+we don't know a thing 
 <br/> 
-Lyn Lapid
+tomcbumpz
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/826cd46695ae445ca9db6ca7d694cdc0.png" heigth='100%' align='left'/>
- Burning Pile 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f94e2161c1b2f22e892d60fc7890be3c.jpg" heigth='100%' align='left'/>
+ Haunted 
 <br/> 
-O My Heart 
+Haunted 
 <br/> 
-Mother Mother
+laura les
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9ed4cf0ce373ab55db1da91012921604.jpg" heigth='100%' align='left'/>
- Friends 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5c8935c345285f574120a493c39c2a30.jpg" heigth='100%' align='left'/>
+ I Don't Know You 
 <br/> 
-Vibes 
+Superclean, Vol. I 
 <br/> 
-VACATIONS
+The Marías
 </div>
 <br clear='all' /><br /> 
 </details>
