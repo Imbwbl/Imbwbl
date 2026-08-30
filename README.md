@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c703ffa909b836bbbf8d3de7fe37328b9258ed14">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fe26fa99476c7244a31ba653c9146c364ad7a511">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/36a064d8029e4b9c9d52c07961fbeed2.png" heigth='100%' align='left'/>
- Call It Fate, Call It Karma 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e505ce7d60d366c501418aa473c2dd19.jpg" heigth='100%' align='left'/>
+ In My Mind 
 <br/> 
-Comedown Machine 
+In My Mind 
 <br/> 
-The Strokes
+Lyn Lapid
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/576554c542da76c08f0e80c129afcb0e.png" heigth='100%' align='left'/>
- The Adults Are Talking 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/826cd46695ae445ca9db6ca7d694cdc0.png" heigth='100%' align='left'/>
+ Burning Pile 
 <br/> 
-The New Abnormal 
+O My Heart 
 <br/> 
-The Strokes
+Mother Mother
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3dfc90eece3bcdfbfe7c860d1f54477b.jpg" heigth='100%' align='left'/>
- Harvey 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9ed4cf0ce373ab55db1da91012921604.jpg" heigth='100%' align='left'/>
+ Friends 
 <br/> 
-Invitation to Her's 
+Vibes 
 <br/> 
-Her's
+VACATIONS
 </div>
 <br clear='all' /><br /> 
 </details>
