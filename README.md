@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/660a177a25df4b2c8e5a50c7b91defac5508d5c3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bc1530842729bdb8acd0e360bac4ecd4e3019940">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 31 August 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1eb2cbbad42c315fc9fe4242f0353d83.jpg" heigth='100%' align='left'/>
- Voraces 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" heigth='100%' align='left'/>
+ Au Bout 
 <br/> 
-Eau de source 
+000$ 
 <br/> 
-SOUFFRANCE
+Josman
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- LAUSANNE 
+ BLUES 
 <br/> 
-LAUSANNE 
+BLUES 
 <br/> 
-Tom D.
+LUVBFK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f08be2aaa0a8c60c1623951e3928a4dd.png" heigth='100%' align='left'/>
- 404 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" heigth='100%' align='left'/>
+ J'ai mal au mic - Remasterisé 
 <br/> 
-404 
+L'amour est mort (Remasterisé) 
 <br/> 
-Sunburn
+Oxmo Puccino
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ FUCKDAPOLICE !!! 
+<br/> 
+1984 
+<br/> 
+Tom D.
 </div>
 <br clear='all' /><br /> 
 </details>
