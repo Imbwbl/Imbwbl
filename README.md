@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fc6783c19b66b97b9825eeaaf341eed3f0ae722d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/660a177a25df4b2c8e5a50c7b91defac5508d5c3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 30 August 2026 by github-actions[bot]</h3>
+ <h3>Committed on 31 August 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -35,7 +35,7 @@
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
  <h3>stars: 1, forks: Rust</h3>
- <h3>language: 30 August 2026</h3>
+ <h3>language: 31 August 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
  <h3>Updated on 0</h3>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" heigth='100%' align='left'/>
- J'ai mal au mic - Remasterisé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1eb2cbbad42c315fc9fe4242f0353d83.jpg" heigth='100%' align='left'/>
+ Voraces 
 <br/> 
-L'amour est mort (Remasterisé) 
+Eau de source 
 <br/> 
-Oxmo Puccino
+SOUFFRANCE
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- FUCKDAPOLICE !!! 
+ LAUSANNE 
 <br/> 
-1984 
+LAUSANNE 
 <br/> 
 Tom D.
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
- Demain 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f08be2aaa0a8c60c1623951e3928a4dd.png" heigth='100%' align='left'/>
+ 404 
 <br/> 
-2069' 
+404 
 <br/> 
-PLK
+Sunburn
 </div>
 <br clear='all' /><br /> 
 </details>
