@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/79c96513f370c2a0af59a787794560eb44feb492">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c15b62c31fef3aeed3ccb623925ff6a63c2ed635">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b976d6ad527ee180cf385f6fcda56fee.jpg" heigth='100%' align='left'/>
+ VONGOLE 
+<br/> 
+Grünt #71 
+<br/> 
+JeanJass
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
  LOUP D'MER 
 <br/> 
@@ -81,14 +89,6 @@ Mairo
 JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
 Jungle Jack
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- la lune attire la mer 
-<br/> 
-don dada mixtape vol 1 
-<br/> 
-Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
