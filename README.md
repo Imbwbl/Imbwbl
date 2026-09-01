@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d1c52ecd8504247caa827fa89c41072e2baf7373">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/85a67f4f0c818e59a33c4dcc25b04d0891e31772">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
- philly flingo 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" heigth='100%' align='left'/>
+ Faut que j'arrête 
 <br/> 
-don dada mixtape vol 1 
+Lola 
 <br/> 
-Alpha Wann
+Romsii
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/33a09f75c38f33e0697a66df8760c8e2.png" heigth='100%' align='left'/>
- On tombe, on réessaye 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" heigth='100%' align='left'/>
+ C'est pas grave 
 <br/> 
-On tombe, on réessaye 
+Adieu, au revoir 
 <br/> 
-BEN plg
+Columbine
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" heigth='100%' align='left'/>
- Intro 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
+ GEPETTO 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+GRÜNT #60 
 <br/> 
-Josman
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- HOLLYWOOD BOULEVARD 
-<br/> 
-En attendant l'hiver 
-<br/> 
-poissonchat
+Bu$hi
 </div>
 <br clear='all' /><br /> 
 </details>
