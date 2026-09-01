@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/20b6ba765781256818d6743cb76cfd435baba910">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/79c96513f370c2a0af59a787794560eb44feb492">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" heigth='100%' align='left'/>
- Faut que j'arrête 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ LOUP D'MER 
 <br/> 
-Lola 
+BLISS 
 <br/> 
-Romsii
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" heigth='100%' align='left'/>
- C'est pas grave 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
+ CHARBON ET DEVOUEMENT 
 <br/> 
-Adieu, au revoir 
+JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
-Columbine
+Jungle Jack
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
- GEPETTO 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" heigth='100%' align='left'/>
+ la lune attire la mer 
 <br/> 
-GRÜNT #60 
+don dada mixtape vol 1 
 <br/> 
-Bu$hi
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
