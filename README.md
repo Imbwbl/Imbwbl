@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fcd2efc27f1347917fb671b00caf502878d38baa">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/eb397097ee798d16d7b0a69c4d3f23f2c50b9fc2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 02 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3cb3233cd6070200678334394526a917.jpg" heigth='100%' align='left'/>
- creeper 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth='100%' align='left'/>
+ Stupéfiant et noir 
 <br/> 
-creeper + seed 
+UNE MAIN LAVE L'AUTRE 
 <br/> 
-Luther
+Alpha Wann
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" heigth='100%' align='left'/>
+ Faut que j'arrête 
+<br/> 
+Lola 
+<br/> 
+Romsii
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- AUDACE 
+ TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-AUDACE 
+TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-Lucboy
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth='100%' align='left'/>
- çalavie 
-<br/> 
-baiser 
-<br/> 
-Wallace Cleaver
+poissonchat
 </div>
 <br clear='all' /><br /> 
 </details>
