@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/446f131e09489e45141845f597cbde803e50ce23">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0022e4f5bc5390910a0581d6ff2c06d40f5274df">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 01 September 2026 by github-actions[bot]</h3>
+ <h3>Committed on 02 September 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
@@ -35,7 +35,7 @@
  <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
  <h3>Updated on 0</h3>
  <h3>stars: 1, forks: Rust</h3>
- <h3>language: 01 September 2026</h3>
+ <h3>language: 02 September 2026</h3>
  </div><div>
  <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
  <h3>Updated on 0</h3>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b976d6ad527ee180cf385f6fcda56fee.jpg" heigth='100%' align='left'/>
- VONGOLE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/595b075a061ce8855fe00203a5c0caaa.png" heigth='100%' align='left'/>
+ 2026 
 <br/> 
-Grünt #71 
+2026 
 <br/> 
-JeanJass
+La Fève
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- LOUP D'MER 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5cebf1f76dcc926ee308ffa6efd4fd2c.jpg" heigth='100%' align='left'/>
+ LA GRANDE ÉVASION 
 <br/> 
-BLISS 
+CREAMLAND 
 <br/> 
-Mairo
+Hologram Lo'
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" heigth='100%' align='left'/>
- CHARBON ET DEVOUEMENT 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7f097b51f9e03e3710d268dfc85c24ae.jpg" heigth='100%' align='left'/>
+ Tsukithèse 
 <br/> 
-JUNGLE DES ILLUSIONS VOL 2 
+2ème faille (Silfra) 
 <br/> 
-Jungle Jack
+So La Lune
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
+ Demain 
+<br/> 
+2069' 
+<br/> 
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
