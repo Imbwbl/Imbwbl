@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/eb397097ee798d16d7b0a69c4d3f23f2c50b9fc2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/072518311fdba621b90ad4e1250e149390e3c042">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 02 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" heigth='100%' align='left'/>
- Stupéfiant et noir 
-<br/> 
-UNE MAIN LAVE L'AUTRE 
-<br/> 
-Alpha Wann
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" heigth='100%' align='left'/>
- Faut que j'arrête 
-<br/> 
-Lola 
-<br/> 
-Romsii
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- TU DEVIENS QUOI EN CE MOMENT ? 
+ Les ombres de la nuit 
 <br/> 
-TU DEVIENS QUOI EN CE MOMENT ? 
+Time Out (Vol. 3) 
 <br/> 
-poissonchat
+STO
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9d286866dae7844e5537c83a857cf845.jpg" heigth='100%' align='left'/>
+ GEPETTO 
+<br/> 
+GRÜNT #60 
+<br/> 
+Bu$hi
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e89ef16cf980b6990ebfaf05ee7d833.png" heigth='100%' align='left'/>
+ Babylone 
+<br/> 
+KKSHISENSE8 
+<br/> 
+Népal
 </div>
 <br clear='all' /><br /> 
 </details>
