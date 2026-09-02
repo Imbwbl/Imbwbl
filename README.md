@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0022e4f5bc5390910a0581d6ff2c06d40f5274df">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/05dd3268ad25253883b2488b98edceb66e0eea91">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 02 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/595b075a061ce8855fe00203a5c0caaa.png" heigth='100%' align='left'/>
- 2026 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3cb3233cd6070200678334394526a917.jpg" heigth='100%' align='left'/>
+ creeper 
 <br/> 
-2026 
+creeper + seed 
 <br/> 
-La Fève
+Luther
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5cebf1f76dcc926ee308ffa6efd4fd2c.jpg" heigth='100%' align='left'/>
- LA GRANDE ÉVASION 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ AUDACE 
 <br/> 
-CREAMLAND 
+AUDACE 
 <br/> 
-Hologram Lo'
+Lucboy
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7f097b51f9e03e3710d268dfc85c24ae.jpg" heigth='100%' align='left'/>
- Tsukithèse 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" heigth='100%' align='left'/>
+ çalavie 
 <br/> 
-2ème faille (Silfra) 
+baiser 
 <br/> 
-So La Lune
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
- Demain 
-<br/> 
-2069' 
-<br/> 
-PLK
+Wallace Cleaver
 </div>
 <br clear='all' /><br /> 
 </details>
