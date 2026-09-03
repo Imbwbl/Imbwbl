@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4aea88a3ea9deef88e1474c31d99c5fa2818d939">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/51d99e8c3060b77d658115930f187560cfcb103e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 03 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a6302104dae5caebd42d3a50e42841c0.jpg" heigth='100%' align='left'/>
+ 8AM 
+<br/> 
+QUI A VOLÉ LE SOLEIL ? 
+<br/> 
+Slimka
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f6a0582c019fe89432df4333de5c333.jpg" heigth='100%' align='left'/>
+ life 
+<br/> 
+Rougemort 
+<br/> 
+Mairo
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- FUCKDAPOLICE !!! 
+ CHF 
 <br/> 
-1984 
+SIGNAATURE 
 <br/> 
-Tom D.
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" heigth='100%' align='left'/>
- Demain 
-<br/> 
-2069' 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth='100%' align='left'/>
- R5 et Murcielago 
-<br/> 
-Alph Lauren 3 
-<br/> 
-Alpha Wann
+Aamo
 </div>
 <br clear='all' /><br /> 
 </details>
