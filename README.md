@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ed64b6e438fd74321ad72db19390912e70824f79">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/869eb031c8a2acd49906da57731632336167a75d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 04 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- HAGOS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1f428e19072aadfe44ce9766e97b639e.jpg" heigth='100%' align='left'/>
+ Dr. Surprise 
 <br/> 
-BLISS 
+Dr. Surprise 
 <br/> 
-Mairo
+Surprise
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- PARC DES SOURDS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94cbaefe1860ce8135fe6ac9a6f7d3a3.jpg" heigth='100%' align='left'/>
+ DESCENTE 
 <br/> 
-BLISS 
+L'INVERSE 
 <br/> 
-Mairo
+Surprise
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
- ANTIOXYDANT 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fa7006a683cdb641787bf5abf80db532.jpg" heigth='100%' align='left'/>
+ Angèle & Pomme 
 <br/> 
-BLISS 
+Angèle & Pomme 
 <br/> 
-Mairo
+Surprise
 </div>
 <br clear='all' /><br /> 
 </details>
