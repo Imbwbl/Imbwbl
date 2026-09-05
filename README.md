@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/146a7d6fb8365ab6e749d63f773974a953be5a8e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/435bb50459a99eb9e60aff478556de83b98f9e8b">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 05 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,24 +67,24 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/68f751a4980b5af90a56feccbb7e8e0f.jpg" heigth='100%' align='left'/>
+ No Woman, No Cry - L.P. Version 
+<br/> 
+Greatest Hits 
+<br/> 
+Fugees
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/93a563522a4dfefaa258bc70d86cba38.jpg" heigth='100%' align='left'/>
+ If You Can Count 
+<br/> 
+Warriors 
+<br/> 
+Ms. Lauryn Hill
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2dad0579f6e98d76be9211f8c56221b8.jpg" heigth='100%' align='left'/>
  The Mask 
-<br/> 
-The Score (Expanded Edition) 
-<br/> 
-Fugees
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9db079e2f9034929c9e59bf8f6447ece.jpg" heigth='100%' align='left'/>
- Nappy Heads - Remix 
-<br/> 
-Blunted On Reality 
-<br/> 
-Fugees
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2dad0579f6e98d76be9211f8c56221b8.jpg" heigth='100%' align='left'/>
- Zealots 
 <br/> 
 The Score (Expanded Edition) 
 <br/> 
