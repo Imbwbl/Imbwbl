@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/faa1952004ce4ad26ec06b4e1ff92ec5664613c0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5ae6019345f19c6c15b472dfd1a1e2ecbd51af34">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 05 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2dad0579f6e98d76be9211f8c56221b8.jpg" heigth='100%' align='left'/>
- How Many Mics 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/eafcb475aaf8cea13ca93508baa4e702.jpg" heigth='100%' align='left'/>
+ Intro (Wyclef Rap Medley) 
 <br/> 
-The Score (Expanded Edition) 
-<br/> 
-Fugees
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2dad0579f6e98d76be9211f8c56221b8.jpg" heigth='100%' align='left'/>
- Zealots 
-<br/> 
-The Score (Expanded Edition) 
+Live at New Pop Festival (1996) 
 <br/> 
 Fugees
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2dad0579f6e98d76be9211f8c56221b8.jpg" heigth='100%' align='left'/>
- No Woman, No Cry 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/eafcb475aaf8cea13ca93508baa4e702.jpg" heigth='100%' align='left'/>
+ Ain't No N*gga / Woo-Hah 
 <br/> 
-The Score (Expanded Edition) 
+Live at New Pop Festival (1996) 
+<br/> 
+Fugees
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/eafcb475aaf8cea13ca93508baa4e702.jpg" heigth='100%' align='left'/>
+ White Lines (Pras & Lauryn Hill Intro) 
+<br/> 
+Live at New Pop Festival (1996) 
 <br/> 
 Fugees
 </div>
