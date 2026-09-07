@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5aa51c79c31529d6d82dd422e9eda1facef2a0bd">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2eca3b1bb38ba0711b79f68d1a4b29fb8d715c3a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/16e3139cc84090bc408a149f9a1ac112.jpg" heigth='100%' align='left'/>
- A QUOI TU JOUES 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/630b2243ee46c108381c4f03e1da1644.jpg" heigth='100%' align='left'/>
+ Autotune 
 <br/> 
-Mec de cité simple 
+Batterie Faible 
 <br/> 
-Naps
+Damso
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" heigth='100%' align='left'/>
+ Une pieuvre dans un seau 
+<br/> 
+Une pieuvre dans un seau 
+<br/> 
+Surprise
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- T'AS FAIT LE CON 
+ Rachel 
 <br/> 
-T'AS FAIT LE CON 
+Rachel 
 <br/> 
-Naps
+Dayarga
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" heigth='100%' align='left'/>
- Ca fait du bien 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth='100%' align='left'/>
+ Luc Besson 
 <br/> 
-On est fait pour ça 
+Nouveau Produit 
 <br/> 
-Naps
+So La Lune
 </div>
 <br clear='all' /><br /> 
 </details>
