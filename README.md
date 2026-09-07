@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2eca3b1bb38ba0711b79f68d1a4b29fb8d715c3a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0cae5e862ff8d7da9ed47fc7c9f3f62aed18a585">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/630b2243ee46c108381c4f03e1da1644.jpg" heigth='100%' align='left'/>
- Autotune 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth='100%' align='left'/>
+ Air Max 
 <br/> 
-Batterie Faible 
+Air Max 
 <br/> 
-Damso
+Rim'K
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" heigth='100%' align='left'/>
- Une pieuvre dans un seau 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
+ Les Flammes 
 <br/> 
-Une pieuvre dans un seau 
+J.000.$ 
 <br/> 
-Surprise
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
- Rachel 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
+ Life 
 <br/> 
-Rachel 
+1994 
 <br/> 
-Dayarga
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" heigth='100%' align='left'/>
- Luc Besson 
-<br/> 
-Nouveau Produit 
-<br/> 
-So La Lune
+Hamza
 </div>
 <br clear='all' /><br /> 
 </details>
