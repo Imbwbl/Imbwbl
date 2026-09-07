@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/be1660d7cef29a792bc8dac48644e9cadc6d6602">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5aa51c79c31529d6d82dd422e9eda1facef2a0bd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,24 +67,24 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5431ce1f401ca506508efcf6e42145d6.jpg" heigth='100%' align='left'/>
- La danse du roro 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/16e3139cc84090bc408a149f9a1ac112.jpg" heigth='100%' align='left'/>
+ A QUOI TU JOUES 
 <br/> 
-En temps réel 
+Mec de cité simple 
 <br/> 
 Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" heigth='100%' align='left'/>
- Marseille City 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ T'AS FAIT LE CON 
 <br/> 
-À l'instinct 
+T'AS FAIT LE CON 
 <br/> 
 Naps
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" heigth='100%' align='left'/>
- Cap canaveral 
+ Ca fait du bien 
 <br/> 
 On est fait pour ça 
 <br/> 
