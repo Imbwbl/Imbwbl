@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/534ba551b8877e79b34da7c9be172432d1284255">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/be1660d7cef29a792bc8dac48644e9cadc6d6602">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/364f4d34cc1a7764d53122b4fd213475.jpg" heigth='100%' align='left'/>
- Bar-Mitzvah 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5431ce1f401ca506508efcf6e42145d6.jpg" heigth='100%' align='left'/>
+ La danse du roro 
 <br/> 
-Bar-Mitzvah 
+En temps réel 
 <br/> 
-Heuss L'enfoiré
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" heigth='100%' align='left'/>
- R5 et Murcielago 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" heigth='100%' align='left'/>
+ Marseille City 
 <br/> 
-Alph Lauren 3 
+À l'instinct 
 <br/> 
-Alpha Wann
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2215fbcd80ee8968fda462068773ba24.png" heigth='100%' align='left'/>
- Maladie 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" heigth='100%' align='left'/>
+ Cap canaveral 
 <br/> 
-Maladie 
+On est fait pour ça 
 <br/> 
-Mauvais Djo
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
