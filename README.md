@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ea4bc7b60ff14050ce4309b389ce051c01ac0502">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/33f8efd60efa26f6abde22b800086b5a333f350c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 08 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9760af6db0ee5ef5736d7618d87e04e8.jpg" heigth='100%' align='left'/>
- Air Max 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" heigth='100%' align='left'/>
+ La kiffance 
 <br/> 
-Air Max 
+Les mains faites pour l'or 
 <br/> 
-Rim'K
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/91f9c7183903c5a4390401b421321e14.png" heigth='100%' align='left'/>
- Les Flammes 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" heigth='100%' align='left'/>
+ 6.3 
 <br/> 
-J.000.$ 
+Carré VIP 
 <br/> 
-Josman
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" heigth='100%' align='left'/>
- Life 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7a4e1700ae85d9910bbe59887a8c771.jpg" heigth='100%' align='left'/>
+ Someday 
 <br/> 
-1994 
+Is This It 
 <br/> 
-Hamza
+The Strokes
 </div>
 <br clear='all' /><br /> 
 </details>
