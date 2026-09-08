@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6f0bfa0f4dc92d4d1d0c52b5453456c19359ac22">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e2cb4d15a1901be34c3595aa3aa89ef9e905879d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 08 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" heigth='100%' align='left'/>
+ Favela 
+<br/> 
+À l'instinct 
+<br/> 
+Naps
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" heigth='100%' align='left'/>
+ 6 litres 3 
+<br/> 
+6 Litres 3 
+<br/> 
+Naps
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" heigth='100%' align='left'/>
- La kiffance 
+ Perquè 
 <br/> 
 Les mains faites pour l'or 
 <br/> 
 Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" heigth='100%' align='left'/>
- 6.3 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" heigth='100%' align='left'/>
+ En détente 
 <br/> 
-Carré VIP 
+On est fait pour ça 
 <br/> 
 Naps
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7a4e1700ae85d9910bbe59887a8c771.jpg" heigth='100%' align='left'/>
- Someday 
-<br/> 
-Is This It 
-<br/> 
-The Strokes
 </div>
 <br clear='all' /><br /> 
 </details>
