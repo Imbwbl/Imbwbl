@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0efbd0007fddf0f8b037077c384d1bb89f26f1e7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/82a59ce54fd129531e3c4abfe6cd01750f7d745f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fcfa70394887639bda38561dd469837c.jpg" heigth='100%' align='left'/>
- Je la connais 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" heigth='100%' align='left'/>
+ HAGOS 
 <br/> 
-Anarchie 
+BLISS 
 <br/> 
-SCH
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" heigth='100%' align='left'/>
- Tu connais les bails 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5cebf1f76dcc926ee308ffa6efd4fd2c.jpg" heigth='100%' align='left'/>
+ R.E.P. BIG POKEY 
 <br/> 
-Les mains faites pour l'or 
+CREAMLAND 
 <br/> 
-Naps
+Hologram Lo'
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/893290b8dace09f72ff2d17022e49670.jpg" heigth='100%' align='left'/>
- Maudit 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f1df7a900d6e991fa230b0be3a533151.jpg" heigth='100%' align='left'/>
+ Le bruit et le silence 
 <br/> 
-Pyramide 
+Des pieds et des mains 
 <br/> 
-WeRenoi
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ca2ceb85f36f4eb0829a269a42671b80.jpg" heigth='100%' align='left'/>
- Calumet 
-<br/> 
-Ma ruche 
-<br/> 
-Hornet La Frappe
+NES
 </div>
 <br clear='all' /><br /> 
 </details>
