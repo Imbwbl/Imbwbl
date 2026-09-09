@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d1020c2faa0378f44ea4273e6c74fa1337d7a478">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0efbd0007fddf0f8b037077c384d1bb89f26f1e7">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,36 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" heigth='100%' align='left'/>
- Vovo 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fcfa70394887639bda38561dd469837c.jpg" heigth='100%' align='left'/>
+ Je la connais 
 <br/> 
-On est fait pour ça 
+Anarchie 
+<br/> 
+SCH
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" heigth='100%' align='left'/>
+ Tu connais les bails 
+<br/> 
+Les mains faites pour l'or 
 <br/> 
 Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/632688982e7c04b2b993a6f2f9d3d808.jpg" heigth='100%' align='left'/>
- Bogota 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/893290b8dace09f72ff2d17022e49670.jpg" heigth='100%' align='left'/>
+ Maudit 
 <br/> 
-La TN (Team Naps) 
+Pyramide 
 <br/> 
-Naps
+WeRenoi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/10062f04f41152def6db33f10b45d5a7.jpg" heigth='100%' align='left'/>
- Pochon bleu 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ca2ceb85f36f4eb0829a269a42671b80.jpg" heigth='100%' align='left'/>
+ Calumet 
 <br/> 
-Pochon bleu 
+Ma ruche 
 <br/> 
-Naps
+Hornet La Frappe
 </div>
 <br clear='all' /><br /> 
 </details>
