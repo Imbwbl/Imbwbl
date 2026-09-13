@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/48eb32e9f8cad53f54df1f1e22d8e2b4f8a2755b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e2f4adae8917efa48b47f4fc886a318275637818">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" height='100%' align='left'/>
+ Sundance 
+<br/> 
+Adios Bahamas 
+<br/> 
+Népal
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e89ef16cf980b6990ebfaf05ee7d833.png" height='100%' align='left'/>
+ Babylone 
+<br/> 
+KKSHISENSE8 
+<br/> 
+Népal
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" height='100%' align='left'/>
- philly flingo 
+ soldat tue soldat 
 <br/> 
 don dada mixtape vol 1 
 <br/> 
 Alpha Wann
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" height='100%' align='left'/>
- Luc Besson 
-<br/> 
-Nouveau Produit 
-<br/> 
-So La Lune
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/00c9f678dbfd4a42230e2af633dafd07.jpg" height='100%' align='left'/>
- Say, Can You Hear 
-<br/> 
-Say, Can You Hear 
-<br/> 
-Men I Trust
 </div>
 <br clear='all' /><br /> 
 </details>
