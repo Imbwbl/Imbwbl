@@ -9,19 +9,19 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f076b113878a5367c5283fd9ed03c37fa56ae4fd">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d24f0f8cd793b2caa267c15a3591a56714e31e5b">Merge pull request #1 from Imbwbl/copilot/fix-build-github-actions-job</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 09 September 2026 by github-actions[bot]</h3>
+ <h3>Committed on 13 September 2026 by Théophile</h3>
+ </div>
+<div>
+ <h2><a href="https://github.com/bionimaux/.github/commit/b5e7cbd0c663d83340dbd0331ac9d6085ae4a70d">Create README.md with introductory content</a></h2>
+ <h3>Repo: .github</h3>
+ <h3>Committed on 09 September 2026 by Théophile</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/manifest/commit/833aa97416bfcd6ebd232f64dabc8bc84b97d2f6">✨ Add manifest fetching via wreq client</a></h2>
  <h3>Repo: manifest</h3>
  <h3>Committed on 09 June 2026 by Imbwbl</h3>
- </div>
-<div>
- <h2><a href="https://github.com/latifcodess/VXV-Vitrine/commit/de67338ce32011d6e2ded07d163613d87cf64421">feat: ajout des images de produits</a></h2>
- <h3>Repo: VXV-Vitrine</h3>
- <h3>Committed on 05 May 2026 by latifcodess</h3>
  </div>
 </div>
 </details>
@@ -32,20 +32,20 @@
     <summary><b> 📦 View My Latest Pushed Project</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href=https://github.com/Imbwbl/Imbwbl>Imbwbl</a></h2>
- <h3>Updated on 0</h3>
- <h3>stars: 1, forks: Rust</h3>
- <h3>language: 09 September 2026</h3>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
+ <h3>Updated on 13 September 2026</h3>
+ <h3>stars: 0, forks: 1</h3>
+ <h3>language: Rust</h3>
  </div><div>
- <h2><a href=https://github.com/Imbwbl/manifest>manifest</a></h2>
- <h3>Updated on 0</h3>
- <h3>stars: 0, forks: Rust</h3>
- <h3>language: 09 June 2026</h3>
+ <h2><a href="https://github.com/Imbwbl/manifest">manifest</a></h2>
+ <h3>Updated on 09 June 2026</h3>
+ <h3>stars: 0, forks: 0</h3>
+ <h3>language: Rust</h3>
  </div><div>
- <h2><a href=https://github.com/latifcodess/VXV-Vitrine>VXV-Vitrine</a></h2>
- <h3>Updated on 0</h3>
- <h3>stars: 0, forks: HTML</h3>
- <h3>language: 05 May 2026</h3>
+ <h2><a href="https://github.com/latifcodess/VXV-Vitrine">VXV-Vitrine</a></h2>
+ <h3>Updated on 05 May 2026</h3>
+ <h3>stars: 0, forks: 0</h3>
+ <h3>language: HTML</h3>
  </div></div>
 </details>
 
@@ -67,36 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/68520d2db8d3cf22a12ee6b4d4c37455.jpg" heigth='100%' align='left'/>
- moimême 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
+ Tout recommencer (feat. Tessa B) 
 <br/> 
-JeuneBeurDeLaFontaine (vol.2) 
+Mental 
 <br/> 
-Gal
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" heigth='100%' align='left'/>
- TJRS PLUS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
+ Malik Al Mawt 
 <br/> 
-FCK LABEL MACHINE 
+444 Nuits 
 <br/> 
-LeDouble
+Népal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c71dd836a560af210d89b314acb49cce.jpg" heigth='100%' align='left'/>
- Best-seller 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Prologue 
 <br/> 
-Best-seller 
+Prologue 
 <br/> 
-Surprise
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f09f1d33fd35f09e5a1cdc23de7bdba7.png" heigth='100%' align='left'/>
- Bigger splash 
-<br/> 
-Bigger splash 
-<br/> 
-Shien
+Lushe
 </div>
 <br clear='all' /><br /> 
 </details>
