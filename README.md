@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2336b7264ba8838612aff65d5606f5832a90c069">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/48eb32e9f8cad53f54df1f1e22d8e2b4f8a2755b">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8a3c4f3610c1ed38d4b5fabddc37ed7b.jpg" height='100%' align='left'/>
- Boys Don't Cry 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" height='100%' align='left'/>
+ philly flingo 
 <br/> 
-Three Imaginary Boys 
+don dada mixtape vol 1 
 <br/> 
-The Cure
+Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8c31fd884271a9dd3a59c068df05cfd0.jpg" height='100%' align='left'/>
- Goodbye Yellow Brick Road - Remastered 2014 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dd1770c6f0608c292b6cd8e25b1e3bee.jpg" height='100%' align='left'/>
+ Luc Besson 
 <br/> 
-Goodbye Yellow Brick Road (Remastered) 
+Nouveau Produit 
 <br/> 
-Elton John
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5e8b279da10957d060253256c8302f8f.png" height='100%' align='left'/>
- Back to Black 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/00c9f678dbfd4a42230e2af633dafd07.jpg" height='100%' align='left'/>
+ Say, Can You Hear 
 <br/> 
-Back to Black 
+Say, Can You Hear 
 <br/> 
-Amy Winehouse
+Men I Trust
 </div>
 <br clear='all' /><br /> 
 </details>
