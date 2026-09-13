@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2ca0f6850d384bc5feee86979089b0ca7f8a0366">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2336b7264ba8838612aff65d5606f5832a90c069">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
- Tout recommencer (feat. Tessa B) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8a3c4f3610c1ed38d4b5fabddc37ed7b.jpg" height='100%' align='left'/>
+ Boys Don't Cry 
 <br/> 
-Mental 
+Three Imaginary Boys 
 <br/> 
-PLK
+The Cure
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
- Malik Al Mawt 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8c31fd884271a9dd3a59c068df05cfd0.jpg" height='100%' align='left'/>
+ Goodbye Yellow Brick Road - Remastered 2014 
 <br/> 
-444 Nuits 
+Goodbye Yellow Brick Road (Remastered) 
 <br/> 
-Népal
+Elton John
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Prologue 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5e8b279da10957d060253256c8302f8f.png" height='100%' align='left'/>
+ Back to Black 
 <br/> 
-Prologue 
+Back to Black 
 <br/> 
-Lushe
+Amy Winehouse
 </div>
 <br clear='all' /><br /> 
 </details>
