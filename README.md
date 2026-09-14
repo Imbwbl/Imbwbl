@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/60100a6f921baa3964b46c8c2a88ac204b07a221">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1e19da1ea7b5595f0e2b39340ea6347746b4e4dd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04308c3bd557766c92f234521c02775e.png" height='100%' align='left'/>
- Paulise 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" height='100%' align='left'/>
+ Saint-Ouen 
 <br/> 
-Bruler Paris 
+Lola 
+<br/> 
+Romsii
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Août 2008 
+<br/> 
+L.U.J.I + P.E.K.A 
 <br/> 
 Lujipeka
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- PK TU M'AIMES¿ 
+ 3ANSDESUITE 
 <br/> 
-ÉTOILE FILANTE 
+3ANSDESUITE 
 <br/> 
-poissonchat
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f1df7a900d6e991fa230b0be3a533151.jpg" height='100%' align='left'/>
- Le bruit et le silence 
-<br/> 
-Des pieds et des mains 
-<br/> 
-NES
+WillyOD
 </div>
 <br clear='all' /><br /> 
 </details>
