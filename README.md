@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/76a981cff3687549694e6cde462aab07ff36a838">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/60100a6f921baa3964b46c8c2a88ac204b07a221">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/51a5eb547d2ba872e4a7a1ba199bbd77.jpg" height='100%' align='left'/>
- Sundance 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04308c3bd557766c92f234521c02775e.png" height='100%' align='left'/>
+ Paulise 
 <br/> 
-Adios Bahamas 
+Bruler Paris 
 <br/> 
-Népal
+Lujipeka
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e89ef16cf980b6990ebfaf05ee7d833.png" height='100%' align='left'/>
- Babylone 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ PK TU M'AIMES¿ 
 <br/> 
-KKSHISENSE8 
+ÉTOILE FILANTE 
 <br/> 
-Népal
+poissonchat
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" height='100%' align='left'/>
- soldat tue soldat 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f1df7a900d6e991fa230b0be3a533151.jpg" height='100%' align='left'/>
+ Le bruit et le silence 
 <br/> 
-don dada mixtape vol 1 
+Des pieds et des mains 
 <br/> 
-Alpha Wann
+NES
 </div>
 <br clear='all' /><br /> 
 </details>
