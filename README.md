@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9b8fd52c5e43490c9606903eaa6b765d87327677">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3859ed9803e62edae5faafa058f58ce4d1db964a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,12 +67,20 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/888b4ac7862cbc28904dca58b987ee8a.jpg" height='100%' align='left'/>
- That Joke Isn't Funny Anymore (Single Edit) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04308c3bd557766c92f234521c02775e.png" height='100%' align='left'/>
+ La clim 
 <br/> 
-Complete: Singles 
+Bruler Paris 
 <br/> 
-The Smiths
+Lujipeka
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/21e29fae850ac92468fa593793ed80f9.jpg" height='100%' align='left'/>
+ 2k17 
+<br/> 
+Alba 
+<br/> 
+Bekar
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" height='100%' align='left'/>
@@ -81,14 +89,6 @@ The Smiths
 Volim te 
 <br/> 
 55ASKY
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9b1d1d6238d4ab0e9f28946fa6c62f8d.jpg" height='100%' align='left'/>
- W4NTED PET4SSE 
-<br/> 
-MUSICINTHESTUD vol.1 
-<br/> 
-GU1T4R
 </div>
 <br clear='all' /><br /> 
 </details>
