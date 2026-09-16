@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3859ed9803e62edae5faafa058f58ce4d1db964a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3b55423651d53d1d8f490e82e71b770710f4ea9d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04308c3bd557766c92f234521c02775e.png" height='100%' align='left'/>
- La clim 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ ICY 
 <br/> 
-Bruler Paris 
+ICY 
+<br/> 
+Tom D.
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9208b32bdb0b3f859c232fa0ecceac97.jpg" height='100%' align='left'/>
+ B.M.S (by my side) 
+<br/> 
+B.M.S (by my side) 
+<br/> 
+Rambo goyard
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/82d6cefe38ba17690c760aa2fcbabdc6.jpg" height='100%' align='left'/>
+ Éclipse 
+<br/> 
+Montagnes Russes 
 <br/> 
 Lujipeka
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/21e29fae850ac92468fa593793ed80f9.jpg" height='100%' align='left'/>
- 2k17 
-<br/> 
-Alba 
-<br/> 
-Bekar
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/078c1fd5e351c0cc642c077a869e7af2.jpg" height='100%' align='left'/>
- Krush 
-<br/> 
-Volim te 
-<br/> 
-55ASKY
 </div>
 <br clear='all' /><br /> 
 </details>
