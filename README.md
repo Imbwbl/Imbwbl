@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3b55423651d53d1d8f490e82e71b770710f4ea9d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/21b9f73b027fd89fcc791b8eb2b7b9d7ee6c8b18">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 September 2026 by github-actions[bot]</h3>
  </div>
@@ -83,12 +83,12 @@ B.M.S (by my side)
 Rambo goyard
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/82d6cefe38ba17690c760aa2fcbabdc6.jpg" height='100%' align='left'/>
- Éclipse 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/43effa25aab2545dab64be187a867fbd.jpg" height='100%' align='left'/>
+ Life Goes On 
 <br/> 
-Montagnes Russes 
+Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe) 
 <br/> 
-Lujipeka
+Oliver Tree
 </div>
 <br clear='all' /><br /> 
 </details>
