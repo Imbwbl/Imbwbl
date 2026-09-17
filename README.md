@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f06a33b7146273b3ac204d2aa00880769fbea5b9">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0b721b58ad87190bd26fed3b6456f0b8d5ff5980">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ RAP RAFALE, Pt. 2 
+<br/> 
+FCK LABEL MACHINE 
+<br/> 
+LeDouble
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
  ICY 
 <br/> 
@@ -81,14 +89,6 @@ Tom D.
 B.M.S (by my side) 
 <br/> 
 Rambo goyard
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/43effa25aab2545dab64be187a867fbd.jpg" height='100%' align='left'/>
- Life Goes On 
-<br/> 
-Ugly is Beautiful: Shorter, Thicker & Uglier (Deluxe) 
-<br/> 
-Oliver Tree
 </div>
 <br clear='all' /><br /> 
 </details>
