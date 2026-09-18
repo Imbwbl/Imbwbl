@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/136888c58f5163e4196170f533efee327b952b38">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f59af85f521a68259b61be2eeacf6bbd931de95e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 17 September 2026 by github-actions[bot]</h3>
+ <h3>Committed on 18 September 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/bionimaux/.github/commit/b5e7cbd0c663d83340dbd0331ac9d6085ae4a70d">Create README.md with introductory content</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 17 September 2026</h3>
+ <h3>Updated on 18 September 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
- RAP RAFALE, Pt. 2 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ BLUES 
 <br/> 
-FCK LABEL MACHINE 
+BLUES 
 <br/> 
-LeDouble
+LUVBFK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" height='100%' align='left'/>
+ J'ai mal au mic - Remasterisé 
+<br/> 
+L'amour est mort (Remasterisé) 
+<br/> 
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- ICY 
+ FUCKDAPOLICE !!! 
 <br/> 
-ICY 
+1984 
 <br/> 
 Tom D.
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9208b32bdb0b3f859c232fa0ecceac97.jpg" height='100%' align='left'/>
- B.M.S (by my side) 
-<br/> 
-B.M.S (by my side) 
-<br/> 
-Rambo goyard
 </div>
 <br clear='all' /><br /> 
 </details>
