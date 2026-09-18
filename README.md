@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/873dbd15935d766df865bc8f7616c1d1323cffc8">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0d6ebce0be568162bc858a5447c07f8ee17447ac">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- BLUES 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bdb7e1991c26e486f4aecd715aa70d37.png" height='100%' align='left'/>
+ Effet mer 
 <br/> 
-BLUES 
+Plus fort que l'orage 
 <br/> 
-LUVBFK
+Bekar
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" height='100%' align='left'/>
- J'ai mal au mic - Remasterisé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ffa8cb927d1ed4620e7c0d22d0f9ab35.jpg" height='100%' align='left'/>
+ Do You Feel Me? 
 <br/> 
-L'amour est mort (Remasterisé) 
+Do You Feel Me? 
 <br/> 
-Oxmo Puccino
+Oliver Tree
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- FUCKDAPOLICE !!! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3133bcc8c03816212e0adb492eba0b51.jpg" height='100%' align='left'/>
+ Swing & A Miss 
 <br/> 
-1984 
+Cowboy Tears 
 <br/> 
-Tom D.
+Oliver Tree
 </div>
 <br clear='all' /><br /> 
 </details>
