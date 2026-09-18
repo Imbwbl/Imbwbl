@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0d6ebce0be568162bc858a5447c07f8ee17447ac">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3b73c7bafbcbc2e7a44478ed847b7646dea9e393">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bdb7e1991c26e486f4aecd715aa70d37.png" height='100%' align='left'/>
- Effet mer 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ LOUP D'MER 
 <br/> 
-Plus fort que l'orage 
+BLISS 
 <br/> 
-Bekar
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ffa8cb927d1ed4620e7c0d22d0f9ab35.jpg" height='100%' align='left'/>
- Do You Feel Me? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ ANTIOXYDANT 
 <br/> 
-Do You Feel Me? 
+BLISS 
 <br/> 
-Oliver Tree
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3133bcc8c03816212e0adb492eba0b51.jpg" height='100%' align='left'/>
- Swing & A Miss 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ RAP RAFALE, Pt. 2 
 <br/> 
-Cowboy Tears 
+FCK LABEL MACHINE 
 <br/> 
-Oliver Tree
+LeDouble
 </div>
 <br clear='all' /><br /> 
 </details>
