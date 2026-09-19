@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5926de581fc3b1d8413121c170741eb27a2cfbba">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d5040a03b1e1c67a6f4df2319b41c9ddbc0e7583">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 18 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" height='100%' align='left'/>
- Une pieuvre dans un seau 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ BLUES 
 <br/> 
-Une pieuvre dans un seau 
+BLUES 
 <br/> 
-Surprise
+LUVBFK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" height='100%' align='left'/>
+ J'ai mal au mic - Remasterisé 
+<br/> 
+L'amour est mort (Remasterisé) 
+<br/> 
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Rachel 
+ FUCKDAPOLICE !!! 
 <br/> 
-Rachel 
+1984 
 <br/> 
-Dayarga
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
- Oxmose 
-<br/> 
-444 Nuits 
-<br/> 
-Népal
+Tom D.
 </div>
 <br clear='all' /><br /> 
 </details>
