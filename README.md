@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/90573789162c069568a4ae91960c666b6769a92d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6099b86510d1c15d09319107638c3e5b41ccc1e8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" height='100%' align='left'/>
+ Δ. Dieu ne ment jamais 
+<br/> 
+Ipséité 
+<br/> 
+Damso
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/35e417acf1c0086c247bf91989acc9e0.jpg" height='100%' align='left'/>
+ Alpha 
+<br/> 
+j'ai menti. 
+<br/> 
+Damso
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c5c694d3e96dbe60ef085bd42f9efa2b.jpg" height='100%' align='left'/>
  Feu de bois 
 <br/> 
 Lithopédion 
 <br/> 
 Damso
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/893290b8dace09f72ff2d17022e49670.jpg" height='100%' align='left'/>
- Pyramide 
-<br/> 
-Pyramide 
-<br/> 
-WeRenoi
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" height='100%' align='left'/>
- Une pieuvre dans un seau 
-<br/> 
-Une pieuvre dans un seau 
-<br/> 
-Surprise
 </div>
 <br clear='all' /><br /> 
 </details>
