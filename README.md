@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c423d017d20c93173c551b442b7abc4de0dd554f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/854c3762417b3aedb6291ad97e881273aa049d54">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b835d59990741da2a6fb917543e5ac3d.jpg" height='100%' align='left'/>
- Love is blind 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c5c694d3e96dbe60ef085bd42f9efa2b.jpg" height='100%' align='left'/>
+ 60 Années 
 <br/> 
-BĒYĀH 
+Lithopédion 
 <br/> 
 Damso
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d42799f146aaf1815099318d4785e542.jpg" height='100%' align='left'/>
- TU ME RENDS BÊTE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/630b2243ee46c108381c4f03e1da1644.jpg" height='100%' align='left'/>
+ Graine de sablier 
 <br/> 
-LE NORD SE SOUVIENT : L'ODYSSÉE 
+Batterie Faible 
 <br/> 
-Gims
+Damso
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" height='100%' align='left'/>
- Γ. Mosaïque solitaire 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4587ce82b4a1106cdea7cefa3f93377.jpg" height='100%' align='left'/>
+ 911 
 <br/> 
-Ipséité 
+QALF infinity 
 <br/> 
 Damso
 </div>
