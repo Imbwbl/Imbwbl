@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/be358b5e6bfab62a878984082b44245c19cd763c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/90573789162c069568a4ae91960c666b6769a92d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6ca38cee456f85f0ba007bd0c61c493c.jpg" height='100%' align='left'/>
- Csardas 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c5c694d3e96dbe60ef085bd42f9efa2b.jpg" height='100%' align='left'/>
+ Feu de bois 
 <br/> 
-Traumerei: Romantic Violin Favourites 
+Lithopédion 
 <br/> 
-Vittorio Monti
+Damso
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/291b2ef5a4ab59757fdc3a817e55c79a.jpg" height='100%' align='left'/>
- Pistolet Rose 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/893290b8dace09f72ff2d17022e49670.jpg" height='100%' align='left'/>
+ Pyramide 
 <br/> 
-PPP 
+Pyramide 
 <br/> 
-Alpha Wann
+WeRenoi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" height='100%' align='left'/>
- L'Œil de la Joconde 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" height='100%' align='left'/>
+ Une pieuvre dans un seau 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+Une pieuvre dans un seau 
 <br/> 
-Josman
+Surprise
 </div>
 <br clear='all' /><br /> 
 </details>
