@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c2f85943bcb8f844de010044aa3a3aef9daf3fa4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8b433f97fe28c33c438876e6e41abf315d40735e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 19 September 2026 by github-actions[bot]</h3>
+ <h3>Committed on 20 September 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/bionimaux/.github/commit/b5e7cbd0c663d83340dbd0331ac9d6085ae4a70d">Create README.md with introductory content</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 19 September 2026</h3>
+ <h3>Updated on 20 September 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c5c694d3e96dbe60ef085bd42f9efa2b.jpg" height='100%' align='left'/>
- 60 Années 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4587ce82b4a1106cdea7cefa3f93377.jpg" height='100%' align='left'/>
+ Σ. MOROSE 
 <br/> 
-Lithopédion 
+QALF infinity 
 <br/> 
 Damso
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/630b2243ee46c108381c4f03e1da1644.jpg" height='100%' align='left'/>
- Graine de sablier 
+ Autotune 
 <br/> 
 Batterie Faible 
 <br/> 
 Damso
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4587ce82b4a1106cdea7cefa3f93377.jpg" height='100%' align='left'/>
- 911 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f3e5bd4de19e0346c296e7f241f130cb.jpg" height='100%' align='left'/>
+ Mwaka Moon 
 <br/> 
-QALF infinity 
+Mwaka Moon 
 <br/> 
-Damso
+Kalash
 </div>
 <br clear='all' /><br /> 
 </details>
