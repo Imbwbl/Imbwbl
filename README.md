@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8b433f97fe28c33c438876e6e41abf315d40735e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4a9aa8ed278fa2f966e70fd2dafa67c269778c36">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4587ce82b4a1106cdea7cefa3f93377.jpg" height='100%' align='left'/>
- Σ. MOROSE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" height='100%' align='left'/>
+ Medellín 
 <br/> 
-QALF infinity 
+Fissure de vie 
 <br/> 
-Damso
+So La Lune
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/630b2243ee46c108381c4f03e1da1644.jpg" height='100%' align='left'/>
- Autotune 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2e3321641151b733459b47aabe24edf4.jpg" height='100%' align='left'/>
+ Mains qui prient 
 <br/> 
-Batterie Faible 
+Hat Trick 
 <br/> 
-Damso
+JeanJass
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f3e5bd4de19e0346c296e7f241f130cb.jpg" height='100%' align='left'/>
- Mwaka Moon 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-Mwaka Moon 
+TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-Kalash
+poissonchat
 </div>
 <br clear='all' /><br /> 
 </details>
