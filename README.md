@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4a9aa8ed278fa2f966e70fd2dafa67c269778c36">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c144aa51aef2f61731e43fd7f772febf71195172">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,12 +67,12 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" height='100%' align='left'/>
- Medellín 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ le premier amour de mon premier amour 
 <br/> 
-Fissure de vie 
+le premier amour de mon premier amour 
 <br/> 
-So La Lune
+Morphée
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2e3321641151b733459b47aabe24edf4.jpg" height='100%' align='left'/>
