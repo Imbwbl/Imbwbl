@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1b34d3de8e80976b3d11ab07a2358bb7c95c0243">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/507c9d02f83355362b0156e6205c48818549a2fa">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9208b32bdb0b3f859c232fa0ecceac97.jpg" height='100%' align='left'/>
- B.M.S (by my side) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
+ Oxmose 
 <br/> 
-B.M.S (by my side) 
+444 Nuits 
 <br/> 
-Rambo goyard
+Népal
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ RAP RAFALE, Pt. 2 
+<br/> 
+FCK LABEL MACHINE 
+<br/> 
+LeDouble
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- le premier amour de mon premier amour 
+ ICY 
 <br/> 
-le premier amour de mon premier amour 
+ICY 
 <br/> 
-Morphée
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2e3321641151b733459b47aabe24edf4.jpg" height='100%' align='left'/>
- Mains qui prient 
-<br/> 
-Hat Trick 
-<br/> 
-JeanJass
+Tom D.
 </div>
 <br clear='all' /><br /> 
 </details>
