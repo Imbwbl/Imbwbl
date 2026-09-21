@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2db395c6729f8745555e314c83b0ff62818e5047">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c53c616e1865f7fdb6634c28eda071dca54a15b6">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9e2b03413f8fe9581a9cf940024ddc4c.jpg" height='100%' align='left'/>
- I THINK I'M LOST 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/389ea4fca44d8085aa33b7b1060f2aed.png" height='100%' align='left'/>
+ Lovely 
 <br/> 
-STELE (3ème Partie) 
+lovely 
 <br/> 
-Gemen
+1NONLY
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/68df8668c4ea8e7569fb16d73487804c.png" height='100%' align='left'/>
- 10 balles 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e0854100f090ca9affe62bdd04d51aa9.gif" height='100%' align='left'/>
+ 1000 Blunts 
 <br/> 
-200 
+Sing Me A Lullaby, My Sweet Temptation 
 <br/> 
-abel31
+$uicideboy$
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9b1d1d6238d4ab0e9f28946fa6c62f8d.jpg" height='100%' align='left'/>
- L!PST!CK 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Vendetta 
 <br/> 
-MUSICINTHESTUD vol.1 
+Vendetta 
 <br/> 
-GU1T4R
+KA$$IU$
 </div>
 <br clear='all' /><br /> 
 </details>
