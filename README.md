@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ccbf1e5fbe0c48c8ee923ef554c08c5ca71eb48b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fbe654c195898e6f4f545c5e2a8c08a781d81068">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/96e5a3431c0be2278ccd689674557c11.jpg" height='100%' align='left'/>
- Gogo Monster 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/49ab58c04a2a1d4c2f8719f0214898ea.jpg" height='100%' align='left'/>
+ Temps électrique 
 <br/> 
-shelf 
+Enfants terribles 
 <br/> 
-Luther
+Columbine
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" height='100%' align='left'/>
- J'AIME BIEN! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" height='100%' align='left'/>
+ Stupéfiant et noir 
 <br/> 
-J.O.$ 
+UNE MAIN LAVE L'AUTRE 
 <br/> 
-Josman
+Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" height='100%' align='left'/>
- Life 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
+ Rien D'spécial 
 <br/> 
-1994 
+444 Nuits 
 <br/> 
-Hamza
+Népal
 </div>
 <br clear='all' /><br /> 
 </details>
