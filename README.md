@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fbe654c195898e6f4f545c5e2a8c08a781d81068">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dce3b2aca2e2e0296c9157387efbc969aa393759">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/49ab58c04a2a1d4c2f8719f0214898ea.jpg" height='100%' align='left'/>
- Temps électrique 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ RAP RAFALE, Pt. 2 
 <br/> 
-Enfants terribles 
+FCK LABEL MACHINE 
 <br/> 
-Columbine
+LeDouble
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" height='100%' align='left'/>
- Stupéfiant et noir 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ ICY 
 <br/> 
-UNE MAIN LAVE L'AUTRE 
+ICY 
 <br/> 
-Alpha Wann
+Tom D.
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
- Rien D'spécial 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9208b32bdb0b3f859c232fa0ecceac97.jpg" height='100%' align='left'/>
+ B.M.S (by my side) 
 <br/> 
-444 Nuits 
+B.M.S (by my side) 
 <br/> 
-Népal
+Rambo goyard
 </div>
 <br clear='all' /><br /> 
 </details>
