@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c53c616e1865f7fdb6634c28eda071dca54a15b6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c0b16d8461ee00057701abfce0b5817cd0498717">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/389ea4fca44d8085aa33b7b1060f2aed.png" height='100%' align='left'/>
- Lovely 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" height='100%' align='left'/>
+ LA PLAIE 
 <br/> 
-lovely 
+J.O.$ 
 <br/> 
-1NONLY
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e0854100f090ca9affe62bdd04d51aa9.gif" height='100%' align='left'/>
- 1000 Blunts 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/938396fa726724e8e285f5c19a740526.jpg" height='100%' align='left'/>
+ UTOPISTE 
 <br/> 
-Sing Me A Lullaby, My Sweet Temptation 
+Le monde qui me tombe sur la tête 
 <br/> 
-$uicideboy$
+Selug
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Vendetta 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/476b921aaa3307aaabc719d91d8df18a.jpg" height='100%' align='left'/>
+ Un mec bien 
 <br/> 
-Vendetta 
+Un mec bien 
 <br/> 
-KA$$IU$
+el bobby
 </div>
 <br clear='all' /><br /> 
 </details>
