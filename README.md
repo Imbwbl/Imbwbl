@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8c0ba904ec2c55fc20131e9252254c5aa884ee3a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/955bb4379d82e8c84ac56643f8d2763e60ed5052">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" height='100%' align='left'/>
- CE SOIR J'ACHÈTERAI UN FLASH 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
+ 444 Nuits 
 <br/> 
-J.O.$ 
+444 Nuits 
 <br/> 
-Josman
+Népal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6d1bbdd0045801b8ea8e1cf7b94d3a6a.jpg" height='100%' align='left'/>
- Cinq heures du matin 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff31ea9ca751521e644562c40a770f50.jpg" height='100%' align='left'/>
+ Saturn City 
 <br/> 
-Nuit 
+Bushi 1.5 
 <br/> 
-Jazzy Bazz
+Bu$hi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/512fb4260c0c3090b1cd8dbb7b230865.png" height='100%' align='left'/>
- Le Hasard Ou la Chance - Colors Version 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a2e34d4e9aa2117e17c3e1d41527daba.jpg" height='100%' align='left'/>
+ Maladresse 
 <br/> 
-Le Hasard Ou la Chance (Colors Version) 
+.RAW-Z 
 <br/> 
-Sopico
+Laylow
 </div>
 <br clear='all' /><br /> 
 </details>
