@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/14fefc4983fa620046670ae83ebf3421d99f9726">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8c0ba904ec2c55fc20131e9252254c5aa884ee3a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2290a1b481acd0504acca2c2626abbda.jpg" height='100%' align='left'/>
- Liège, Liège 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" height='100%' align='left'/>
+ CE SOIR J'ACHÈTERAI UN FLASH 
 <br/> 
-Delta Plane 
+J.O.$ 
 <br/> 
-Le Dé
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4c9b5f6afe179f7c5c00045d7106d37a.jpg" height='100%' align='left'/>
- Bateau ivre 
-<br/> 
-Adieu, au revoir 
-<br/> 
-Columbine
+Josman
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6d1bbdd0045801b8ea8e1cf7b94d3a6a.jpg" height='100%' align='left'/>
- Crépuscule 
+ Cinq heures du matin 
 <br/> 
 Nuit 
 <br/> 
 Jazzy Bazz
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/512fb4260c0c3090b1cd8dbb7b230865.png" height='100%' align='left'/>
+ Le Hasard Ou la Chance - Colors Version 
+<br/> 
+Le Hasard Ou la Chance (Colors Version) 
+<br/> 
+Sopico
 </div>
 <br clear='all' /><br /> 
 </details>
