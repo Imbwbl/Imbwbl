@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/955bb4379d82e8c84ac56643f8d2763e60ed5052">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/09a4a2d02ea65873cb9748b44986f3538b2c7e3f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
- 444 Nuits 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" height='100%' align='left'/>
+ CASCADE - Remix 
 <br/> 
-444 Nuits 
+UNE MAIN LAVE L'AUTRE 
 <br/> 
-Népal
+Alpha Wann
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff31ea9ca751521e644562c40a770f50.jpg" height='100%' align='left'/>
- Saturn City 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1b72a0f5292a4a63f7dd1047077a21a7.jpg" height='100%' align='left'/>
+ Garçon 
 <br/> 
-Bushi 1.5 
+Magazine 
 <br/> 
-Bu$hi
+Dalí
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a2e34d4e9aa2117e17c3e1d41527daba.jpg" height='100%' align='left'/>
- Maladresse 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/be1fd6afecd9f37dacc82591a81fd355.jpg" height='100%' align='left'/>
+ Bart Simpson 
 <br/> 
-.RAW-Z 
+Adieu bientôt 
 <br/> 
-Laylow
+Columbine
 </div>
 <br clear='all' /><br /> 
 </details>
