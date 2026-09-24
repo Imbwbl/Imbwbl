@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Théophile</h1>
-    <p><i>Building with TypeScript, Rust, and HTML</i></p>
+    <p><i>Building with Rust, TypeScript, and HTML</i></p>
 </div>
 
 <br />
@@ -9,14 +9,14 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0205cd70e16b2ba6cb2327857d7b078a921f609e">:memo: update README.md</a></h2>
+ <h3>Repo: Imbwbl</h3>
+ <h3>Committed on 24 September 2026 by github-actions[bot]</h3>
+ </div>
+<div>
  <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/3cd4941a2380cc4d65e274832e793292c6cc57ef">prefinal</a></h2>
  <h3>Repo: orepmi_web</h3>
  <h3>Committed on 24 September 2026 by Borodkin Oleksandr Stepanovych</h3>
- </div>
-<div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4045379d7345cf722420a5163cc48ec2b8ace5ad">:memo: update README.md</a></h2>
- <h3>Repo: Imbwbl</h3>
- <h3>Committed on 24 September 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/bionimaux/.github/commit/b5e7cbd0c663d83340dbd0331ac9d6085ae4a70d">Create README.md with introductory content</a></h2>
@@ -32,15 +32,15 @@
     <summary><b> 📦 View My Latest Pushed Project</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/SachaBorodkin/orepmi_web">orepmi_web</a></h2>
- <h3>Updated on 24 September 2026</h3>
- <h3>stars: 0, forks: 0</h3>
- <h3>language: TypeScript</h3>
- </div><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
  <h3>Updated on 24 September 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
+ </div><div>
+ <h2><a href="https://github.com/SachaBorodkin/orepmi_web">orepmi_web</a></h2>
+ <h3>Updated on 24 September 2026</h3>
+ <h3>stars: 0, forks: 0</h3>
+ <h3>language: TypeScript</h3>
  </div><div>
  <h2><a href="https://github.com/Imbwbl/manifest">manifest</a></h2>
  <h3>Updated on 09 June 2026</h3>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2c9e7319fe05fe654807e0a02362b57d.jpg" height='100%' align='left'/>
- CASCADE - Remix 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/893290b8dace09f72ff2d17022e49670.jpg" height='100%' align='left'/>
+ Pyramide 
 <br/> 
-UNE MAIN LAVE L'AUTRE 
+Pyramide 
 <br/> 
-Alpha Wann
+WeRenoi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1b72a0f5292a4a63f7dd1047077a21a7.jpg" height='100%' align='left'/>
- Garçon 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" height='100%' align='left'/>
+ XS 
 <br/> 
-Magazine 
+J.O.$ 
 <br/> 
-Dalí
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/be1fd6afecd9f37dacc82591a81fd355.jpg" height='100%' align='left'/>
- Bart Simpson 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
+ Demain 
 <br/> 
-Adieu bientôt 
+2069' 
 <br/> 
-Columbine
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
