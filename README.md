@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Théophile</h1>
-    <p><i>Building with Rust, TypeScript, and HTML</i></p>
+    <p><i>Building with JavaScript, HTML, and Rust</i></p>
 </div>
 
 <br />
@@ -9,19 +9,19 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8bd77e9c9e06cae6db1d8c9de3ef397c84057463">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/minesweeper/commit/74382b31aa4f0300ba4d47ec5b5218f20cf66674">Add GitHub Actions workflow for Azure deployment</a></h2>
+ <h3>Repo: minesweeper</h3>
+ <h3>Committed on 25 September 2026 by Théophile</h3>
+ </div>
+<div>
+ <h2><a href="https://github.com/Imbwbl/plaje-site/commit/78a8e842976d6c5c252a328f7dafba727a694b7f">ci: add Azure Static Web Apps workflow file</a></h2>
+ <h3>Repo: plaje-site</h3>
+ <h3>Committed on 25 September 2026 by Théophile</h3>
+ </div>
+<div>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/51151b32d0190a4138a6d8569883c9e2f880cacc">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 25 September 2026 by github-actions[bot]</h3>
- </div>
-<div>
- <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/3cd4941a2380cc4d65e274832e793292c6cc57ef">prefinal</a></h2>
- <h3>Repo: orepmi_web</h3>
- <h3>Committed on 24 September 2026 by Borodkin Oleksandr Stepanovych</h3>
- </div>
-<div>
- <h2><a href="https://github.com/bionimaux/.github/commit/b5e7cbd0c663d83340dbd0331ac9d6085ae4a70d">Create README.md with introductory content</a></h2>
- <h3>Repo: .github</h3>
- <h3>Committed on 09 September 2026 by Théophile</h3>
  </div>
 </div>
 </details>
@@ -32,19 +32,19 @@
     <summary><b> 📦 View My Latest Pushed Project</b></summary>
     <br />
     <div align="center"><div>
+ <h2><a href="https://github.com/Imbwbl/minesweeper">minesweeper</a></h2>
+ <h3>Updated on 25 September 2026</h3>
+ <h3>stars: 2, forks: 0</h3>
+ <h3>language: JavaScript</h3>
+ </div><div>
+ <h2><a href="https://github.com/Imbwbl/plaje-site">plaje-site</a></h2>
+ <h3>Updated on 25 September 2026</h3>
+ <h3>stars: 0, forks: 0</h3>
+ <h3>language: HTML</h3>
+ </div><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
  <h3>Updated on 25 September 2026</h3>
  <h3>stars: 0, forks: 1</h3>
- <h3>language: Rust</h3>
- </div><div>
- <h2><a href="https://github.com/SachaBorodkin/orepmi_web">orepmi_web</a></h2>
- <h3>Updated on 24 September 2026</h3>
- <h3>stars: 0, forks: 0</h3>
- <h3>language: TypeScript</h3>
- </div><div>
- <h2><a href="https://github.com/Imbwbl/manifest">manifest</a></h2>
- <h3>Updated on 09 June 2026</h3>
- <h3>stars: 0, forks: 0</h3>
  <h3>language: Rust</h3>
  </div></div>
 </details>
