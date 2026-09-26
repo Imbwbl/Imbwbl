@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/55cfe3de4edcc55b601c492a6aec955cf22d3b93">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b52fed8501647690d3b9ccbe9a826e43301e0edb">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" height='100%' align='left'/>
- tarif groupé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f6a0582c019fe89432df4333de5c333.jpg" height='100%' align='left'/>
+ coupe gorge 
 <br/> 
-REPLICA 2 
-<br/> 
-Hologram Lo'
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" height='100%' align='left'/>
- LE CHEMIN 
-<br/> 
-JUNGLE DES ILLUSIONS VOL 2 
-<br/> 
-Jungle Jack
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- ANTIOXYDANT 
-<br/> 
-BLISS 
+Rougemort 
 <br/> 
 Mairo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ TJRS PLUS 
+<br/> 
+FCK LABEL MACHINE 
+<br/> 
+LeDouble
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/13f2a7df546fbbc21320e3eb39f2bc9b.jpg" height='100%' align='left'/>
+ SUR LE SKi 
+<br/> 
+LE BRUIT DE LA MACHINE À BILLETS 
+<br/> 
+Huntrill
 </div>
 <br clear='all' /><br /> 
 </details>
