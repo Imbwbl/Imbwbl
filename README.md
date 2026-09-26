@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2c3e76082a6088555af397df12799679c7762034">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/55cfe3de4edcc55b601c492a6aec955cf22d3b93">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/227df4aa098d11d132ba40a5eccefc1a.jpg" height='100%' align='left'/>
- LA FIN DE L'HISTOIRE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" height='100%' align='left'/>
+ tarif groupé 
 <br/> 
-LA FIN DE L'HISTOIRE 
+REPLICA 2 
 <br/> 
-Moji x Sboy
+Hologram Lo'
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" height='100%' align='left'/>
- MOONROCK 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" height='100%' align='left'/>
+ LE CHEMIN 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) [Bonus] 
+JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
-Josman
+Jungle Jack
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
- Pelo 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ ANTIOXYDANT 
 <br/> 
-2069' 
+BLISS 
 <br/> 
-PLK
+Mairo
 </div>
 <br clear='all' /><br /> 
 </details>
