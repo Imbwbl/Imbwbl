@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a517acdd5b0e0430d93ef9e1f244967914522e0f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/048565ade2e571f8e9a7e78000b6fcc9a395982f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- ALBA BISTRO FREESTYLE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/408fe123568b077b9ad74f7d579529a5.jpg" height='100%' align='left'/>
+ Cocaïne Rose 
 <br/> 
-BLISS 
+ZushiBoyz Vol.2 
+<br/> 
+Caballero & JeanJass
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
+ merci bonne journée 
+<br/> 
+omar chappier 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3d693a2072e6823af74d0477689e7787.jpg" height='100%' align='left'/>
- TRISTESSE QUI COÛTE CHÈRE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ OCARINA THEME 
 <br/> 
-REPLICA 2 
+FCK LABEL MACHINE 
 <br/> 
-Hologram Lo'
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" height='100%' align='left'/>
- XX FILES 
-<br/> 
-JUNGLE DES ILLUSIONS VOL 2 
-<br/> 
-Jungle Jack
+LeDouble
 </div>
 <br clear='all' /><br /> 
 </details>
