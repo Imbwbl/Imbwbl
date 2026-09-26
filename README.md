@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c8fcc2bd5cf43a3628eacd5a9861a0bf248bc002">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/916d70a17da352e35b30c96e66d50e2f49ed6692">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 25 September 2026 by github-actions[bot]</h3>
  </div>
@@ -66,5 +66,29 @@
 <details>
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
-    
+    <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/227df4aa098d11d132ba40a5eccefc1a.jpg" height='100%' align='left'/>
+ LA FIN DE L'HISTOIRE 
+<br/> 
+LA FIN DE L'HISTOIRE 
+<br/> 
+Moji x Sboy
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4100100dd952f23041be5ba8defb854e.jpg" height='100%' align='left'/>
+ MOONROCK 
+<br/> 
+M.A.N (Black Roses & Lost Feelings) [Bonus] 
+<br/> 
+Josman
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
+ Pelo 
+<br/> 
+2069' 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> 
 </details>
