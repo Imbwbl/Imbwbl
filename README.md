@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1fd3255fdae4c3d3f703efa9fec5e81127c47ea8">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a4eefeb406479c1c2f50e4187fed67b4b101c0c5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/408fe123568b077b9ad74f7d579529a5.jpg" height='100%' align='left'/>
- Cocaïne Rose 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a090988dbf7984aecb7c0196d19810f2.jpg" height='100%' align='left'/>
+ Vrais 
 <br/> 
-ZushiBoyz Vol.2 
+M.I.L.S 2.0 
 <br/> 
-Caballero & JeanJass
+Ninho
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
- merci bonne journée 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" height='100%' align='left'/>
+ déconnecté 
 <br/> 
-omar chappier 
+baiser 
 <br/> 
-Mairo
+Wallace Cleaver
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
- OCARINA THEME 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
+ Suga Suga 
 <br/> 
-FCK LABEL MACHINE 
+444 Nuits 
 <br/> 
-LeDouble
+Népal
 </div>
 <br clear='all' /><br /> 
 </details>
