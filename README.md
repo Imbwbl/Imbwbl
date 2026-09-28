@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f708882b301b27bfdf4161cc22f5d43d4af52cb1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f6b1eb23eb5f9434843516e60f12c9beddb3b8fe">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 28 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- VIDY PLAGE 
-<br/> 
-VIDY PLAGE 
-<br/> 
-poissonchat
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/956f2e5e22c5679b3c89bc8fa5b145e6.jpg" height='100%' align='left'/>
- Histoire sans fin 
-<br/> 
-Histoire sans fin 
-<br/> 
-BEN plg
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04308c3bd557766c92f234521c02775e.png" height='100%' align='left'/>
  Saut périlleux 
 <br/> 
 Bruler Paris 
 <br/> 
 Lujipeka
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Peur de la mort - Veridis Project Remix 
+<br/> 
+Peur de la mort (Veridis Project Remix) 
+<br/> 
+Bu$hi
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ VIDY PLAGE 
+<br/> 
+VIDY PLAGE 
+<br/> 
+poissonchat
 </div>
 <br clear='all' /><br /> 
 </details>
