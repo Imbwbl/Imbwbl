@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9981c4b8879aa3d717a7c3006ffadf52ee990391">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f708882b301b27bfdf4161cc22f5d43d4af52cb1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 27 September 2026 by github-actions[bot]</h3>
+ <h3>Committed on 28 September 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/6c8fe09844600132b0c585691bc587f05050b697">ajout de connexion via google</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 27 September 2026</h3>
+ <h3>Updated on 28 September 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a090988dbf7984aecb7c0196d19810f2.jpg" height='100%' align='left'/>
- Vrais 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ VIDY PLAGE 
 <br/> 
-M.I.L.S 2.0 
+VIDY PLAGE 
 <br/> 
-Ninho
+poissonchat
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" height='100%' align='left'/>
- déconnecté 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/956f2e5e22c5679b3c89bc8fa5b145e6.jpg" height='100%' align='left'/>
+ Histoire sans fin 
 <br/> 
-baiser 
+Histoire sans fin 
 <br/> 
-Wallace Cleaver
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
- Suga Suga 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04308c3bd557766c92f234521c02775e.png" height='100%' align='left'/>
+ Saut périlleux 
 <br/> 
-444 Nuits 
+Bruler Paris 
 <br/> 
-Népal
+Lujipeka
 </div>
 <br clear='all' /><br /> 
 </details>
