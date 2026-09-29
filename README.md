@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/983223fd39950016f24c275b17d2c40a8870a08d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2d63ac493eb5a74e6cb8d26755cbb1373a6ec133">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 29 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Wemby 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Rachel 
 <br/> 
-Grand Garçon 
+Rachel 
 <br/> 
-PLK
+Dayarga
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Wemby 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
+ Oxmose 
 <br/> 
-Grand Garçon 
+444 Nuits 
 <br/> 
-PLK
+Népal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/352cf2a16173c420d004c5a8b05cb0ac.jpg" height='100%' align='left'/>
- Trucs sentimentaux 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ RAP RAFALE, Pt. 2 
 <br/> 
-Trucs sentimentaux 
+FCK LABEL MACHINE 
 <br/> 
-BEN plg
+LeDouble
 </div>
 <br clear='all' /><br /> 
 </details>
