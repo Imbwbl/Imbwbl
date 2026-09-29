@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3888b31e828d0c073183e2f5769efab09d3f3497">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/28ddf5345c37eb3bdc990628a3d0c358174ad7d7">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 28 September 2026 by github-actions[bot]</h3>
+ <h3>Committed on 29 September 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/6c8fe09844600132b0c585691bc587f05050b697">ajout de connexion via google</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 28 September 2026</h3>
+ <h3>Updated on 29 September 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
- 6.3 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Wemby 
 <br/> 
-Carré VIP 
+Grand Garçon 
 <br/> 
-Naps
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a25cf03ef7d7f8b4c60e1fd47a0dd8e9.png" height='100%' align='left'/>
- de rien pour la douceur 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Wemby 
 <br/> 
-baiser 
+Grand Garçon 
 <br/> 
-Wallace Cleaver
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/21e29fae850ac92468fa593793ed80f9.jpg" height='100%' align='left'/>
- 400 pas 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/352cf2a16173c420d004c5a8b05cb0ac.jpg" height='100%' align='left'/>
+ Trucs sentimentaux 
 <br/> 
-Alba 
+Trucs sentimentaux 
 <br/> 
-Bekar
+BEN plg
 </div>
 <br clear='all' /><br /> 
 </details>
