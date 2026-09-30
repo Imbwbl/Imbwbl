@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b33f3862bfc2c769de65204b69048aff6d3cdc69">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d6edaba76edcd2308f7919af763045b814110213">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/632688982e7c04b2b993a6f2f9d3d808.jpg" height='100%' align='left'/>
- Bogota 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/10062f04f41152def6db33f10b45d5a7.jpg" height='100%' align='left'/>
+ 4 anneaux 
 <br/> 
-La TN (Team Naps) 
-<br/> 
-Naps
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
- Favela 
-<br/> 
-À l'instinct 
+Pochon bleu 
 <br/> 
 Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" height='100%' align='left'/>
- La danse des bandits 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
+ Ca fait du bien 
 <br/> 
-Les mains faites pour l'or 
+On est fait pour ça 
+<br/> 
+Naps
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ab842df50491ad1ff841e01d9ccabc58.jpg" height='100%' align='left'/>
+ Chicha kaloud 
+<br/> 
+Best Life 
 <br/> 
 Naps
 </div>
