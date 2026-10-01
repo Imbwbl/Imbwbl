@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Théophile</h1>
-    <p><i>Building with Rust, TypeScript, and JavaScript</i></p>
+    <p><i>Building with TypeScript, Rust, and JavaScript</i></p>
 </div>
 
 <br />
@@ -9,14 +9,14 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ac031cd1fb1d0bb9bb8261fc68181490072f4b97">:memo: update README.md</a></h2>
- <h3>Repo: Imbwbl</h3>
- <h3>Committed on 01 October 2026 by github-actions[bot]</h3>
+ <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/f41466e86cd0d4cf3916252ebd45b0f077e54b08">ajiut des assets</a></h2>
+ <h3>Repo: orepmi_web</h3>
+ <h3>Committed on 01 October 2026 by Borodkin Oleksandr Stepanovych</h3>
  </div>
 <div>
- <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/6c8fe09844600132b0c585691bc587f05050b697">ajout de connexion via google</a></h2>
- <h3>Repo: orepmi_web</h3>
- <h3>Committed on 25 September 2026 by Borodkin Oleksandr Stepanovych</h3>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/335d6ae45ed1f6b4317441b65dea037ac15b2e59">:memo: update README.md</a></h2>
+ <h3>Repo: Imbwbl</h3>
+ <h3>Committed on 01 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/minesweeper/commit/74382b31aa4f0300ba4d47ec5b5218f20cf66674">Add GitHub Actions workflow for Azure deployment</a></h2>
@@ -32,15 +32,15 @@
     <summary><b> 📦 View My Latest Pushed Project</b></summary>
     <br />
     <div align="center"><div>
+ <h2><a href="https://github.com/SachaBorodkin/orepmi_web">orepmi_web</a></h2>
+ <h3>Updated on 01 October 2026</h3>
+ <h3>stars: 0, forks: 0</h3>
+ <h3>language: TypeScript</h3>
+ </div><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
  <h3>Updated on 01 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
- </div><div>
- <h2><a href="https://github.com/SachaBorodkin/orepmi_web">orepmi_web</a></h2>
- <h3>Updated on 25 September 2026</h3>
- <h3>stars: 0, forks: 0</h3>
- <h3>language: TypeScript</h3>
  </div><div>
  <h2><a href="https://github.com/Imbwbl/minesweeper">minesweeper</a></h2>
  <h3>Updated on 25 September 2026</h3>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bdb7e1991c26e486f4aecd715aa70d37.png" height='100%' align='left'/>
- Effet mer 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f85241b0034ba738170904a0307e7c8c.jpg" height='100%' align='left'/>
+ Последняя Любовь 
 <br/> 
-Plus fort que l'orage 
+Последняя любовь 
 <br/> 
-Bekar
+Morgenshtern
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- le premier amour de mon premier amour 
+ riche l'enfant 
 <br/> 
-le premier amour de mon premier amour 
+riche l'enfant 
 <br/> 
-Morphée
+Gal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/476b921aaa3307aaabc719d91d8df18a.jpg" height='100%' align='left'/>
- Un mec bien 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ RAP RAFALE, Pt. 2 
 <br/> 
-Un mec bien 
+FCK LABEL MACHINE 
 <br/> 
-el bobby
+LeDouble
 </div>
 <br clear='all' /><br /> 
 </details>
