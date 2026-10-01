@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/89f8fbb463d3353beb14c96d98d429bdafb0d146">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5065dbc89c93182cbc986924dc39bd918acdf3c5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 September 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bdb7e1991c26e486f4aecd715aa70d37.png" height='100%' align='left'/>
+ Effet mer 
+<br/> 
+Plus fort que l'orage 
+<br/> 
+Bekar
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
  le premier amour de mon premier amour 
 <br/> 
@@ -75,20 +83,12 @@ le premier amour de mon premier amour
 Morphée
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
- Sans toi 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/476b921aaa3307aaabc719d91d8df18a.jpg" height='100%' align='left'/>
+ Un mec bien 
 <br/> 
-Carré VIP 
+Un mec bien 
 <br/> 
-Naps
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" height='100%' align='left'/>
- La danse des bandits 
-<br/> 
-Les mains faites pour l'or 
-<br/> 
-Naps
+el bobby
 </div>
 <br clear='all' /><br /> 
 </details>
