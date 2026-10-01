@@ -9,12 +9,12 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/f41466e86cd0d4cf3916252ebd45b0f077e54b08">ajiut des assets</a></h2>
+ <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/2b28df7b95122c219084c23f1d43bc59db2a6a8a">ajout des routes</a></h2>
  <h3>Repo: orepmi_web</h3>
  <h3>Committed on 01 October 2026 by Borodkin Oleksandr Stepanovych</h3>
  </div>
 <div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/335d6ae45ed1f6b4317441b65dea037ac15b2e59">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/23ce2a57ae767446abac674e9f9c49d2ce3432e1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 October 2026 by github-actions[bot]</h3>
  </div>
