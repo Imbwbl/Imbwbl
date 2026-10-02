@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ccd6da68ab270b7c525906fc455a1f4a6bf15391">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a3b3d59ab182357e7e9ab5aab9576c84c098d6d8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 02 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/632688982e7c04b2b993a6f2f9d3d808.jpg" height='100%' align='left'/>
- Vamos 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ RAP RAFALE, Pt. 2 
 <br/> 
-La TN (Team Naps) 
+FCK LABEL MACHINE 
 <br/> 
-Naps
+LeDouble
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/10062f04f41152def6db33f10b45d5a7.jpg" height='100%' align='left'/>
- T-Shirt croco 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ LOUP D'MER 
 <br/> 
-Pochon bleu 
+BLISS 
 <br/> 
-Naps
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
- Où ça ? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/96e5a3431c0be2278ccd689674557c11.jpg" height='100%' align='left'/>
+ Gogo Monster 
 <br/> 
-On est fait pour ça 
+shelf 
 <br/> 
-Naps
+Luther
 </div>
 <br clear='all' /><br /> 
 </details>
