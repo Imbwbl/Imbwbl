@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b9e165d5a2f4d80067c6a33736fb05cabcaad3f9">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1babaf39659f29038b978133677ef2cc6a2194f2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 04 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f6a0582c019fe89432df4333de5c333.jpg" height='100%' align='left'/>
- coupe gorge 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5c63683da81115b1ad565e92666a5fcf.jpg" height='100%' align='left'/>
+ Point d'interrogation 
 <br/> 
-Rougemort 
+Feu 
 <br/> 
-Mairo
+Nekfeu
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dbbc252bcb92b4757a8114a64c86cbee.jpg" height='100%' align='left'/>
- Gambinos 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d20dc8b187a64a03aef1fa3b8f89a6ec.jpg" height='100%' align='left'/>
+ 64 Mesures de Spleen 
 <br/> 
-ZushiBoyz Vol.1 
+Sur la Route du 3.14 
 <br/> 
-Caballero & JeanJass
+Jazzy Bazz
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- HAGOS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bb79dde762de3dc3e1ea8f3cca6dc74f.png" height='100%' align='left'/>
+ Cléopâtre 
 <br/> 
-BLISS 
+Cléopâtre 
 <br/> 
 Mairo
 </div>
