@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f4952df5cd53bd40cd1381b3fc5f942310449b13">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b9e165d5a2f4d80067c6a33736fb05cabcaad3f9">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 04 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
- RAP RAFALE, Pt. 2 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f6a0582c019fe89432df4333de5c333.jpg" height='100%' align='left'/>
+ coupe gorge 
 <br/> 
-FCK LABEL MACHINE 
-<br/> 
-LeDouble
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- LOUP D'MER 
-<br/> 
-BLISS 
+Rougemort 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/96e5a3431c0be2278ccd689674557c11.jpg" height='100%' align='left'/>
- Gogo Monster 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dbbc252bcb92b4757a8114a64c86cbee.jpg" height='100%' align='left'/>
+ Gambinos 
 <br/> 
-shelf 
+ZushiBoyz Vol.1 
 <br/> 
-Luther
+Caballero & JeanJass
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ HAGOS 
+<br/> 
+BLISS 
+<br/> 
+Mairo
 </div>
 <br clear='all' /><br /> 
 </details>
