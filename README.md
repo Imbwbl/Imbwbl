@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0e7646f94a81d2ee23d38c902f8a15d6d30dc8dc">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ceb67c8dd9a5b2066e5523c2883308ccaa551fbe">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 05 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5c63683da81115b1ad565e92666a5fcf.jpg" height='100%' align='left'/>
- Point d'interrogation 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
+ Qui peut le nier ! - Remasterisé 
 <br/> 
-Feu 
+Opéra Puccino (Edition Collector) 
 <br/> 
-Nekfeu
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d20dc8b187a64a03aef1fa3b8f89a6ec.jpg" height='100%' align='left'/>
- 64 Mesures de Spleen 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/69d69ab3bfcca374fb63ac7825a64fe5.jpg" height='100%' align='left'/>
+ C'est donc ça nos vies 
 <br/> 
-Sur la Route du 3.14 
+L'école du micro d'argent (Edition Collector) 
 <br/> 
-Jazzy Bazz
+IAM
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bb79dde762de3dc3e1ea8f3cca6dc74f.png" height='100%' align='left'/>
- Cléopâtre 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" height='100%' align='left'/>
+ Autour de moi 
 <br/> 
-Cléopâtre 
+Tant qu'on est là 
 <br/> 
-Mairo
+Hugo TSR
 </div>
 <br clear='all' /><br /> 
 </details>
