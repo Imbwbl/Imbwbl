@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e40cf4b1d6a174eabebedcb7cd9e26da368ee7a3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/77756c7dbfe7da78d225f91c9a0d7040e92cbe6f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 06 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" height='100%' align='left'/>
- Là-haut 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3019961274852efe3364634b078578db.jpg" height='100%' align='left'/>
+ REPOSADO 
 <br/> 
-Tant qu'on est là 
+REPOSADO 
 <br/> 
-Hugo TSR
+yvnnis
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a2e34d4e9aa2117e17c3e1d41527daba.jpg" height='100%' align='left'/>
- Maladresse 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04348e4f19bfba06bfefc75641a1b4e5.jpg" height='100%' align='left'/>
+ M.A.I.R 
 <br/> 
-.RAW-Z 
+M.A.I.R 
 <br/> 
-Laylow
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" height='100%' align='left'/>
- Petite Bulle 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ce7e3fc4255f49c07338f04ba6ccf693.jpg" height='100%' align='left'/>
+ Trafics locaux 
 <br/> 
-Split 
+Bitume Caviar (vol.2) 
 <br/> 
-Josman
+Isha
 </div>
 <br clear='all' /><br /> 
 </details>
