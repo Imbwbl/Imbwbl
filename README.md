@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f3d826c21c0bbb27ad8fa4e4cdbb8e343ca45765">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c546de4890b712803d1b8aa129130d6c38db60e6">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 05 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 06 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/8da605340960b421997ecbbb2cbfe857165f20a6">ajout des notifications</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 05 October 2026</h3>
+ <h3>Updated on 06 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2e1fe0576d82858fb7d4c20dc340b0a6.jpg" height='100%' align='left'/>
- Pas du même monde (feat. Bigflo & Oli) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e4b8e34e30f4b08aa13a0bd800539f6.jpg" height='100%' align='left'/>
+ A quoi ça rime ? 
 <br/> 
-Renard 
+A quoi ça rime ? 
 <br/> 
-Guizmo
+TSR Crew
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b5ae318e28d0b6e094d4bbd9024fba3d.jpg" height='100%' align='left'/>
- Plaisirs tristes 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/065776ae06714e6e8a5bc10657523115.jpg" height='100%' align='left'/>
+ Point de départ 
 <br/> 
-Une vie et quelques 
+Fenêtre sur rue 
 <br/> 
 Hugo TSR
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
- Amour et jalousie - Remasterisé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae6423fadc2cda82920e69207eb2a218.jpg" height='100%' align='left'/>
+ Petit frère 
 <br/> 
-Opéra Puccino (Edition Collector) 
+L'école Du Micro D'argent 
 <br/> 
-Oxmo Puccino
+IAM
 </div>
 <br clear='all' /><br /> 
 </details>
