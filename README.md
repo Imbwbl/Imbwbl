@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ceb67c8dd9a5b2066e5523c2883308ccaa551fbe">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f3d826c21c0bbb27ad8fa4e4cdbb8e343ca45765">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 05 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2e1fe0576d82858fb7d4c20dc340b0a6.jpg" height='100%' align='left'/>
+ Pas du même monde (feat. Bigflo & Oli) 
+<br/> 
+Renard 
+<br/> 
+Guizmo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b5ae318e28d0b6e094d4bbd9024fba3d.jpg" height='100%' align='left'/>
+ Plaisirs tristes 
+<br/> 
+Une vie et quelques 
+<br/> 
+Hugo TSR
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
- Qui peut le nier ! - Remasterisé 
+ Amour et jalousie - Remasterisé 
 <br/> 
 Opéra Puccino (Edition Collector) 
 <br/> 
 Oxmo Puccino
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/69d69ab3bfcca374fb63ac7825a64fe5.jpg" height='100%' align='left'/>
- C'est donc ça nos vies 
-<br/> 
-L'école du micro d'argent (Edition Collector) 
-<br/> 
-IAM
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" height='100%' align='left'/>
- Autour de moi 
-<br/> 
-Tant qu'on est là 
-<br/> 
-Hugo TSR
 </div>
 <br clear='all' /><br /> 
 </details>
