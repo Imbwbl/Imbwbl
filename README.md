@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dffc39518f7b9ee31994994830809e1e7a478aa5">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c4a668c1be68f45f3e111663eccb2b84689663d0">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
- Sans toi 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ HOMARD BLEU 
 <br/> 
-Carré VIP 
+HOMARD BLEU 
 <br/> 
-Naps
+Zek
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/476b921aaa3307aaabc719d91d8df18a.jpg" height='100%' align='left'/>
- Un mec bien 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ ERA 
 <br/> 
-Un mec bien 
+BLISS 
 <br/> 
-el bobby
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
- Sans toi 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2290a1b481acd0504acca2c2626abbda.jpg" height='100%' align='left'/>
+ Espace temps 
 <br/> 
-Carré VIP 
+Delta Plane 
 <br/> 
-Naps
+Le Dé
 </div>
 <br clear='all' /><br /> 
 </details>
