@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/568919d6690961d4830e7e7541df31fcf8ca3e06">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dffc39518f7b9ee31994994830809e1e7a478aa5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff18c3c08f0e1c85d62eeee24d1154e9.jpg" height='100%' align='left'/>
- If Only 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
+ Sans toi 
 <br/> 
-Submarine 
+Carré VIP 
 <br/> 
-The Marías
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b93a2a08b3b83a28c47c7a90647405ed.jpg" height='100%' align='left'/>
- Outrow 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/476b921aaa3307aaabc719d91d8df18a.jpg" height='100%' align='left'/>
+ Un mec bien 
 <br/> 
-Chaos Kiss 
+Un mec bien 
 <br/> 
-Makala
+el bobby
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acb36aaf19af99887b823c8263525db9.jpg" height='100%' align='left'/>
- Possédé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
+ Sans toi 
 <br/> 
-XEU 
+Carré VIP 
 <br/> 
-Vald
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
