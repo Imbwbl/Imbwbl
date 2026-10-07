@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/eec439cc6a094931a8e5eeb9f4d64a53b8a90e5f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/568919d6690961d4830e7e7541df31fcf8ca3e06">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 06 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 07 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/8da605340960b421997ecbbb2cbfe857165f20a6">ajout des notifications</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 06 October 2026</h3>
+ <h3>Updated on 07 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3019961274852efe3364634b078578db.jpg" height='100%' align='left'/>
- REPOSADO 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff18c3c08f0e1c85d62eeee24d1154e9.jpg" height='100%' align='left'/>
+ If Only 
 <br/> 
-REPOSADO 
+Submarine 
 <br/> 
-yvnnis
+The Marías
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04348e4f19bfba06bfefc75641a1b4e5.jpg" height='100%' align='left'/>
- M.A.I.R 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b93a2a08b3b83a28c47c7a90647405ed.jpg" height='100%' align='left'/>
+ Outrow 
 <br/> 
-M.A.I.R 
+Chaos Kiss 
 <br/> 
-Mairo
+Makala
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ce7e3fc4255f49c07338f04ba6ccf693.jpg" height='100%' align='left'/>
- Trafics locaux 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acb36aaf19af99887b823c8263525db9.jpg" height='100%' align='left'/>
+ Possédé 
 <br/> 
-Bitume Caviar (vol.2) 
+XEU 
 <br/> 
-Isha
+Vald
 </div>
 <br clear='all' /><br /> 
 </details>
