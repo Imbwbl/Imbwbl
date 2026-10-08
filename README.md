@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d1760f90c253cb0ccd922d52d3dccd4268d5a2d4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b6b413d3eb116a3e1e9ea9df818f698286628bf1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 07 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 08 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/8da605340960b421997ecbbb2cbfe857165f20a6">ajout des notifications</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 07 October 2026</h3>
+ <h3>Updated on 08 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- HOMARD BLEU 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f6a0582c019fe89432df4333de5c333.jpg" height='100%' align='left'/>
+ coupe gorge 
 <br/> 
-HOMARD BLEU 
-<br/> 
-Zek
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- ERA 
-<br/> 
-BLISS 
+Rougemort 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2290a1b481acd0504acca2c2626abbda.jpg" height='100%' align='left'/>
- Espace temps 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b976d6ad527ee180cf385f6fcda56fee.jpg" height='100%' align='left'/>
+ VONGOLE 
 <br/> 
-Delta Plane 
+Grünt #71 
 <br/> 
-Le Dé
+JeanJass
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ LOUP D'MER 
+<br/> 
+BLISS 
+<br/> 
+Mairo
 </div>
 <br clear='all' /><br /> 
 </details>
