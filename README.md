@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/469ee7d72adbdf76b318b5b8de291ffffc9919e2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d9ed5e20f0399a4a15316c61753241bae5bafc43">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 08 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/13f2a7df546fbbc21320e3eb39f2bc9b.jpg" height='100%' align='left'/>
- SUR LE SKi 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ LOUP D'MER 
 <br/> 
-LE BRUIT DE LA MACHINE À BILLETS 
-<br/> 
-Huntrill
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
- merci bonne journée 
-<br/> 
-omar chappier 
+BLISS 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" height='100%' align='left'/>
- 2018 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" height='100%' align='left'/>
+ VUE IMPRENABLE SUR LA JUNGLE 
 <br/> 
-Une pieuvre dans un seau 
+JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
-Surprise
+Jungle Jack
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dbbc252bcb92b4757a8114a64c86cbee.jpg" height='100%' align='left'/>
+ Gambinos 
+<br/> 
+ZushiBoyz Vol.1 
+<br/> 
+Caballero & JeanJass
 </div>
 <br clear='all' /><br /> 
 </details>
