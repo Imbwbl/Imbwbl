@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b6b413d3eb116a3e1e9ea9df818f698286628bf1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/469ee7d72adbdf76b318b5b8de291ffffc9919e2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 08 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f6a0582c019fe89432df4333de5c333.jpg" height='100%' align='left'/>
- coupe gorge 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/13f2a7df546fbbc21320e3eb39f2bc9b.jpg" height='100%' align='left'/>
+ SUR LE SKi 
 <br/> 
-Rougemort 
+LE BRUIT DE LA MACHINE À BILLETS 
+<br/> 
+Huntrill
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
+ merci bonne journée 
+<br/> 
+omar chappier 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b976d6ad527ee180cf385f6fcda56fee.jpg" height='100%' align='left'/>
- VONGOLE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" height='100%' align='left'/>
+ 2018 
 <br/> 
-Grünt #71 
+Une pieuvre dans un seau 
 <br/> 
-JeanJass
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- LOUP D'MER 
-<br/> 
-BLISS 
-<br/> 
-Mairo
+Surprise
 </div>
 <br clear='all' /><br /> 
 </details>
