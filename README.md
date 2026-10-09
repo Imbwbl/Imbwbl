@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Théophile</h1>
-    <p><i>Building with Rust, TypeScript, and JavaScript</i></p>
+    <p><i>Building with TypeScript, Rust, and JavaScript</i></p>
 </div>
 
 <br />
@@ -9,7 +9,12 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0c38504e2c508fbd2925e8b48c4da0f176b8ee55">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
+ <h3>Repo: ita-web</h3>
+ <h3>Committed on 09 October 2026 by Théophile</h3>
+ </div>
+<div>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ba808bc826e87b3ce1963ea0d21032241d75596e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 October 2026 by github-actions[bot]</h3>
  </div>
@@ -17,11 +22,6 @@
  <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/8da605340960b421997ecbbb2cbfe857165f20a6">ajout des notifications</a></h2>
  <h3>Repo: orepmi_web</h3>
  <h3>Committed on 02 October 2026 by Borodkin Oleksandr Stepanovych</h3>
- </div>
-<div>
- <h2><a href="https://github.com/Imbwbl/minesweeper/commit/74382b31aa4f0300ba4d47ec5b5218f20cf66674">Add GitHub Actions workflow for Azure deployment</a></h2>
- <h3>Repo: minesweeper</h3>
- <h3>Committed on 25 September 2026 by Théophile</h3>
  </div>
 </div>
 </details>
@@ -32,6 +32,11 @@
     <summary><b> 📦 View My Latest Pushed Project</b></summary>
     <br />
     <div align="center"><div>
+ <h2><a href="https://github.com/Imbwbl/ita-web">ita-web</a></h2>
+ <h3>Updated on 09 October 2026</h3>
+ <h3>stars: 0, forks: 0</h3>
+ <h3>language: TypeScript</h3>
+ </div><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
  <h3>Updated on 09 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
@@ -41,11 +46,6 @@
  <h3>Updated on 02 October 2026</h3>
  <h3>stars: 0, forks: 0</h3>
  <h3>language: TypeScript</h3>
- </div><div>
- <h2><a href="https://github.com/Imbwbl/minesweeper">minesweeper</a></h2>
- <h3>Updated on 25 September 2026</h3>
- <h3>stars: 2, forks: 3</h3>
- <h3>language: JavaScript</h3>
  </div></div>
 </details>
 
