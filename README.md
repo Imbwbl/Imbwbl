@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ce0174382a3579943f9dd26de2146a54dfd0e715">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fb456445437648b3743131d13777344d2cb5a2c2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Août 2008 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
+ Don't Speak 
 <br/> 
-L.U.J.I + P.E.K.A 
+Tragic Kingdom 
 <br/> 
-Lujipeka
+No Doubt
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1d456d254de198635d16620a7ecb1c78.jpg" height='100%' align='left'/>
- Topless 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2dad0579f6e98d76be9211f8c56221b8.jpg" height='100%' align='left'/>
+ Ready or Not 
 <br/> 
-Topless 
+The Score (Expanded Edition) 
 <br/> 
-Stanislas
+Fugees
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- South Anomaly 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/28229f48f77f2c5f648055c3b6273099.jpg" height='100%' align='left'/>
+ So Fresh, So Clean 
 <br/> 
-South Anomaly 
+Stankonia 
 <br/> 
-Fresh ADN
+OutKast
 </div>
 <br clear='all' /><br /> 
 </details>
