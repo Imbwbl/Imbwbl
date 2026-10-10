@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fb456445437648b3743131d13777344d2cb5a2c2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/23420cdcf763a92958fc2f40afd2dc8010ba9d71">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 October 2026 by github-actions[bot]</h3>
  </div>
@@ -68,27 +68,27 @@
     <br />
     <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Don't Speak 
+ Just a Girl 
 <br/> 
 Tragic Kingdom 
 <br/> 
 No Doubt
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2dad0579f6e98d76be9211f8c56221b8.jpg" height='100%' align='left'/>
- Ready or Not 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dbbc252bcb92b4757a8114a64c86cbee.jpg" height='100%' align='left'/>
+ Gambinos 
 <br/> 
-The Score (Expanded Edition) 
+ZushiBoyz Vol.1 
 <br/> 
-Fugees
+Caballero & JeanJass
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/28229f48f77f2c5f648055c3b6273099.jpg" height='100%' align='left'/>
- So Fresh, So Clean 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
+ Don't Speak 
 <br/> 
-Stankonia 
+Tragic Kingdom 
 <br/> 
-OutKast
+No Doubt
 </div>
 <br clear='all' /><br /> 
 </details>
