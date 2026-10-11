@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/30fbfbeca4d14a798fced4794b547ae92791d840">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ef5b394331aa1b1d4d9d8fc0433c9eb4e3e0d395">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,24 +67,24 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/77637bc1ad24780825d2d851efe70c4d.jpg" height='100%' align='left'/>
- Ça suffit pas 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae6423fadc2cda82920e69207eb2a218.jpg" height='100%' align='left'/>
+ Nés sous la même étoile 
 <br/> 
-Bitume Caviar (vol.2) 
+L'école Du Micro D'argent 
 <br/> 
-Isha
+IAM
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/22483a3da51b4671d94aab7195b77300.jpg" height='100%' align='left'/>
- OG SAN 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b5ae318e28d0b6e094d4bbd9024fba3d.jpg" height='100%' align='left'/>
+ Périmètre 
 <br/> 
-CERCLE VERTUEUX 
+Une vie et quelques 
 <br/> 
-Deen Burbigo
+Hugo TSR
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/33d8d0fa37811f73c0162e030715504f.jpg" height='100%' align='left'/>
- LA DÉCOUVERTE DU FEU 
+ VEGAPUNK 
 <br/> 
 JUNGLE DES ILLUSIONS VOL 1 
 <br/> 
