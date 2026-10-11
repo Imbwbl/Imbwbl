@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/36c8f9d7bf4b06a8ecf06c17d72684cc81e5d00c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d3fc00deb5d5248fd475b0b9a2c99ef1359e4299">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/36d5df035fddbb9be8cd5d22d098bdb9.jpg" height='100%' align='left'/>
- Instanonymat #3 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ le premier amour de mon premier amour 
 <br/> 
-Instanonymat #3 
+le premier amour de mon premier amour 
 <br/> 
-Saïf
+Morphée
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1a90a34887f761fc6eca61832a92d275.png" height='100%' align='left'/>
- La bohème. 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/476b921aaa3307aaabc719d91d8df18a.jpg" height='100%' align='left'/>
+ Un mec bien 
 <br/> 
-La bohème. 
+Un mec bien 
 <br/> 
-Saïf
+el bobby
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/737ee2a4a218fa9ae35df6e11a8203c1.png" height='100%' align='left'/>
- Si vous saviez 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
+ Sans toi 
 <br/> 
-Si vous saviez 
+Carré VIP 
 <br/> 
-Saïf
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
