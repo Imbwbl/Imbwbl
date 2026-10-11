@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/23420cdcf763a92958fc2f40afd2dc8010ba9d71">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/83510c4f49d1437efd2763fdf8eb7fabfd7cdf52">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Just a Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
+ L'enfant seul - Remasterisé 
 <br/> 
-Tragic Kingdom 
+Opéra Puccino (Edition Collector) 
 <br/> 
-No Doubt
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dbbc252bcb92b4757a8114a64c86cbee.jpg" height='100%' align='left'/>
- Gambinos 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6a9741b9a53f4664a1c905fcf1e7ae07.jpg" height='100%' align='left'/>
+ Noyé dans mes rêves 
 <br/> 
-ZushiBoyz Vol.1 
+Amicalement vôtre 
 <br/> 
-Caballero & JeanJass
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Don't Speak 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" height='100%' align='left'/>
+ Champagne violet 
 <br/> 
-Tragic Kingdom 
+Cognacs & Cigarettes 
 <br/> 
-No Doubt
+Jungle Jack
 </div>
 <br clear='all' /><br /> 
 </details>
