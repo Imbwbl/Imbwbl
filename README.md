@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ef5b394331aa1b1d4d9d8fc0433c9eb4e3e0d395">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/36c8f9d7bf4b06a8ecf06c17d72684cc81e5d00c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae6423fadc2cda82920e69207eb2a218.jpg" height='100%' align='left'/>
- Nés sous la même étoile 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/36d5df035fddbb9be8cd5d22d098bdb9.jpg" height='100%' align='left'/>
+ Instanonymat #3 
 <br/> 
-L'école Du Micro D'argent 
+Instanonymat #3 
 <br/> 
-IAM
+Saïf
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b5ae318e28d0b6e094d4bbd9024fba3d.jpg" height='100%' align='left'/>
- Périmètre 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1a90a34887f761fc6eca61832a92d275.png" height='100%' align='left'/>
+ La bohème. 
 <br/> 
-Une vie et quelques 
+La bohème. 
 <br/> 
-Hugo TSR
+Saïf
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/33d8d0fa37811f73c0162e030715504f.jpg" height='100%' align='left'/>
- VEGAPUNK 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/737ee2a4a218fa9ae35df6e11a8203c1.png" height='100%' align='left'/>
+ Si vous saviez 
 <br/> 
-JUNGLE DES ILLUSIONS VOL 1 
+Si vous saviez 
 <br/> 
-Jungle Jack
+Saïf
 </div>
 <br clear='all' /><br /> 
 </details>
