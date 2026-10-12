@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fd15cc6af9af58521e9db10d2547947050566839">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c48fc15257433f2c6bfd656a4d387e732a0bf52a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 12 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Just a Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ RAP RAFALE, Pt. 2 
 <br/> 
-Tragic Kingdom 
+FCK LABEL MACHINE 
 <br/> 
-No Doubt
+LeDouble
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c538604a1661c8ab0398668501f68b7b.jpg" height='100%' align='left'/>
- Oscillo 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ ICY 
 <br/> 
-Fidel 
+ICY 
 <br/> 
-Gen
+Tom D.
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
- nouvelle écriture 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9208b32bdb0b3f859c232fa0ecceac97.jpg" height='100%' align='left'/>
+ B.M.S (by my side) 
 <br/> 
-omar chappier 
+B.M.S (by my side) 
 <br/> 
-Mairo
+Rambo goyard
 </div>
 <br clear='all' /><br /> 
 </details>
