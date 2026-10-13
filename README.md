@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/323e48e72a01b9cb2011efbb662c058a89bae5d3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/62f6db02d92d13425ce81617a6a8889f9e925f55">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" height='100%' align='left'/>
- J'ai mal au mic - Remasterisé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/00c9f678dbfd4a42230e2af633dafd07.jpg" height='100%' align='left'/>
+ Say, Can You Hear 
 <br/> 
-L'amour est mort (Remasterisé) 
+Say, Can You Hear 
 <br/> 
-Oxmo Puccino
+Men I Trust
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- FUCKDAPOLICE !!! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e150fa362c89b8f1d92d883ae828b7ef.jpg" height='100%' align='left'/>
+ ARE WE STILL FRIENDS? 
 <br/> 
-1984 
+IGOR 
 <br/> 
-Tom D.
+Tyler, The Creator
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
- Demain 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0fd4ea33ee02465cc66904460ee8e91d.png" height='100%' align='left'/>
+ My Kind of Woman 
 <br/> 
-2069' 
+2 
 <br/> 
-PLK
+Mac DeMarco
 </div>
 <br clear='all' /><br /> 
 </details>
