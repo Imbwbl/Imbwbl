@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0efe3d3839bc21a099e19da4e17ba19d32f67d8e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/323e48e72a01b9cb2011efbb662c058a89bae5d3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f8b6341f4cfa9650a8649b8f4a953ec7.jpg" height='100%' align='left'/>
- Roi - Instrumental 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" height='100%' align='left'/>
+ J'ai mal au mic - Remasterisé 
 <br/> 
-Roi 
+L'amour est mort (Remasterisé) 
 <br/> 
-Mckyyy
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/06ed8e48842dd12fedd4e006c27d5cae.jpg" height='100%' align='left'/>
- Waltz No. 19 in A minor, Op. posth. 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ FUCKDAPOLICE !!! 
 <br/> 
-Chopin: Waltzes, Etc. 
+1984 
 <br/> 
-Frédéric Chopin
+Tom D.
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/490f5bcde33a4d5eb4c894330ab14089.png" height='100%' align='left'/>
- Bach: Toccata and Fugue in D Minor (Single Edit) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
+ Demain 
 <br/> 
-The Best Of Vanessa-Mae 
+2069' 
 <br/> 
-Johann Sebastian Bach
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
