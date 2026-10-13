@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1860e9c056bf2a98bba7ad68198e895e46a53478">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0efe3d3839bc21a099e19da4e17ba19d32f67d8e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 12 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 13 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 12 October 2026</h3>
+ <h3>Updated on 13 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5cebf1f76dcc926ee308ffa6efd4fd2c.jpg" height='100%' align='left'/>
- LA GRANDE ÉVASION 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f8b6341f4cfa9650a8649b8f4a953ec7.jpg" height='100%' align='left'/>
+ Roi - Instrumental 
 <br/> 
-CREAMLAND 
+Roi 
 <br/> 
-Hologram Lo'
+Mckyyy
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- no escape 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/06ed8e48842dd12fedd4e006c27d5cae.jpg" height='100%' align='left'/>
+ Waltz No. 19 in A minor, Op. posth. 
 <br/> 
-no escape 
+Chopin: Waltzes, Etc. 
 <br/> 
-axaero
+Frédéric Chopin
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff18c3c08f0e1c85d62eeee24d1154e9.jpg" height='100%' align='left'/>
- If Only 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/490f5bcde33a4d5eb4c894330ab14089.png" height='100%' align='left'/>
+ Bach: Toccata and Fugue in D Minor (Single Edit) 
 <br/> 
-Submarine 
+The Best Of Vanessa-Mae 
 <br/> 
-The Marías
+Johann Sebastian Bach
 </div>
 <br clear='all' /><br /> 
 </details>
