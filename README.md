@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f71c370a8817fd6b3be4d37025422e39f3dade4f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ddf224cef33382f44cac4bdcc3cf31568dbfad16">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 13 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 14 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/mlemiam/Vanillatmosphere/commit/df2fc88bf0d7519d7dd0cd82e48ebe3057891ad9">Update README.md</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 13 October 2026</h3>
+ <h3>Updated on 14 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/00c9f678dbfd4a42230e2af633dafd07.jpg" height='100%' align='left'/>
- Say, Can You Hear 
-<br/> 
-Say, Can You Hear 
-<br/> 
-Men I Trust
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e150fa362c89b8f1d92d883ae828b7ef.jpg" height='100%' align='left'/>
- ARE WE STILL FRIENDS? 
-<br/> 
-IGOR 
-<br/> 
-Tyler, The Creator
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0fd4ea33ee02465cc66904460ee8e91d.png" height='100%' align='left'/>
  My Kind of Woman 
 <br/> 
 2 
+<br/> 
+Mac DeMarco
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/28ffd87a1e554022c0065398979894c4.png" height='100%' align='left'/>
+ Chamber of Reflection 
+<br/> 
+Salad Days 
+<br/> 
+Mac DeMarco
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b6cc7efcf8c694136846f0b3af0b7984.jpg" height='100%' align='left'/>
+ For the First Time 
+<br/> 
+This Old Dog 
 <br/> 
 Mac DeMarco
 </div>
