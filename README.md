@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/73a3439a25d2f08c89ac28d27f6fed7c652667cb">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0308b04eec1fbd810b4fb69c717ed59f50d707e5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Don't Speak 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Sex Model 
 <br/> 
-Tragic Kingdom 
+Grand Garçon 
 <br/> 
-No Doubt
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Just a Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Pocahontas 
 <br/> 
-Tragic Kingdom 
+Grand Garçon 
 <br/> 
-No Doubt
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" height='100%' align='left'/>
- L'Œil de la Joconde 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff68e8e91e9e0fe5674bc7931e7dd7ff.jpg" height='100%' align='left'/>
+ Astrid 
 <br/> 
-M.A.N (Black Roses & Lost Feelings) 
+Astrid 
 <br/> 
-Josman
+JRK 19
 </div>
 <br clear='all' /><br /> 
 </details>
