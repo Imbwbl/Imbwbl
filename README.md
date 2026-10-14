@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ddf224cef33382f44cac4bdcc3cf31568dbfad16">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/73a3439a25d2f08c89ac28d27f6fed7c652667cb">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0fd4ea33ee02465cc66904460ee8e91d.png" height='100%' align='left'/>
- My Kind of Woman 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
+ Don't Speak 
 <br/> 
-2 
+Tragic Kingdom 
 <br/> 
-Mac DeMarco
+No Doubt
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/28ffd87a1e554022c0065398979894c4.png" height='100%' align='left'/>
- Chamber of Reflection 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
+ Just a Girl 
 <br/> 
-Salad Days 
+Tragic Kingdom 
 <br/> 
-Mac DeMarco
+No Doubt
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b6cc7efcf8c694136846f0b3af0b7984.jpg" height='100%' align='left'/>
- For the First Time 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9694554c130b0acdb931e45dc83dab01.jpg" height='100%' align='left'/>
+ L'Œil de la Joconde 
 <br/> 
-This Old Dog 
+M.A.N (Black Roses & Lost Feelings) 
 <br/> 
-Mac DeMarco
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
