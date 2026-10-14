@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Théophile</h1>
-    <p><i>Building with Python, Rust, and TypeScript</i></p>
+    <p><i>Building with Rust, Python, and TypeScript</i></p>
 </div>
 
 <br />
@@ -9,14 +9,14 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f71c370a8817fd6b3be4d37025422e39f3dade4f">:memo: update README.md</a></h2>
+ <h3>Repo: Imbwbl</h3>
+ <h3>Committed on 13 October 2026 by github-actions[bot]</h3>
+ </div>
+<div>
  <h2><a href="https://github.com/mlemiam/Vanillatmosphere/commit/df2fc88bf0d7519d7dd0cd82e48ebe3057891ad9">Update README.md</a></h2>
  <h3>Repo: Vanillatmosphere</h3>
  <h3>Committed on 13 October 2026 by mleb</h3>
- </div>
-<div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b89a4d67e28ebd3496f55cb0b3c2cd074001fba1">:memo: update README.md</a></h2>
- <h3>Repo: Imbwbl</h3>
- <h3>Committed on 13 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -32,15 +32,15 @@
     <summary><b> 📦 View My Latest Pushed Project</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/mlemiam/Vanillatmosphere">Vanillatmosphere</a></h2>
- <h3>Updated on 13 October 2026</h3>
- <h3>stars: 40, forks: 3</h3>
- <h3>language: Python</h3>
- </div><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
  <h3>Updated on 13 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
+ </div><div>
+ <h2><a href="https://github.com/mlemiam/Vanillatmosphere">Vanillatmosphere</a></h2>
+ <h3>Updated on 13 October 2026</h3>
+ <h3>stars: 40, forks: 3</h3>
+ <h3>language: Python</h3>
  </div><div>
  <h2><a href="https://github.com/Imbwbl/ita-web">ita-web</a></h2>
  <h3>Updated on 09 October 2026</h3>
