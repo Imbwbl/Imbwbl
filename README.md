@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e0784383ea2b7ac72359c1e7f93fa2798a028d2a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4fc78147f6a9b844c2d3d021056a688e5127bb61">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 14 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 15 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/mlemiam/Vanillatmosphere/commit/df2fc88bf0d7519d7dd0cd82e48ebe3057891ad9">Update README.md</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 14 October 2026</h3>
+ <h3>Updated on 15 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ff68e8e91e9e0fe5674bc7931e7dd7ff.jpg" height='100%' align='left'/>
+ Astrid 
+<br/> 
+Astrid 
+<br/> 
+JRK 19
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" height='100%' align='left'/>
+ Quand tout s'enflamme 
+<br/> 
+Années Sauvages 
+<br/> 
+Georgio
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
- Bunkoeur 
+ Polak 
 <br/> 
 Polak 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8921460ed7c31b1c0581719c9e1bf6a8.jpg" height='100%' align='left'/>
- Périph 
-<br/> 
-Chambre 140 (Part.1) 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
- On sait jamais (feat. Niska) 
-<br/> 
-Enna 
 <br/> 
 PLK
 </div>
