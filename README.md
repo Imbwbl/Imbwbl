@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/045541b24a34ec2071d3b1e0335034bd216a09d5">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5a1f0e9530f73d47be781b25e9bbdfcac6ddb8cc">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
- Tout recommencer (feat. Tessa B) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" height='100%' align='left'/>
+ Saint-Ouen 
 <br/> 
-Mental 
+Lola 
 <br/> 
-PLK
+Romsii
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8921460ed7c31b1c0581719c9e1bf6a8.jpg" height='100%' align='left'/>
- Ça mène à rien 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e04b6dbc59c4eba1caaf78c4df4d9a5e.jpg" height='100%' align='left'/>
+ Coulance 
 <br/> 
-Chambre 140 (Part.1) 
+300% 
 <br/> 
-PLK
+Romsii
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Le cœur des hommes 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" height='100%' align='left'/>
+ Babtou 
 <br/> 
-Grand Garçon 
+Lola 
 <br/> 
-PLK
+Romsii
 </div>
 <br clear='all' /><br /> 
 </details>
