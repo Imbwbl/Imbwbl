@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b76341c54f6e21b7e7267df348eba5715e45b5d1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/218ed7192471973ca00c685310be3d3ca204ceed">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" height='100%' align='left'/>
- paramount 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Pocahontas 
 <br/> 
-LA FIEV 
+Grand Garçon 
 <br/> 
-Mairo
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- ISUZU 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Pocahontas 
 <br/> 
-ISUZU 
+Grand Garçon 
 <br/> 
-TH
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- PARC DES SOURDS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f764aa97256c991b2ed7a163b7eec3.jpg" height='100%' align='left'/>
+ Les Oiseaux s'envolent 
 <br/> 
-BLISS 
+La Vie est Belle 
 <br/> 
-Mairo
+Seyté
 </div>
 <br clear='all' /><br /> 
 </details>
