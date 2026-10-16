@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/13d990d3d81f28b0839b4ec0e88aa20cad46042a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1a592c36afbb99672673a28e5c23c77fec42a295">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 15 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 16 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/mlemiam/Vanillatmosphere/commit/df2fc88bf0d7519d7dd0cd82e48ebe3057891ad9">Update README.md</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 15 October 2026</h3>
+ <h3>Updated on 16 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e04b6dbc59c4eba1caaf78c4df4d9a5e.jpg" height='100%' align='left'/>
- Toupie 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/aae9fe5f5f3dd1b59088bcf152fb9747.jpg" height='100%' align='left'/>
+ 1 (feat. French Sounds Good & Omaley) 
 <br/> 
-300% 
-<br/> 
-Romsii
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a5661756620d1e353b4164782dd91e2f.jpg" height='100%' align='left'/>
- Elle s'en fout 
-<br/> 
-400% 
+Frenchie 
 <br/> 
 Romsii
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Comme un aimant 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/aae9fe5f5f3dd1b59088bcf152fb9747.jpg" height='100%' align='left'/>
+ Policier (feat. French Sounds Good) 
 <br/> 
-Autour du feu 
+Frenchie 
+<br/> 
+Romsii
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/aae9fe5f5f3dd1b59088bcf152fb9747.jpg" height='100%' align='left'/>
+ Double File (feat. 820ks) 
+<br/> 
+Frenchie 
 <br/> 
 Romsii
 </div>
