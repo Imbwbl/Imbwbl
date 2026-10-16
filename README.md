@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1a592c36afbb99672673a28e5c23c77fec42a295">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c445783d1417e34a2c4a54255faa890a6cc6054c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/aae9fe5f5f3dd1b59088bcf152fb9747.jpg" height='100%' align='left'/>
- 1 (feat. French Sounds Good & Omaley) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f56914ab4f01dab87ef5684ce7dfafc2.jpg" height='100%' align='left'/>
+ SUD DE LA FRANCE 
 <br/> 
-Frenchie 
+DND 
 <br/> 
-Romsii
+yvnnis
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/aae9fe5f5f3dd1b59088bcf152fb9747.jpg" height='100%' align='left'/>
- Policier (feat. French Sounds Good) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ LOUP D'MER 
 <br/> 
-Frenchie 
+BLISS 
 <br/> 
-Romsii
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/aae9fe5f5f3dd1b59088bcf152fb9747.jpg" height='100%' align='left'/>
- Double File (feat. 820ks) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/628e1c7b3947e26c462334980e8d4932.jpg" height='100%' align='left'/>
+ XX FILES 
 <br/> 
-Frenchie 
+JUNGLE DES ILLUSIONS VOL 2 
 <br/> 
-Romsii
+Jungle Jack
 </div>
 <br clear='all' /><br /> 
 </details>
