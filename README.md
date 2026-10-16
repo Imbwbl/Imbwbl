@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5a1f0e9530f73d47be781b25e9bbdfcac6ddb8cc">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/13d990d3d81f28b0839b4ec0e88aa20cad46042a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" height='100%' align='left'/>
- Saint-Ouen 
-<br/> 
-Lola 
-<br/> 
-Romsii
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e04b6dbc59c4eba1caaf78c4df4d9a5e.jpg" height='100%' align='left'/>
- Coulance 
+ Toupie 
 <br/> 
 300% 
 <br/> 
 Romsii
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3cb2468546cb0ecbeb9e6ced50c36e3.jpg" height='100%' align='left'/>
- Babtou 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a5661756620d1e353b4164782dd91e2f.jpg" height='100%' align='left'/>
+ Elle s'en fout 
 <br/> 
-Lola 
+400% 
+<br/> 
+Romsii
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Comme un aimant 
+<br/> 
+Autour du feu 
 <br/> 
 Romsii
 </div>
