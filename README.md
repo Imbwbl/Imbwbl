@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bf8b045c44cd4c3ac256d9ff7bdb0e628b1fb6ac">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1a43e217c67334c5d546c3221c83a7c99ea845c0">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4f6f6f537a28b6b15f793515b95452b.png" height='100%' align='left'/>
- Me and Your Mama 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0fd4ea33ee02465cc66904460ee8e91d.png" height='100%' align='left'/>
+ My Kind of Woman 
 <br/> 
-"Awaken, My Love!" 
+2 
 <br/> 
-Childish Gambino
+Mac DeMarco
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg" height='100%' align='left'/>
- Eventually 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/28ffd87a1e554022c0065398979894c4.png" height='100%' align='left'/>
+ Chamber of Reflection 
 <br/> 
-Currents 
+Salad Days 
 <br/> 
-Tame Impala
+Mac DeMarco
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e150fa362c89b8f1d92d883ae828b7ef.jpg" height='100%' align='left'/>
- GONE, GONE / THANK YOU 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b6cc7efcf8c694136846f0b3af0b7984.jpg" height='100%' align='left'/>
+ For the First Time 
 <br/> 
-IGOR 
+This Old Dog 
 <br/> 
-Tyler, The Creator
+Mac DeMarco
 </div>
 <br clear='all' /><br /> 
 </details>
