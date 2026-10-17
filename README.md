@@ -1,6 +1,6 @@
 <div align="center">
     <h1>Théophile</h1>
-    <p><i>Building with Rust, Python, and TypeScript</i></p>
+    <p><i>Building with Python, Rust, and TypeScript</i></p>
 </div>
 
 <br />
@@ -9,14 +9,14 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1a43e217c67334c5d546c3221c83a7c99ea845c0">:memo: update README.md</a></h2>
- <h3>Repo: Imbwbl</h3>
- <h3>Committed on 17 October 2026 by github-actions[bot]</h3>
+ <h2><a href="https://github.com/mlemiam/Vanillatmosphere/commit/934ea4d67f314c545a2ef2ec3bbd0d7678c23473">Update README.md</a></h2>
+ <h3>Repo: Vanillatmosphere</h3>
+ <h3>Committed on 17 October 2026 by mleb</h3>
  </div>
 <div>
- <h2><a href="https://github.com/mlemiam/Vanillatmosphere/commit/df2fc88bf0d7519d7dd0cd82e48ebe3057891ad9">Update README.md</a></h2>
- <h3>Repo: Vanillatmosphere</h3>
- <h3>Committed on 13 October 2026 by mleb</h3>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/98b3801a46aed43a817f8c91474f670ef99fd695">:memo: update README.md</a></h2>
+ <h3>Repo: Imbwbl</h3>
+ <h3>Committed on 17 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -32,15 +32,15 @@
     <summary><b> 📦 View My Latest Pushed Project</b></summary>
     <br />
     <div align="center"><div>
+ <h2><a href="https://github.com/mlemiam/Vanillatmosphere">Vanillatmosphere</a></h2>
+ <h3>Updated on 17 October 2026</h3>
+ <h3>stars: 40, forks: 3</h3>
+ <h3>language: Python</h3>
+ </div><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
  <h3>Updated on 17 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
- </div><div>
- <h2><a href="https://github.com/mlemiam/Vanillatmosphere">Vanillatmosphere</a></h2>
- <h3>Updated on 13 October 2026</h3>
- <h3>stars: 40, forks: 3</h3>
- <h3>language: Python</h3>
  </div><div>
  <h2><a href="https://github.com/Imbwbl/ita-web">ita-web</a></h2>
  <h3>Updated on 09 October 2026</h3>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0fd4ea33ee02465cc66904460ee8e91d.png" height='100%' align='left'/>
- My Kind of Woman 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Pocahontas 
 <br/> 
-2 
+Grand Garçon 
 <br/> 
-Mac DeMarco
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/28ffd87a1e554022c0065398979894c4.png" height='100%' align='left'/>
- Chamber of Reflection 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fe9922ed857043c08ea5dca8769b3b9f.jpg" height='100%' align='left'/>
+ Bikini Bottom 
 <br/> 
-Salad Days 
+Chambre 140 (Part.2) 
 <br/> 
-Mac DeMarco
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b6cc7efcf8c694136846f0b3af0b7984.jpg" height='100%' align='left'/>
- For the First Time 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
+ Idiote 
 <br/> 
-This Old Dog 
+Polak 
 <br/> 
-Mac DeMarco
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
