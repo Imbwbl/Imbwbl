@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8fb1bf31c4abdaf7917b92a34a56607c735d3e8a">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b4dc1ad3dfea6dde9a6a6380b4ff114e4403961d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 16 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 17 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/mlemiam/Vanillatmosphere/commit/df2fc88bf0d7519d7dd0cd82e48ebe3057891ad9">Update README.md</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 16 October 2026</h3>
+ <h3>Updated on 17 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae5d6f83321d6f8a887831ccddf58258.jpg" height='100%' align='left'/>
- Coulance infinie 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/00c9f678dbfd4a42230e2af633dafd07.jpg" height='100%' align='left'/>
+ Say, Can You Hear 
 <br/> 
-Coulance infinie 
+Say, Can You Hear 
 <br/> 
-Romsii
+Men I Trust
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a5661756620d1e353b4164782dd91e2f.jpg" height='100%' align='left'/>
- Chanel 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e150fa362c89b8f1d92d883ae828b7ef.jpg" height='100%' align='left'/>
+ ARE WE STILL FRIENDS? 
 <br/> 
-400% 
+IGOR 
 <br/> 
-Romsii
+Tyler, The Creator
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6de16f1c430ecdff350b6c3a8ade7903.jpg" height='100%' align='left'/>
- Plus belle la vie 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0fd4ea33ee02465cc66904460ee8e91d.png" height='100%' align='left'/>
+ My Kind of Woman 
 <br/> 
-Demain t'es ou (Remix) 
+2 
 <br/> 
-Romsii
+Mac DeMarco
 </div>
 <br clear='all' /><br /> 
 </details>
