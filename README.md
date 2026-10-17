@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b4dc1ad3dfea6dde9a6a6380b4ff114e4403961d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bf8b045c44cd4c3ac256d9ff7bdb0e628b1fb6ac">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/00c9f678dbfd4a42230e2af633dafd07.jpg" height='100%' align='left'/>
- Say, Can You Hear 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4f6f6f537a28b6b15f793515b95452b.png" height='100%' align='left'/>
+ Me and Your Mama 
 <br/> 
-Say, Can You Hear 
+"Awaken, My Love!" 
 <br/> 
-Men I Trust
+Childish Gambino
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg" height='100%' align='left'/>
+ Eventually 
+<br/> 
+Currents 
+<br/> 
+Tame Impala
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e150fa362c89b8f1d92d883ae828b7ef.jpg" height='100%' align='left'/>
- ARE WE STILL FRIENDS? 
+ GONE, GONE / THANK YOU 
 <br/> 
 IGOR 
 <br/> 
 Tyler, The Creator
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0fd4ea33ee02465cc66904460ee8e91d.png" height='100%' align='left'/>
- My Kind of Woman 
-<br/> 
-2 
-<br/> 
-Mac DeMarco
 </div>
 <br clear='all' /><br /> 
 </details>
