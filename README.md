@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/de141accfbacfa8670a26c46539befd3c94591c8">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d8930f54fa7a6a92d062ce200a2bedf8a73b509e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 17 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 18 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/mlemiam/Vanillatmosphere/commit/934ea4d67f314c545a2ef2ec3bbd0d7678c23473">Update README.md</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 17 October 2026</h3>
+ <h3>Updated on 18 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/15125520669e1ee87666fcc8cc035783.jpg" height='100%' align='left'/>
- Jour meilleur 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/433269c128f448bdbbff44aa62fff04a.png" height='100%' align='left'/>
+ Raelsan 
 <br/> 
-Civilisation 
-<br/> 
-Orelsan
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/79699f4375128b24884d08bd01d9603f.jpg" height='100%' align='left'/>
- Notes pour trop tard (feat. Ibeyi) 
-<br/> 
-La fête est finie 
+Le Chant Des Sirènes 
 <br/> 
 Orelsan
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/15125520669e1ee87666fcc8cc035783.jpg" height='100%' align='left'/>
- La quête 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d3ced06b378525a8361e7376c1ec52c3.png" height='100%' align='left'/>
+ Différent 
 <br/> 
-Civilisation 
+Perdu d'Avance 
+<br/> 
+Orelsan
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6bb82dfb96bc7b93990aace76b68358b.jpg" height='100%' align='left'/>
+ Adieu les filles 
+<br/> 
+La fête est finie - EPILOGUE 
 <br/> 
 Orelsan
 </div>
