@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ee0510990784965fd008048aa23a10f8850c80e6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/de141accfbacfa8670a26c46539befd3c94591c8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 17 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Don't Speak 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/15125520669e1ee87666fcc8cc035783.jpg" height='100%' align='left'/>
+ Jour meilleur 
 <br/> 
-Tragic Kingdom 
+Civilisation 
 <br/> 
-No Doubt
+Orelsan
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Just a Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/79699f4375128b24884d08bd01d9603f.jpg" height='100%' align='left'/>
+ Notes pour trop tard (feat. Ibeyi) 
 <br/> 
-Tragic Kingdom 
+La fête est finie 
 <br/> 
-No Doubt
+Orelsan
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f764aa97256c991b2ed7a163b7eec3.jpg" height='100%' align='left'/>
- Les Oiseaux s'envolent 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/15125520669e1ee87666fcc8cc035783.jpg" height='100%' align='left'/>
+ La quête 
 <br/> 
-La Vie est Belle 
+Civilisation 
 <br/> 
-Seyté
+Orelsan
 </div>
 <br clear='all' /><br /> 
 </details>
