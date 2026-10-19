@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/84cff00e9d4388892b7c5ec3249befd387c59e98">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/77ed6fc0961ae0a4a6e02572f25029cb9bacdd74">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" height='100%' align='left'/>
- Une pieuvre dans un seau 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e07609ec2633a2f659285145df8c38c.png" height='100%' align='left'/>
+ POP IN 2 - ルビー Solo Ver.- 
 <br/> 
-Une pieuvre dans un seau 
+SONG FROM TV SERIES ”【OSHI NO KO】 ” (Vol.4.5) 
 <br/> 
-Surprise
+B小町
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f6a0582c019fe89432df4333de5c333.jpg" height='100%' align='left'/>
- eritriste 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/126c35f69e428f61ca01fc8ecbd893b0.jpg" height='100%' align='left'/>
+ THE DAY 
 <br/> 
-Rougemort 
+BUTTERFLY EFFECT 
 <br/> 
-Mairo
+pornograffitti
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
- Vin Rouge 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/24d253ae3761c1bf2ee1b80e4a37ca04.png" height='100%' align='left'/>
+ インフェルノ 
 <br/> 
-Double Impact 
+Attitude 
 <br/> 
-Absolem
+Mrs. GREEN APPLE
 </div>
 <br clear='all' /><br /> 
 </details>
