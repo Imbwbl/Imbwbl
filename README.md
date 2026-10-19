@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/77ed6fc0961ae0a4a6e02572f25029cb9bacdd74">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e027b1c6d8cf22739eea0dd9cf6e37ffc518a807">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 October 2026 by github-actions[bot]</h3>
  </div>
@@ -38,8 +38,8 @@
  <h3>language: Rust</h3>
  </div><div>
  <h2><a href="https://github.com/mlemiam/Vanillatmosphere">Vanillatmosphere</a></h2>
- <h3>Updated on 18 October 2026</h3>
- <h3>stars: 41, forks: 3</h3>
+ <h3>Updated on 19 October 2026</h3>
+ <h3>stars: 42, forks: 3</h3>
  <h3>language: Python</h3>
  </div><div>
  <h2><a href="https://github.com/Imbwbl/ita-web">ita-web</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0e07609ec2633a2f659285145df8c38c.png" height='100%' align='left'/>
- POP IN 2 - ルビー Solo Ver.- 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8a6869bce406a164d97f34c648bed5b6.jpg" height='100%' align='left'/>
+ Seishun Wo Kirisaku Hado 
 <br/> 
-SONG FROM TV SERIES ”【OSHI NO KO】 ” (Vol.4.5) 
+Ichijikikoku 
 <br/> 
-B小町
+ATARASHII GAKKO!
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/126c35f69e428f61ca01fc8ecbd893b0.jpg" height='100%' align='left'/>
- THE DAY 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/07329b64be1994ee627170c02e8ee5d6.jpg" height='100%' align='left'/>
+ SPECIALZ 
 <br/> 
-BUTTERFLY EFFECT 
+THE GREATEST UNKNOWN 
 <br/> 
-pornograffitti
+King Gnu
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/24d253ae3761c1bf2ee1b80e4a37ca04.png" height='100%' align='left'/>
- インフェルノ 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7b62f629b62d768e30fa8d1dc4f19fa8.jpg" height='100%' align='left'/>
+ Paradisus-Paradoxum 
 <br/> 
-Attitude 
+eye's 
 <br/> 
-Mrs. GREEN APPLE
+MYTH & ROID
 </div>
 <br clear='all' /><br /> 
 </details>
