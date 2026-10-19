@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fa730e9dfad57ceb0a2a13c8c7f9a3f4669db98f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/84cff00e9d4388892b7c5ec3249befd387c59e98">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/79699f4375128b24884d08bd01d9603f.jpg" height='100%' align='left'/>
- Notes pour trop tard (feat. Ibeyi) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7dc43d4cf055024800d04af511c3f944.png" height='100%' align='left'/>
+ Une pieuvre dans un seau 
 <br/> 
-La fête est finie 
+Une pieuvre dans un seau 
 <br/> 
-Orelsan
+Surprise
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/15125520669e1ee87666fcc8cc035783.jpg" height='100%' align='left'/>
- La quête 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f6a0582c019fe89432df4333de5c333.jpg" height='100%' align='left'/>
+ eritriste 
 <br/> 
-Civilisation 
+Rougemort 
 <br/> 
-Orelsan
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/433269c128f448bdbbff44aa62fff04a.png" height='100%' align='left'/>
- La Terre Est Ronde 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
+ Vin Rouge 
 <br/> 
-Le Chant Des Sirènes 
+Double Impact 
 <br/> 
-Orelsan
+Absolem
 </div>
 <br clear='all' /><br /> 
 </details>
