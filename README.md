@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3aeee3a08fb406c524629d7e1e6d1fc7be5d091d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/921208401505a5fb971b89ca4a3469aaf3b63296">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/15a1c036e2752447b0adcccc118cb37f.jpg" height='100%' align='left'/>
- TEST ME 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/408fe123568b077b9ad74f7d579529a5.jpg" height='100%' align='left'/>
+ Dark Maul 
 <br/> 
-TEST ME 
+ZushiBoyz Vol.2 
 <br/> 
-CHANMINA
+Caballero & JeanJass
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/70f25a4fd5171fb86b1addbb75bc59f6.jpg" height='100%' align='left'/>
- ラブ・ドラマティック 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" height='100%' align='left'/>
+ BOOMBAP MI AMOR 
 <br/> 
-MARTINI DUET DELUXE 
+Les champs de sacs plastique 
 <br/> 
-Masayuki Suzuki
+JeanJass
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6fe983d2088c69dfd33f7131a570d7f5.jpg" height='100%' align='left'/>
- SHINUNA! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ ALBA BISTRO FREESTYLE 
 <br/> 
-SHINUNA! 
+BLISS 
 <br/> 
-Kocchi no Kento
+Mairo
 </div>
 <br clear='all' /><br /> 
 </details>
