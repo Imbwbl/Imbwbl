@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e027b1c6d8cf22739eea0dd9cf6e37ffc518a807">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/543c32e9e7f30d62726dab4ba915988d2baa1d2a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8a6869bce406a164d97f34c648bed5b6.jpg" height='100%' align='left'/>
- Seishun Wo Kirisaku Hado 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/15a1c036e2752447b0adcccc118cb37f.jpg" height='100%' align='left'/>
+ TEST ME 
 <br/> 
-Ichijikikoku 
+TEST ME 
 <br/> 
-ATARASHII GAKKO!
+CHANMINA
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/07329b64be1994ee627170c02e8ee5d6.jpg" height='100%' align='left'/>
- SPECIALZ 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/70f25a4fd5171fb86b1addbb75bc59f6.jpg" height='100%' align='left'/>
+ ラブ・ドラマティック 
 <br/> 
-THE GREATEST UNKNOWN 
+MARTINI DUET DELUXE 
 <br/> 
-King Gnu
+Masayuki Suzuki
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7b62f629b62d768e30fa8d1dc4f19fa8.jpg" height='100%' align='left'/>
- Paradisus-Paradoxum 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6fe983d2088c69dfd33f7131a570d7f5.jpg" height='100%' align='left'/>
+ SHINUNA! 
 <br/> 
-eye's 
+SHINUNA! 
 <br/> 
-MYTH & ROID
+Kocchi no Kento
 </div>
 <br clear='all' /><br /> 
 </details>
