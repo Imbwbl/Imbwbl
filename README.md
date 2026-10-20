@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/921208401505a5fb971b89ca4a3469aaf3b63296">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/13f8f4ff73147ecdb11c932e92dca2d2a649c287">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/408fe123568b077b9ad74f7d579529a5.jpg" height='100%' align='left'/>
- Dark Maul 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
+ Nouvelles 
 <br/> 
-ZushiBoyz Vol.2 
+2069' 
 <br/> 
-Caballero & JeanJass
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5b0001fa81cd1579d94759160d6412aa.jpg" height='100%' align='left'/>
- BOOMBAP MI AMOR 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Sex Model 
 <br/> 
-Les champs de sacs plastique 
+Grand Garçon 
 <br/> 
-JeanJass
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- ALBA BISTRO FREESTYLE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Tu dors ? 
 <br/> 
-BLISS 
+Grand Garçon 
 <br/> 
-Mairo
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
