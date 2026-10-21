@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4e9dca462a2ab55a042ce0971187a6c238b0b961">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/cc19554dea4e13ce74e53e26d98692f2b05c9e26">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" height='100%' align='left'/>
- Attentat 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/703d83b8414f0512e17a6c63c82613f2.png" height='100%' align='left'/>
+ All Night 
 <br/> 
-Enna Boost 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
- Nouvelles 
-<br/> 
-2069' 
+Ténébreux 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Sex Model 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e640ff28260ca09afdc849feff268410.jpg" height='100%' align='left'/>
+ Jamais 
 <br/> 
-Grand Garçon 
+MVP 
+<br/> 
+Mister V
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
+ Pourtant 
+<br/> 
+Enna 
 <br/> 
 PLK
 </div>
