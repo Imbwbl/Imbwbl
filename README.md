@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/67e7a06a95adfa427c40546e328794d08b4de15c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d321c1556077cbfd330e46c667ce41cb71c5c311">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 20 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 21 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/mlemiam/Vanillatmosphere/commit/934ea4d67f314c545a2ef2ec3bbd0d7678c23473">Update README.md</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 20 October 2026</h3>
+ <h3>Updated on 21 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,24 +67,24 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fcaed19d9eeeae188ac5aef006f9d2d8.jpg" height='100%' align='left'/>
+ Confidences 
+<br/> 
+Pygmalion 
+<br/> 
+Vacra
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
- Dingue 
+ Monégasque 
 <br/> 
 Polak 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8921460ed7c31b1c0581719c9e1bf6a8.jpg" height='100%' align='left'/>
- La nuit 
-<br/> 
-Chambre 140 (Part.1) 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fe9922ed857043c08ea5dca8769b3b9f.jpg" height='100%' align='left'/>
- Bikini Bottom 
+ Mignon tout plein 
 <br/> 
 Chambre 140 (Part.2) 
 <br/> 
