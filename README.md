@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/83a5e11befadedf283675eb2b3dab4e11b7c7a42">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6ebe7d821dce2dfe06d3f2490d37306dfa2b518a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 21 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 22 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 21 October 2026</h3>
+ <h3>Updated on 22 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
- Bunkoeur 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" height='100%' align='left'/>
+ Quand tout s'enflamme 
 <br/> 
-Polak 
+Années Sauvages 
 <br/> 
-PLK
+Georgio
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8921460ed7c31b1c0581719c9e1bf6a8.jpg" height='100%' align='left'/>
- Périph 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/97e146672e64363b839fd3d10821c8c1.jpg" height='100%' align='left'/>
+ ALICANTE 
 <br/> 
-Chambre 140 (Part.1) 
+Comment T'aimer Sans Diamants ? 
 <br/> 
-PLK
+Karmen
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
- On sait jamais (feat. Niska) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
+ Onana 
 <br/> 
-Enna 
+Chambre 140 (Part.3) 
 <br/> 
 PLK
 </div>
