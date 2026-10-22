@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/52144ee8764995ea09c83d7a3aa7b326b2ca667d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/00fd461e30ecb1441564a479a1dc1f491f5fe6e5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fe9922ed857043c08ea5dca8769b3b9f.jpg" height='100%' align='left'/>
- Bikini Bottom 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
+ On sait jamais (feat. Niska) 
 <br/> 
-Chambre 140 (Part.2) 
+Enna 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d7c2cee1969d51b7cf1a9d9b1337ad86.jpg" height='100%' align='left'/>
- How Much 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
+ Ça fait longtemps 
 <br/> 
-How Much 
+Chambre 140 (Part.3) 
 <br/> 
-La Mano 1.9
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Façon d'penser 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/703d83b8414f0512e17a6c63c82613f2.png" height='100%' align='left'/>
+ All Night 
 <br/> 
-Grand Garçon 
+Ténébreux 
 <br/> 
 PLK
 </div>
