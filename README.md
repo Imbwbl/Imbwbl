@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2b1c5c2396fb34d34db529578332c32d5ce43b25">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2723150d2315156927ddcd32b3fb7a4bf06f8772">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" height='100%' align='left'/>
- Quand tout s'enflamme 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
+ Problèmes 
 <br/> 
-Années Sauvages 
-<br/> 
-Georgio
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/97e146672e64363b839fd3d10821c8c1.jpg" height='100%' align='left'/>
- ALICANTE 
-<br/> 
-Comment T'aimer Sans Diamants ? 
-<br/> 
-Karmen
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
- Onana 
-<br/> 
-Chambre 140 (Part.3) 
+Mental 
 <br/> 
 PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95b8982516d0aeb79f7d26204a3d2fa3.jpg" height='100%' align='left'/>
+ Copine 
+<br/> 
+Platinum 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ 600K 
+<br/> 
+600K 
+<br/> 
+Heuss L'enfoiré
 </div>
 <br clear='all' /><br /> 
 </details>
