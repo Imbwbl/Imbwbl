@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a5580a07d48524135fbd600a89e7d21570f87b43">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/854d7401119dd069e2e9fd901d6e834d6338e55a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fe9922ed857043c08ea5dca8769b3b9f.jpg" height='100%' align='left'/>
- Bikini Bottom 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" height='100%' align='left'/>
+ Quand tout s'enflamme 
 <br/> 
-Chambre 140 (Part.2) 
+Années Sauvages 
 <br/> 
-PLK
+Georgio
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d7c2cee1969d51b7cf1a9d9b1337ad86.jpg" height='100%' align='left'/>
- How Much 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/97e146672e64363b839fd3d10821c8c1.jpg" height='100%' align='left'/>
+ ALICANTE 
 <br/> 
-How Much 
+Comment T'aimer Sans Diamants ? 
 <br/> 
-La Mano 1.9
+Karmen
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Façon d'penser 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
+ Onana 
 <br/> 
-Grand Garçon 
+Chambre 140 (Part.3) 
 <br/> 
 PLK
 </div>
