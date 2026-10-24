@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b8a0c572a4bdaff8cb95111f54b42036cd2a00e4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8e80317671246dc84a23793d3f116aa03cc44cce">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 24 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
- Ça fait longtemps 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
+ Mamie 
 <br/> 
-Chambre 140 (Part.3) 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/703d83b8414f0512e17a6c63c82613f2.png" height='100%' align='left'/>
- All Night 
-<br/> 
-Ténébreux 
+Enna 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e640ff28260ca09afdc849feff268410.jpg" height='100%' align='left'/>
- Jamais 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/21a8842ea729828a3598031ba03446e3.jpg" height='100%' align='left'/>
+ 4MOTION 
 <br/> 
-MVP 
+La vie continue 
 <br/> 
-Mister V
+Maes
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
+ Bunkoeur 
+<br/> 
+Polak 
+<br/> 
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
