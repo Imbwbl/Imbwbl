@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b563585ba501f92b04e9331cc128d5645d22772e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b8a0c572a4bdaff8cb95111f54b42036cd2a00e4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 24 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Sex Model 
-<br/> 
-Grand Garçon 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95b8982516d0aeb79f7d26204a3d2fa3.jpg" height='100%' align='left'/>
- Copine 
-<br/> 
-Platinum 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
- Faut pas 
+ Ça fait longtemps 
 <br/> 
 Chambre 140 (Part.3) 
 <br/> 
 PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/703d83b8414f0512e17a6c63c82613f2.png" height='100%' align='left'/>
+ All Night 
+<br/> 
+Ténébreux 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e640ff28260ca09afdc849feff268410.jpg" height='100%' align='left'/>
+ Jamais 
+<br/> 
+MVP 
+<br/> 
+Mister V
 </div>
 <br clear='all' /><br /> 
 </details>
