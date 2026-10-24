@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/796e50a39aeb1c937f7629b35ba7b19877876857">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/52f782628baa7f13d313a5d592a212e69d7c6f3d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f2ca525150a1b86bc3d5ea06f9bda242.png" height='100%' align='left'/>
- T55F 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
+ Pelo 
 <br/> 
-T55F 
+2069' 
 <br/> 
-55ASKY
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" height='100%' align='left'/>
- METHYLENE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
+ Hola 
 <br/> 
-RÖSËLITÄ 
+Mental 
 <br/> 
-55ASKY
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f6ec8c7cce5f88b90022932d6bbced32.png" height='100%' align='left'/>
- GT3 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8c82dde2070afa0312be9826f81e7d93.png" height='100%' align='left'/>
+ TKKASKY 
 <br/> 
-RÖSËLITÄ 
+TKKASKY 
 <br/> 
-55ASKY
+TKKF
 </div>
 <br clear='all' /><br /> 
 </details>
