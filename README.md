@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3ce619a068470dff1468d68d2d9f40b0e58fd2cf">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0620d5d7f54dcdaf5438fa4a49b987363728953b">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 25 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
- Idiote 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
+ Chouchou 
 <br/> 
-Polak 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" height='100%' align='left'/>
- R.A.F 
-<br/> 
-Enna Boost 
+Chambre 140 (Part.3) 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
- Problèmes 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
+ Pourtant 
 <br/> 
-Mental 
+Enna 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fe9922ed857043c08ea5dca8769b3b9f.jpg" height='100%' align='left'/>
+ Mignon tout plein 
+<br/> 
+Chambre 140 (Part.2) 
 <br/> 
 PLK
 </div>
