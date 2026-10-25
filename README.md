@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9ff03b3e51700ef1c3f24b911e9ad2c42e7b64d4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/502f8eea8a0f63acca380660940f69110c930a31">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 24 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
- Émotif (Booska 1H) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ 600K 
 <br/> 
-Polak 
+600K 
+<br/> 
+Heuss L'enfoiré
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
+ Un peu de haine 
+<br/> 
+Mental 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
- Faut pas 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
+ Pilote (feat. Hamza) 
 <br/> 
-Chambre 140 (Part.3) 
-<br/> 
-PLK
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" height='100%' align='left'/>
- Attentat 
-<br/> 
-Enna Boost 
+Enna 
 <br/> 
 PLK
 </div>
