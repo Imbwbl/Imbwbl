@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/502f8eea8a0f63acca380660940f69110c930a31">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3ce619a068470dff1468d68d2d9f40b0e58fd2cf">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 24 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 25 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 24 October 2026</h3>
+ <h3>Updated on 25 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- 600K 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
+ Idiote 
 <br/> 
-600K 
-<br/> 
-Heuss L'enfoiré
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
- Un peu de haine 
-<br/> 
-Mental 
+Polak 
 <br/> 
 PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
- Pilote (feat. Hamza) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" height='100%' align='left'/>
+ R.A.F 
 <br/> 
-Enna 
+Enna Boost 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
+ Problèmes 
+<br/> 
+Mental 
 <br/> 
 PLK
 </div>
