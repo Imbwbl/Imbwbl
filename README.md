@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d8c21a5341d6c07cf2dcb08e0b17a732cdda5776">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3f047e131a41978404924781f29faf97001e382a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
- Chouchou 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84dba6fdd42fc93f1542902ad43c0b44.jpg" height='100%' align='left'/>
+ Manifeste 
 <br/> 
-Chambre 140 (Part.3) 
+Lamine 
 <br/> 
-PLK
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
- Pourtant 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f764aa97256c991b2ed7a163b7eec3.jpg" height='100%' align='left'/>
+ Milonga 
 <br/> 
-Enna 
+La Vie est Belle 
 <br/> 
-PLK
+Seyté
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/fe9922ed857043c08ea5dca8769b3b9f.jpg" height='100%' align='left'/>
- Mignon tout plein 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae6423fadc2cda82920e69207eb2a218.jpg" height='100%' align='left'/>
+ Un bon son brut pour les truands 
 <br/> 
-Chambre 140 (Part.2) 
+L'école Du Micro D'argent 
 <br/> 
-PLK
+IAM
 </div>
 <br clear='all' /><br /> 
 </details>
