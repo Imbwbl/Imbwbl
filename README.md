@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/58ac4bb5a2a0f18193b12290409c67e5f2fdb294">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/121f9337630f0a60bd95a0ba175076eaf3980f7a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 26 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84dba6fdd42fc93f1542902ad43c0b44.jpg" height='100%' align='left'/>
- Manifeste 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
+ Pilote (feat. Hamza) 
 <br/> 
-Lamine 
+Enna 
 <br/> 
-Guizmo
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f764aa97256c991b2ed7a163b7eec3.jpg" height='100%' align='left'/>
- Milonga 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
+ Tout recommencer (feat. Tessa B) 
 <br/> 
-La Vie est Belle 
+Mental 
 <br/> 
-Seyté
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae6423fadc2cda82920e69207eb2a218.jpg" height='100%' align='left'/>
- Un bon son brut pour les truands 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
+ Demain 
 <br/> 
-L'école Du Micro D'argent 
+2069' 
 <br/> 
-IAM
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
