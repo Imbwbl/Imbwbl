@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f88aa7b146cc8a0decaec57e1eba74501387d5f6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2c74e27cdb85aa04528509adbbc8a3d7c786a624">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 October 2026 by github-actions[bot]</h3>
  </div>
@@ -68,27 +68,27 @@
     <br />
     <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" height='100%' align='left'/>
- Θ. Macarena 
+ Γ. Mosaïque solitaire 
 <br/> 
 Ipséité 
 <br/> 
 Damso
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" height='100%' align='left'/>
- Ε. Signaler 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c5c694d3e96dbe60ef085bd42f9efa2b.jpg" height='100%' align='left'/>
+ Feu de bois 
 <br/> 
-Ipséité 
+Lithopédion 
 <br/> 
 Damso
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9e26df23a4307e8e47e33faf911a9f3f.jpg" height='100%' align='left'/>
- Paire blanche 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/35e417acf1c0086c247bf91989acc9e0.jpg" height='100%' align='left'/>
+ Alpha 
 <br/> 
-No colors 
+j'ai menti. 
 <br/> 
-Jeune Mort
+Damso
 </div>
 <br clear='all' /><br /> 
 </details>
