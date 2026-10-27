@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e010d9d0f3401321044163fafd2e950601cd32e3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f88aa7b146cc8a0decaec57e1eba74501387d5f6">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2290a1b481acd0504acca2c2626abbda.jpg" height='100%' align='left'/>
- Nouvelle vague 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" height='100%' align='left'/>
+ Θ. Macarena 
 <br/> 
-Delta Plane 
+Ipséité 
 <br/> 
-Le Dé
+Damso
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Jeune Mort 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2f9701a77896ea4b01bac64b25c584a7.jpg" height='100%' align='left'/>
+ Ε. Signaler 
 <br/> 
-Jeune Mort 
+Ipséité 
+<br/> 
+Damso
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9e26df23a4307e8e47e33faf911a9f3f.jpg" height='100%' align='left'/>
+ Paire blanche 
+<br/> 
+No colors 
 <br/> 
 Jeune Mort
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/23ffe9f59680d4de369b729a34a93855.jpg" height='100%' align='left'/>
- Tu connais le tarif 
-<br/> 
-Passage flouté 
-<br/> 
-TSR Crew
 </div>
 <br clear='all' /><br /> 
 </details>
