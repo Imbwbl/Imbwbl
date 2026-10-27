@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/52677102099d75326380c9c5f9f2a9e0358efb9e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e010d9d0f3401321044163fafd2e950601cd32e3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 26 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 27 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 26 October 2026</h3>
+ <h3>Updated on 27 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -68,27 +68,27 @@
     <br />
     <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2290a1b481acd0504acca2c2626abbda.jpg" height='100%' align='left'/>
- Chez soi - Interlude 
+ Nouvelle vague 
 <br/> 
 Delta Plane 
 <br/> 
 Le Dé
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fd268992e98bab1a310e9505011b7af.jpg" height='100%' align='left'/>
- Étoile triste 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Jeune Mort 
 <br/> 
-Avant l'Aube 
+Jeune Mort 
 <br/> 
 Jeune Mort
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/065776ae06714e6e8a5bc10657523115.jpg" height='100%' align='left'/>
- La ligne verte 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/23ffe9f59680d4de369b729a34a93855.jpg" height='100%' align='left'/>
+ Tu connais le tarif 
 <br/> 
-Fenêtre sur rue 
+Passage flouté 
 <br/> 
-Hugo TSR
+TSR Crew
 </div>
 <br clear='all' /><br /> 
 </details>
