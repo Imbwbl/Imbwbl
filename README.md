@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5001e897ba654901743b7cdc40e7499ac5d16a4d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/50e5a1575c1c97afc6ba0fad8d51b784019c949c">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 28 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a5958da102332d9f003d90ed268ee4e8.jpg" height='100%' align='left'/>
- BB au volant 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acf46010faf2ece765b5b57ef8bebf13.jpg" height='100%' align='left'/>
+ Space Space Jam & Special 
 <br/> 
-Manita 
+RAPPEL 
 <br/> 
-Leo SVR
+Jima
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8afd29b436c410f766eb7ab56edaeb3f.jpg" height='100%' align='left'/>
+ la toupiw 
+<br/> 
+MORI! memento 
+<br/> 
+TKKF
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- BARA 
+ miaou miaou 
 <br/> 
-BARA 
+techno chien : la naissance de l'enfant maudit 
 <br/> 
-yvnnis
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/537400ec4aff32179a9578e5bad56c16.jpg" height='100%' align='left'/>
- Vide 
-<br/> 
-Fissure de vie 
-<br/> 
-So La Lune
+Jima
 </div>
 <br clear='all' /><br /> 
 </details>
