@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4dece3450c534749fbfd2d901c0f02d687da2fa0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f28028859ddf8005c3544236c08490420df9b7e4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 27 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 28 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 27 October 2026</h3>
+ <h3>Updated on 28 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/08d72522d9d6ea7310547c9870755c53.jpg" height='100%' align='left'/>
- Nocif 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" height='100%' align='left'/>
+ Là-haut 
 <br/> 
-Sincèrement 
+Tant qu'on est là 
 <br/> 
-Hamza
+Hugo TSR
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4587ce82b4a1106cdea7cefa3f93377.jpg" height='100%' align='left'/>
- Π. VANTABLACK 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c1456309e6e4eda4e09a297504040512.jpg" height='100%' align='left'/>
+ Les pleurs du mal 
 <br/> 
-QALF infinity 
+Imany 
 <br/> 
-Damso
+Dinos
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/35e417acf1c0086c247bf91989acc9e0.jpg" height='100%' align='left'/>
- Schéma 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/23ffe9f59680d4de369b729a34a93855.jpg" height='100%' align='left'/>
+ Sans sommation, pt. 3 
 <br/> 
-j'ai menti. 
+Passage flouté 
 <br/> 
-Damso
+TSR Crew
 </div>
 <br clear='all' /><br /> 
 </details>
