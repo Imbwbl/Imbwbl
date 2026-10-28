@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f28028859ddf8005c3544236c08490420df9b7e4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/32c312d7b3cd62c81726c8965b40c5de60904bca">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 28 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" height='100%' align='left'/>
- Là-haut 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ 110e 
 <br/> 
-Tant qu'on est là 
+110e 
 <br/> 
-Hugo TSR
+ver2gris
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c1456309e6e4eda4e09a297504040512.jpg" height='100%' align='left'/>
- Les pleurs du mal 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ babel 
 <br/> 
-Imany 
+babel 
 <br/> 
-Dinos
+Dalí
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/23ffe9f59680d4de369b729a34a93855.jpg" height='100%' align='left'/>
- Sans sommation, pt. 3 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ N'OUBLIE JAMAIS 
 <br/> 
-Passage flouté 
+N'OUBLIE JAMAIS 
 <br/> 
-TSR Crew
+poissonchat
 </div>
 <br clear='all' /><br /> 
 </details>
