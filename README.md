@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d2eb546fac133db0cfcd61b6e6671f8962eebbc3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4dece3450c534749fbfd2d901c0f02d687da2fa0">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/08d72522d9d6ea7310547c9870755c53.jpg" height='100%' align='left'/>
+ Nocif 
+<br/> 
+Sincèrement 
+<br/> 
+Hamza
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d4587ce82b4a1106cdea7cefa3f93377.jpg" height='100%' align='left'/>
- DEUX TOILES DE MER 
+ Π. VANTABLACK 
 <br/> 
 QALF infinity 
 <br/> 
 Damso
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b835d59990741da2a6fb917543e5ac3d.jpg" height='100%' align='left'/>
- JCVDEMS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/35e417acf1c0086c247bf91989acc9e0.jpg" height='100%' align='left'/>
+ Schéma 
 <br/> 
-BĒYĀH 
-<br/> 
-Damso
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ab666324010e2fde88efcb88e51791cd.jpg" height='100%' align='left'/>
- Paris c'est loin 
-<br/> 
-Paris c'est loin 
+j'ai menti. 
 <br/> 
 Damso
 </div>
