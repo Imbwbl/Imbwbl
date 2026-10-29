@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/50e5a1575c1c97afc6ba0fad8d51b784019c949c">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b7b210c9f065e7959a16317d10696a0332916a08">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 28 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acf46010faf2ece765b5b57ef8bebf13.jpg" height='100%' align='left'/>
- Space Space Jam & Special 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/545a3e0b94f04896b3ef62be2e912a0c.jpg" height='100%' align='left'/>
+ C'est tout 
 <br/> 
-RAPPEL 
+C'est tout. 
 <br/> 
-Jima
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8afd29b436c410f766eb7ab56edaeb3f.jpg" height='100%' align='left'/>
- la toupiw 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/22483a3da51b4671d94aab7195b77300.jpg" height='100%' align='left'/>
+ CERCLE VICIEUX 
 <br/> 
-MORI! memento 
+CERCLE VERTUEUX 
 <br/> 
-TKKF
+Deen Burbigo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- miaou miaou 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/16d81e18124fac40a9acd8affc09f514.jpg" height='100%' align='left'/>
+ Le Temps Passe 
 <br/> 
-techno chien : la naissance de l'enfant maudit 
+Je vous salis ma rue 
 <br/> 
-Jima
+Kacem Wapalek
 </div>
 <br clear='all' /><br /> 
 </details>
