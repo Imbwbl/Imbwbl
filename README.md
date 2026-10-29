@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b7b210c9f065e7959a16317d10696a0332916a08">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9956ed4eebf5ec4b55fc1c6f54bd67af2accd482">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 28 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 29 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 28 October 2026</h3>
+ <h3>Updated on 29 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/545a3e0b94f04896b3ef62be2e912a0c.jpg" height='100%' align='left'/>
- C'est tout 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" height='100%' align='left'/>
+ Attentat 
 <br/> 
-C'est tout. 
+Enna Boost 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
+ Un peu de haine 
+<br/> 
+Mental 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0101b2418db743c5c3f0b5ad46f7096c.jpg" height='100%' align='left'/>
+ André 
+<br/> 
+Dans ma ruche 
 <br/> 
 Guizmo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/22483a3da51b4671d94aab7195b77300.jpg" height='100%' align='left'/>
- CERCLE VICIEUX 
-<br/> 
-CERCLE VERTUEUX 
-<br/> 
-Deen Burbigo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/16d81e18124fac40a9acd8affc09f514.jpg" height='100%' align='left'/>
- Le Temps Passe 
-<br/> 
-Je vous salis ma rue 
-<br/> 
-Kacem Wapalek
 </div>
 <br clear='all' /><br /> 
 </details>
