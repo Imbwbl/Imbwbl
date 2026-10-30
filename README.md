@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e0f06445492fb2bf4483b2d456062ce64a9d0cd3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ba723b507de5900fab4e82d5c3e5dea2e8a675e1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- ROUGE 
-<br/> 
-ROUGE 
-<br/> 
-Lucboy
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- FUTUR AMOUR 
-<br/> 
-FUTUR AMOUR 
-<br/> 
-L'Ange
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2eceb9c2ded1e01ac35372faf2b8e374.jpg" height='100%' align='left'/>
- CHIMIQUE 
+ Ma go 
 <br/> 
 Temps d'aime 
 <br/> 
 Moji x Sboy
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ NE M'EN VEUX PAS 
+<br/> 
+NE M'EN VEUX PAS 
+<br/> 
+BLOU FEET
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ 21 rue de l'impasse 
+<br/> 
+Amours d'hiver 
+<br/> 
+Lucboy
 </div>
 <br clear='all' /><br /> 
 </details>
