@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c3eda6ed841d863ce3a13cdf3b7cc4e3e4580a49">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e0f06445492fb2bf4483b2d456062ce64a9d0cd3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 29 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 30 October 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 29 October 2026</h3>
+ <h3>Updated on 30 October 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -68,27 +68,27 @@
     <br />
     <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- UBER 
+ ROUGE 
 <br/> 
-UBER 
+ROUGE 
+<br/> 
+Lucboy
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ FUTUR AMOUR 
+<br/> 
+FUTUR AMOUR 
+<br/> 
+L'Ange
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2eceb9c2ded1e01ac35372faf2b8e374.jpg" height='100%' align='left'/>
+ CHIMIQUE 
+<br/> 
+Temps d'aime 
 <br/> 
 Moji x Sboy
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- SED NON SATIATA 
-<br/> 
-SPLEEN E(S)T IDEAL 
-<br/> 
-Morphée
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Prologue 
-<br/> 
-Prologue 
-<br/> 
-Lushe
 </div>
 <br clear='all' /><br /> 
 </details>
