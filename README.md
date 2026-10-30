@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ba723b507de5900fab4e82d5c3e5dea2e8a675e1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/893ab38075bc84443d11ee3a97473d21a7e83287">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2eceb9c2ded1e01ac35372faf2b8e374.jpg" height='100%' align='left'/>
- Ma go 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" height='100%' align='left'/>
+ Les mégots dans le bac à sable 
 <br/> 
-Temps d'aime 
+Dire je t'aime 
 <br/> 
-Moji x Sboy
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- NE M'EN VEUX PAS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b5ae318e28d0b6e094d4bbd9024fba3d.jpg" height='100%' align='left'/>
+ 2222 (Interlude) 
 <br/> 
-NE M'EN VEUX PAS 
+Une vie et quelques 
 <br/> 
-BLOU FEET
+Hugo TSR
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- 21 rue de l'impasse 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84dba6fdd42fc93f1542902ad43c0b44.jpg" height='100%' align='left'/>
+ History X 
 <br/> 
-Amours d'hiver 
+Lamine 
 <br/> 
-Lucboy
+Guizmo
 </div>
 <br clear='all' /><br /> 
 </details>
