@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/893ab38075bc84443d11ee3a97473d21a7e83287">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6521373b33448ffd9dcce97fd0dd99d782cdd7d2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5334fa07dad336663759c58be7a2600e.jpg" height='100%' align='left'/>
- Les mégots dans le bac à sable 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" height='100%' align='left'/>
+ Quand tout s'enflamme 
 <br/> 
-Dire je t'aime 
+Années Sauvages 
 <br/> 
-BEN plg
+Georgio
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b5ae318e28d0b6e094d4bbd9024fba3d.jpg" height='100%' align='left'/>
- 2222 (Interlude) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" height='100%' align='left'/>
+ J'ai mal au mic - Remasterisé 
 <br/> 
-Une vie et quelques 
+L'amour est mort (Remasterisé) 
 <br/> 
-Hugo TSR
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84dba6fdd42fc93f1542902ad43c0b44.jpg" height='100%' align='left'/>
- History X 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae6423fadc2cda82920e69207eb2a218.jpg" height='100%' align='left'/>
+ Nés sous la même étoile 
 <br/> 
-Lamine 
+L'école Du Micro D'argent 
 <br/> 
-Guizmo
+IAM
 </div>
 <br clear='all' /><br /> 
 </details>
