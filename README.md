@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/df280cad76d7f299e172c48d9eb05b2679379903">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/89e0d1081704eec72ca1cb1325d4609506f09e00">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 31 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f1838a56f5f6431098bd30da65a4d820.jpg" height='100%' align='left'/>
- Partis de rien 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
+ MACHIAVEL 
 <br/> 
-Scred Selexion 99/2000 (1) 
+Numéro d'écrou 
 <br/> 
-Scred Connexion
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/151a682d8b17b647f49ebe6255ea6855.jpg" height='100%' align='left'/>
- Le Roseau 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Devin Booker 
 <br/> 
-P-Town 
+Devin Booker 
 <br/> 
-Jazzy Bazz
+JRK 19
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04348e4f19bfba06bfefc75641a1b4e5.jpg" height='100%' align='left'/>
- M.A.I.R 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7e4807de9112365bdf1390c474a17a21.jpg" height='100%' align='left'/>
+ Serrure #3 
 <br/> 
-M.A.I.R 
+Serrure #3 
 <br/> 
-Mairo
+La Rvfleuze
 </div>
 <br clear='all' /><br /> 
 </details>
