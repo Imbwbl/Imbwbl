@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/73d28d09fb108e96547caacdeea2470252c1350e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4d40929e6d7a6e64c07959bc2a1536375f3499ae">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 31 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
- MACHIAVEL 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/55afbecc22d424b44dd11cd33888bbff.jpg" height='100%' align='left'/>
+ Argent Sale - A COLORS SHOW 
 <br/> 
-Numéro d'écrou 
+Argent Sale - A COLORS SHOW 
 <br/> 
 La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Devin Booker 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/faae6fd083c8e4b636b72ab8ffbe0f11.jpg" height='100%' align='left'/>
+ Sexy Nana 
 <br/> 
-Devin Booker 
+Destinée Supremacy 
 <br/> 
-JRK 19
+Aya Nakamura
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7e4807de9112365bdf1390c474a17a21.jpg" height='100%' align='left'/>
- Serrure #3 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6ec5d70d0723a9a5c3ecf7da0678b2da.png" height='100%' align='left'/>
+ Fille à Papa 
 <br/> 
-Serrure #3 
+Fille à Papa 
 <br/> 
-La Rvfleuze
+Vacra
 </div>
 <br clear='all' /><br /> 
 </details>
