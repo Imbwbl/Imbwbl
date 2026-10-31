@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6521373b33448ffd9dcce97fd0dd99d782cdd7d2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b6113affe39fa917cb6eee614de2775a20cffee9">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 30 October 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e985bc148b7e9abc72885572d608d513.png" height='100%' align='left'/>
- Quand tout s'enflamme 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f1838a56f5f6431098bd30da65a4d820.jpg" height='100%' align='left'/>
+ Partis de rien 
 <br/> 
-Années Sauvages 
+Scred Selexion 99/2000 (1) 
 <br/> 
-Georgio
+Scred Connexion
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" height='100%' align='left'/>
- J'ai mal au mic - Remasterisé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/151a682d8b17b647f49ebe6255ea6855.jpg" height='100%' align='left'/>
+ Le Roseau 
 <br/> 
-L'amour est mort (Remasterisé) 
+P-Town 
 <br/> 
-Oxmo Puccino
+Jazzy Bazz
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ae6423fadc2cda82920e69207eb2a218.jpg" height='100%' align='left'/>
- Nés sous la même étoile 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04348e4f19bfba06bfefc75641a1b4e5.jpg" height='100%' align='left'/>
+ M.A.I.R 
 <br/> 
-L'école Du Micro D'argent 
+M.A.I.R 
 <br/> 
-IAM
+Mairo
 </div>
 <br clear='all' /><br /> 
 </details>
