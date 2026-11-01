@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/83d0b9bd3e23e5505e7c5ca8c5ebabd0a3d62ec2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9a59ffa8829dc2a744adc9fd227a4d2c7d3c23e4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
- Tout recommencer (feat. Tessa B) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f2f2a5f3e00c3e8040deed7c67c0db2.jpg" height='100%' align='left'/>
+ Si tu pars 
 <br/> 
-Mental 
+L'histoire sans fin 
 <br/> 
-PLK
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
- Demain 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f2f2a5f3e00c3e8040deed7c67c0db2.jpg" height='100%' align='left'/>
+ Toujours un gamin 
 <br/> 
-2069' 
+L'histoire sans fin 
 <br/> 
-PLK
+BEN plg
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Sex Model 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f2f2a5f3e00c3e8040deed7c67c0db2.jpg" height='100%' align='left'/>
+ Les avions dessinent dans le ciel 
 <br/> 
-Grand Garçon 
+L'histoire sans fin 
 <br/> 
-PLK
+BEN plg
 </div>
 <br clear='all' /><br /> 
 </details>
