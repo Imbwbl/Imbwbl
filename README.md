@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9a59ffa8829dc2a744adc9fd227a4d2c7d3c23e4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/21746a69254aaca4166537eb70b00439f43374af">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f2f2a5f3e00c3e8040deed7c67c0db2.jpg" height='100%' align='left'/>
- Si tu pars 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f16b7c6b76f3c6b723e2ec5b4cdb894b.jpg" height='100%' align='left'/>
+ ATL 
 <br/> 
-L'histoire sans fin 
+BLESSED 
 <br/> 
-BEN plg
+La Mano 1.9
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f2f2a5f3e00c3e8040deed7c67c0db2.jpg" height='100%' align='left'/>
- Toujours un gamin 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7c3b71ff02ca1b45ddd8f3a9dcd34e8a.jpg" height='100%' align='left'/>
+ P.I.B 
 <br/> 
-L'histoire sans fin 
+P.I.B 
 <br/> 
-BEN plg
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f2f2a5f3e00c3e8040deed7c67c0db2.jpg" height='100%' align='left'/>
- Les avions dessinent dans le ciel 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/601e8d1f5139e87bd852902a531d3705.jpg" height='100%' align='left'/>
+ BRACELET 
 <br/> 
-L'histoire sans fin 
+BRACELET 
 <br/> 
-BEN plg
+Ninho
 </div>
 <br clear='all' /><br /> 
 </details>
