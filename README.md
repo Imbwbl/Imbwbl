@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f26a5eb751412d3c92a8732f1013009420a8d626">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/83d0b9bd3e23e5505e7c5ca8c5ebabd0a3d62ec2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 31 October 2026 by github-actions[bot]</h3>
+ <h3>Committed on 01 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 31 October 2026</h3>
+ <h3>Updated on 01 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/55afbecc22d424b44dd11cd33888bbff.jpg" height='100%' align='left'/>
- Argent Sale - A COLORS SHOW 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
+ Tout recommencer (feat. Tessa B) 
 <br/> 
-Argent Sale - A COLORS SHOW 
+Mental 
 <br/> 
-La Rvfleuze
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/faae6fd083c8e4b636b72ab8ffbe0f11.jpg" height='100%' align='left'/>
- Sexy Nana 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
+ Demain 
 <br/> 
-Destinée Supremacy 
+2069' 
 <br/> 
-Aya Nakamura
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6ec5d70d0723a9a5c3ecf7da0678b2da.png" height='100%' align='left'/>
- Fille à Papa 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Sex Model 
 <br/> 
-Fille à Papa 
+Grand Garçon 
 <br/> 
-Vacra
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
