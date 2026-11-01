@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/21746a69254aaca4166537eb70b00439f43374af">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9724e7b094ad620c09ef93bcb54a88965575c9c4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 01 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f16b7c6b76f3c6b723e2ec5b4cdb894b.jpg" height='100%' align='left'/>
- ATL 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ BOOSKA CHAUD COLAT 
 <br/> 
-BLESSED 
-<br/> 
-La Mano 1.9
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7c3b71ff02ca1b45ddd8f3a9dcd34e8a.jpg" height='100%' align='left'/>
- P.I.B 
-<br/> 
-P.I.B 
+BOOSKA CHAUD COLAT 
 <br/> 
 La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/601e8d1f5139e87bd852902a531d3705.jpg" height='100%' align='left'/>
- BRACELET 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
+ MACHIAVEL 
 <br/> 
-BRACELET 
+Numéro d'écrou 
 <br/> 
-Ninho
+La Rvfleuze
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Devin Booker 
+<br/> 
+Devin Booker 
+<br/> 
+JRK 19
 </div>
 <br clear='all' /><br /> 
 </details>
