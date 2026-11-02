@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9c413ec63d13595904f9afc610225f1bd47cb5b1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d8f213b6ba499b22d819b5881fd05189ea9afa7d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 02 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- BOOSKA CHAUD COLAT 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
+ Nouvelles 
 <br/> 
-BOOSKA CHAUD COLAT 
+2069' 
 <br/> 
-La Rvfleuze
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
- MACHIAVEL 
-<br/> 
-Numéro d'écrou 
-<br/> 
-La Rvfleuze
+PLK
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Devin Booker 
+ 600K 
 <br/> 
-Devin Booker 
+600K 
 <br/> 
-JRK 19
+Heuss L'enfoiré
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/33bd13e36ad5d21067c4817379993717.jpg" height='100%' align='left'/>
+ LAUTARO 
+<br/> 
+EALS 
+<br/> 
+La Rvfleuze
 </div>
 <br clear='all' /><br /> 
 </details>
