@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3747cebcdc4f321e312d80ff80f798d88a44f437">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1f7726ccb55fce666e1b2258e30ea516e93f4c42">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 03 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f764aa97256c991b2ed7a163b7eec3.jpg" height='100%' align='left'/>
- Tu sais ... 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
+ Où ça ? 
 <br/> 
-La Vie est Belle 
+On est fait pour ça 
 <br/> 
-Seyté
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" height='100%' align='left'/>
- Iceberg 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/632688982e7c04b2b993a6f2f9d3d808.jpg" height='100%' align='left'/>
+ Bogota 
 <br/> 
-Tant qu'on est là 
+La TN (Team Naps) 
 <br/> 
-Hugo TSR
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/cbb9960ece23576afcd3fbb1b979ce99.jpg" height='100%' align='left'/>
- MAL NECESSAIRE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
+ Favela 
 <br/> 
-MONSIEUR LOYAL 
+À l'instinct 
 <br/> 
-Ziak
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
