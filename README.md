@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/987627c7ff9670692d107c69f0ba9337515d0740">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9f68ee7425264623b370666dc4a71ecf70663caf">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 02 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 03 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 02 November 2026</h3>
+ <h3>Updated on 03 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/15125520669e1ee87666fcc8cc035783.jpg" height='100%' align='left'/>
- La quête 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/cbb9960ece23576afcd3fbb1b979ce99.jpg" height='100%' align='left'/>
+ MONSIEUR LOYAL 
 <br/> 
-Civilisation 
+MONSIEUR LOYAL 
 <br/> 
-Orelsan
+Ziak
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/433269c128f448bdbbff44aa62fff04a.png" height='100%' align='left'/>
- La Terre Est Ronde 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ LES ABSENTS AVAIENT RAISON 
 <br/> 
-Le Chant Des Sirènes 
+LES ABSENTS AVAIENT RAISON 
 <br/> 
-Orelsan
+Ziak
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/760aa72d261ceb9554ff1d754d5de634.jpg" height='100%' align='left'/>
- Encore une fois 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ce83ee5f02c734b3b90b8e17adb7a702.jpg" height='100%' align='left'/>
+ Raspoutine 
 <br/> 
-La fuite en avant 
+Raspoutine 
 <br/> 
-Orelsan
+Ziak
 </div>
 <br clear='all' /><br /> 
 </details>
