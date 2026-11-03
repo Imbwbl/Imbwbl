@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9f68ee7425264623b370666dc4a71ecf70663caf">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3747cebcdc4f321e312d80ff80f798d88a44f437">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 03 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f764aa97256c991b2ed7a163b7eec3.jpg" height='100%' align='left'/>
+ Tu sais ... 
+<br/> 
+La Vie est Belle 
+<br/> 
+Seyté
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/34246cb669c0bcd88e062155c2260045.jpg" height='100%' align='left'/>
+ Iceberg 
+<br/> 
+Tant qu'on est là 
+<br/> 
+Hugo TSR
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/cbb9960ece23576afcd3fbb1b979ce99.jpg" height='100%' align='left'/>
- MONSIEUR LOYAL 
+ MAL NECESSAIRE 
 <br/> 
 MONSIEUR LOYAL 
-<br/> 
-Ziak
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- LES ABSENTS AVAIENT RAISON 
-<br/> 
-LES ABSENTS AVAIENT RAISON 
-<br/> 
-Ziak
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ce83ee5f02c734b3b90b8e17adb7a702.jpg" height='100%' align='left'/>
- Raspoutine 
-<br/> 
-Raspoutine 
 <br/> 
 Ziak
 </div>
