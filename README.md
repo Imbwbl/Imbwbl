@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d8f213b6ba499b22d819b5881fd05189ea9afa7d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/987627c7ff9670692d107c69f0ba9337515d0740">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 02 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
- Nouvelles 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/15125520669e1ee87666fcc8cc035783.jpg" height='100%' align='left'/>
+ La quête 
 <br/> 
-2069' 
+Civilisation 
 <br/> 
-PLK
+Orelsan
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- 600K 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/433269c128f448bdbbff44aa62fff04a.png" height='100%' align='left'/>
+ La Terre Est Ronde 
 <br/> 
-600K 
+Le Chant Des Sirènes 
 <br/> 
-Heuss L'enfoiré
+Orelsan
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/33bd13e36ad5d21067c4817379993717.jpg" height='100%' align='left'/>
- LAUTARO 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/760aa72d261ceb9554ff1d754d5de634.jpg" height='100%' align='left'/>
+ Encore une fois 
 <br/> 
-EALS 
+La fuite en avant 
 <br/> 
-La Rvfleuze
+Orelsan
 </div>
 <br clear='all' /><br /> 
 </details>
