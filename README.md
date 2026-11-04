@@ -9,7 +9,12 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ea765c2744fa24154e2fd77530dc7b1403f2629e">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/murcott/commit/c82634fedab67dd1847603282711541c8f82a919">Initial commit</a></h2>
+ <h3>Repo: murcott</h3>
+ <h3>Committed on 04 November 2026 by Théophile</h3>
+ </div>
+<div>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/720a7d2d36773d0f7237582ea7cca19415539134">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 04 November 2026 by github-actions[bot]</h3>
  </div>
@@ -17,11 +22,6 @@
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
  <h3>Repo: ita-web</h3>
  <h3>Committed on 09 October 2026 by Théophile</h3>
- </div>
-<div>
- <h2><a href="https://github.com/SachaBorodkin/orepmi_web/commit/8da605340960b421997ecbbb2cbfe857165f20a6">ajout des notifications</a></h2>
- <h3>Repo: orepmi_web</h3>
- <h3>Committed on 02 October 2026 by Borodkin Oleksandr Stepanovych</h3>
  </div>
 </div>
 </details>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9bedaacff10da4d962990e6935a99ab4.png" height='100%' align='left'/>
- La grinta 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7de1f48ddd7a80d17ae33cff2755f7d.png" height='100%' align='left'/>
+ Au Top 
 <br/> 
-La grinta 
+Zombie Life (10 Years Anniversary) 
 <br/> 
-SativaMusic
+Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Oasis pétou 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7de1f48ddd7a80d17ae33cff2755f7d.png" height='100%' align='left'/>
+ Slow 
 <br/> 
-Oasis pétou 
+Zombie Life (10 Years Anniversary) 
 <br/> 
-Naps
+Hamza
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5431ce1f401ca506508efcf6e42145d6.jpg" height='100%' align='left'/>
- La danse du roro 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7de1f48ddd7a80d17ae33cff2755f7d.png" height='100%' align='left'/>
+ Hennessy 
 <br/> 
-En temps réel 
+Zombie Life (10 Years Anniversary) 
 <br/> 
-Naps
+Hamza
 </div>
 <br clear='all' /><br /> 
 </details>
