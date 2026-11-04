@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/856f08a5501f2445a0fd55d485bb2f19cf017fcd">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ea765c2744fa24154e2fd77530dc7b1403f2629e">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 03 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 04 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 03 November 2026</h3>
+ <h3>Updated on 04 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" height='100%' align='left'/>
- Mek du binks 
-<br/> 
-Les mains faites pour l'or 
-<br/> 
-Naps
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5431ce1f401ca506508efcf6e42145d6.jpg" height='100%' align='left'/>
- V8 
-<br/> 
-En temps réel 
-<br/> 
-Naps
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9bedaacff10da4d962990e6935a99ab4.png" height='100%' align='left'/>
  La grinta 
 <br/> 
 La grinta 
 <br/> 
 SativaMusic
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Oasis pétou 
+<br/> 
+Oasis pétou 
+<br/> 
+Naps
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5431ce1f401ca506508efcf6e42145d6.jpg" height='100%' align='left'/>
+ La danse du roro 
+<br/> 
+En temps réel 
+<br/> 
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
