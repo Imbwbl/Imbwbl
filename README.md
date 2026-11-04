@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1f7726ccb55fce666e1b2258e30ea516e93f4c42">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/856f08a5501f2445a0fd55d485bb2f19cf017fcd">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 03 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
- Où ça ? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" height='100%' align='left'/>
+ Mek du binks 
 <br/> 
-On est fait pour ça 
-<br/> 
-Naps
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/632688982e7c04b2b993a6f2f9d3d808.jpg" height='100%' align='left'/>
- Bogota 
-<br/> 
-La TN (Team Naps) 
+Les mains faites pour l'or 
 <br/> 
 Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
- Favela 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5431ce1f401ca506508efcf6e42145d6.jpg" height='100%' align='left'/>
+ V8 
 <br/> 
-À l'instinct 
+En temps réel 
 <br/> 
 Naps
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9bedaacff10da4d962990e6935a99ab4.png" height='100%' align='left'/>
+ La grinta 
+<br/> 
+La grinta 
+<br/> 
+SativaMusic
 </div>
 <br clear='all' /><br /> 
 </details>
