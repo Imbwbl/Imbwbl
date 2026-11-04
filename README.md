@@ -9,14 +9,14 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/489be69ffa94379b888815488654098dc97af6f0">:memo: update README.md</a></h2>
+ <h3>Repo: Imbwbl</h3>
+ <h3>Committed on 04 November 2026 by github-actions[bot]</h3>
+ </div>
+<div>
  <h2><a href="https://github.com/Imbwbl/murcott/commit/c82634fedab67dd1847603282711541c8f82a919">Initial commit</a></h2>
  <h3>Repo: murcott</h3>
  <h3>Committed on 04 November 2026 by Théophile</h3>
- </div>
-<div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/720a7d2d36773d0f7237582ea7cca19415539134">:memo: update README.md</a></h2>
- <h3>Repo: Imbwbl</h3>
- <h3>Committed on 04 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/ita-web/commit/b75da4895de82453b45bf877cb8d793827716b67">✨ feat: Integrate WASM addition function and remove unused assets</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7de1f48ddd7a80d17ae33cff2755f7d.png" height='100%' align='left'/>
- Au Top 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg" height='100%' align='left'/>
+ Eventually 
 <br/> 
-Zombie Life (10 Years Anniversary) 
+Currents 
 <br/> 
-Hamza
+Tame Impala
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7de1f48ddd7a80d17ae33cff2755f7d.png" height='100%' align='left'/>
- Slow 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" height='100%' align='left'/>
+ My love (feat. Tayc) 
 <br/> 
-Zombie Life (10 Years Anniversary) 
+HHHH² 
 <br/> 
-Hamza
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7de1f48ddd7a80d17ae33cff2755f7d.png" height='100%' align='left'/>
- Hennessy 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/36a064d8029e4b9c9d52c07961fbeed2.png" height='100%' align='left'/>
+ Call It Fate, Call It Karma 
 <br/> 
-Zombie Life (10 Years Anniversary) 
+Comedown Machine 
 <br/> 
-Hamza
+The Strokes
 </div>
 <br clear='all' /><br /> 
 </details>
