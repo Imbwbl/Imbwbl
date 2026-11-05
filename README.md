@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/489be69ffa94379b888815488654098dc97af6f0">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d46d89471db4258a733f11a5710dad84c4f37ad4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 04 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dd45b0438a315aed98b5830aa2fc43c5.jpg" height='100%' align='left'/>
- Eventually 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e7f5ec92293ba24f9c04a84087bda215.png" height='100%' align='left'/>
+ S31NS 
 <br/> 
-Currents 
+S31NS 
 <br/> 
-Tame Impala
+TKKF
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/897fdad760b492744800deec58cb6244.jpg" height='100%' align='left'/>
- My love (feat. Tayc) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b51ad23fabb170f3cedac7650e99745e.jpg" height='100%' align='left'/>
+ courir courir (feat. TKKF) 
 <br/> 
-HHHH² 
+tout à la fois 
 <br/> 
-Josman
+Satine
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/36a064d8029e4b9c9d52c07961fbeed2.png" height='100%' align='left'/>
- Call It Fate, Call It Karma 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f2ca525150a1b86bc3d5ea06f9bda242.png" height='100%' align='left'/>
+ T55F 
 <br/> 
-Comedown Machine 
+T55F 
 <br/> 
-The Strokes
+55ASKY
 </div>
 <br clear='all' /><br /> 
 </details>
