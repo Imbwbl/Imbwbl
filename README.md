@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d46d89471db4258a733f11a5710dad84c4f37ad4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9283a7deccd500f91b7044e4146bf8f12c88e8d5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 04 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 05 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/murcott/commit/c82634fedab67dd1847603282711541c8f82a919">Initial commit</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 04 November 2026</h3>
+ <h3>Updated on 05 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e7f5ec92293ba24f9c04a84087bda215.png" height='100%' align='left'/>
- S31NS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1301ed0801bba83e6fc592a9cb55cb4d.jpg" height='100%' align='left'/>
+ Georgina 
 <br/> 
-S31NS 
+Georgina 
 <br/> 
-TKKF
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b51ad23fabb170f3cedac7650e99745e.jpg" height='100%' align='left'/>
- courir courir (feat. TKKF) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
+ 6.3 
 <br/> 
-tout à la fois 
+Carré VIP 
 <br/> 
-Satine
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f2ca525150a1b86bc3d5ea06f9bda242.png" height='100%' align='left'/>
- T55F 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" height='100%' align='left'/>
+ La kiffance 
 <br/> 
-T55F 
+Les mains faites pour l'or 
 <br/> 
-55ASKY
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
