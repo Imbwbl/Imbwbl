@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/16d19ddd7e2f384af88df463d94c58856f93bc04">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e637f7098e822b968b9afc64c95711659d0b9236">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 06 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,6 +67,14 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/48b0a77053a540d59a6a283fb2370629.jpg" height='100%' align='left'/>
+ Equilibre 
+<br/> 
+16 pièces 
+<br/> 
+Hocus Pocus
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
  Revenants 
 <br/> 
@@ -81,14 +89,6 @@ Absolem
 Drôle d'oiseau 
 <br/> 
 Isha
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
- L'enfant seul - Remasterisé 
-<br/> 
-Opéra Puccino (Edition Collector) 
-<br/> 
-Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
