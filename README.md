@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5c44959d4546ee4a80a9334985a2603bf818ce88">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/01fc81a0b3180c3097112cd3f3fe704b19482355">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 05 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 06 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/pw04ast-TonyThomas/P-Web-DB-294-Frontend/commit/16db485705616bfab9562439597ab01f37706c27">fix(service): jsp</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 05 November 2026</h3>
+ <h3>Updated on 06 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ddb9d90cc24b59d7dff8fa4ff79f2181.jpg" height='100%' align='left'/>
- Rachel 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7c3b71ff02ca1b45ddd8f3a9dcd34e8a.jpg" height='100%' align='left'/>
+ P.I.B 
 <br/> 
-Rachel 
+P.I.B 
 <br/> 
-Dayarga
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
- Oxmose 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/601e8d1f5139e87bd852902a531d3705.jpg" height='100%' align='left'/>
+ BRACELET 
 <br/> 
-444 Nuits 
+BRACELET 
 <br/> 
-Népal
+Ninho
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
- RAP RAFALE, Pt. 2 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
+ PROMENADE 
 <br/> 
-FCK LABEL MACHINE 
+Numéro d'écrou 
 <br/> 
-LeDouble
+La Rvfleuze
 </div>
 <br clear='all' /><br /> 
 </details>
