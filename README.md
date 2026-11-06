@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/01fc81a0b3180c3097112cd3f3fe704b19482355">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/16d19ddd7e2f384af88df463d94c58856f93bc04">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 06 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7c3b71ff02ca1b45ddd8f3a9dcd34e8a.jpg" height='100%' align='left'/>
- P.I.B 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
+ Revenants 
 <br/> 
-P.I.B 
+Double Impact 
 <br/> 
-La Rvfleuze
+Absolem
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/601e8d1f5139e87bd852902a531d3705.jpg" height='100%' align='left'/>
- BRACELET 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8759ec6acc8deeffa718c9b08bc9832a.png" height='100%' align='left'/>
+ F*ck le mainstream 
 <br/> 
-BRACELET 
+Drôle d'oiseau 
 <br/> 
-Ninho
+Isha
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
- PROMENADE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
+ L'enfant seul - Remasterisé 
 <br/> 
-Numéro d'écrou 
+Opéra Puccino (Edition Collector) 
 <br/> 
-La Rvfleuze
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
