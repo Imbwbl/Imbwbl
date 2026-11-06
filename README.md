@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/331d6740a1711eb89acc4a8242c7a7711f3451b6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5c44959d4546ee4a80a9334985a2603bf818ce88">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 05 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bdb7e1991c26e486f4aecd715aa70d37.png" height='100%' align='left'/>
- Effet mer 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ddb9d90cc24b59d7dff8fa4ff79f2181.jpg" height='100%' align='left'/>
+ Rachel 
 <br/> 
-Plus fort que l'orage 
+Rachel 
 <br/> 
-Bekar
+Dayarga
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- le premier amour de mon premier amour 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6544459f58b1554651a5cb81d571d496.jpg" height='100%' align='left'/>
+ Oxmose 
 <br/> 
-le premier amour de mon premier amour 
+444 Nuits 
 <br/> 
-Morphée
+Népal
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/476b921aaa3307aaabc719d91d8df18a.jpg" height='100%' align='left'/>
- Un mec bien 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
+ RAP RAFALE, Pt. 2 
 <br/> 
-Un mec bien 
+FCK LABEL MACHINE 
 <br/> 
-el bobby
+LeDouble
 </div>
 <br clear='all' /><br /> 
 </details>
