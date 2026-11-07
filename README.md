@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9771489d9ed9a083a646d7c7a1d1754400bf2973">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0a8afb52b41e46856daedb47921de80506234b28">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
- Revenants 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0ad64b45428865bb8540ea64642f29af.jpg" height='100%' align='left'/>
+ KAT (feat. La Rvfleuze) 
 <br/> 
-Double Impact 
+KAT (feat. La Rvfleuze) 
 <br/> 
-Absolem
+Gazo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8759ec6acc8deeffa718c9b08bc9832a.png" height='100%' align='left'/>
- F*ck le mainstream 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
+ 312-391 
 <br/> 
-Drôle d'oiseau 
+Numéro d'écrou 
 <br/> 
-Isha
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
- L'enfant seul - Remasterisé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bddc573e2607ea53ce1827957ee1e173.jpg" height='100%' align='left'/>
+ Connexion Macabre 
 <br/> 
-Opéra Puccino (Edition Collector) 
+Connexion macabre 
 <br/> 
-Oxmo Puccino
+La Rvfleuze
 </div>
 <br clear='all' /><br /> 
 </details>
