@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e637f7098e822b968b9afc64c95711659d0b9236">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/554952bcdd3498a5c661e472e5c65e0be4fe2d61">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 06 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,10 +67,10 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/48b0a77053a540d59a6a283fb2370629.jpg" height='100%' align='left'/>
- Equilibre 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bed4bcaf17ce4f78b7b754e7c0b0a0f5.jpg" height='100%' align='left'/>
+ Quitte A T'Aimer 
 <br/> 
-16 pièces 
+Place 54 
 <br/> 
 Hocus Pocus
 </div>
