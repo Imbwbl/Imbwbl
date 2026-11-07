@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/554952bcdd3498a5c661e472e5c65e0be4fe2d61">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9771489d9ed9a083a646d7c7a1d1754400bf2973">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 06 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 07 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/pw04ast-TonyThomas/P-Web-DB-294-Frontend/commit/16db485705616bfab9562439597ab01f37706c27">fix(service): jsp</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 06 November 2026</h3>
+ <h3>Updated on 07 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,14 +67,6 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bed4bcaf17ce4f78b7b754e7c0b0a0f5.jpg" height='100%' align='left'/>
- Quitte A T'Aimer 
-<br/> 
-Place 54 
-<br/> 
-Hocus Pocus
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
  Revenants 
 <br/> 
@@ -89,6 +81,14 @@ Absolem
 Drôle d'oiseau 
 <br/> 
 Isha
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
+ L'enfant seul - Remasterisé 
+<br/> 
+Opéra Puccino (Edition Collector) 
+<br/> 
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
