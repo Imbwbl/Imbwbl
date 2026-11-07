@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/816bc5442eae45bc22bc4d22751b37daf24c6507">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/cf42bc5c5cd5ec2b6384a77b95e8addf036b6ff6">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/43a2fb50c54a95bceaee3cc24c6dc945.png" height='100%' align='left'/>
- Chirurgie 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3c6359d3602093f747c1d1bb24ab0a87.jpg" height='100%' align='left'/>
+ Une chanson 
 <br/> 
-Chirurgie 
+Libre 
 <br/> 
-La Rvfleuze
+Seyté
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7e4807de9112365bdf1390c474a17a21.jpg" height='100%' align='left'/>
- Serrure #3 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
+ Émotif (Booska 1H) 
 <br/> 
-Serrure #3 
+Polak 
 <br/> 
-La Rvfleuze
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5701010ea087d1ef89c0901702a596bd.jpg" height='100%' align='left'/>
- Lewis Hamilton 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" height='100%' align='left'/>
+ Hubert et Saïd 
 <br/> 
-Lewis Hamilton 
+Enna Boost 
 <br/> 
-La Rvfleuze
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
