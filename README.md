@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0a8afb52b41e46856daedb47921de80506234b28">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/816bc5442eae45bc22bc4d22751b37daf24c6507">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0ad64b45428865bb8540ea64642f29af.jpg" height='100%' align='left'/>
- KAT (feat. La Rvfleuze) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/43a2fb50c54a95bceaee3cc24c6dc945.png" height='100%' align='left'/>
+ Chirurgie 
 <br/> 
-KAT (feat. La Rvfleuze) 
-<br/> 
-Gazo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
- 312-391 
-<br/> 
-Numéro d'écrou 
+Chirurgie 
 <br/> 
 La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bddc573e2607ea53ce1827957ee1e173.jpg" height='100%' align='left'/>
- Connexion Macabre 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7e4807de9112365bdf1390c474a17a21.jpg" height='100%' align='left'/>
+ Serrure #3 
 <br/> 
-Connexion macabre 
+Serrure #3 
+<br/> 
+La Rvfleuze
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5701010ea087d1ef89c0901702a596bd.jpg" height='100%' align='left'/>
+ Lewis Hamilton 
+<br/> 
+Lewis Hamilton 
 <br/> 
 La Rvfleuze
 </div>
