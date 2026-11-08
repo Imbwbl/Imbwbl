@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d3d78c502cecc8eaee77505e84b8e9c98ef34d38">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/53dcd3c2c6d6b01bf63aa90291210a9e8bd587b8">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 07 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 08 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/pw04ast-TonyThomas/P-Web-DB-294-Frontend/commit/16db485705616bfab9562439597ab01f37706c27">fix(service): jsp</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 07 November 2026</h3>
+ <h3>Updated on 08 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Ema 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1301ed0801bba83e6fc592a9cb55cb4d.jpg" height='100%' align='left'/>
+ Georgina 
 <br/> 
-Ema 
+Georgina 
 <br/> 
-Romsii
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/760aa72d261ceb9554ff1d754d5de634.jpg" height='100%' align='left'/>
- Encore une fois 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
+ Monica 
 <br/> 
-La fuite en avant 
+Carré VIP 
 <br/> 
-Orelsan
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bdd592353c7075e6d926caf5d05cff35.png" height='100%' align='left'/>
- Doudou 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/601e8d1f5139e87bd852902a531d3705.jpg" height='100%' align='left'/>
+ BRACELET 
 <br/> 
-Cartel : volume 1 & 2 
+BRACELET 
 <br/> 
-Koba LaD
+Ninho
 </div>
 <br clear='all' /><br /> 
 </details>
