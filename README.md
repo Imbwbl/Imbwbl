@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/cf42bc5c5cd5ec2b6384a77b95e8addf036b6ff6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d3d78c502cecc8eaee77505e84b8e9c98ef34d38">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 07 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3c6359d3602093f747c1d1bb24ab0a87.jpg" height='100%' align='left'/>
- Une chanson 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Ema 
 <br/> 
-Libre 
+Ema 
 <br/> 
-Seyté
+Romsii
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6db88e7a2eac43a2746b54855250018d.jpg" height='100%' align='left'/>
- Émotif (Booska 1H) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/760aa72d261ceb9554ff1d754d5de634.jpg" height='100%' align='left'/>
+ Encore une fois 
 <br/> 
-Polak 
+La fuite en avant 
 <br/> 
-PLK
+Orelsan
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" height='100%' align='left'/>
- Hubert et Saïd 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bdd592353c7075e6d926caf5d05cff35.png" height='100%' align='left'/>
+ Doudou 
 <br/> 
-Enna Boost 
+Cartel : volume 1 & 2 
 <br/> 
-PLK
+Koba LaD
 </div>
 <br clear='all' /><br /> 
 </details>
