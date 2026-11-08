@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/53dcd3c2c6d6b01bf63aa90291210a9e8bd587b8">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6fff2d94db53eb5fa4a0ae68febbc3becf08eb00">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 08 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1301ed0801bba83e6fc592a9cb55cb4d.jpg" height='100%' align='left'/>
- Georgina 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0af1e2069fd2b9e64c85231229ebd515.jpg" height='100%' align='left'/>
+ Serrure #1 
 <br/> 
-Georgina 
+Serrure #1 
 <br/> 
-Naps
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
- Monica 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
+ Serrure #667 
 <br/> 
-Carré VIP 
+Numéro d'écrou 
 <br/> 
-Naps
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/601e8d1f5139e87bd852902a531d3705.jpg" height='100%' align='left'/>
- BRACELET 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/33bd13e36ad5d21067c4817379993717.jpg" height='100%' align='left'/>
+ VMA 
 <br/> 
-BRACELET 
+EALS 
 <br/> 
-Ninho
+La Rvfleuze
 </div>
 <br clear='all' /><br /> 
 </details>
