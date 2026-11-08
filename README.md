@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6fff2d94db53eb5fa4a0ae68febbc3becf08eb00">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/074351dd8edf248884eae43f388415d3c9149613">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 08 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0af1e2069fd2b9e64c85231229ebd515.jpg" height='100%' align='left'/>
- Serrure #1 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Ah ahah 
 <br/> 
-Serrure #1 
+Ah ahah 
 <br/> 
-La Rvfleuze
+Fresh laDouille
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
- Serrure #667 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/00028d7d4c6c5cc5081b203598e9bdad.jpg" height='100%' align='left'/>
+ LOCO LOCO 
 <br/> 
-Numéro d'écrou 
+LOCO LOCO 
 <br/> 
-La Rvfleuze
+Gambi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/33bd13e36ad5d21067c4817379993717.jpg" height='100%' align='left'/>
- VMA 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ KITTEN HEELS 
 <br/> 
-EALS 
+KITTEN HEELS 
 <br/> 
-La Rvfleuze
+Gambi
 </div>
 <br clear='all' /><br /> 
 </details>
