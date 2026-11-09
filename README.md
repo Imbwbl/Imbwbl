@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/920ff48ae298543d4c0d9234f74959f449030539">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/388c2df59e74d2c0c731e0763ca4378100516b51">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bc4202b19c488be8ca759874faa8548a.jpg" height='100%' align='left'/>
- Falling Behind 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
+ Just a Girl 
 <br/> 
-Everything I Know About Love 
+Tragic Kingdom 
 <br/> 
-Laufey
+No Doubt
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3c1e15ec9e463e8387ebfcdafcc44707.jpg" height='100%' align='left'/>
- Rendez-vous fenêtre 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f764aa97256c991b2ed7a163b7eec3.jpg" height='100%' align='left'/>
+ Les Oiseaux s'envolent 
 <br/> 
-Station Paradiso 
+La Vie est Belle 
 <br/> 
-A6el
+Seyté
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- TU DEVIENS QUOI EN CE MOMENT ? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Jamie Bynoe-Gittens 
 <br/> 
-TU DEVIENS QUOI EN CE MOMENT ? 
+Grand Garçon 
 <br/> 
-poissonchat
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
