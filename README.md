@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b09dc879636b2ef27e8c0bb0570d95a9ee0ca418">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/920ff48ae298543d4c0d9234f74959f449030539">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 08 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 09 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/pw04ast-TonyThomas/P-Web-DB-294-Frontend/commit/16db485705616bfab9562439597ab01f37706c27">fix(service): jsp</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 08 November 2026</h3>
+ <h3>Updated on 09 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" height='100%' align='left'/>
- Pas rose 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bc4202b19c488be8ca759874faa8548a.jpg" height='100%' align='left'/>
+ Falling Behind 
 <br/> 
-L'hiver 
+Everything I Know About Love 
 <br/> 
-Saïf
+Laufey
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c40d50eef84ea3bb653b913ba9a1e915.png" height='100%' align='left'/>
- RAP d’arabe 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/3c1e15ec9e463e8387ebfcdafcc44707.jpg" height='100%' align='left'/>
+ Rendez-vous fenêtre 
 <br/> 
-RAP d’arabe 
+Station Paradiso 
 <br/> 
-Saïf
+A6el
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" height='100%' align='left'/>
- Medusa 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-L'hiver 
+TU DEVIENS QUOI EN CE MOMENT ? 
 <br/> 
-Saïf
+poissonchat
 </div>
 <br clear='all' /><br /> 
 </details>
