@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/074351dd8edf248884eae43f388415d3c9149613">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b09dc879636b2ef27e8c0bb0570d95a9ee0ca418">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 08 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Ah ahah 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" height='100%' align='left'/>
+ Pas rose 
 <br/> 
-Ah ahah 
+L'hiver 
 <br/> 
-Fresh laDouille
+Saïf
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/00028d7d4c6c5cc5081b203598e9bdad.jpg" height='100%' align='left'/>
- LOCO LOCO 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c40d50eef84ea3bb653b913ba9a1e915.png" height='100%' align='left'/>
+ RAP d’arabe 
 <br/> 
-LOCO LOCO 
+RAP d’arabe 
 <br/> 
-Gambi
+Saïf
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- KITTEN HEELS 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/338f75a0f29e97802abfcf1af8b9fc31.jpg" height='100%' align='left'/>
+ Medusa 
 <br/> 
-KITTEN HEELS 
+L'hiver 
 <br/> 
-Gambi
+Saïf
 </div>
 <br clear='all' /><br /> 
 </details>
