@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/cb5a241375e4c3f329ba68c00a81614003d4c0ab">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e926639a4070eae302afbb6d6324df2b4f714d3b">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/632688982e7c04b2b993a6f2f9d3d808.jpg" height='100%' align='left'/>
- Vamos 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0ad64b45428865bb8540ea64642f29af.jpg" height='100%' align='left'/>
+ KAT (feat. La Rvfleuze) 
 <br/> 
-La TN (Team Naps) 
+KAT (feat. La Rvfleuze) 
 <br/> 
-Naps
+Gazo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/10062f04f41152def6db33f10b45d5a7.jpg" height='100%' align='left'/>
- T-Shirt croco 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bddc573e2607ea53ce1827957ee1e173.jpg" height='100%' align='left'/>
+ Connexion Macabre 
 <br/> 
-Pochon bleu 
+Connexion macabre 
 <br/> 
-Naps
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
- Où ça ? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
+ Jamie Bynoe-Gittens 
 <br/> 
-On est fait pour ça 
+Grand Garçon 
 <br/> 
-Naps
+PLK
 </div>
 <br clear='all' /><br /> 
 </details>
