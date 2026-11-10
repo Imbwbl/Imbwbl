@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/388c2df59e74d2c0c731e0763ca4378100516b51">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/75000c237490fad68d89de046b9ab86214bee1b5">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 09 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Just a Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/7c3b71ff02ca1b45ddd8f3a9dcd34e8a.jpg" height='100%' align='left'/>
+ P.I.B 
 <br/> 
-Tragic Kingdom 
+P.I.B 
 <br/> 
-No Doubt
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/84f764aa97256c991b2ed7a163b7eec3.jpg" height='100%' align='left'/>
- Les Oiseaux s'envolent 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/601e8d1f5139e87bd852902a531d3705.jpg" height='100%' align='left'/>
+ BRACELET 
 <br/> 
-La Vie est Belle 
+BRACELET 
 <br/> 
-Seyté
+Ninho
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Jamie Bynoe-Gittens 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
+ PROMENADE 
 <br/> 
-Grand Garçon 
+Numéro d'écrou 
 <br/> 
-PLK
+La Rvfleuze
 </div>
 <br clear='all' /><br /> 
 </details>
