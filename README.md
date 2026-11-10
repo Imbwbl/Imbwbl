@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e926639a4070eae302afbb6d6324df2b4f714d3b">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/be3a3e99cd4fdae29ad93f0ca9499e4727b6ef08">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 10 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0ad64b45428865bb8540ea64642f29af.jpg" height='100%' align='left'/>
- KAT (feat. La Rvfleuze) 
-<br/> 
-KAT (feat. La Rvfleuze) 
-<br/> 
-Gazo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bddc573e2607ea53ce1827957ee1e173.jpg" height='100%' align='left'/>
- Connexion Macabre 
-<br/> 
-Connexion macabre 
-<br/> 
-La Rvfleuze
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Jamie Bynoe-Gittens 
+ Sex Model 
 <br/> 
 Grand Garçon 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ce5ced087b9fd2f9472757b714cdaf2.jpg" height='100%' align='left'/>
+ Faut pas 
+<br/> 
+Chambre 140 (Part.3) 
+<br/> 
+PLK
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/95428be390ce575acc56cd504cf745fc.jpg" height='100%' align='left'/>
+ Attentat 
+<br/> 
+Enna Boost 
 <br/> 
 PLK
 </div>
