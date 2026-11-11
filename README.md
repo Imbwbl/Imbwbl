@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5a96d7d11632ac40aa89ab86d176552c85842ee7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4a97b9af6202c472a6167bb3514960e304de2010">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4646a345917cae2fe4c63e4927f14b61.jpg" height='100%' align='left'/>
- Bad Vibes Forever (feat. PnB Rock & Trippie Redd) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
+ Polo kenzo 
 <br/> 
-Bad Vibes Forever 
+On est fait pour ça 
 <br/> 
-XXXTENTACION
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c678ba5d90d9d3472965d265bcce826b.jpg" height='100%' align='left'/>
- True Love 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
+ Ma Bella 
 <br/> 
-True Love 
+À l'instinct 
 <br/> 
-Kanye West
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/19b94be3c2e7086143751bf53dd5699a.png" height='100%' align='left'/>
- BAD! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ T'AS FAIT LE CON 
 <br/> 
-SKINS 
+T'AS FAIT LE CON 
 <br/> 
-XXXTENTACION
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
