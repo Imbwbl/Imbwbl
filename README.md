@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8349ada275eba129527acfe14bbc61d95063fdd7">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2bae62b6280a6739798092e91017a92184112f05">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 10 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 11 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/pw04ast-TonyThomas/P-Web-DB-294-Frontend/commit/16db485705616bfab9562439597ab01f37706c27">fix(service): jsp</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 10 November 2026</h3>
+ <h3>Updated on 11 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2cb46cd27aa080dafda675563fb70efd.jpg" height='100%' align='left'/>
- Jamie Bynoe-Gittens 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
+ MACHIAVEL 
 <br/> 
-Grand Garçon 
+Numéro d'écrou 
 <br/> 
-PLK
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8fe828fa213a0f0cdea58d5bbd836a43.jpg" height='100%' align='left'/>
- Nouvelles 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/43a2fb50c54a95bceaee3cc24c6dc945.png" height='100%' align='left'/>
+ Chirurgie 
 <br/> 
-2069' 
+Chirurgie 
 <br/> 
-PLK
+La Rvfleuze
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c7de1f48ddd7a80d17ae33cff2755f7d.png" height='100%' align='left'/>
- Détails 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Devin Booker 
 <br/> 
-Zombie Life (10 Years Anniversary) 
+Devin Booker 
 <br/> 
-Hamza
+JRK 19
 </div>
 <br clear='all' /><br /> 
 </details>
