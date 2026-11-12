@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/4a97b9af6202c472a6167bb3514960e304de2010">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9c729a3e2bcda7537d7408419f8de72e7ce6fb80">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 11 November 2026 by github-actions[bot]</h3>
  </div>
@@ -68,25 +68,25 @@
     <br />
     <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
- Polo kenzo 
+ Où ça ? 
 <br/> 
 On est fait pour ça 
 <br/> 
 Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
- Ma Bella 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/632688982e7c04b2b993a6f2f9d3d808.jpg" height='100%' align='left'/>
+ Bogota 
 <br/> 
-À l'instinct 
+La TN (Team Naps) 
 <br/> 
 Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- T'AS FAIT LE CON 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
+ Favela 
 <br/> 
-T'AS FAIT LE CON 
+À l'instinct 
 <br/> 
 Naps
 </div>
