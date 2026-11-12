@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9c729a3e2bcda7537d7408419f8de72e7ce6fb80">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/9ddb65548c39d932a490c4874eac4722f5beaca4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 11 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 12 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/pw04ast-TonyThomas/P-Web-DB-294-Frontend/commit/16db485705616bfab9562439597ab01f37706c27">fix(service): jsp</a></h2>
@@ -33,7 +33,7 @@
     <br />
     <div align="center"><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 11 November 2026</h3>
+ <h3>Updated on 12 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
- Où ça ? 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" height='100%' align='left'/>
+ Dans le vide 
 <br/> 
-On est fait pour ça 
+Matrix 
 <br/> 
-Naps
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/632688982e7c04b2b993a6f2f9d3d808.jpg" height='100%' align='left'/>
- Bogota 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" height='100%' align='left'/>
+ J'AIME BIEN! 
 <br/> 
-La TN (Team Naps) 
+J.O.$ 
 <br/> 
-Naps
+Josman
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
- Favela 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" height='100%' align='left'/>
+ XS 
 <br/> 
-À l'instinct 
+J.O.$ 
 <br/> 
-Naps
+Josman
 </div>
 <br clear='all' /><br /> 
 </details>
