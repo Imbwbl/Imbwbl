@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6f1c680743181affb6f1a3ef4113911bf67c9fc6">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5f0119e03771ab2ede8d59a39dd2dacaea9fbfde">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 12 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 13 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/murcott/commit/1c56e5714a25b5fd6003301c8fa00ed1bec9c0a0">🔧 config: Configure Clippy lints in Cargo.toml</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4e66435b27304b79ee6e91f8e86ed369.jpg" height='100%' align='left'/>
- Au Bout 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e4ecd32d08c4669c4ddf057baaa87938.jpg" height='100%' align='left'/>
+ fuck love 
 <br/> 
-000$ 
+17 
 <br/> 
-Josman
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- BLUES 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" height='100%' align='left'/>
+ HOPE 
 <br/> 
-BLUES 
+? 
 <br/> 
-LUVBFK
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94781d2336060d1ec3e91240ce1f7033.jpg" height='100%' align='left'/>
- J'ai mal au mic - Remasterisé 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0f6c7e1323f12f50659c072eda4749bd.png" height='100%' align='left'/>
+ Falling Down - Bonus Track 
 <br/> 
-L'amour est mort (Remasterisé) 
+Come Over When You're Sober, Pt. 2 
 <br/> 
-Oxmo Puccino
+Lil Peep
 </div>
 <br clear='all' /><br /> 
 </details>
