@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/afc9fc8196fc374328e1903f95cf3f7a3313e223">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/c1e6bae718453f74cfd88538c027b35174eac909">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 13 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Braquage à l africaine 667 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0342a250b09e9bcc1c83e8aba844d677.jpg" height='100%' align='left'/>
+ 1h55 
 <br/> 
-Braquage à l africaine 667 
+BDLM VOL.1 
 <br/> 
-Sazamyzy
+Tiakola
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/c4ffb0a22bb5157eee9c77fdcb0b56d8.jpg" height='100%' align='left'/>
- CARTIER 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
+ Pilote (feat. Hamza) 
 <br/> 
-RIYAD SADIO 
+Enna 
 <br/> 
-Freeze Corleone
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ee8e2488efcc8e6a7beef9426a37f11e.jpg" height='100%' align='left'/>
- Sacrifice de Masse 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" height='100%' align='left'/>
+ Life 
 <br/> 
-Projet Blue Beam 
+1994 
 <br/> 
-Freeze Corleone
+Hamza
 </div>
 <br clear='all' /><br /> 
 </details>
