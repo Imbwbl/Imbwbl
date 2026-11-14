@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ebe98fab4a090fb14b7efc494ad53952ecee4435">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/deff45de37bedba1893c7c5d429aac4a2786eed4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0342a250b09e9bcc1c83e8aba844d677.jpg" height='100%' align='left'/>
- 1h55 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/62e4b5e3a6bcaba85336d8cfc6147602.jpg" height='100%' align='left'/>
+ Rap catéchisme 
 <br/> 
-BDLM VOL.1 
+LMF 
 <br/> 
-Tiakola
+Freeze Corleone
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c0ab623fc850a37e8110ae1c7685fff.jpg" height='100%' align='left'/>
- Pilote (feat. Hamza) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bde9faacddcc9a49757e0daedecaf620.jpg" height='100%' align='left'/>
+ GUIZ CORLEONE 
 <br/> 
-Enna 
+La Tanière 
 <br/> 
-PLK
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8967741cd1a99f6e18415e413c5d6ac9.jpg" height='100%' align='left'/>
- Life 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e065dcf768f2310df6bbf6322f6c029d.jpg" height='100%' align='left'/>
+ Desiigner - A COLORS SHOW 
 <br/> 
-1994 
+Desiigner - A COLORS SHOW 
 <br/> 
-Hamza
+Freeze Corleone
 </div>
 <br clear='all' /><br /> 
 </details>
