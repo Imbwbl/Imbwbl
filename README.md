@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6bacc5e036a2422772141941e3bc47728d20fdfc">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f18c0c97dc2c52d5ddb64cf8404cd47c55163d54">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 14 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4822b8c62e382da54fba5adb646ee147.jpg" height='100%' align='left'/>
- Ain't No Mountain High Enough 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2c4bdd81a949be43bdf3be58b570f9b6.jpg" height='100%' align='left'/>
+ Should I Stay or Should I Go - remastered 
 <br/> 
-United 
+Combat Rock (Remastered) 
 <br/> 
-Marvin Gaye
+The Clash
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- LA BELLE E(S)T LA BETE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1229c66a9ea91ad1aac178defa633ce7.jpg" height='100%' align='left'/>
+ Baby, I Love Your Way 
 <br/> 
-SOLEIL 
+Unity 
 <br/> 
-Morphée
+Big Mountain
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/622255085f5e7325eb89de4027f47f9e.jpg" height='100%' align='left'/>
- LA GRAND MERE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f9a940f72bf179647d24bc4bbac90add.jpg" height='100%' align='left'/>
+ September 
 <br/> 
-FCK LABEL MACHINE 
+September (sped up + slowed) 
 <br/> 
-LeDouble
+Earth, Wind & Fire
 </div>
 <br clear='all' /><br /> 
 </details>
