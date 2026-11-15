@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b74e2a822c009743a707f6aca461be3782850c40">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8985e177dad59479e3591774a6152c5d5cfe3b5f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0005590f928164e9cca241617b923300.jpg" height='100%' align='left'/>
- Voldemort 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bb69e3ac8e26344a522c08a08be9ba15.jpg" height='100%' align='left'/>
+ Ferrero (feat. Gambi) 
 <br/> 
-ADC 
+SAISON 2 
 <br/> 
-Freeze Corleone
+Kerchak
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ee8e2488efcc8e6a7beef9426a37f11e.jpg" height='100%' align='left'/>
- Baton Rouge 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/929724bf57ca60029d36bf421a511450.png" height='100%' align='left'/>
+ GOUMIN 
 <br/> 
-Projet Blue Beam 
+GOUMIN 
 <br/> 
-Freeze Corleone
+Gambi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/62e4b5e3a6bcaba85336d8cfc6147602.jpg" height='100%' align='left'/>
- Chen Laden 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/72962be28107c36ece32b7abd324ae43.jpg" height='100%' align='left'/>
+ Bonjour 
 <br/> 
-LMF 
+Bonjour 
 <br/> 
-Freeze Corleone
+Gambi
 </div>
 <br clear='all' /><br /> 
 </details>
