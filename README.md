@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f18c0c97dc2c52d5ddb64cf8404cd47c55163d54">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b74e2a822c009743a707f6aca461be3782850c40">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 14 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 15 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app/commit/2667a600d808696fbce3f7f6015bed11138afbdb">🔧 chore: Update frontend/vite.config.ts</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2c4bdd81a949be43bdf3be58b570f9b6.jpg" height='100%' align='left'/>
- Should I Stay or Should I Go - remastered 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0005590f928164e9cca241617b923300.jpg" height='100%' align='left'/>
+ Voldemort 
 <br/> 
-Combat Rock (Remastered) 
+ADC 
 <br/> 
-The Clash
+Freeze Corleone
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1229c66a9ea91ad1aac178defa633ce7.jpg" height='100%' align='left'/>
- Baby, I Love Your Way 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ee8e2488efcc8e6a7beef9426a37f11e.jpg" height='100%' align='left'/>
+ Baton Rouge 
 <br/> 
-Unity 
+Projet Blue Beam 
 <br/> 
-Big Mountain
+Freeze Corleone
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f9a940f72bf179647d24bc4bbac90add.jpg" height='100%' align='left'/>
- September 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/62e4b5e3a6bcaba85336d8cfc6147602.jpg" height='100%' align='left'/>
+ Chen Laden 
 <br/> 
-September (sped up + slowed) 
+LMF 
 <br/> 
-Earth, Wind & Fire
+Freeze Corleone
 </div>
 <br clear='all' /><br /> 
 </details>
