@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8985e177dad59479e3591774a6152c5d5cfe3b5f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3c3e7c1a3535912cb98edc466958aa4a0be58958">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bb69e3ac8e26344a522c08a08be9ba15.jpg" height='100%' align='left'/>
- Ferrero (feat. Gambi) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/19b94be3c2e7086143751bf53dd5699a.png" height='100%' align='left'/>
+ I Don't Let Go 
 <br/> 
-SAISON 2 
+SKINS 
 <br/> 
-Kerchak
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/929724bf57ca60029d36bf421a511450.png" height='100%' align='left'/>
- GOUMIN 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b2c7b9dc2249201b88e5b954c4457054.jpg" height='100%' align='left'/>
+ Black Beatles 
 <br/> 
-GOUMIN 
+SremmLife 2 (Deluxe) 
 <br/> 
-Gambi
+Rae Sremmurd
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/72962be28107c36ece32b7abd324ae43.jpg" height='100%' align='left'/>
- Bonjour 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b99fa4b5cf3a2cd7974ffd139c7250fc.jpg" height='100%' align='left'/>
+ The Box 
 <br/> 
-Bonjour 
+Please Excuse Me for Being Antisocial 
 <br/> 
-Gambi
+Roddy Ricch
 </div>
 <br clear='all' /><br /> 
 </details>
