@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/58d0854f5d409be00e355d64f8db638e559a1ae3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a8ce61a8c86705b42af614bb91ba852934918b54">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87f50e8a7593ba1e49e7a6cb4bfe2c01.jpg" height='100%' align='left'/>
- Poster 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bde9faacddcc9a49757e0daedecaf620.jpg" height='100%' align='left'/>
+ GUIZ CORLEONE 
 <br/> 
-Muse 
+La Tanière 
 <br/> 
-Dalí
+Guizmo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a5661756620d1e353b4164782dd91e2f.jpg" height='100%' align='left'/>
- Chanel 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0005590f928164e9cca241617b923300.jpg" height='100%' align='left'/>
+ Jour de plus 
 <br/> 
-400% 
+ADC 
 <br/> 
-Romsii
+Freeze Corleone
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Elle panique (encore) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/34be53af4767e0e360901c395b667196.jpg" height='100%' align='left'/>
+ Polémique 
 <br/> 
-Elle panique (encore) 
+Polémique 
 <br/> 
-Errel
+Freeze Corleone
 </div>
 <br clear='all' /><br /> 
 </details>
