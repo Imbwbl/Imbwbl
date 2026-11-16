@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/3c3e7c1a3535912cb98edc466958aa4a0be58958">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5910caf65c83d83134b336a0b1c219ee36dbef65">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 15 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/19b94be3c2e7086143751bf53dd5699a.png" height='100%' align='left'/>
- I Don't Let Go 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d2e5f9374b3caa052e36e0f223c6cd68.jpg" height='100%' align='left'/>
+ Fair Trade (with Travis Scott) 
 <br/> 
-SKINS 
+Certified Lover Boy 
 <br/> 
-XXXTENTACION
+Drake
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b2c7b9dc2249201b88e5b954c4457054.jpg" height='100%' align='left'/>
- Black Beatles 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8094bc29edd6d557546a5ff997197ee6.png" height='100%' align='left'/>
+ 90210 (feat. Kacy Hill) 
 <br/> 
-SremmLife 2 (Deluxe) 
+Rodeo 
 <br/> 
-Rae Sremmurd
+Travis Scott
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/b99fa4b5cf3a2cd7974ffd139c7250fc.jpg" height='100%' align='left'/>
- The Box 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4386a469e620103f8436b3e969075959.jpg" height='100%' align='left'/>
+ BUTTERFLY EFFECT 
 <br/> 
-Please Excuse Me for Being Antisocial 
+ASTROWORLD 
 <br/> 
-Roddy Ricch
+Travis Scott
 </div>
 <br clear='all' /><br /> 
 </details>
