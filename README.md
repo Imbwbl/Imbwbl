@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5910caf65c83d83134b336a0b1c219ee36dbef65">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/58d0854f5d409be00e355d64f8db638e559a1ae3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 15 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 16 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app/commit/2667a600d808696fbce3f7f6015bed11138afbdb">🔧 chore: Update frontend/vite.config.ts</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d2e5f9374b3caa052e36e0f223c6cd68.jpg" height='100%' align='left'/>
- Fair Trade (with Travis Scott) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87f50e8a7593ba1e49e7a6cb4bfe2c01.jpg" height='100%' align='left'/>
+ Poster 
 <br/> 
-Certified Lover Boy 
+Muse 
 <br/> 
-Drake
+Dalí
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8094bc29edd6d557546a5ff997197ee6.png" height='100%' align='left'/>
- 90210 (feat. Kacy Hill) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a5661756620d1e353b4164782dd91e2f.jpg" height='100%' align='left'/>
+ Chanel 
 <br/> 
-Rodeo 
+400% 
 <br/> 
-Travis Scott
+Romsii
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4386a469e620103f8436b3e969075959.jpg" height='100%' align='left'/>
- BUTTERFLY EFFECT 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Elle panique (encore) 
 <br/> 
-ASTROWORLD 
+Elle panique (encore) 
 <br/> 
-Travis Scott
+Errel
 </div>
 <br clear='all' /><br /> 
 </details>
