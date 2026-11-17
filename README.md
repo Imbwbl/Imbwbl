@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a8ce61a8c86705b42af614bb91ba852934918b54">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e3542266d813d4d658d94ab2ddb66305558a0972">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 16 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bde9faacddcc9a49757e0daedecaf620.jpg" height='100%' align='left'/>
- GUIZ CORLEONE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1f08b8d0b403cb794dc032ff79ece8f8.jpg" height='100%' align='left'/>
+ Ça fait longtemps qu'j'ai pas vu la mer 
 <br/> 
-La Tanière 
+LOOP 
 <br/> 
-Guizmo
+Jean
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0005590f928164e9cca241617b923300.jpg" height='100%' align='left'/>
- Jour de plus 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dcd07c5c5472d24763f1074f00a67d02.jpg" height='100%' align='left'/>
+ JE M'EN MOQUE EFFECTIVEMENT 
 <br/> 
-ADC 
+IL ME RESSEMBLE PAS NON PLUS 
 <br/> 
-Freeze Corleone
+Khali
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/34be53af4767e0e360901c395b667196.jpg" height='100%' align='left'/>
- Polémique 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/eb4e538602fe24ee34513e9f02c06456.jpg" height='100%' align='left'/>
+ Dessine 
 <br/> 
-Polémique 
+Club 111 
 <br/> 
-Freeze Corleone
+Hunter
 </div>
 <br clear='all' /><br /> 
 </details>
