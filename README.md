@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e3542266d813d4d658d94ab2ddb66305558a0972">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/aae330491cb36491a647d3263f968d63e6a30029">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 16 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 17 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app/commit/2667a600d808696fbce3f7f6015bed11138afbdb">🔧 chore: Update frontend/vite.config.ts</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1f08b8d0b403cb794dc032ff79ece8f8.jpg" height='100%' align='left'/>
- Ça fait longtemps qu'j'ai pas vu la mer 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/33b1ab0892623082f60cce95894cff4a.jpg" height='100%' align='left'/>
+ Lucid Dreams 
 <br/> 
-LOOP 
+Goodbye & Good Riddance 
 <br/> 
-Jean
+Juice WRLD
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dcd07c5c5472d24763f1074f00a67d02.jpg" height='100%' align='left'/>
- JE M'EN MOQUE EFFECTIVEMENT 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/19b94be3c2e7086143751bf53dd5699a.png" height='100%' align='left'/>
+ Whoa (mind in awe) 
 <br/> 
-IL ME RESSEMBLE PAS NON PLUS 
+SKINS 
 <br/> 
-Khali
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/eb4e538602fe24ee34513e9f02c06456.jpg" height='100%' align='left'/>
- Dessine 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/22ab92f46a2c8652c81ec40c5d61a3db.jpg" height='100%' align='left'/>
+ Let's pretend we're numb 
 <br/> 
-Club 111 
+LET'S PRETEND WE'RE NUMB 
 <br/> 
-Hunter
+XXXTENTACION
 </div>
 <br clear='all' /><br /> 
 </details>
