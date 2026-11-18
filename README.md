@@ -9,14 +9,14 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0f0e33209e2ed12ed5a6a92cb2671e345d5d35c1">:memo: update README.md</a></h2>
- <h3>Repo: Imbwbl</h3>
- <h3>Committed on 18 November 2026 by github-actions[bot]</h3>
+ <h2><a href="https://github.com/Imbwbl/murcott/commit/1b01e4e09acd8aea2bd23cca771b18992e0efbe0">📝 docs: Add standalone player UX/UI analysis</a></h2>
+ <h3>Repo: murcott</h3>
+ <h3>Committed on 18 November 2026 by bwbl</h3>
  </div>
 <div>
- <h2><a href="https://github.com/Imbwbl/murcott/commit/90651dc775f7b70684ab0a2c56df266b4aa6c2f7">✨ feat: Add interactive seek bar and volume controls</a></h2>
- <h3>Repo: murcott</h3>
- <h3>Committed on 12 November 2026 by bwbl</h3>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a77b333727ac43210687d2acf1e1503e104dd6c4">:memo: update README.md</a></h2>
+ <h3>Repo: Imbwbl</h3>
+ <h3>Committed on 18 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app/commit/2667a600d808696fbce3f7f6015bed11138afbdb">🔧 chore: Update frontend/vite.config.ts</a></h2>
@@ -32,14 +32,14 @@
     <summary><b> 📦 View My Latest Pushed Project</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
- <h3>Updated on 12 November 2026</h3>
- <h3>stars: 0, forks: 1</h3>
- <h3>language: Rust</h3>
- </div><div>
  <h2><a href="https://github.com/Imbwbl/murcott">murcott</a></h2>
  <h3>Updated on 13 November 2026</h3>
  <h3>stars: 1, forks: 0</h3>
+ <h3>language: Rust</h3>
+ </div><div>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
+ <h3>Updated on 12 November 2026</h3>
+ <h3>stars: 0, forks: 1</h3>
  <h3>language: Rust</h3>
  </div><div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app">cicd-todo-app</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0f6c7e1323f12f50659c072eda4749bd.png" height='100%' align='left'/>
- Falling Down - Bonus Track 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/90b54d4d4658b8215a5fcd3cf00072d7.jpg" height='100%' align='left'/>
+ CHIHIRO 
 <br/> 
-Come Over When You're Sober, Pt. 2 
+HIT ME HARD AND SOFT 
 <br/> 
-Lil Peep
+Billie Eilish
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" height='100%' align='left'/>
- Moonlight 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c4677f99eaef7913ffdf0686f71f3e9.png" height='100%' align='left'/>
+ Tout recommencer (feat. Tessa B) 
 <br/> 
-? 
+Mental 
 <br/> 
-XXXTENTACION
+PLK
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- A Murder Story 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/816159f3f0d93464a0b7ef5b7c2a2ecf.png" height='100%' align='left'/>
+ Messages from the Stars 
 <br/> 
-prometheus 
+Going Up 
 <br/> 
-SPIRIT la ice
+The Rah Band
 </div>
 <br clear='all' /><br /> 
 </details>
