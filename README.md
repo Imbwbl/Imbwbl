@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1dec3cce974d13b6302a2216a327a9b3258382d1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/0f0e33209e2ed12ed5a6a92cb2671e345d5d35c1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 17 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 18 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/murcott/commit/90651dc775f7b70684ab0a2c56df266b4aa6c2f7">✨ feat: Add interactive seek bar and volume controls</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/f777eddafcf0cd472673d0981c857167.jpg" height='100%' align='left'/>
- Serrure #667 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/0f6c7e1323f12f50659c072eda4749bd.png" height='100%' align='left'/>
+ Falling Down - Bonus Track 
 <br/> 
-Numéro d'écrou 
+Come Over When You're Sober, Pt. 2 
 <br/> 
-La Rvfleuze
+Lil Peep
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/350aa4c302e7ab898c12ea2423d9708c.jpg" height='100%' align='left'/>
- Numéro 9 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" height='100%' align='left'/>
+ Moonlight 
 <br/> 
-Kekra 
+? 
 <br/> 
-KEKRA
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1e1f0bcff8ddb1f2f44f8ac6d5f5b168.jpg" height='100%' align='left'/>
- malevil 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ A Murder Story 
 <br/> 
-don dada mixtape vol 1 
+prometheus 
 <br/> 
-Nekfeu
+SPIRIT la ice
 </div>
 <br clear='all' /><br /> 
 </details>
