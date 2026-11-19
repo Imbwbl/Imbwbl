@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f93cde1fb4dc53ec0306b686d3f9ad71104c9911">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/95028e6cd89abe9cc60db7bc4f59c6302475026d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" height='100%' align='left'/>
- Palette 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/69628d7606c8e3916141050c32505a9e.jpg" height='100%' align='left'/>
+ What Was I Made For? [From the Motion Picture "Barbie"] 
 <br/> 
-Les mains faites pour l'or 
+What Was I Made For? [From the Motion Picture "Barbie"] 
 <br/> 
-Naps
+Billie Eilish
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
- Oasis pétou 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ed1e44faf5c30a549554da7115492d05.jpg" height='100%' align='left'/>
+ Jacob and the Stone 
 <br/> 
-Oasis pétou 
+Minari (Original Motion Picture Soundtrack) 
 <br/> 
-Naps
+Emile Mosseri
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
- 9 Milli 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9ba5a49b7e22af6cfa0fe771150f5553.jpg" height='100%' align='left'/>
+ Elles ont trop joué avec mon coeur 
 <br/> 
-À l'instinct 
+VI République (Version finale) 
 <br/> 
-Naps
+Jok'Air
 </div>
 <br clear='all' /><br /> 
 </details>
