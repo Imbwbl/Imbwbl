@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/95028e6cd89abe9cc60db7bc4f59c6302475026d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8c2ab2dd6f71586338a72f3b533c629c916c5cb1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/69628d7606c8e3916141050c32505a9e.jpg" height='100%' align='left'/>
- What Was I Made For? [From the Motion Picture "Barbie"] 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/553678d27570452839aec0fd0cdadd63.png" height='100%' align='left'/>
+ Pink Matter 
 <br/> 
-What Was I Made For? [From the Motion Picture "Barbie"] 
+channel ORANGE 
 <br/> 
-Billie Eilish
+Frank Ocean
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/ed1e44faf5c30a549554da7115492d05.jpg" height='100%' align='left'/>
- Jacob and the Stone 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg" height='100%' align='left'/>
+ Lovers Rock 
 <br/> 
-Minari (Original Motion Picture Soundtrack) 
+French Exit 
 <br/> 
-Emile Mosseri
+TV Girl
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9ba5a49b7e22af6cfa0fe771150f5553.jpg" height='100%' align='left'/>
- Elles ont trop joué avec mon coeur 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/cd8c5ce4dad43c822c00dec987d295ca.jpg" height='100%' align='left'/>
+ God is a woman 
 <br/> 
-VI République (Version finale) 
+Sweetener 
 <br/> 
-Jok'Air
+Ariana Grande
 </div>
 <br clear='all' /><br /> 
 </details>
