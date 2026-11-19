@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/da8bac78843bc56f41a70f1b2da3a2f6417905e4">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/f93cde1fb4dc53ec0306b686d3f9ad71104c9911">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 18 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 19 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/murcott/commit/1b01e4e09acd8aea2bd23cca771b18992e0efbe0">📝 docs: Add standalone player UX/UI analysis</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/272a134d1976b2647b40bf599e507751.jpg" height='100%' align='left'/>
- 6.3 
-<br/> 
-Carré VIP 
-<br/> 
-Naps
-</div>
-<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" height='100%' align='left'/>
- La kiffance 
+ Palette 
 <br/> 
 Les mains faites pour l'or 
 <br/> 
 Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bfda02610d465251480eddf51550f5b3.jpg" height='100%' align='left'/>
- Reflections 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Oasis pétou 
 <br/> 
-Hard to Imagine the Neighbourhood Ever Changing 
+Oasis pétou 
 <br/> 
-The Neighbourhood
+Naps
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
+ 9 Milli 
+<br/> 
+À l'instinct 
+<br/> 
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
