@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8c2ab2dd6f71586338a72f3b533c629c916c5cb1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/304b3513ec4cbd2f93f6923df2050dd23e49bfa4">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 19 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/553678d27570452839aec0fd0cdadd63.png" height='100%' align='left'/>
- Pink Matter 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8c0b389bb4cbf522bc5a2b58e15b6620.jpg" height='100%' align='left'/>
+ Balloon (feat. Doechii) 
 <br/> 
-channel ORANGE 
+Chromakopia 
 <br/> 
-Frank Ocean
+Tyler, The Creator
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4f091d5082e04691c6d7f4b2e2efbdc0.jpg" height='100%' align='left'/>
- Lovers Rock 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/803d0e79b4217b9690a93e9369c3225d.jpg" height='100%' align='left'/>
+ The Winner Is... - DeVotchKa Version 
 <br/> 
-French Exit 
+The Winner Is... (DeVotchKa Version) 
 <br/> 
-TV Girl
+DeVotchKa
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/cd8c5ce4dad43c822c00dec987d295ca.jpg" height='100%' align='left'/>
- God is a woman 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e150fa362c89b8f1d92d883ae828b7ef.jpg" height='100%' align='left'/>
+ ARE WE STILL FRIENDS? 
 <br/> 
-Sweetener 
+IGOR 
 <br/> 
-Ariana Grande
+Tyler, The Creator
 </div>
 <br clear='all' /><br /> 
 </details>
