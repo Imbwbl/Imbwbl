@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6cd2ac1a21dadaf89d33600b25324dfc3681ccf1">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2fcfb4e39ba951b0a6ece317528993c4a8771107">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 20 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 21 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app/commit/824a72c8aa7739d6ea11e061322023768e8d7f73">🔒️ fix: Resolve frontend npm audit vulnerabilities</a></h2>
@@ -75,20 +75,20 @@ Double Impact
 Absolem
 </div>
 <br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
+ Revenants 
+<br/> 
+Double Impact 
+<br/> 
+Absolem
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8759ec6acc8deeffa718c9b08bc9832a.png" height='100%' align='left'/>
  F*ck le mainstream 
 <br/> 
 Drôle d'oiseau 
 <br/> 
 Isha
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
- L'enfant seul - Remasterisé 
-<br/> 
-Opéra Puccino (Edition Collector) 
-<br/> 
-Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
