@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/2fcfb4e39ba951b0a6ece317528993c4a8771107">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e9ebc8be6baf9ca6b3f9fd3483e0bb798bf5836d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
- Revenants 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/2a96cbd8b46e442fc41c2b86b821562f.png" height='100%' align='left'/>
+ Oasis pétou 
 <br/> 
-Double Impact 
+Oasis pétou 
 <br/> 
-Absolem
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
- Revenants 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
+ 9 Milli 
 <br/> 
-Double Impact 
+À l'instinct 
 <br/> 
-Absolem
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8759ec6acc8deeffa718c9b08bc9832a.png" height='100%' align='left'/>
- F*ck le mainstream 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/5d631aa33e0abdc431ecafb78ec6ebd4.jpg" height='100%' align='left'/>
+ Palette 
 <br/> 
-Drôle d'oiseau 
+Les mains faites pour l'or 
 <br/> 
-Isha
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
