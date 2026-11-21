@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fc22872a283cb18cf18ccd12ea82d7482cdffb69">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/6cd2ac1a21dadaf89d33600b25324dfc3681ccf1">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 20 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/480663ec8bb86e6acbc0713400c1bb3c.png" height='100%' align='left'/>
- Stay With Me 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/88a77e8a4257d412b4040d6e33e8501f.jpg" height='100%' align='left'/>
+ Revenants 
 <br/> 
-Stay With Me 
+Double Impact 
 <br/> 
-1NONLY
+Absolem
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Don't Speak 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/8759ec6acc8deeffa718c9b08bc9832a.png" height='100%' align='left'/>
+ F*ck le mainstream 
 <br/> 
-Tragic Kingdom 
+Drôle d'oiseau 
 <br/> 
-No Doubt
+Isha
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04797853e460d46e290e68d652ef1f6a.jpg" height='100%' align='left'/>
- Just a Girl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6656efe0c7d0fa6cff335105ea64ad8a.jpg" height='100%' align='left'/>
+ L'enfant seul - Remasterisé 
 <br/> 
-Tragic Kingdom 
+Opéra Puccino (Edition Collector) 
 <br/> 
-No Doubt
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
