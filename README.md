@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a9b4080138a86174e7ea7f86df99d0202d49a34f">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/053aea1c4dc9233f04feea0a312966f1568cbe90">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 21 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 22 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app/commit/824a72c8aa7739d6ea11e061322023768e8d7f73">🔒️ fix: Resolve frontend npm audit vulnerabilities</a></h2>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" height='100%' align='left'/>
- dope 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bb79dde762de3dc3e1ea8f3cca6dc74f.png" height='100%' align='left'/>
+ Cléopâtre 
 <br/> 
-LA FIEV 
-<br/> 
-Mairo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
- nouvelle écriture 
-<br/> 
-omar chappier 
+Cléopâtre 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87f5a25c6aab7cf8a9dfb02c842c4a8d.jpg" height='100%' align='left'/>
- Fast Learner 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ LOUP D'MER 
 <br/> 
-La solution 
+BLISS 
+<br/> 
+Mairo
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ ALBA BISTRO FREESTYLE 
+<br/> 
+BLISS 
 <br/> 
 Mairo
 </div>
