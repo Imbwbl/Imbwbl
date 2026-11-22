@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8f0dc7a4847a4f2e1c333b9e07e15efe070069d5">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/a9b4080138a86174e7ea7f86df99d0202d49a34f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 21 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,26 +67,26 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6168a416f3365326ff9cbfc7d5b05548.jpg" height='100%' align='left'/>
+ dope 
+<br/> 
+LA FIEV 
+<br/> 
+Mairo
+</div>
+<br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
- merci bonne journée 
+ nouvelle écriture 
 <br/> 
 omar chappier 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- ERA 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/87f5a25c6aab7cf8a9dfb02c842c4a8d.jpg" height='100%' align='left'/>
+ Fast Learner 
 <br/> 
-BLISS 
-<br/> 
-Mairo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6f6a0582c019fe89432df4333de5c333.jpg" height='100%' align='left'/>
- eritriste 
-<br/> 
-Rougemort 
+La solution 
 <br/> 
 Mairo
 </div>
