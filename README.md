@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/32028e88491604f6301cb6f8a4dae895a861754d">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bd9c4ec9ffb0a4656465d8b075948bb767bcedd3">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/140f5bce84722a17377043cb17fe5a79.jpg" height='100%' align='left'/>
- madras 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ SECOND SOUFFLE 
 <br/> 
-95 monde libre 
+BLISS 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a6302104dae5caebd42d3a50e42841c0.jpg" height='100%' align='left'/>
- 8AM 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ PARC DES SOURDS 
 <br/> 
-QUI A VOLÉ LE SOLEIL ? 
+BLISS 
 <br/> 
-Slimka
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3a317e855ba0ffea2df1a1120409fc8.jpg" height='100%' align='left'/>
- V'la le second 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
+ ANTIOXYDANT 
 <br/> 
-LAFIYA SESSIONS 
+BLISS 
 <br/> 
-Oxmo Puccino
+Mairo
 </div>
 <br clear='all' /><br /> 
 </details>
