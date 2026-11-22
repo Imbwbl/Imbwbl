@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/053aea1c4dc9233f04feea0a312966f1568cbe90">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/32028e88491604f6301cb6f8a4dae895a861754d">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bb79dde762de3dc3e1ea8f3cca6dc74f.png" height='100%' align='left'/>
- Cléopâtre 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/140f5bce84722a17377043cb17fe5a79.jpg" height='100%' align='left'/>
+ madras 
 <br/> 
-Cléopâtre 
-<br/> 
-Mairo
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- LOUP D'MER 
-<br/> 
-BLISS 
+95 monde libre 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- ALBA BISTRO FREESTYLE 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a6302104dae5caebd42d3a50e42841c0.jpg" height='100%' align='left'/>
+ 8AM 
 <br/> 
-BLISS 
+QUI A VOLÉ LE SOLEIL ? 
 <br/> 
-Mairo
+Slimka
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/e3a317e855ba0ffea2df1a1120409fc8.jpg" height='100%' align='left'/>
+ V'la le second 
+<br/> 
+LAFIYA SESSIONS 
+<br/> 
+Oxmo Puccino
 </div>
 <br clear='all' /><br /> 
 </details>
