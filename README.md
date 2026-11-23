@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b673a898ec58e586c6816753274928b0f5fdd1f2">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/901f8983adfe767fc98ea776dae7da72fb7e6cee">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 22 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 23 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app/commit/824a72c8aa7739d6ea11e061322023768e8d7f73">🔒️ fix: Resolve frontend npm audit vulnerabilities</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- ERA 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/19b94be3c2e7086143751bf53dd5699a.png" height='100%' align='left'/>
+ Whoa (mind in awe) 
 <br/> 
-BLISS 
+SKINS 
 <br/> 
-Mairo
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- SATO 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/22ab92f46a2c8652c81ec40c5d61a3db.jpg" height='100%' align='left'/>
+ Let's pretend we're numb 
 <br/> 
-BLISS 
+LET'S PRETEND WE'RE NUMB 
 <br/> 
-Mairo
+XXXTENTACION
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bb79dde762de3dc3e1ea8f3cca6dc74f.png" height='100%' align='left'/>
- Cléopâtre 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" height='100%' align='left'/>
+ changes 
 <br/> 
-Cléopâtre 
+? 
 <br/> 
-Mairo
+XXXTENTACION
 </div>
 <br clear='all' /><br /> 
 </details>
