@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/bd9c4ec9ffb0a4656465d8b075948bb767bcedd3">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b673a898ec58e586c6816753274928b0f5fdd1f2">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 22 November 2026 by github-actions[bot]</h3>
  </div>
@@ -68,7 +68,7 @@
     <br />
     <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- SECOND SOUFFLE 
+ ERA 
 <br/> 
 BLISS 
 <br/> 
@@ -76,17 +76,17 @@ Mairo
 </div>
 <br clear='all' /><br /> <div>
 <img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- PARC DES SOURDS 
+ SATO 
 <br/> 
 BLISS 
 <br/> 
 Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/9a4d3bea9fb7100131a2613ad68cee14.jpg" height='100%' align='left'/>
- ANTIOXYDANT 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/bb79dde762de3dc3e1ea8f3cca6dc74f.png" height='100%' align='left'/>
+ Cléopâtre 
 <br/> 
-BLISS 
+Cléopâtre 
 <br/> 
 Mairo
 </div>
