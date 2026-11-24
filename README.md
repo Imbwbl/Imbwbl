@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b807936ab883d1b4bddb143fae8f9e88f27145bc">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e457550718d62c998a770b075a710eac1fbb0f02">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 23 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 24 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app/commit/824a72c8aa7739d6ea11e061322023768e8d7f73">🔒️ fix: Resolve frontend npm audit vulnerabilities</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" height='100%' align='left'/>
- 1 SUR 2 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
+ Polo kenzo 
 <br/> 
-ÉPILOGUE 
+On est fait pour ça 
 <br/> 
-Bu$hi
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acb36aaf19af99887b823c8263525db9.jpg" height='100%' align='left'/>
- Réflexions basses 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
+ Ma Bella 
 <br/> 
-XEU 
+À l'instinct 
 <br/> 
-Vald
+Naps
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/62e4b5e3a6bcaba85336d8cfc6147602.jpg" height='100%' align='left'/>
- Freeze Raël 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/16e3139cc84090bc408a149f9a1ac112.jpg" height='100%' align='left'/>
+ A QUOI TU JOUES 
 <br/> 
-LMF 
+Mec de cité simple 
 <br/> 
-Freeze Corleone
+Naps
 </div>
 <br clear='all' /><br /> 
 </details>
