@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/901f8983adfe767fc98ea776dae7da72fb7e6cee">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/b807936ab883d1b4bddb143fae8f9e88f27145bc">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 23 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/19b94be3c2e7086143751bf53dd5699a.png" height='100%' align='left'/>
- Whoa (mind in awe) 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1ba63a5ab3780c20931737a9be3c9a21.jpg" height='100%' align='left'/>
+ 1 SUR 2 
 <br/> 
-SKINS 
+ÉPILOGUE 
 <br/> 
-XXXTENTACION
+Bu$hi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/22ab92f46a2c8652c81ec40c5d61a3db.jpg" height='100%' align='left'/>
- Let's pretend we're numb 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acb36aaf19af99887b823c8263525db9.jpg" height='100%' align='left'/>
+ Réflexions basses 
 <br/> 
-LET'S PRETEND WE'RE NUMB 
+XEU 
 <br/> 
-XXXTENTACION
+Vald
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/44256a0e77e7c3022be226b69d1f3c2e.jpg" height='100%' align='left'/>
- changes 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/62e4b5e3a6bcaba85336d8cfc6147602.jpg" height='100%' align='left'/>
+ Freeze Raël 
 <br/> 
-? 
+LMF 
 <br/> 
-XXXTENTACION
+Freeze Corleone
 </div>
 <br clear='all' /><br /> 
 </details>
