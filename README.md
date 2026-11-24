@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/e457550718d62c998a770b075a710eac1fbb0f02">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dcb0f87c992bb70b4e545e1d582c34d76ad246ad">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 24 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a0774f3002e35c15effd4b842d1c1aae.jpg" height='100%' align='left'/>
- Polo kenzo 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d2b7131dd90414927ddfed5c23335ed2.jpg" height='100%' align='left'/>
+ T'as capté 
 <br/> 
-On est fait pour ça 
+Etat d'esprit 
 <br/> 
-Naps
+S.Pri Noir
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/1c00b388a4e93bde3771e8f7e2384303.jpg" height='100%' align='left'/>
- Ma Bella 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/682a5158322e9f6915dcadea65a63675.jpg" height='100%' align='left'/>
+ 99 en peuf 
 <br/> 
-À l'instinct 
+Solide 
 <br/> 
-Naps
+Kyo Itachi
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/16e3139cc84090bc408a149f9a1ac112.jpg" height='100%' align='left'/>
- A QUOI TU JOUES 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" height='100%' align='left'/>
+ Saint-Domingue 
 <br/> 
-Mec de cité simple 
+Alph Lauren 3 
 <br/> 
-Naps
+Alpha Wann
 </div>
 <br clear='all' /><br /> 
 </details>
