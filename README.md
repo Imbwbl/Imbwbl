@@ -9,12 +9,12 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/murcott/commit/3b88ee8b3228bd23555f8d0a5485500572e0d043">♻️ refactor: Split main.rs into song and ui modules</a></h2>
+ <h2><a href="https://github.com/Imbwbl/murcott/commit/2576c00dce080dc196d4cbbb78c7621c0a528466">⚡️ perf: Load songs once at startup in MurcottApp</a></h2>
  <h3>Repo: murcott</h3>
  <h3>Committed on 25 November 2026 by bwbl</h3>
  </div>
 <div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d1490ea188b9091e9efd0d304a9ee7b136734648">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/ae4515693d1b22998b37a1475fee8d35bf627f2a">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 25 November 2026 by github-actions[bot]</h3>
  </div>
@@ -66,29 +66,5 @@
 <details>
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
-    <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dff3c4cd53047a23e9cd37c002b1407f.png" height='100%' align='left'/>
- Il existe un endroit 
-<br/> 
-Plus fort. 
-<br/> 
-Bekar
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/728fc84ca69df2ebc26780ea2550b160.png" height='100%' align='left'/>
- Noir pour demain 
-<br/> 
-Alba, l'heure bleue 
-<br/> 
-Bekar
-</div>
-<br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" height='100%' align='left'/>
- Peintures rupestres 
-<br/> 
-Cognacs & Cigarettes 
-<br/> 
-Jungle Jack
-</div>
-<br clear='all' /><br /> 
+    
 </details>
