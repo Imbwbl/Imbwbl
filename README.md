@@ -9,19 +9,19 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1d4cea2842900080511b9ac39cf6b31a053ad1e9">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/murcott/commit/3b88ee8b3228bd23555f8d0a5485500572e0d043">♻️ refactor: Split main.rs into song and ui modules</a></h2>
+ <h3>Repo: murcott</h3>
+ <h3>Committed on 25 November 2026 by bwbl</h3>
+ </div>
+<div>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/d1490ea188b9091e9efd0d304a9ee7b136734648">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 24 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 25 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Gillian-LHorset/cicd-todo-app/commit/824a72c8aa7739d6ea11e061322023768e8d7f73">🔒️ fix: Resolve frontend npm audit vulnerabilities</a></h2>
  <h3>Repo: cicd-todo-app</h3>
  <h3>Committed on 20 November 2026 by bwbl</h3>
- </div>
-<div>
- <h2><a href="https://github.com/Imbwbl/murcott/commit/1b01e4e09acd8aea2bd23cca771b18992e0efbe0">📝 docs: Add standalone player UX/UI analysis</a></h2>
- <h3>Repo: murcott</h3>
- <h3>Committed on 18 November 2026 by bwbl</h3>
  </div>
 </div>
 </details>
@@ -32,6 +32,11 @@
     <summary><b> 📦 View My Latest Pushed Project</b></summary>
     <br />
     <div align="center"><div>
+ <h2><a href="https://github.com/Imbwbl/murcott">murcott</a></h2>
+ <h3>Updated on 13 November 2026</h3>
+ <h3>stars: 1, forks: 0</h3>
+ <h3>language: Rust</h3>
+ </div><div>
  <h2><a href="https://github.com/Imbwbl/Imbwbl">Imbwbl</a></h2>
  <h3>Updated on 12 November 2026</h3>
  <h3>stars: 0, forks: 1</h3>
@@ -41,11 +46,6 @@
  <h3>Updated on 13 November 2026</h3>
  <h3>stars: 0, forks: 0</h3>
  <h3>language: Vue</h3>
- </div><div>
- <h2><a href="https://github.com/Imbwbl/murcott">murcott</a></h2>
- <h3>Updated on 13 November 2026</h3>
- <h3>stars: 1, forks: 0</h3>
- <h3>language: Rust</h3>
  </div></div>
 </details>
 
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/065776ae06714e6e8a5bc10657523115.jpg" height='100%' align='left'/>
- Coma artificiel 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/dff3c4cd53047a23e9cd37c002b1407f.png" height='100%' align='left'/>
+ Il existe un endroit 
 <br/> 
-Fenêtre sur rue 
+Plus fort. 
 <br/> 
-Hugo TSR
+Bekar
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94e7efe7f49a4ff39bc7ef27bc9f5909.jpg" height='100%' align='left'/>
- Mauvais 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/728fc84ca69df2ebc26780ea2550b160.png" height='100%' align='left'/>
+ Noir pour demain 
 <br/> 
-Horizon vertical 
+Alba, l'heure bleue 
 <br/> 
-Heuss L'enfoiré
+Bekar
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a087b22f53e0bf893c2d32cc84380062.jpg" height='100%' align='left'/>
- Cigarette 2 haine 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/704eda4b65d235d43c4b4b63b3fca56b.png" height='100%' align='left'/>
+ Peintures rupestres 
 <br/> 
-Ma vie est un film II 
+Cognacs & Cigarettes 
 <br/> 
-Infinit'
+Jungle Jack
 </div>
 <br clear='all' /><br /> 
 </details>
