@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/dcb0f87c992bb70b4e545e1d582c34d76ad246ad">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1d4cea2842900080511b9ac39cf6b31a053ad1e9">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 24 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/d2b7131dd90414927ddfed5c23335ed2.jpg" height='100%' align='left'/>
- T'as capté 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/065776ae06714e6e8a5bc10657523115.jpg" height='100%' align='left'/>
+ Coma artificiel 
 <br/> 
-Etat d'esprit 
+Fenêtre sur rue 
 <br/> 
-S.Pri Noir
+Hugo TSR
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/682a5158322e9f6915dcadea65a63675.jpg" height='100%' align='left'/>
- 99 en peuf 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/94e7efe7f49a4ff39bc7ef27bc9f5909.jpg" height='100%' align='left'/>
+ Mauvais 
 <br/> 
-Solide 
+Horizon vertical 
 <br/> 
-Kyo Itachi
+Heuss L'enfoiré
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/de0f51b75fb62542034141e77a69db1d.jpg" height='100%' align='left'/>
- Saint-Domingue 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a087b22f53e0bf893c2d32cc84380062.jpg" height='100%' align='left'/>
+ Cigarette 2 haine 
 <br/> 
-Alph Lauren 3 
+Ma vie est un film II 
 <br/> 
-Alpha Wann
+Infinit'
 </div>
 <br clear='all' /><br /> 
 </details>
