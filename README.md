@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/5101eb62ca93624e0910f7a40b6220adb0e376ea">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/8be42c7dd4491aaafa6f2fba5ff5121f45c72b55">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 25 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 26 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/murcott/commit/2576c00dce080dc196d4cbbb78c7621c0a528466">⚡️ perf: Load songs once at startup in MurcottApp</a></h2>
@@ -66,5 +66,29 @@
 <details>
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
-    
+    <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/29dddfcc57eab54dfb57fa6c511cc6e9.jpg" height='100%' align='left'/>
+ ABYSSES 
+<br/> 
+MAGNIFICAT 
+<br/> 
+Vald
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/acb36aaf19af99887b823c8263525db9.jpg" height='100%' align='left'/>
+ Désaccordé 
+<br/> 
+XEU 
+<br/> 
+Vald
+</div>
+<br clear='all' /><br /> <div>
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/29431a497f1a7440d80e28e0db06202d.jpg" height='100%' align='left'/>
+ PROZACZOPIXAN RELOADED 
+<br/> 
+PANDEMONIUM RELOADED 
+<br/> 
+Vald
+</div>
+<br clear='all' /><br /> 
 </details>
