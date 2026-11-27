@@ -9,9 +9,9 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/fc4c9dd488cf188337c1465f2c80c81b009c6cee">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/703965a100fd8d4fc155bd22785a9c52eabe7822">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
- <h3>Committed on 26 November 2026 by github-actions[bot]</h3>
+ <h3>Committed on 27 November 2026 by github-actions[bot]</h3>
  </div>
 <div>
  <h2><a href="https://github.com/Imbwbl/murcott/commit/2576c00dce080dc196d4cbbb78c7621c0a528466">⚡️ perf: Load songs once at startup in MurcottApp</a></h2>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/6694ff91e969089971791a8692dc8bf3.jpg" height='100%' align='left'/>
- BabyGirl 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
+ 2 jackets 
 <br/> 
-Split 
+omar chappier 
 <br/> 
-Josman
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/04512b77b418c11cb4f59645533824c5.jpg" height='100%' align='left'/>
- Dans le vide 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
+ crack crack 
 <br/> 
-Matrix 
+omar chappier 
 <br/> 
-Josman
+Mairo
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/a81d4904dd1a81fc98731494e288bfe5.jpg" height='100%' align='left'/>
- J'AIME BIEN! 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
+ la mouche 
 <br/> 
-J.O.$ 
+omar chappier 
 <br/> 
-Josman
+Mairo
 </div>
 <br clear='all' /><br /> 
 </details>
