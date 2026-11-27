@@ -9,7 +9,7 @@
     <summary><b> ⚡ View My Latest Commits</b></summary>
     <br />
     <div align="center"><div>
- <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/703965a100fd8d4fc155bd22785a9c52eabe7822">:memo: update README.md</a></h2>
+ <h2><a href="https://github.com/Imbwbl/Imbwbl/commit/1010c0f3a65e632bd561d5ec002f08f2fcdf135f">:memo: update README.md</a></h2>
  <h3>Repo: Imbwbl</h3>
  <h3>Committed on 27 November 2026 by github-actions[bot]</h3>
  </div>
@@ -67,28 +67,28 @@
     <summary><b> 🎧 Recently Played Music</b></summary>
     <br />
     <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
- 2 jackets 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4093b1ea93669d485db49a39508414d2.jpg" height='100%' align='left'/>
+ Vacheron Constantin 
 <br/> 
-omar chappier 
+Grünt #78 
 <br/> 
-Mairo
+Caballero
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
- crack crack 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4093b1ea93669d485db49a39508414d2.jpg" height='100%' align='left'/>
+ Lait d'avoine 
 <br/> 
-omar chappier 
+Grünt #78 
 <br/> 
-Mairo
+Caballero
 </div>
 <br clear='all' /><br /> <div>
-<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/da2ca0d8995dfb08c24b13af6d750163.jpg" height='100%' align='left'/>
- la mouche 
+<img src="https://lastfm-img.freetls.fastly.net/i/u/174s/4093b1ea93669d485db49a39508414d2.jpg" height='100%' align='left'/>
+ Cassiopée 
 <br/> 
-omar chappier 
+Grünt #78 
 <br/> 
-Mairo
+Caballero
 </div>
 <br clear='all' /><br /> 
 </details>
